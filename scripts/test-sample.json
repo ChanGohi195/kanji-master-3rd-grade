@@ -1,0 +1,32 @@
+[
+  {
+    "kanjiId": "U+5F15",
+    "character": "引",
+    "newExamples": [
+      {
+        "id": "U+5F15-ex-3",
+        "sentence": "つなを 引く。",
+        "reading": "ひく",
+        "type": "kun",
+        "sentenceWithRuby": "つなを 引く。",
+        "sentenceHiragana": "つなを ひく。"
+      },
+      {
+        "id": "U+5F15-ex-4",
+        "sentence": "糸を 引く。",
+        "reading": "ひく",
+        "type": "kun",
+        "sentenceWithRuby": "糸[いと]を 引く。",
+        "sentenceHiragana": "いとを ひく。"
+      },
+      {
+        "id": "U+5F15-ex-5",
+        "sentence": "引き出しに しまう。",
+        "reading": "ひき",
+        "type": "kun",
+        "sentenceWithRuby": "引き出[だ]しに しまう。",
+        "sentenceHiragana": "ひきだしに しまう。"
+      }
+    ]
+  }
+]

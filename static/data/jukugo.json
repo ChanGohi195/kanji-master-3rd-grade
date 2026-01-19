@@ -1,0 +1,17 @@
+[
+  {
+    "kanjiId": "U+60AA",
+    "character": "悪",
+    "jukugo": [
+      {
+        "id": "U+60AA-j-1",
+        "word": "悪人",
+        "reading": "あくにん",
+        "meaning": "わるい人",
+        "components": ["悪", "人"],
+        "sentence": "昔ばなしには 悪人が 出てくる。",
+        "sentenceHiragana": "むかしばなしには あくにんが でてくる。"
+      }
+    ]
+  }
+]

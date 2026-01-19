@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+4E38",
+    "character": "丸",
+    "newExamples": [
+      {
+        "id": "U+4E38-ex-3",
+        "sentence": "丸い ボール。",
+        "reading": "まる",
+        "type": "kun",
+        "sentenceWithRuby": "丸い ボール。",
+        "sentenceHiragana": "まるい ボール。"
+      },
+      {
+        "id": "U+4E38-ex-4",
+        "sentence": "丸を かく。",
+        "reading": "まる",
+        "type": "kun",
+        "sentenceWithRuby": "丸を かく。",
+        "sentenceHiragana": "まるを かく。"
+      },
+      {
+        "id": "U+4E38-ex-5",
+        "sentence": "丸い おさらに のせる。",
+        "reading": "まる",
+        "type": "kun",
+        "sentenceWithRuby": "丸い おさらに のせる。",
+        "sentenceHiragana": "まるい おさらに のせる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5CA9",
+    "character": "岩",
+    "newExamples": [
+      {
+        "id": "U+5CA9-ex-3",
+        "sentence": "大きな 岩が ある。",
+        "reading": "いわ",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 岩が ある。",
+        "sentenceHiragana": "おおきな いわが ある。"
+      },
+      {
+        "id": "U+5CA9-ex-4",
+        "sentence": "岩に のぼる。",
+        "reading": "いわ",
+        "type": "kun",
+        "sentenceWithRuby": "岩に のぼる。",
+        "sentenceHiragana": "いわに のぼる。"
+      },
+      {
+        "id": "U+5CA9-ex-5",
+        "sentence": "岩の うえに すわる。",
+        "reading": "いわ",
+        "type": "kun",
+        "sentenceWithRuby": "岩の うえに すわる。",
+        "sentenceHiragana": "いわの うえに すわる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9854",
+    "character": "顔",
+    "newExamples": [
+      {
+        "id": "U+9854-ex-3",
+        "sentence": "顔を あらう。",
+        "reading": "かお",
+        "type": "kun",
+        "sentenceWithRuby": "顔を あらう。",
+        "sentenceHiragana": "かおを あらう。"
+      },
+      {
+        "id": "U+9854-ex-4",
+        "sentence": "にこにこの 顔。",
+        "reading": "かお",
+        "type": "kun",
+        "sentenceWithRuby": "にこにこの 顔。",
+        "sentenceHiragana": "にこにこの かお。"
+      },
+      {
+        "id": "U+9854-ex-5",
+        "sentence": "顔が あかい。",
+        "reading": "かお",
+        "type": "kun",
+        "sentenceWithRuby": "顔が あかい。",
+        "sentenceHiragana": "かおが あかい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6C7D",
+    "character": "汽",
+    "newExamples": [
+      {
+        "id": "U+6C7D-ex-3",
+        "sentence": "汽車に のる。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "汽車に のる。",
+        "sentenceHiragana": "き車に のる。"
+      },
+      {
+        "id": "U+6C7D-ex-4",
+        "sentence": "汽しゃは はやい。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "汽しゃは はやい。",
+        "sentenceHiragana": "きしゃは はやい。"
+      },
+      {
+        "id": "U+6C7D-ex-5",
+        "sentence": "汽ぶえが なる。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "汽ぶえが なる。",
+        "sentenceHiragana": "きぶえが なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8A18",
+    "character": "記",
+    "newExamples": [
+      {
+        "id": "U+8A18-ex-3",
+        "sentence": "日記を かく。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "日記を かく。",
+        "sentenceHiragana": "日きを かく。"
+      },
+      {
+        "id": "U+8A18-ex-4",
+        "sentence": "記ろくする。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "記ろくする。",
+        "sentenceHiragana": "きろくする。"
+      },
+      {
+        "id": "U+8A18-ex-5",
+        "sentence": "記ねんの しゃしん。",
+        "reading": "き",
+        "type": "on",
+        "sentenceWithRuby": "記ねんの しゃしん。",
+        "sentenceHiragana": "きねんの しゃしん。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5E30",
+    "character": "帰",
+    "newExamples": [
+      {
+        "id": "U+5E30-ex-3",
+        "sentence": "いえに 帰る。",
+        "reading": "かえる",
+        "type": "kun",
+        "sentenceWithRuby": "いえに 帰る。",
+        "sentenceHiragana": "いえに かえる。"
+      },
+      {
+        "id": "U+5E30-ex-4",
+        "sentence": "帰り道。",
+        "reading": "かえ",
+        "type": "kun",
+        "sentenceWithRuby": "帰り道。",
+        "sentenceHiragana": "かえり道。"
+      },
+      {
+        "id": "U+5E30-ex-5",
+        "sentence": "はやく 帰る。",
+        "reading": "かえる",
+        "type": "kun",
+        "sentenceWithRuby": "はやく 帰る。",
+        "sentenceHiragana": "はやく かえる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5F13",
+    "character": "弓",
+    "newExamples": [
+      {
+        "id": "U+5F13-ex-3",
+        "sentence": "弓を ひく。",
+        "reading": "ゆみ",
+        "type": "kun",
+        "sentenceWithRuby": "弓を ひく。",
+        "sentenceHiragana": "ゆみを ひく。"
+      },
+      {
+        "id": "U+5F13-ex-4",
+        "sentence": "大きな 弓。",
+        "reading": "ゆみ",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 弓。",
+        "sentenceHiragana": "おおきな ゆみ。"
+      },
+      {
+        "id": "U+5F13-ex-5",
+        "sentence": "弓で やを うつ。",
+        "reading": "ゆみ",
+        "type": "kun",
+        "sentenceWithRuby": "弓で やを うつ。",
+        "sentenceHiragana": "ゆみで やを うつ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+725B",
+    "character": "牛",
+    "newExamples": [
+      {
+        "id": "U+725B-ex-3",
+        "sentence": "牛が いる。",
+        "reading": "うし",
+        "type": "kun",
+        "sentenceWithRuby": "牛が いる。",
+        "sentenceHiragana": "うしが いる。"
+      },
+      {
+        "id": "U+725B-ex-4",
+        "sentence": "牛にゅうを のむ。",
+        "reading": "ぎゅう",
+        "type": "on",
+        "sentenceWithRuby": "牛にゅうを のむ。",
+        "sentenceHiragana": "ぎゅうにゅうを のむ。"
+      },
+      {
+        "id": "U+725B-ex-5",
+        "sentence": "牛を みる。",
+        "reading": "うし",
+        "type": "kun",
+        "sentenceWithRuby": "牛を みる。",
+        "sentenceHiragana": "うしを みる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9B5A",
+    "character": "魚",
+    "newExamples": [
+      {
+        "id": "U+9B5A-ex-3",
+        "sentence": "魚を つる。",
+        "reading": "さかな",
+        "type": "kun",
+        "sentenceWithRuby": "魚を つる。",
+        "sentenceHiragana": "さかなを つる。"
+      },
+      {
+        "id": "U+9B5A-ex-4",
+        "sentence": "大きな 魚。",
+        "reading": "さかな",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 魚。",
+        "sentenceHiragana": "おおきな さかな。"
+      },
+      {
+        "id": "U+9B5A-ex-5",
+        "sentence": "金魚が およぐ。",
+        "reading": "ぎょ",
+        "type": "on",
+        "sentenceWithRuby": "金魚が およぐ。",
+        "sentenceHiragana": "きんぎょが およぐ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4EAC",
+    "character": "京",
+    "newExamples": [
+      {
+        "id": "U+4EAC-ex-3",
+        "sentence": "東京に いく。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "東[とう]京に いく。",
+        "sentenceHiragana": "とうきょうに いく。"
+      },
+      {
+        "id": "U+4EAC-ex-4",
+        "sentence": "京とに すむ。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "京とに すむ。",
+        "sentenceHiragana": "きょうとに すむ。"
+      },
+      {
+        "id": "U+4EAC-ex-5",
+        "sentence": "上京する。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "上[じょう]京する。",
+        "sentenceHiragana": "じょうきょうする。"
+      }
+    ]
+  }
+]

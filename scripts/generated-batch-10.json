@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+661F",
+    "character": "星",
+    "newExamples": [
+      {
+        "id": "U+661F-ex-3",
+        "sentence": "きれいな 星。",
+        "reading": "ほし",
+        "type": "kun",
+        "sentenceWithRuby": "きれいな 星。",
+        "sentenceHiragana": "きれいな ほし。"
+      },
+      {
+        "id": "U+661F-ex-4",
+        "sentence": "わく星を みる。",
+        "reading": "せい",
+        "type": "on",
+        "sentenceWithRuby": "わく星を みる。",
+        "sentenceHiragana": "わくせいを みる。"
+      },
+      {
+        "id": "U+661F-ex-5",
+        "sentence": "星が ひかる。",
+        "reading": "ほし",
+        "type": "kun",
+        "sentenceWithRuby": "星が ひかる。",
+        "sentenceHiragana": "ほしが ひかる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6674",
+    "character": "晴",
+    "newExamples": [
+      {
+        "id": "U+6674-ex-3",
+        "sentence": "そらが 晴れる。",
+        "reading": "はれる",
+        "type": "kun",
+        "sentenceWithRuby": "そらが 晴れる。",
+        "sentenceHiragana": "そらが はれる。"
+      },
+      {
+        "id": "U+6674-ex-4",
+        "sentence": "晴れの 日。",
+        "reading": "はれ",
+        "type": "kun",
+        "sentenceWithRuby": "晴れの 日。",
+        "sentenceHiragana": "はれの 日。"
+      },
+      {
+        "id": "U+6674-ex-5",
+        "sentence": "快晴だね。",
+        "reading": "せい",
+        "type": "on",
+        "sentenceWithRuby": "快晴だね。",
+        "sentenceHiragana": "快せいだね。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5207",
+    "character": "切",
+    "newExamples": [
+      {
+        "id": "U+5207-ex-3",
+        "sentence": "かみを 切る。",
+        "reading": "きる",
+        "type": "kun",
+        "sentenceWithRuby": "かみを 切る。",
+        "sentenceHiragana": "かみを きるる。"
+      },
+      {
+        "id": "U+5207-ex-4",
+        "sentence": "切って つかう。",
+        "reading": "き",
+        "type": "kun",
+        "sentenceWithRuby": "切って つかう。",
+        "sentenceHiragana": "きって つかう。"
+      },
+      {
+        "id": "U+5207-ex-5",
+        "sentence": "大切な もの。",
+        "reading": "せつ",
+        "type": "on",
+        "sentenceWithRuby": "大[おお]切な もの。",
+        "sentenceHiragana": "大せつな もの。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+96EA",
+    "character": "雪",
+    "newExamples": [
+      {
+        "id": "U+96EA-ex-3",
+        "sentence": "雪が ふる。",
+        "reading": "ゆき",
+        "type": "kun",
+        "sentenceWithRuby": "雪が ふる。",
+        "sentenceHiragana": "ゆきが ふる。"
+      },
+      {
+        "id": "U+96EA-ex-4",
+        "sentence": "大雪に なる。",
+        "reading": "せつ",
+        "type": "on",
+        "sentenceWithRuby": "大[おお]雪に なる。",
+        "sentenceHiragana": "大せつに なる。"
+      },
+      {
+        "id": "U+96EA-ex-5",
+        "sentence": "白い 雪。",
+        "reading": "ゆき",
+        "type": "kun",
+        "sentenceWithRuby": "白[しろ]い 雪。",
+        "sentenceHiragana": "しろい ゆき。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8239",
+    "character": "船",
+    "newExamples": [
+      {
+        "id": "U+8239-ex-3",
+        "sentence": "船に のる。",
+        "reading": "ふね",
+        "type": "kun",
+        "sentenceWithRuby": "船に のる。",
+        "sentenceHiragana": "ふねに のる。"
+      },
+      {
+        "id": "U+8239-ex-4",
+        "sentence": "船いんさんが くる。",
+        "reading": "せん",
+        "type": "on",
+        "sentenceWithRuby": "船いんさんが くる。",
+        "sentenceHiragana": "せんいんさんが くる。"
+      },
+      {
+        "id": "U+8239-ex-5",
+        "sentence": "大きな 船。",
+        "reading": "ふね",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 船。",
+        "sentenceHiragana": "おおきな ふね。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7DDA",
+    "character": "線",
+    "newExamples": [
+      {
+        "id": "U+7DDA-ex-3",
+        "sentence": "線を ひく。",
+        "reading": "せん",
+        "type": "on",
+        "sentenceWithRuby": "線を ひく。",
+        "sentenceHiragana": "せんを ひく。"
+      },
+      {
+        "id": "U+7DDA-ex-4",
+        "sentence": "電車の 線ろ。",
+        "reading": "せん",
+        "type": "on",
+        "sentenceWithRuby": "電車の 線ろ。",
+        "sentenceHiragana": "電車の せんろ。"
+      },
+      {
+        "id": "U+7DDA-ex-5",
+        "sentence": "直線を かく。",
+        "reading": "せん",
+        "type": "on",
+        "sentenceWithRuby": "直線を かく。",
+        "sentenceHiragana": "直せんを かく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+524D",
+    "character": "前",
+    "newExamples": [
+      {
+        "id": "U+524D-ex-3",
+        "sentence": "前に すすむ。",
+        "reading": "まえ",
+        "type": "kun",
+        "sentenceWithRuby": "前に すすむ。",
+        "sentenceHiragana": "まえに すすむ。"
+      },
+      {
+        "id": "U+524D-ex-4",
+        "sentence": "午前に べん強する。",
+        "reading": "ぜん",
+        "type": "on",
+        "sentenceWithRuby": "午前に べん強する。",
+        "sentenceHiragana": "午ぜんに べん強する。"
+      },
+      {
+        "id": "U+524D-ex-5",
+        "sentence": "駅の 前で あう。",
+        "reading": "まえ",
+        "type": "kun",
+        "sentenceWithRuby": "駅の 前で あう。",
+        "sentenceHiragana": "駅の まえで あう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7D44",
+    "character": "組",
+    "newExamples": [
+      {
+        "id": "U+7D44-ex-3",
+        "sentence": "一組に なる。",
+        "reading": "くみ",
+        "type": "kun",
+        "sentenceWithRuby": "一[いち]組に なる。",
+        "sentenceHiragana": "いちくみに なる。"
+      },
+      {
+        "id": "U+7D44-ex-4",
+        "sentence": "つみきを 組む。",
+        "reading": "くむ",
+        "type": "kun",
+        "sentenceWithRuby": "つみきを 組む。",
+        "sentenceHiragana": "つみきを くむむ。"
+      },
+      {
+        "id": "U+7D44-ex-5",
+        "sentence": "組しきを まなぶ。",
+        "reading": "そ",
+        "type": "on",
+        "sentenceWithRuby": "組しきを まなぶ。",
+        "sentenceHiragana": "そしきを まなぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8D70",
+    "character": "走",
+    "newExamples": [
+      {
+        "id": "U+8D70-ex-3",
+        "sentence": "はやく 走る。",
+        "reading": "はしる",
+        "type": "kun",
+        "sentenceWithRuby": "はやく 走る。",
+        "sentenceHiragana": "はやく はしるる。"
+      },
+      {
+        "id": "U+8D70-ex-4",
+        "sentence": "走しゃする。",
+        "reading": "そう",
+        "type": "on",
+        "sentenceWithRuby": "走しゃする。",
+        "sentenceHiragana": "そうしゃする。"
+      },
+      {
+        "id": "U+8D70-ex-5",
+        "sentence": "走り つづける。",
+        "reading": "はし",
+        "type": "kun",
+        "sentenceWithRuby": "走り つづける。",
+        "sentenceHiragana": "はしり つづける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+591A",
+    "character": "多",
+    "newExamples": [
+      {
+        "id": "U+591A-ex-3",
+        "sentence": "人が 多い。",
+        "reading": "おおい",
+        "type": "kun",
+        "sentenceWithRuby": "人が 多い。",
+        "sentenceHiragana": "人が おおいい。"
+      },
+      {
+        "id": "U+591A-ex-4",
+        "sentence": "多くの ともだち。",
+        "reading": "た",
+        "type": "on",
+        "sentenceWithRuby": "多くの ともだち。",
+        "sentenceHiragana": "たくの ともだち。"
+      },
+      {
+        "id": "U+591A-ex-5",
+        "sentence": "多く なる。",
+        "reading": "おお",
+        "type": "kun",
+        "sentenceWithRuby": "多く なる。",
+        "sentenceHiragana": "おおく なる。"
+      }
+    ]
+  }
+]

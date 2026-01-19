@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+9580",
+    "character": "門",
+    "newExamples": [
+      {
+        "id": "U+9580-ex-3",
+        "sentence": "門を とおる。",
+        "reading": "もん",
+        "type": "on",
+        "sentenceWithRuby": "門を とおる。",
+        "sentenceHiragana": "もんを とおる。"
+      },
+      {
+        "id": "U+9580-ex-4",
+        "sentence": "門の まえ。",
+        "reading": "かど",
+        "type": "kun",
+        "sentenceWithRuby": "門の まえ。",
+        "sentenceHiragana": "かどの まえ。"
+      },
+      {
+        "id": "U+9580-ex-5",
+        "sentence": "正門から はいる。",
+        "reading": "もん",
+        "type": "on",
+        "sentenceWithRuby": "正[せい]門から はいる。",
+        "sentenceHiragana": "せいもんから はいる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+591C",
+    "character": "夜",
+    "newExamples": [
+      {
+        "id": "U+591C-ex-3",
+        "sentence": "夜に ねる。",
+        "reading": "よる",
+        "type": "kun",
+        "sentenceWithRuby": "夜に ねる。",
+        "sentenceHiragana": "よるに ねる。"
+      },
+      {
+        "id": "U+591C-ex-4",
+        "sentence": "夜ちゅうに おきる。",
+        "reading": "や",
+        "type": "on",
+        "sentenceWithRuby": "夜ちゅうに おきる。",
+        "sentenceHiragana": "やちゅうに おきる。"
+      },
+      {
+        "id": "U+591C-ex-5",
+        "sentence": "夜が ふける。",
+        "reading": "よ",
+        "type": "kun",
+        "sentenceWithRuby": "夜が ふける。",
+        "sentenceHiragana": "よが ふける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+91CE",
+    "character": "野",
+    "newExamples": [
+      {
+        "id": "U+91CE-ex-3",
+        "sentence": "野はらで あそぶ。",
+        "reading": "の",
+        "type": "kun",
+        "sentenceWithRuby": "野はらで あそぶ。",
+        "sentenceHiragana": "のはらで あそぶ。"
+      },
+      {
+        "id": "U+91CE-ex-4",
+        "sentence": "やさいを たべる。",
+        "reading": "や",
+        "type": "on",
+        "sentenceWithRuby": "やさいを たべる。",
+        "sentenceHiragana": "やさいを たべる。"
+      },
+      {
+        "id": "U+91CE-ex-5",
+        "sentence": "野を かける。",
+        "reading": "の",
+        "type": "kun",
+        "sentenceWithRuby": "野を かける。",
+        "sentenceHiragana": "のを かける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+53CB",
+    "character": "友",
+    "newExamples": [
+      {
+        "id": "U+53CB-ex-3",
+        "sentence": "友だちと あそぶ。",
+        "reading": "とも",
+        "type": "kun",
+        "sentenceWithRuby": "友だちと あそぶ。",
+        "sentenceHiragana": "ともだちと あそぶ。"
+      },
+      {
+        "id": "U+53CB-ex-4",
+        "sentence": "ゆう人に あう。",
+        "reading": "ゆう",
+        "type": "on",
+        "sentenceWithRuby": "ゆう人に あう。",
+        "sentenceHiragana": "ゆう人に あう。"
+      },
+      {
+        "id": "U+53CB-ex-5",
+        "sentence": "友が くる。",
+        "reading": "とも",
+        "type": "kun",
+        "sentenceWithRuby": "友が くる。",
+        "sentenceHiragana": "ともが くる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7528",
+    "character": "用",
+    "newExamples": [
+      {
+        "id": "U+7528-ex-3",
+        "sentence": "用いる。",
+        "reading": "よう",
+        "type": "on",
+        "sentenceWithRuby": "用いる。",
+        "sentenceHiragana": "よういる。"
+      },
+      {
+        "id": "U+7528-ex-4",
+        "sentence": "用じを たす。",
+        "reading": "よう",
+        "type": "on",
+        "sentenceWithRuby": "用じを たす。",
+        "sentenceHiragana": "ようじを たす。"
+      },
+      {
+        "id": "U+7528-ex-5",
+        "sentence": "用いて つくる。",
+        "reading": "もち",
+        "type": "kun",
+        "sentenceWithRuby": "用いて つくる。",
+        "sentenceHiragana": "もちいて つくる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+66DC",
+    "character": "曜",
+    "newExamples": [
+      {
+        "id": "U+66DC-ex-3",
+        "sentence": "月曜日に あう。",
+        "reading": "よう",
+        "type": "on",
+        "sentenceWithRuby": "月[げつ]曜日に あう。",
+        "sentenceHiragana": "げつよう日に あう。"
+      },
+      {
+        "id": "U+66DC-ex-4",
+        "sentence": "何曜日？",
+        "reading": "よう",
+        "type": "on",
+        "sentenceWithRuby": "何[なん]曜日？",
+        "sentenceHiragana": "なんよう日？"
+      },
+      {
+        "id": "U+66DC-ex-5",
+        "sentence": "金曜日が すき。",
+        "reading": "よう",
+        "type": "on",
+        "sentenceWithRuby": "金[きん]曜日が すき。",
+        "sentenceHiragana": "きんよう日が すき。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6765",
+    "character": "来",
+    "newExamples": [
+      {
+        "id": "U+6765-ex-3",
+        "sentence": "ともだちが 来る。",
+        "reading": "くる",
+        "type": "kun",
+        "sentenceWithRuby": "ともだちが 来る。",
+        "sentenceHiragana": "ともだちが くる。"
+      },
+      {
+        "id": "U+6765-ex-4",
+        "sentence": "来週 あう。",
+        "reading": "らい",
+        "type": "on",
+        "sentenceWithRuby": "来週 あう。",
+        "sentenceHiragana": "らい週 あう。"
+      },
+      {
+        "id": "U+6765-ex-5",
+        "sentence": "来て ください。",
+        "reading": "き",
+        "type": "kun",
+        "sentenceWithRuby": "来て ください。",
+        "sentenceHiragana": "きて ください。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+91CC",
+    "character": "里",
+    "newExamples": [
+      {
+        "id": "U+91CC-ex-3",
+        "sentence": "里に かえる。",
+        "reading": "さと",
+        "type": "kun",
+        "sentenceWithRuby": "里に かえる。",
+        "sentenceHiragana": "さとに かえる。"
+      },
+      {
+        "id": "U+91CC-ex-4",
+        "sentence": "千里の みち。",
+        "reading": "り",
+        "type": "on",
+        "sentenceWithRuby": "千[せん]里の みち。",
+        "sentenceHiragana": "せんりの みち。"
+      },
+      {
+        "id": "U+91CC-ex-5",
+        "sentence": "里やまを あるく。",
+        "reading": "さと",
+        "type": "kun",
+        "sentenceWithRuby": "里やまを あるく。",
+        "sentenceHiragana": "さとやまを あるく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7406",
+    "character": "理",
+    "newExamples": [
+      {
+        "id": "U+7406-ex-3",
+        "sentence": "理科の じっけん。",
+        "reading": "り",
+        "type": "on",
+        "sentenceWithRuby": "理科の じっけん。",
+        "sentenceHiragana": "り科の じっけん。"
+      },
+      {
+        "id": "U+7406-ex-4",
+        "sentence": "理ゆうを きく。",
+        "reading": "り",
+        "type": "on",
+        "sentenceWithRuby": "理ゆうを きく。",
+        "sentenceHiragana": "りゆうを きく。"
+      },
+      {
+        "id": "U+7406-ex-5",
+        "sentence": "理を まなぶ。",
+        "reading": "ことわり",
+        "type": "kun",
+        "sentenceWithRuby": "理を まなぶ。",
+        "sentenceHiragana": "ことわりを まなぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8A71",
+    "character": "話",
+    "newExamples": [
+      {
+        "id": "U+8A71-ex-3",
+        "sentence": "ともだちと 話す。",
+        "reading": "はなす",
+        "type": "kun",
+        "sentenceWithRuby": "ともだちと 話す。",
+        "sentenceHiragana": "ともだちと はなすす。"
+      },
+      {
+        "id": "U+8A71-ex-4",
+        "sentence": "電話を かける。",
+        "reading": "わ",
+        "type": "on",
+        "sentenceWithRuby": "電話を かける。",
+        "sentenceHiragana": "電わを かける。"
+      },
+      {
+        "id": "U+8A71-ex-5",
+        "sentence": "おもしろい 話。",
+        "reading": "はなし",
+        "type": "kun",
+        "sentenceWithRuby": "おもしろい 話。",
+        "sentenceHiragana": "おもしろい はなし。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+5834",
+    "character": "場",
+    "newExamples": [
+      {
+        "id": "U+5834-ex-3",
+        "sentence": "あそび場に いく。",
+        "reading": "ば",
+        "type": "kun",
+        "sentenceWithRuby": "あそび場に いく。",
+        "sentenceHiragana": "あそびばに いく。"
+      },
+      {
+        "id": "U+5834-ex-4",
+        "sentence": "うん動場で あそぶ。",
+        "reading": "じょう",
+        "type": "on",
+        "sentenceWithRuby": "うん動場で あそぶ。",
+        "sentenceHiragana": "うん動じょうで あそぶ。"
+      },
+      {
+        "id": "U+5834-ex-5",
+        "sentence": "その 場で まつ。",
+        "reading": "ば",
+        "type": "kun",
+        "sentenceWithRuby": "その 場で まつ。",
+        "sentenceHiragana": "その ばで まつ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8272",
+    "character": "色",
+    "newExamples": [
+      {
+        "id": "U+8272-ex-3",
+        "sentence": "きれいな 色。",
+        "reading": "いろ",
+        "type": "kun",
+        "sentenceWithRuby": "きれいな 色。",
+        "sentenceHiragana": "きれいな いろ。"
+      },
+      {
+        "id": "U+8272-ex-4",
+        "sentence": "とく色を いかす。",
+        "reading": "しょく",
+        "type": "on",
+        "sentenceWithRuby": "とく色を いかす。",
+        "sentenceHiragana": "とくしょくを いかす。"
+      },
+      {
+        "id": "U+8272-ex-5",
+        "sentence": "色を ぬる。",
+        "reading": "いろ",
+        "type": "kun",
+        "sentenceWithRuby": "色を ぬる。",
+        "sentenceHiragana": "いろを ぬる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+98DF",
+    "character": "食",
+    "newExamples": [
+      {
+        "id": "U+98DF-ex-3",
+        "sentence": "ごはんを 食べる。",
+        "reading": "たべる",
+        "type": "kun",
+        "sentenceWithRuby": "ごはんを 食べる。",
+        "sentenceHiragana": "ごはんを たべるべる。"
+      },
+      {
+        "id": "U+98DF-ex-4",
+        "sentence": "食じを する。",
+        "reading": "しょく",
+        "type": "on",
+        "sentenceWithRuby": "食じを する。",
+        "sentenceHiragana": "しょくじを する。"
+      },
+      {
+        "id": "U+98DF-ex-5",
+        "sentence": "食べ物が おいしい。",
+        "reading": "た",
+        "type": "kun",
+        "sentenceWithRuby": "食べ物が おいしい。",
+        "sentenceHiragana": "たべ物が おいしい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5FC3",
+    "character": "心",
+    "newExamples": [
+      {
+        "id": "U+5FC3-ex-3",
+        "sentence": "やさしい 心。",
+        "reading": "こころ",
+        "type": "kun",
+        "sentenceWithRuby": "やさしい 心。",
+        "sentenceHiragana": "やさしい こころ。"
+      },
+      {
+        "id": "U+5FC3-ex-4",
+        "sentence": "中心を さがす。",
+        "reading": "しん",
+        "type": "on",
+        "sentenceWithRuby": "中心を さがす。",
+        "sentenceHiragana": "中しんを さがす。"
+      },
+      {
+        "id": "U+5FC3-ex-5",
+        "sentence": "心が あたたかい。",
+        "reading": "こころ",
+        "type": "kun",
+        "sentenceWithRuby": "心が あたたかい。",
+        "sentenceHiragana": "こころが あたたかい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+65B0",
+    "character": "新",
+    "newExamples": [
+      {
+        "id": "U+65B0-ex-3",
+        "sentence": "新しい ほん。",
+        "reading": "あたらしい",
+        "type": "kun",
+        "sentenceWithRuby": "新しい ほん。",
+        "sentenceHiragana": "あたらしいしい ほん。"
+      },
+      {
+        "id": "U+65B0-ex-4",
+        "sentence": "新しく する。",
+        "reading": "あたら",
+        "type": "kun",
+        "sentenceWithRuby": "新しく する。",
+        "sentenceHiragana": "あたらしく する。"
+      },
+      {
+        "id": "U+65B0-ex-5",
+        "sentence": "新かんせん。",
+        "reading": "しん",
+        "type": "on",
+        "sentenceWithRuby": "新かんせん。",
+        "sentenceHiragana": "しんかんせん。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+89AA",
+    "character": "親",
+    "newExamples": [
+      {
+        "id": "U+89AA-ex-3",
+        "sentence": "親に あう。",
+        "reading": "おや",
+        "type": "kun",
+        "sentenceWithRuby": "親に あう。",
+        "sentenceHiragana": "おやに あう。"
+      },
+      {
+        "id": "U+89AA-ex-4",
+        "sentence": "親しい ともだち。",
+        "reading": "した",
+        "type": "kun",
+        "sentenceWithRuby": "親しい ともだち。",
+        "sentenceHiragana": "したしい ともだち。"
+      },
+      {
+        "id": "U+89AA-ex-5",
+        "sentence": "父親と でかける。",
+        "reading": "しん",
+        "type": "on",
+        "sentenceWithRuby": "父[ちち]親と でかける。",
+        "sentenceHiragana": "父しんと でかける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+56F3",
+    "character": "図",
+    "newExamples": [
+      {
+        "id": "U+56F3-ex-3",
+        "sentence": "ちずを みる。",
+        "reading": "ず",
+        "type": "on",
+        "sentenceWithRuby": "ちずを みる。",
+        "sentenceHiragana": "ちずを みる。"
+      },
+      {
+        "id": "U+56F3-ex-4",
+        "sentence": "図がらが ある。",
+        "reading": "と",
+        "type": "on",
+        "sentenceWithRuby": "図がらが ある。",
+        "sentenceHiragana": "とがらが ある。"
+      },
+      {
+        "id": "U+56F3-ex-5",
+        "sentence": "図かんで しらべる。",
+        "reading": "ず",
+        "type": "on",
+        "sentenceWithRuby": "図かんで しらべる。",
+        "sentenceHiragana": "ずかんで しらべる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6570",
+    "character": "数",
+    "newExamples": [
+      {
+        "id": "U+6570-ex-3",
+        "sentence": "数を かぞえる。",
+        "reading": "かず",
+        "type": "kun",
+        "sentenceWithRuby": "数を かぞえる。",
+        "sentenceHiragana": "かずを かぞえる。"
+      },
+      {
+        "id": "U+6570-ex-4",
+        "sentence": "数字を かく。",
+        "reading": "すう",
+        "type": "on",
+        "sentenceWithRuby": "数字を かく。",
+        "sentenceHiragana": "すう字を かく。"
+      },
+      {
+        "id": "U+6570-ex-5",
+        "sentence": "数える。",
+        "reading": "かぞ",
+        "type": "kun",
+        "sentenceWithRuby": "数える。",
+        "sentenceHiragana": "かぞえる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+897F",
+    "character": "西",
+    "newExamples": [
+      {
+        "id": "U+897F-ex-3",
+        "sentence": "西の ほうに いく。",
+        "reading": "にし",
+        "type": "kun",
+        "sentenceWithRuby": "西の ほうに いく。",
+        "sentenceHiragana": "にしの ほうに いく。"
+      },
+      {
+        "id": "U+897F-ex-4",
+        "sentence": "西よう料理。",
+        "reading": "せい",
+        "type": "on",
+        "sentenceWithRuby": "西よう料理。",
+        "sentenceHiragana": "せいよう料理。"
+      },
+      {
+        "id": "U+897F-ex-5",
+        "sentence": "西から ひが出る。",
+        "reading": "にし",
+        "type": "kun",
+        "sentenceWithRuby": "西から ひが出る。",
+        "sentenceHiragana": "にしから ひが出る。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+58F0",
+    "character": "声",
+    "newExamples": [
+      {
+        "id": "U+58F0-ex-3",
+        "sentence": "大きな 声。",
+        "reading": "こえ",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 声。",
+        "sentenceHiragana": "おおきな こえ。"
+      },
+      {
+        "id": "U+58F0-ex-4",
+        "sentence": "声がくを まなぶ。",
+        "reading": "せい",
+        "type": "on",
+        "sentenceWithRuby": "声がくを まなぶ。",
+        "sentenceHiragana": "せいがくを まなぶ。"
+      },
+      {
+        "id": "U+58F0-ex-5",
+        "sentence": "声を だす。",
+        "reading": "こえ",
+        "type": "kun",
+        "sentenceWithRuby": "声を だす。",
+        "sentenceHiragana": "こえを だす。"
+      }
+    ]
+  }
+]

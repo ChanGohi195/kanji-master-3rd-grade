@@ -1,0 +1,16 @@
+[
+  {
+    "kanjiId": "U+60AA",
+    "character": "悪",
+    "examples": [
+      {
+        "id": "U+60AA-ex-1",
+        "sentence": "悪い ことは しない。",
+        "reading": "わる.い",
+        "type": "kun",
+        "sentenceWithRuby": "悪い ことは しない。",
+        "sentenceHiragana": "わるい ことは しない。"
+      }
+    ]
+  }
+]

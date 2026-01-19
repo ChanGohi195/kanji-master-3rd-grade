@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+6B69",
+    "character": "歩",
+    "newExamples": [
+      {
+        "id": "U+6B69-ex-3",
+        "sentence": "みちを 歩く。",
+        "reading": "あるく",
+        "type": "kun",
+        "sentenceWithRuby": "みちを 歩く。",
+        "sentenceHiragana": "みちを あるく。"
+      },
+      {
+        "id": "U+6B69-ex-4",
+        "sentence": "さん歩する。",
+        "reading": "ほ",
+        "type": "on",
+        "sentenceWithRuby": "さん歩する。",
+        "sentenceHiragana": "さんほする。"
+      },
+      {
+        "id": "U+6B69-ex-5",
+        "sentence": "歩いて いく。",
+        "reading": "ある",
+        "type": "kun",
+        "sentenceWithRuby": "歩いて いく。",
+        "sentenceHiragana": "あるいて いく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6BCD",
+    "character": "母",
+    "newExamples": [
+      {
+        "id": "U+6BCD-ex-3",
+        "sentence": "母と はなす。",
+        "reading": "はは",
+        "type": "kun",
+        "sentenceWithRuby": "母と はなす。",
+        "sentenceHiragana": "ははと はなす。"
+      },
+      {
+        "id": "U+6BCD-ex-4",
+        "sentence": "母音を まなぶ。",
+        "reading": "ぼ",
+        "type": "on",
+        "sentenceWithRuby": "母音を まなぶ。",
+        "sentenceHiragana": "ぼおんを まなぶ。"
+      },
+      {
+        "id": "U+6BCD-ex-5",
+        "sentence": "母が よぶ。",
+        "reading": "はは",
+        "type": "kun",
+        "sentenceWithRuby": "母が よぶ。",
+        "sentenceHiragana": "ははが よぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+65B9",
+    "character": "方",
+    "newExamples": [
+      {
+        "id": "U+65B9-ex-3",
+        "sentence": "あの 方は だれ？",
+        "reading": "かた",
+        "type": "kun",
+        "sentenceWithRuby": "あの 方は だれ？",
+        "sentenceHiragana": "あの かたは だれ？"
+      },
+      {
+        "id": "U+65B9-ex-4",
+        "sentence": "そちらの 方。",
+        "reading": "ほう",
+        "type": "on",
+        "sentenceWithRuby": "そちらの 方。",
+        "sentenceHiragana": "そちらの ほう。"
+      },
+      {
+        "id": "U+65B9-ex-5",
+        "sentence": "やり方を ならう。",
+        "reading": "かた",
+        "type": "kun",
+        "sentenceWithRuby": "やり方を ならう。",
+        "sentenceHiragana": "やりかたを ならう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5317",
+    "character": "北",
+    "newExamples": [
+      {
+        "id": "U+5317-ex-3",
+        "sentence": "北の ほう。",
+        "reading": "きた",
+        "type": "kun",
+        "sentenceWithRuby": "北の ほう。",
+        "sentenceHiragana": "きたの ほう。"
+      },
+      {
+        "id": "U+5317-ex-4",
+        "sentence": "北ぶに いく。",
+        "reading": "ほく",
+        "type": "on",
+        "sentenceWithRuby": "北ぶに いく。",
+        "sentenceHiragana": "ほくぶに いく。"
+      },
+      {
+        "id": "U+5317-ex-5",
+        "sentence": "北から ふく。",
+        "reading": "きた",
+        "type": "kun",
+        "sentenceWithRuby": "北から ふく。",
+        "sentenceHiragana": "きたから ふく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6BCE",
+    "character": "毎",
+    "newExamples": [
+      {
+        "id": "U+6BCE-ex-3",
+        "sentence": "毎日 がっこうに いく。",
+        "reading": "まい",
+        "type": "on",
+        "sentenceWithRuby": "毎日 がっこうに いく。",
+        "sentenceHiragana": "まいにち がっこうに いく。"
+      },
+      {
+        "id": "U+6BCE-ex-4",
+        "sentence": "毎しゅう はしる。",
+        "reading": "まい",
+        "type": "on",
+        "sentenceWithRuby": "毎しゅう はしる。",
+        "sentenceHiragana": "まいしゅう はしる。"
+      },
+      {
+        "id": "U+6BCE-ex-5",
+        "sentence": "毎あさ はを みがく。",
+        "reading": "まい",
+        "type": "on",
+        "sentenceWithRuby": "毎あさ はを みがく。",
+        "sentenceHiragana": "まいあさ はを みがく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+59B9",
+    "character": "妹",
+    "newExamples": [
+      {
+        "id": "U+59B9-ex-3",
+        "sentence": "妹と あそぶ。",
+        "reading": "いもうと",
+        "type": "kun",
+        "sentenceWithRuby": "妹と あそぶ。",
+        "sentenceHiragana": "いもうとと あそぶ。"
+      },
+      {
+        "id": "U+59B9-ex-4",
+        "sentence": "妹だいで いく。",
+        "reading": "まい",
+        "type": "on",
+        "sentenceWithRuby": "妹だいで いく。",
+        "sentenceHiragana": "まいだいで いく。"
+      },
+      {
+        "id": "U+59B9-ex-5",
+        "sentence": "妹が わらう。",
+        "reading": "いもうと",
+        "type": "kun",
+        "sentenceWithRuby": "妹が わらう。",
+        "sentenceHiragana": "いもうとが わらう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4E07",
+    "character": "万",
+    "newExamples": [
+      {
+        "id": "U+4E07-ex-3",
+        "sentence": "一万えん。",
+        "reading": "まん",
+        "type": "on",
+        "sentenceWithRuby": "一[いち]万えん。",
+        "sentenceHiragana": "いちまんえん。"
+      },
+      {
+        "id": "U+4E07-ex-4",
+        "sentence": "万年ひつを つかう。",
+        "reading": "ばん",
+        "type": "on",
+        "sentenceWithRuby": "万年ひつを つかう。",
+        "sentenceHiragana": "まんねんひつを つかう。"
+      },
+      {
+        "id": "U+4E07-ex-5",
+        "sentence": "百万の ほし。",
+        "reading": "まん",
+        "type": "on",
+        "sentenceWithRuby": "百[ひゃく]万の ほし。",
+        "sentenceHiragana": "ひゃくまんの ほし。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9E23",
+    "character": "鳴",
+    "newExamples": [
+      {
+        "id": "U+9E23-ex-3",
+        "sentence": "すずが 鳴る。",
+        "reading": "なる",
+        "type": "kun",
+        "sentenceWithRuby": "すずが 鳴る。",
+        "sentenceHiragana": "すずが なる。"
+      },
+      {
+        "id": "U+9E23-ex-4",
+        "sentence": "いぬが 鳴く。",
+        "reading": "なく",
+        "type": "kun",
+        "sentenceWithRuby": "いぬが 鳴く。",
+        "sentenceHiragana": "いぬが なく。"
+      },
+      {
+        "id": "U+9E23-ex-5",
+        "sentence": "かねが 鳴る。",
+        "reading": "なる",
+        "type": "kun",
+        "sentenceWithRuby": "かねが 鳴る。",
+        "sentenceHiragana": "かねが なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+660E",
+    "character": "明",
+    "newExamples": [
+      {
+        "id": "U+660E-ex-3",
+        "sentence": "明るい へや。",
+        "reading": "あかるい",
+        "type": "kun",
+        "sentenceWithRuby": "明るい へや。",
+        "sentenceHiragana": "あかるい へや。"
+      },
+      {
+        "id": "U+660E-ex-4",
+        "sentence": "明かり。",
+        "reading": "あ",
+        "type": "kun",
+        "sentenceWithRuby": "明かり。",
+        "sentenceHiragana": "あかり。"
+      },
+      {
+        "id": "U+660E-ex-5",
+        "sentence": "明日 あう。",
+        "reading": "めい",
+        "type": "on",
+        "sentenceWithRuby": "明日 あう。",
+        "sentenceHiragana": "あした あう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6BDB",
+    "character": "毛",
+    "newExamples": [
+      {
+        "id": "U+6BDB-ex-3",
+        "sentence": "毛が ながい。",
+        "reading": "け",
+        "type": "kun",
+        "sentenceWithRuby": "毛が ながい。",
+        "sentenceHiragana": "けが ながい。"
+      },
+      {
+        "id": "U+6BDB-ex-4",
+        "sentence": "毛ふを きる。",
+        "reading": "もう",
+        "type": "on",
+        "sentenceWithRuby": "毛ふを きる。",
+        "sentenceHiragana": "もうふを きる。"
+      },
+      {
+        "id": "U+6BDB-ex-5",
+        "sentence": "ねこの 毛。",
+        "reading": "け",
+        "type": "kun",
+        "sentenceWithRuby": "ねこの 毛。",
+        "sentenceHiragana": "ねこの け。"
+      }
+    ]
+  }
+]

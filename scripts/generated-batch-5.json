@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+53E4",
+    "character": "古",
+    "newExamples": [
+      {
+        "id": "U+53E4-ex-3",
+        "sentence": "古い ほん。",
+        "reading": "ふるい",
+        "type": "kun",
+        "sentenceWithRuby": "古い ほん。",
+        "sentenceHiragana": "ふるいい ほん。"
+      },
+      {
+        "id": "U+53E4-ex-4",
+        "sentence": "古今の はなし。",
+        "reading": "こ",
+        "type": "on",
+        "sentenceWithRuby": "古今[こん]の はなし。",
+        "sentenceHiragana": "ここんの はなし。"
+      },
+      {
+        "id": "U+53E4-ex-5",
+        "sentence": "古く なる。",
+        "reading": "ふる",
+        "type": "kun",
+        "sentenceWithRuby": "古く なる。",
+        "sentenceHiragana": "ふるく なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5348",
+    "character": "午",
+    "newExamples": [
+      {
+        "id": "U+5348-ex-3",
+        "sentence": "午前に べん強する。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "午前に べん強する。",
+        "sentenceHiragana": "ご前に べん強する。"
+      },
+      {
+        "id": "U+5348-ex-4",
+        "sentence": "午後から あそぶ。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "午後から あそぶ。",
+        "sentenceHiragana": "ご後から あそぶ。"
+      },
+      {
+        "id": "U+5348-ex-5",
+        "sentence": "正午に なる。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "正[せい]午に なる。",
+        "sentenceHiragana": "せいごに なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5F8C",
+    "character": "後",
+    "newExamples": [
+      {
+        "id": "U+5F8C-ex-3",
+        "sentence": "後で あう。",
+        "reading": "あと",
+        "type": "kun",
+        "sentenceWithRuby": "後で あう。",
+        "sentenceHiragana": "あとで あう。"
+      },
+      {
+        "id": "U+5F8C-ex-4",
+        "sentence": "後ろを みる。",
+        "reading": "うし",
+        "type": "kun",
+        "sentenceWithRuby": "後ろを みる。",
+        "sentenceHiragana": "うしろを みる。"
+      },
+      {
+        "id": "U+5F8C-ex-5",
+        "sentence": "ごはんの 後。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "ごはんの 後。",
+        "sentenceHiragana": "ごはんの ご。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8A9E",
+    "character": "語",
+    "newExamples": [
+      {
+        "id": "U+8A9E-ex-3",
+        "sentence": "語る。",
+        "reading": "かた",
+        "type": "kun",
+        "sentenceWithRuby": "語る。",
+        "sentenceHiragana": "かたる。"
+      },
+      {
+        "id": "U+8A9E-ex-4",
+        "sentence": "日本語を はなす。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "日本語を はなす。",
+        "sentenceHiragana": "日本ごを はなす。"
+      },
+      {
+        "id": "U+8A9E-ex-5",
+        "sentence": "外国語を まなぶ。",
+        "reading": "ご",
+        "type": "on",
+        "sentenceWithRuby": "外[がい]国語を まなぶ。",
+        "sentenceHiragana": "がい国ごを まなぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5DE5",
+    "character": "工",
+    "newExamples": [
+      {
+        "id": "U+5DE5-ex-3",
+        "sentence": "工じょうで はたらく。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "工じょうで はたらく。",
+        "sentenceHiragana": "こうじょうで はたらく。"
+      },
+      {
+        "id": "U+5DE5-ex-4",
+        "sentence": "工さくする。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "工さくする。",
+        "sentenceHiragana": "こうさくする。"
+      },
+      {
+        "id": "U+5DE5-ex-5",
+        "sentence": "大工さんが くる。",
+        "reading": "く",
+        "type": "on",
+        "sentenceWithRuby": "大[おお]工さんが くる。",
+        "sentenceHiragana": "大くさんが くる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+516C",
+    "character": "公",
+    "newExamples": [
+      {
+        "id": "U+516C-ex-3",
+        "sentence": "公えんで あそぶ。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "公えんで あそぶ。",
+        "sentenceHiragana": "こうえんで あそぶ。"
+      },
+      {
+        "id": "U+516C-ex-4",
+        "sentence": "公ちゅう電話を つかう。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "公ちゅう電話を つかう。",
+        "sentenceHiragana": "こうちゅう電話を つかう。"
+      },
+      {
+        "id": "U+516C-ex-5",
+        "sentence": "公に する。",
+        "reading": "おおやけ",
+        "type": "kun",
+        "sentenceWithRuby": "公に する。",
+        "sentenceHiragana": "おおやけに する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5E83",
+    "character": "広",
+    "newExamples": [
+      {
+        "id": "U+5E83-ex-3",
+        "sentence": "広い にわ。",
+        "reading": "ひろい",
+        "type": "kun",
+        "sentenceWithRuby": "広い にわ。",
+        "sentenceHiragana": "ひろいい にわ。"
+      },
+      {
+        "id": "U+5E83-ex-4",
+        "sentence": "広げる。",
+        "reading": "ひろ",
+        "type": "kun",
+        "sentenceWithRuby": "広げる。",
+        "sentenceHiragana": "ひろげる。"
+      },
+      {
+        "id": "U+5E83-ex-5",
+        "sentence": "広こくを みる。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "広こくを みる。",
+        "sentenceHiragana": "こうこくを みる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4EA4",
+    "character": "交",
+    "newExamples": [
+      {
+        "id": "U+4EA4-ex-3",
+        "sentence": "交つうに きを つける。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "交つうに きを つける。",
+        "sentenceHiragana": "こうつうに きを つける。"
+      },
+      {
+        "id": "U+4EA4-ex-4",
+        "sentence": "交わる。",
+        "reading": "まじ",
+        "type": "kun",
+        "sentenceWithRuby": "交わる。",
+        "sentenceHiragana": "まじわる。"
+      },
+      {
+        "id": "U+4EA4-ex-5",
+        "sentence": "交かんする。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "交かんする。",
+        "sentenceHiragana": "こうかんする。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5149",
+    "character": "光",
+    "newExamples": [
+      {
+        "id": "U+5149-ex-3",
+        "sentence": "光が まぶしい。",
+        "reading": "ひかり",
+        "type": "kun",
+        "sentenceWithRuby": "光が まぶしい。",
+        "sentenceHiragana": "ひかりが まぶしい。"
+      },
+      {
+        "id": "U+5149-ex-4",
+        "sentence": "光る ほし。",
+        "reading": "ひか",
+        "type": "kun",
+        "sentenceWithRuby": "光る ほし。",
+        "sentenceHiragana": "ひかる ほし。"
+      },
+      {
+        "id": "U+5149-ex-5",
+        "sentence": "かん光に いく。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "かん光に いく。",
+        "sentenceHiragana": "かんこうに いく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8003",
+    "character": "考",
+    "newExamples": [
+      {
+        "id": "U+8003-ex-3",
+        "sentence": "考える。",
+        "reading": "かんが",
+        "type": "kun",
+        "sentenceWithRuby": "考える。",
+        "sentenceHiragana": "かんがえる。"
+      },
+      {
+        "id": "U+8003-ex-4",
+        "sentence": "さん考する。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "さん考する。",
+        "sentenceHiragana": "さんこうする。"
+      },
+      {
+        "id": "U+8003-ex-5",
+        "sentence": "いい 考えだね。",
+        "reading": "かんがえ",
+        "type": "kun",
+        "sentenceWithRuby": "いい 考えだね。",
+        "sentenceHiragana": "いい かんがええだね。"
+      }
+    ]
+  }
+]

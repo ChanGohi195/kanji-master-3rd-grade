@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+5F37",
+    "character": "強",
+    "newExamples": [
+      {
+        "id": "U+5F37-ex-3",
+        "sentence": "強い ちから。",
+        "reading": "つよい",
+        "type": "kun",
+        "sentenceWithRuby": "強い ちから。",
+        "sentenceHiragana": "つよいい ちから。"
+      },
+      {
+        "id": "U+5F37-ex-4",
+        "sentence": "べん強する。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "べん強する。",
+        "sentenceHiragana": "べんきょうする。"
+      },
+      {
+        "id": "U+5F37-ex-5",
+        "sentence": "強く なる。",
+        "reading": "つよ",
+        "type": "kun",
+        "sentenceWithRuby": "強く なる。",
+        "sentenceHiragana": "つよく なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6559",
+    "character": "教",
+    "newExamples": [
+      {
+        "id": "U+6559-ex-3",
+        "sentence": "かん字を 教える。",
+        "reading": "おしえる",
+        "type": "kun",
+        "sentenceWithRuby": "かん字を 教える。",
+        "sentenceHiragana": "かん字を おしえるえる。"
+      },
+      {
+        "id": "U+6559-ex-4",
+        "sentence": "教しつに いく。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "教しつに いく。",
+        "sentenceHiragana": "きょうしつに いく。"
+      },
+      {
+        "id": "U+6559-ex-5",
+        "sentence": "教えて もらう。",
+        "reading": "おし",
+        "type": "kun",
+        "sentenceWithRuby": "教えて もらう。",
+        "sentenceHiragana": "おしえて もらう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8FD1",
+    "character": "近",
+    "newExamples": [
+      {
+        "id": "U+8FD1-ex-3",
+        "sentence": "えきは 近い。",
+        "reading": "ちかい",
+        "type": "kun",
+        "sentenceWithRuby": "えきは 近い。",
+        "sentenceHiragana": "えきは ちかいい。"
+      },
+      {
+        "id": "U+8FD1-ex-4",
+        "sentence": "近くの こうえん。",
+        "reading": "ちか",
+        "type": "kun",
+        "sentenceWithRuby": "近くの こうえん。",
+        "sentenceHiragana": "ちかくの こうえん。"
+      },
+      {
+        "id": "U+8FD1-ex-5",
+        "sentence": "さい近の できごと。",
+        "reading": "きん",
+        "type": "on",
+        "sentenceWithRuby": "さい近の できごと。",
+        "sentenceHiragana": "さいきんの できごと。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5144",
+    "character": "兄",
+    "newExamples": [
+      {
+        "id": "U+5144-ex-3",
+        "sentence": "兄と あそぶ。",
+        "reading": "あに",
+        "type": "kun",
+        "sentenceWithRuby": "兄と あそぶ。",
+        "sentenceHiragana": "あにと あそぶ。"
+      },
+      {
+        "id": "U+5144-ex-4",
+        "sentence": "兄だいで いく。",
+        "reading": "きょう",
+        "type": "on",
+        "sentenceWithRuby": "兄だいで いく。",
+        "sentenceHiragana": "きょうだいで いく。"
+      },
+      {
+        "id": "U+5144-ex-5",
+        "sentence": "兄が いる。",
+        "reading": "あに",
+        "type": "kun",
+        "sentenceWithRuby": "兄が いる。",
+        "sentenceHiragana": "あにが いる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5F62",
+    "character": "形",
+    "newExamples": [
+      {
+        "id": "U+5F62-ex-3",
+        "sentence": "丸い 形。",
+        "reading": "かたち",
+        "type": "kun",
+        "sentenceWithRuby": "丸い 形。",
+        "sentenceHiragana": "丸い かたち。"
+      },
+      {
+        "id": "U+5F62-ex-4",
+        "sentence": "三角形を かく。",
+        "reading": "けい",
+        "type": "on",
+        "sentenceWithRuby": "三[さん]角形を かく。",
+        "sentenceHiragana": "さん角けいを かく。"
+      },
+      {
+        "id": "U+5F62-ex-5",
+        "sentence": "形を つくる。",
+        "reading": "かた",
+        "type": "kun",
+        "sentenceWithRuby": "形を つくる。",
+        "sentenceHiragana": "かたを つくる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8A08",
+    "character": "計",
+    "newExamples": [
+      {
+        "id": "U+8A08-ex-3",
+        "sentence": "時計を みる。",
+        "reading": "けい",
+        "type": "on",
+        "sentenceWithRuby": "時計を みる。",
+        "sentenceHiragana": "時けいを みる。"
+      },
+      {
+        "id": "U+8A08-ex-4",
+        "sentence": "計る。",
+        "reading": "はか",
+        "type": "kun",
+        "sentenceWithRuby": "計る。",
+        "sentenceHiragana": "はかる。"
+      },
+      {
+        "id": "U+8A08-ex-5",
+        "sentence": "けい算する。",
+        "reading": "けい",
+        "type": "on",
+        "sentenceWithRuby": "けい算する。",
+        "sentenceHiragana": "けい算する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5143",
+    "character": "元",
+    "newExamples": [
+      {
+        "id": "U+5143-ex-3",
+        "sentence": "元気に あそぶ。",
+        "reading": "げん",
+        "type": "on",
+        "sentenceWithRuby": "元気に あそぶ。",
+        "sentenceHiragana": "げん気に あそぶ。"
+      },
+      {
+        "id": "U+5143-ex-4",
+        "sentence": "元に もどす。",
+        "reading": "もと",
+        "type": "kun",
+        "sentenceWithRuby": "元に もどす。",
+        "sentenceHiragana": "もとに もどす。"
+      },
+      {
+        "id": "U+5143-ex-5",
+        "sentence": "元日に おまいりする。",
+        "reading": "げん",
+        "type": "on",
+        "sentenceWithRuby": "元日に おまいりする。",
+        "sentenceHiragana": "げん日に おまいりする。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8A00",
+    "character": "言",
+    "newExamples": [
+      {
+        "id": "U+8A00-ex-3",
+        "sentence": "ほんとうの ことを 言う。",
+        "reading": "いう",
+        "type": "kun",
+        "sentenceWithRuby": "ほんとうの ことを 言う。",
+        "sentenceHiragana": "ほんとうの ことを いうう。"
+      },
+      {
+        "id": "U+8A00-ex-4",
+        "sentence": "言ばを おぼえる。",
+        "reading": "こと",
+        "type": "kun",
+        "sentenceWithRuby": "言ばを おぼえる。",
+        "sentenceHiragana": "ことばを おぼえる。"
+      },
+      {
+        "id": "U+8A00-ex-5",
+        "sentence": "げん語を まなぶ。",
+        "reading": "げん",
+        "type": "on",
+        "sentenceWithRuby": "げん語を まなぶ。",
+        "sentenceHiragana": "げん語を まなぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+539F",
+    "character": "原",
+    "newExamples": [
+      {
+        "id": "U+539F-ex-3",
+        "sentence": "草原で あそぶ。",
+        "reading": "はら",
+        "type": "kun",
+        "sentenceWithRuby": "草原で あそぶ。",
+        "sentenceHiragana": "草はらで あそぶ。"
+      },
+      {
+        "id": "U+539F-ex-4",
+        "sentence": "原いんを さがす。",
+        "reading": "げん",
+        "type": "on",
+        "sentenceWithRuby": "原いんを さがす。",
+        "sentenceHiragana": "げんいんを さがす。"
+      },
+      {
+        "id": "U+539F-ex-5",
+        "sentence": "広い 原。",
+        "reading": "はら",
+        "type": "kun",
+        "sentenceWithRuby": "広い 原。",
+        "sentenceHiragana": "広い はら。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6238",
+    "character": "戸",
+    "newExamples": [
+      {
+        "id": "U+6238-ex-3",
+        "sentence": "戸を しめる。",
+        "reading": "と",
+        "type": "kun",
+        "sentenceWithRuby": "戸を しめる。",
+        "sentenceHiragana": "とを しめる。"
+      },
+      {
+        "id": "U+6238-ex-4",
+        "sentence": "戸を あける。",
+        "reading": "と",
+        "type": "kun",
+        "sentenceWithRuby": "戸を あける。",
+        "sentenceHiragana": "とを あける。"
+      },
+      {
+        "id": "U+6238-ex-5",
+        "sentence": "こ戸で くらす。",
+        "reading": "こ",
+        "type": "on",
+        "sentenceWithRuby": "こ戸で くらす。",
+        "sentenceHiragana": "ここで くらす。"
+      }
+    ]
+  }
+]

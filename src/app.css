@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+/* カスタムフォントサイズ（低学年向け - 最小18px） */
+:root {
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 24px;
+  --font-size-xl: 28px;
+  --font-size-2xl: 36px;
+  --font-size-3xl: 48px;
+  --font-size-kanji: 120px;
+}
+
+/* ベースフォント設定 */
+html {
+  font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic', sans-serif;
+  font-size: var(--font-size-base);
+}
+
+/* ボタンの最小サイズ（タップしやすく） */
+button, a.btn {
+  min-height: 48px;
+  min-width: 48px;
+}
+
+/* 成長アイコン */
+.growth-icon {
+  font-size: 1.5rem;
+}

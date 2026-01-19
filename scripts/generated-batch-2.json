@@ -1,0 +1,92 @@
+[
+  {
+    "kanjiId": "U+753B",
+    "character": "画",
+    "newExamples": [
+      {"id": "U+753B-ex-3", "sentence": "まん画を よむ。", "reading": "が", "type": "on", "sentenceWithRuby": "まん画を よむ。", "sentenceHiragana": "まんがを よむ。"},
+      {"id": "U+753B-ex-4", "sentence": "画めんを みる。", "reading": "が", "type": "on", "sentenceWithRuby": "画めんを みる。", "sentenceHiragana": "がめんを みる。"},
+      {"id": "U+753B-ex-5", "sentence": "どう画を さつえいする。", "reading": "が", "type": "on", "sentenceWithRuby": "どう画を さつえいする。", "sentenceHiragana": "どうがを さつえいする。"}
+    ]
+  },
+  {
+    "kanjiId": "U+56DE",
+    "character": "回",
+    "newExamples": [
+      {"id": "U+56DE-ex-3", "sentence": "ハンドルを 回す。", "reading": "まわす", "type": "kun", "sentenceWithRuby": "ハンドルを 回す。", "sentenceHiragana": "はんどるを まわす。"},
+      {"id": "U+56DE-ex-4", "sentence": "二回 ジャンプする。", "reading": "かい", "type": "on", "sentenceWithRuby": "二[に]回 ジャンプする。", "sentenceHiragana": "にかい じゃんぷする。"},
+      {"id": "U+56DE-ex-5", "sentence": "なわを 回す。", "reading": "まわす", "type": "kun", "sentenceWithRuby": "なわを 回す。", "sentenceHiragana": "なわを まわす。"}
+    ]
+  },
+  {
+    "kanjiId": "U+4F1A",
+    "character": "会",
+    "newExamples": [
+      {"id": "U+4F1A-ex-3", "sentence": "おばあちゃんに 会う。", "reading": "あう", "type": "kun", "sentenceWithRuby": "おばあちゃんに 会う。", "sentenceHiragana": "おばあちゃんに あう。"},
+      {"id": "U+4F1A-ex-4", "sentence": "うんどう会で はしる。", "reading": "かい", "type": "on", "sentenceWithRuby": "うんどう会で はしる。", "sentenceHiragana": "うんどうかいで はしる。"},
+      {"id": "U+4F1A-ex-5", "sentence": "いぬに 会う。", "reading": "あう", "type": "kun", "sentenceWithRuby": "いぬに 会う。", "sentenceHiragana": "いぬに あう。"}
+    ]
+  },
+  {
+    "kanjiId": "U+6D77",
+    "character": "海",
+    "newExamples": [
+      {"id": "U+6D77-ex-3", "sentence": "海で かいを ひろう。", "reading": "うみ", "type": "kun", "sentenceWithRuby": "海で かいを ひろう。", "sentenceHiragana": "うみで かいを ひろう。"},
+      {"id": "U+6D77-ex-4", "sentence": "海の ちかくに すむ。", "reading": "うみ", "type": "kun", "sentenceWithRuby": "海の ちかくに すむ。", "sentenceHiragana": "うみの ちかくに すむ。"},
+      {"id": "U+6D77-ex-5", "sentence": "海に いく。", "reading": "うみ", "type": "kun", "sentenceWithRuby": "海に いく。", "sentenceHiragana": "うみに いく。"}
+    ]
+  },
+  {
+    "kanjiId": "U+7D75",
+    "character": "絵",
+    "newExamples": [
+      {"id": "U+7D75-ex-3", "sentence": "絵の ぐを つかう。", "reading": "え", "type": "on", "sentenceWithRuby": "絵の ぐを つかう。", "sentenceHiragana": "えの ぐを つかう。"},
+      {"id": "U+7D75-ex-4", "sentence": "きれいな 絵だね。", "reading": "え", "type": "on", "sentenceWithRuby": "きれいな 絵だね。", "sentenceHiragana": "きれいな えだね。"},
+      {"id": "U+7D75-ex-5", "sentence": "絵を かざる。", "reading": "え", "type": "on", "sentenceWithRuby": "絵を かざる。", "sentenceHiragana": "えを かざる。"}
+    ]
+  },
+  {
+    "kanjiId": "U+5916",
+    "character": "外",
+    "newExamples": [
+      {"id": "U+5916-ex-3", "sentence": "外に でる。", "reading": "そと", "type": "kun", "sentenceWithRuby": "外に でる。", "sentenceHiragana": "そとに でる。"},
+      {"id": "U+5916-ex-4", "sentence": "外しゅつ する。", "reading": "がい", "type": "on", "sentenceWithRuby": "外しゅつ する。", "sentenceHiragana": "がいしゅつ する。"},
+      {"id": "U+5916-ex-5", "sentence": "外は さむい。", "reading": "そと", "type": "kun", "sentenceWithRuby": "外は さむい。", "sentenceHiragana": "そとは さむい。"}
+    ]
+  },
+  {
+    "kanjiId": "U+89D2",
+    "character": "角",
+    "newExamples": [
+      {"id": "U+89D2-ex-3", "sentence": "つぎの 角で とまる。", "reading": "かど", "type": "kun", "sentenceWithRuby": "つぎの 角で とまる。", "sentenceHiragana": "つぎの かどで とまる。"},
+      {"id": "U+89D2-ex-4", "sentence": "うしの 角は おおきい。", "reading": "つの", "type": "kun", "sentenceWithRuby": "うしの 角は おおきい。", "sentenceHiragana": "うしの つのは おおきい。"},
+      {"id": "U+89D2-ex-5", "sentence": "角を みぎに まがる。", "reading": "かど", "type": "kun", "sentenceWithRuby": "角を みぎに まがる。", "sentenceHiragana": "かどを みぎに まがる。"}
+    ]
+  },
+  {
+    "kanjiId": "U+697D",
+    "character": "楽",
+    "newExamples": [
+      {"id": "U+697D-ex-3", "sentence": "楽しい えんそく。", "reading": "たの", "type": "kun", "sentenceWithRuby": "楽しい えんそく。", "sentenceHiragana": "たのしい えんそく。"},
+      {"id": "U+697D-ex-4", "sentence": "おん楽かいに いく。", "reading": "がく", "type": "on", "sentenceWithRuby": "おん楽かいに いく。", "sentenceHiragana": "おんがくかいに いく。"},
+      {"id": "U+697D-ex-5", "sentence": "あそびは 楽しい。", "reading": "たの", "type": "kun", "sentenceWithRuby": "あそびは 楽しい。", "sentenceHiragana": "あそびは たのしい。"}
+    ]
+  },
+  {
+    "kanjiId": "U+6D3B",
+    "character": "活",
+    "newExamples": [
+      {"id": "U+6D3B-ex-3", "sentence": "かつ活 した。", "reading": "かつ", "type": "on", "sentenceWithRuby": "かつ活 した。", "sentenceHiragana": "かつかつ した。"},
+      {"id": "U+6D3B-ex-4", "sentence": "クラブ活どう。", "reading": "かつ", "type": "on", "sentenceWithRuby": "クラブ活どう。", "sentenceHiragana": "くらぶかつどう。"},
+      {"id": "U+6D3B-ex-5", "sentence": "活やくする。", "reading": "かつ", "type": "on", "sentenceWithRuby": "活やくする。", "sentenceHiragana": "かつやくする。"}
+    ]
+  },
+  {
+    "kanjiId": "U+9593",
+    "character": "間",
+    "newExamples": [
+      {"id": "U+9593-ex-3", "sentence": "木の 間を とおる。", "reading": "あいだ", "type": "kun", "sentenceWithRuby": "木[き]の 間を とおる。", "sentenceHiragana": "きの あいだを とおる。"},
+      {"id": "U+9593-ex-4", "sentence": "一しゅう間が おわる。", "reading": "かん", "type": "on", "sentenceWithRuby": "一[いっ]しゅう間が おわる。", "sentenceHiragana": "いっしゅうかんが おわる。"},
+      {"id": "U+9593-ex-5", "sentence": "いえの 間を あるく。", "reading": "あいだ", "type": "kun", "sentenceWithRuby": "いえの 間を あるく。", "sentenceHiragana": "いえの あいだを あるく。"}
+    ]
+  }
+]

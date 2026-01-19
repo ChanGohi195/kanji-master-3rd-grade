@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+6771",
+    "character": "東",
+    "newExamples": [
+      {
+        "id": "U+6771-ex-3",
+        "sentence": "東の ほう。",
+        "reading": "ひがし",
+        "type": "kun",
+        "sentenceWithRuby": "東の ほう。",
+        "sentenceHiragana": "ひがしの ほう。"
+      },
+      {
+        "id": "U+6771-ex-4",
+        "sentence": "東京に すむ。",
+        "reading": "とう",
+        "type": "on",
+        "sentenceWithRuby": "東京に すむ。",
+        "sentenceHiragana": "とう京に すむ。"
+      },
+      {
+        "id": "U+6771-ex-5",
+        "sentence": "東から のぼる。",
+        "reading": "ひがし",
+        "type": "kun",
+        "sentenceWithRuby": "東から のぼる。",
+        "sentenceHiragana": "ひがしから のぼる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7B54",
+    "character": "答",
+    "newExamples": [
+      {
+        "id": "U+7B54-ex-3",
+        "sentence": "しつもんに 答える。",
+        "reading": "こたえる",
+        "type": "kun",
+        "sentenceWithRuby": "しつもんに 答える。",
+        "sentenceHiragana": "しつもんに こたえるえる。"
+      },
+      {
+        "id": "U+7B54-ex-4",
+        "sentence": "せい答を かく。",
+        "reading": "とう",
+        "type": "on",
+        "sentenceWithRuby": "せい答を かく。",
+        "sentenceHiragana": "せいとうを かく。"
+      },
+      {
+        "id": "U+7B54-ex-5",
+        "sentence": "正しい 答え。",
+        "reading": "こたえ",
+        "type": "kun",
+        "sentenceWithRuby": "正[せい]しい 答え。",
+        "sentenceHiragana": "せいしい こたええ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+982D",
+    "character": "頭",
+    "newExamples": [
+      {
+        "id": "U+982D-ex-3",
+        "sentence": "頭が いい。",
+        "reading": "あたま",
+        "type": "kun",
+        "sentenceWithRuby": "頭が いい。",
+        "sentenceHiragana": "あたまが いい。"
+      },
+      {
+        "id": "U+982D-ex-4",
+        "sentence": "一頭の うま。",
+        "reading": "とう",
+        "type": "on",
+        "sentenceWithRuby": "一[いち]頭の うま。",
+        "sentenceHiragana": "いちとうの うま。"
+      },
+      {
+        "id": "U+982D-ex-5",
+        "sentence": "頭を あらう。",
+        "reading": "あたま",
+        "type": "kun",
+        "sentenceWithRuby": "頭を あらう。",
+        "sentenceHiragana": "あたまを あらう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+540C",
+    "character": "同",
+    "newExamples": [
+      {
+        "id": "U+540C-ex-3",
+        "sentence": "同じ いろ。",
+        "reading": "おなじ",
+        "type": "kun",
+        "sentenceWithRuby": "同じ いろ。",
+        "sentenceHiragana": "おなじじ いろ。"
+      },
+      {
+        "id": "U+540C-ex-4",
+        "sentence": "同じょうする。",
+        "reading": "どう",
+        "type": "on",
+        "sentenceWithRuby": "同じょうする。",
+        "sentenceHiragana": "どうじょうする。"
+      },
+      {
+        "id": "U+540C-ex-5",
+        "sentence": "同じく する。",
+        "reading": "おな",
+        "type": "kun",
+        "sentenceWithRuby": "同じく する。",
+        "sentenceHiragana": "おなじく する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9053",
+    "character": "道",
+    "newExamples": [
+      {
+        "id": "U+9053-ex-3",
+        "sentence": "まっすぐな 道。",
+        "reading": "みち",
+        "type": "kun",
+        "sentenceWithRuby": "まっすぐな 道。",
+        "sentenceHiragana": "まっすぐな みち。"
+      },
+      {
+        "id": "U+9053-ex-4",
+        "sentence": "道ろを あるく。",
+        "reading": "どう",
+        "type": "on",
+        "sentenceWithRuby": "道ろを あるく。",
+        "sentenceHiragana": "どうろを あるく。"
+      },
+      {
+        "id": "U+9053-ex-5",
+        "sentence": "いえへの 道。",
+        "reading": "みち",
+        "type": "kun",
+        "sentenceWithRuby": "いえへの 道。",
+        "sentenceHiragana": "いえへの みち。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8AAD",
+    "character": "読",
+    "newExamples": [
+      {
+        "id": "U+8AAD-ex-3",
+        "sentence": "ほんを 読む。",
+        "reading": "よむ",
+        "type": "kun",
+        "sentenceWithRuby": "ほんを 読む。",
+        "sentenceHiragana": "ほんを よむむ。"
+      },
+      {
+        "id": "U+8AAD-ex-4",
+        "sentence": "読しょの じかん。",
+        "reading": "どく",
+        "type": "on",
+        "sentenceWithRuby": "読しょの じかん。",
+        "sentenceHiragana": "どくしょの じかん。"
+      },
+      {
+        "id": "U+8AAD-ex-5",
+        "sentence": "読み かたを ならう。",
+        "reading": "よ",
+        "type": "kun",
+        "sentenceWithRuby": "読み かたを ならう。",
+        "sentenceHiragana": "よみ かたを ならう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5185",
+    "character": "内",
+    "newExamples": [
+      {
+        "id": "U+5185-ex-3",
+        "sentence": "いえの 内に いる。",
+        "reading": "うち",
+        "type": "kun",
+        "sentenceWithRuby": "いえの 内に いる。",
+        "sentenceHiragana": "いえの うちに いる。"
+      },
+      {
+        "id": "U+5185-ex-4",
+        "sentence": "あん内する。",
+        "reading": "ない",
+        "type": "on",
+        "sentenceWithRuby": "あん内する。",
+        "sentenceHiragana": "あんないする。"
+      },
+      {
+        "id": "U+5185-ex-5",
+        "sentence": "内がわ。",
+        "reading": "うち",
+        "type": "kun",
+        "sentenceWithRuby": "内がわ。",
+        "sentenceHiragana": "うちがわ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5357",
+    "character": "南",
+    "newExamples": [
+      {
+        "id": "U+5357-ex-3",
+        "sentence": "南の そら。",
+        "reading": "みなみ",
+        "type": "kun",
+        "sentenceWithRuby": "南の そら。",
+        "sentenceHiragana": "みなみの そら。"
+      },
+      {
+        "id": "U+5357-ex-4",
+        "sentence": "南ぶに いく。",
+        "reading": "なん",
+        "type": "on",
+        "sentenceWithRuby": "南ぶに いく。",
+        "sentenceHiragana": "なんぶに いく。"
+      },
+      {
+        "id": "U+5357-ex-5",
+        "sentence": "南へ とぶ。",
+        "reading": "みなみ",
+        "type": "kun",
+        "sentenceWithRuby": "南へ とぶ。",
+        "sentenceHiragana": "みなみへ とぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8089",
+    "character": "肉",
+    "newExamples": [
+      {
+        "id": "U+8089-ex-3",
+        "sentence": "肉を たべる。",
+        "reading": "にく",
+        "type": "kun",
+        "sentenceWithRuby": "肉を たべる。",
+        "sentenceHiragana": "にくを たべる。"
+      },
+      {
+        "id": "U+8089-ex-4",
+        "sentence": "肉しょくする。",
+        "reading": "にく",
+        "type": "on",
+        "sentenceWithRuby": "肉しょくする。",
+        "sentenceHiragana": "にくしょくする。"
+      },
+      {
+        "id": "U+8089-ex-5",
+        "sentence": "肉が やわらかい。",
+        "reading": "にく",
+        "type": "kun",
+        "sentenceWithRuby": "肉が やわらかい。",
+        "sentenceHiragana": "にくが やわらかい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+99AC",
+    "character": "馬",
+    "newExamples": [
+      {
+        "id": "U+99AC-ex-3",
+        "sentence": "馬に のる。",
+        "reading": "うま",
+        "type": "kun",
+        "sentenceWithRuby": "馬に のる。",
+        "sentenceHiragana": "うまに のる。"
+      },
+      {
+        "id": "U+99AC-ex-4",
+        "sentence": "馬車に のる。",
+        "reading": "ば",
+        "type": "on",
+        "sentenceWithRuby": "馬車に のる。",
+        "sentenceHiragana": "ば車に のる。"
+      },
+      {
+        "id": "U+99AC-ex-5",
+        "sentence": "はやい 馬。",
+        "reading": "うま",
+        "type": "kun",
+        "sentenceWithRuby": "はやい 馬。",
+        "sentenceHiragana": "はやい うま。"
+      }
+    ]
+  }
+]

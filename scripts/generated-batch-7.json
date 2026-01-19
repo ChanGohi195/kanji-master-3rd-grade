@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+4F5C",
+    "character": "作",
+    "newExamples": [
+      {
+        "id": "U+4F5C-ex-3",
+        "sentence": "作る。",
+        "reading": "つく",
+        "type": "kun",
+        "sentenceWithRuby": "作る。",
+        "sentenceHiragana": "つくる。"
+      },
+      {
+        "id": "U+4F5C-ex-4",
+        "sentence": "作ぶんを かく。",
+        "reading": "さく",
+        "type": "on",
+        "sentenceWithRuby": "作ぶんを かく。",
+        "sentenceHiragana": "さくぶんを かく。"
+      },
+      {
+        "id": "U+4F5C-ex-5",
+        "sentence": "おべんとうを 作る。",
+        "reading": "つく",
+        "type": "kun",
+        "sentenceWithRuby": "おべんとうを 作る。",
+        "sentenceHiragana": "おべんとうを つくる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7B97",
+    "character": "算",
+    "newExamples": [
+      {
+        "id": "U+7B97-ex-3",
+        "sentence": "算数の もんだい。",
+        "reading": "さん",
+        "type": "on",
+        "sentenceWithRuby": "算数の もんだい。",
+        "sentenceHiragana": "さん数の もんだい。"
+      },
+      {
+        "id": "U+7B97-ex-4",
+        "sentence": "けい算する。",
+        "reading": "さん",
+        "type": "on",
+        "sentenceWithRuby": "けい算する。",
+        "sentenceHiragana": "けいさんする。"
+      },
+      {
+        "id": "U+7B97-ex-5",
+        "sentence": "たし算を する。",
+        "reading": "さん",
+        "type": "on",
+        "sentenceWithRuby": "たし算を する。",
+        "sentenceHiragana": "たしさんを する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6B62",
+    "character": "止",
+    "newExamples": [
+      {
+        "id": "U+6B62-ex-3",
+        "sentence": "バスが 止まる。",
+        "reading": "とまる",
+        "type": "kun",
+        "sentenceWithRuby": "バスが 止まる。",
+        "sentenceHiragana": "バスが とまるまる。"
+      },
+      {
+        "id": "U+6B62-ex-4",
+        "sentence": "止める。",
+        "reading": "と",
+        "type": "kun",
+        "sentenceWithRuby": "止める。",
+        "sentenceHiragana": "とめる。"
+      },
+      {
+        "id": "U+6B62-ex-5",
+        "sentence": "中止する。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "中止する。",
+        "sentenceHiragana": "中しする。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5E02",
+    "character": "市",
+    "newExamples": [
+      {
+        "id": "U+5E02-ex-3",
+        "sentence": "市やくしょに いく。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "市やくしょに いく。",
+        "sentenceHiragana": "しやくしょに いく。"
+      },
+      {
+        "id": "U+5E02-ex-4",
+        "sentence": "市で かいものする。",
+        "reading": "いち",
+        "type": "kun",
+        "sentenceWithRuby": "市で かいものする。",
+        "sentenceHiragana": "いちで かいものする。"
+      },
+      {
+        "id": "U+5E02-ex-5",
+        "sentence": "市みんの ために。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "市みんの ために。",
+        "sentenceHiragana": "しみんの ために。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+77E2",
+    "character": "矢",
+    "newExamples": [
+      {
+        "id": "U+77E2-ex-3",
+        "sentence": "矢を うつ。",
+        "reading": "や",
+        "type": "kun",
+        "sentenceWithRuby": "矢を うつ。",
+        "sentenceHiragana": "やを うつ。"
+      },
+      {
+        "id": "U+77E2-ex-4",
+        "sentence": "矢が とぶ。",
+        "reading": "や",
+        "type": "kun",
+        "sentenceWithRuby": "矢が とぶ。",
+        "sentenceHiragana": "やが とぶ。"
+      },
+      {
+        "id": "U+77E2-ex-5",
+        "sentence": "ほう矢を さだめる。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "ほう矢を さだめる。",
+        "sentenceHiragana": "ほうしを さだめる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+59C9",
+    "character": "姉",
+    "newExamples": [
+      {
+        "id": "U+59C9-ex-3",
+        "sentence": "姉と かいものする。",
+        "reading": "あね",
+        "type": "kun",
+        "sentenceWithRuby": "姉と かいものする。",
+        "sentenceHiragana": "あねと かいものする。"
+      },
+      {
+        "id": "U+59C9-ex-4",
+        "sentence": "姉まいで いく。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "姉まいで いく。",
+        "sentenceHiragana": "しまいで いく。"
+      },
+      {
+        "id": "U+59C9-ex-5",
+        "sentence": "姉が いる。",
+        "reading": "あね",
+        "type": "kun",
+        "sentenceWithRuby": "姉が いる。",
+        "sentenceHiragana": "あねが いる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+601D",
+    "character": "思",
+    "newExamples": [
+      {
+        "id": "U+601D-ex-3",
+        "sentence": "思う。",
+        "reading": "おも",
+        "type": "kun",
+        "sentenceWithRuby": "思う。",
+        "sentenceHiragana": "おもう。"
+      },
+      {
+        "id": "U+601D-ex-4",
+        "sentence": "思い出。",
+        "reading": "おもい",
+        "type": "kun",
+        "sentenceWithRuby": "思い出。",
+        "sentenceHiragana": "おもいい出。"
+      },
+      {
+        "id": "U+601D-ex-5",
+        "sentence": "意思を つたえる。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "意思を つたえる。",
+        "sentenceHiragana": "意しを つたえる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7D19",
+    "character": "紙",
+    "newExamples": [
+      {
+        "id": "U+7D19-ex-3",
+        "sentence": "白い 紙。",
+        "reading": "かみ",
+        "type": "kun",
+        "sentenceWithRuby": "白[しろ]い 紙。",
+        "sentenceHiragana": "しろい かみ。"
+      },
+      {
+        "id": "U+7D19-ex-4",
+        "sentence": "紙ばんを つかう。",
+        "reading": "し",
+        "type": "on",
+        "sentenceWithRuby": "紙ばんを つかう。",
+        "sentenceHiragana": "しばんを つかう。"
+      },
+      {
+        "id": "U+7D19-ex-5",
+        "sentence": "紙を おる。",
+        "reading": "かみ",
+        "type": "kun",
+        "sentenceWithRuby": "紙を おる。",
+        "sentenceHiragana": "かみを おる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5BFA",
+    "character": "寺",
+    "newExamples": [
+      {
+        "id": "U+5BFA-ex-3",
+        "sentence": "お寺に おまいりする。",
+        "reading": "てら",
+        "type": "kun",
+        "sentenceWithRuby": "お寺に おまいりする。",
+        "sentenceHiragana": "おてらに おまいりする。"
+      },
+      {
+        "id": "U+5BFA-ex-4",
+        "sentence": "金ぞう寺を みる。",
+        "reading": "じ",
+        "type": "on",
+        "sentenceWithRuby": "金ぞう寺を みる。",
+        "sentenceHiragana": "金ぞうじを みる。"
+      },
+      {
+        "id": "U+5BFA-ex-5",
+        "sentence": "寺の かねが なる。",
+        "reading": "てら",
+        "type": "kun",
+        "sentenceWithRuby": "寺の かねが なる。",
+        "sentenceHiragana": "てらの かねが なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+81EA",
+    "character": "自",
+    "newExamples": [
+      {
+        "id": "U+81EA-ex-3",
+        "sentence": "自分で やる。",
+        "reading": "じ",
+        "type": "on",
+        "sentenceWithRuby": "自分で やる。",
+        "sentenceHiragana": "じ分で やる。"
+      },
+      {
+        "id": "U+81EA-ex-4",
+        "sentence": "自ら すすんで てつだう。",
+        "reading": "みずか",
+        "type": "kun",
+        "sentenceWithRuby": "自ら すすんで てつだう。",
+        "sentenceHiragana": "みずから すすんで てつだう。"
+      },
+      {
+        "id": "U+81EA-ex-5",
+        "sentence": "自てん車に のる。",
+        "reading": "じ",
+        "type": "on",
+        "sentenceWithRuby": "自てん車に のる。",
+        "sentenceHiragana": "じてん車に のる。"
+      }
+    ]
+  }
+]

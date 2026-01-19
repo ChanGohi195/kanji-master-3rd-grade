@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+5F15",
+    "character": "引",
+    "newExamples": [
+      {
+        "id": "U+5F15-ex-3",
+        "sentence": "つなを 引く。",
+        "reading": "ひく",
+        "type": "kun",
+        "sentenceWithRuby": "つなを 引く。",
+        "sentenceHiragana": "つなを ひく。"
+      },
+      {
+        "id": "U+5F15-ex-4",
+        "sentence": "いすを 引く。",
+        "reading": "ひく",
+        "type": "kun",
+        "sentenceWithRuby": "いすを 引く。",
+        "sentenceHiragana": "いすを ひく。"
+      },
+      {
+        "id": "U+5F15-ex-5",
+        "sentence": "せんを 引く。",
+        "reading": "ひく",
+        "type": "kun",
+        "sentenceWithRuby": "せんを 引く。",
+        "sentenceHiragana": "せんを ひく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7FBD",
+    "character": "羽",
+    "newExamples": [
+      {
+        "id": "U+7FBD-ex-3",
+        "sentence": "白い 羽を ひろう。",
+        "reading": "はね",
+        "type": "kun",
+        "sentenceWithRuby": "白[しろ]い 羽を ひろう。",
+        "sentenceHiragana": "しろい はねを ひろう。"
+      },
+      {
+        "id": "U+7FBD-ex-4",
+        "sentence": "二羽の すずめ。",
+        "reading": "わ",
+        "type": "on",
+        "sentenceWithRuby": "二[に]羽の すずめ。",
+        "sentenceHiragana": "にわの すずめ。"
+      },
+      {
+        "id": "U+7FBD-ex-5",
+        "sentence": "羽を ひろげる。",
+        "reading": "はね",
+        "type": "kun",
+        "sentenceWithRuby": "羽を ひろげる。",
+        "sentenceHiragana": "はねを ひろげる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+96F2",
+    "character": "雲",
+    "newExamples": [
+      {
+        "id": "U+96F2-ex-3",
+        "sentence": "雲が ながれる。",
+        "reading": "くも",
+        "type": "kun",
+        "sentenceWithRuby": "雲が ながれる。",
+        "sentenceHiragana": "くもが ながれる。"
+      },
+      {
+        "id": "U+96F2-ex-4",
+        "sentence": "雲の うえは あおい。",
+        "reading": "くも",
+        "type": "kun",
+        "sentenceWithRuby": "雲の うえは あおい。",
+        "sentenceHiragana": "くもの うえは あおい。"
+      },
+      {
+        "id": "U+96F2-ex-5",
+        "sentence": "大きな 雲が でた。",
+        "reading": "くも",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 雲が でた。",
+        "sentenceHiragana": "おおきな くもが でた。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5712",
+    "character": "園",
+    "newExamples": [
+      {
+        "id": "U+5712-ex-3",
+        "sentence": "ゆう園ちに いく。",
+        "reading": "えん",
+        "type": "on",
+        "sentenceWithRuby": "ゆう園ちに いく。",
+        "sentenceHiragana": "ゆうえんちに いく。"
+      },
+      {
+        "id": "U+5712-ex-4",
+        "sentence": "はな園を あるく。",
+        "reading": "えん",
+        "type": "on",
+        "sentenceWithRuby": "はな園を あるく。",
+        "sentenceHiragana": "はなえんを あるく。"
+      },
+      {
+        "id": "U+5712-ex-5",
+        "sentence": "えん園の せんせい。",
+        "reading": "えん",
+        "type": "on",
+        "sentenceWithRuby": "えん園の せんせい。",
+        "sentenceHiragana": "えんえんの せんせい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9060",
+    "character": "遠",
+    "newExamples": [
+      {
+        "id": "U+9060-ex-3",
+        "sentence": "えきは 遠い。",
+        "reading": "とおい",
+        "type": "kun",
+        "sentenceWithRuby": "えきは 遠い。",
+        "sentenceHiragana": "えきは とおい。"
+      },
+      {
+        "id": "U+9060-ex-4",
+        "sentence": "遠くの ほしを みる。",
+        "reading": "とお",
+        "type": "kun",
+        "sentenceWithRuby": "遠くの ほしを みる。",
+        "sentenceHiragana": "とおくの ほしを みる。"
+      },
+      {
+        "id": "U+9060-ex-5",
+        "sentence": "いえは ここから 遠い。",
+        "reading": "とおい",
+        "type": "kun",
+        "sentenceWithRuby": "いえは ここから 遠い。",
+        "sentenceHiragana": "いえは ここから とおい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4F55",
+    "character": "何",
+    "newExamples": [
+      {
+        "id": "U+4F55-ex-3",
+        "sentence": "何が すき？",
+        "reading": "なに",
+        "type": "kun",
+        "sentenceWithRuby": "何が すき？",
+        "sentenceHiragana": "なにが すき？"
+      },
+      {
+        "id": "U+4F55-ex-4",
+        "sentence": "何ようびですか。",
+        "reading": "なん",
+        "type": "kun",
+        "sentenceWithRuby": "何ようびですか。",
+        "sentenceHiragana": "なんようびですか。"
+      },
+      {
+        "id": "U+4F55-ex-5",
+        "sentence": "何を かいたの？",
+        "reading": "なに",
+        "type": "kun",
+        "sentenceWithRuby": "何を かいたの？",
+        "sentenceHiragana": "なにを かいたの？"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+79D1",
+    "character": "科",
+    "newExamples": [
+      {
+        "id": "U+79D1-ex-3",
+        "sentence": "か科で ちりょうする。",
+        "reading": "か",
+        "type": "on",
+        "sentenceWithRuby": "か科で ちりょうする。",
+        "sentenceHiragana": "かかで ちりょうする。"
+      },
+      {
+        "id": "U+79D1-ex-4",
+        "sentence": "ずこう科が たのしい。",
+        "reading": "か",
+        "type": "on",
+        "sentenceWithRuby": "ずこう科が たのしい。",
+        "sentenceHiragana": "ずこうかが たのしい。"
+      },
+      {
+        "id": "U+79D1-ex-5",
+        "sentence": "さん科の じかん。",
+        "reading": "か",
+        "type": "on",
+        "sentenceWithRuby": "さん科の じかん。",
+        "sentenceHiragana": "さんかの じかん。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+590F",
+    "character": "夏",
+    "newExamples": [
+      {
+        "id": "U+590F-ex-3",
+        "sentence": "夏に うみへ いく。",
+        "reading": "なつ",
+        "type": "kun",
+        "sentenceWithRuby": "夏に うみへ いく。",
+        "sentenceHiragana": "なつに うみへ いく。"
+      },
+      {
+        "id": "U+590F-ex-4",
+        "sentence": "夏の むしを つかまえる。",
+        "reading": "なつ",
+        "type": "kun",
+        "sentenceWithRuby": "夏の むしを つかまえる。",
+        "sentenceHiragana": "なつの むしを つかまえる。"
+      },
+      {
+        "id": "U+590F-ex-5",
+        "sentence": "夏は すいかが おいしい。",
+        "reading": "なつ",
+        "type": "kun",
+        "sentenceWithRuby": "夏は すいかが おいしい。",
+        "sentenceHiragana": "なつは すいかが おいしい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5BB6",
+    "character": "家",
+    "newExamples": [
+      {
+        "id": "U+5BB6-ex-3",
+        "sentence": "家の まえで あそぶ。",
+        "reading": "いえ",
+        "type": "kun",
+        "sentenceWithRuby": "家の まえで あそぶ。",
+        "sentenceHiragana": "いえの まえで あそぶ。"
+      },
+      {
+        "id": "U+5BB6-ex-4",
+        "sentence": "のう家の しごと。",
+        "reading": "か",
+        "type": "on",
+        "sentenceWithRuby": "のう家の しごと。",
+        "sentenceHiragana": "のうかの しごと。"
+      },
+      {
+        "id": "U+5BB6-ex-5",
+        "sentence": "あたらしい 家に すむ。",
+        "reading": "いえ",
+        "type": "kun",
+        "sentenceWithRuby": "あたらしい 家に すむ。",
+        "sentenceHiragana": "あたらしい いえに すむ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6B4C",
+    "character": "歌",
+    "newExamples": [
+      {
+        "id": "U+6B4C-ex-3",
+        "sentence": "おんがくで 歌を きく。",
+        "reading": "うた",
+        "type": "kun",
+        "sentenceWithRuby": "おんがくで 歌を きく。",
+        "sentenceHiragana": "おんがくで うたを きく。"
+      },
+      {
+        "id": "U+6B4C-ex-4",
+        "sentence": "みんなで 歌を うたう。",
+        "reading": "うた",
+        "type": "kun",
+        "sentenceWithRuby": "みんなで 歌を うたう。",
+        "sentenceHiragana": "みんなで うたを うたう。"
+      },
+      {
+        "id": "U+6B4C-ex-5",
+        "sentence": "あたらしい 歌を おぼえる。",
+        "reading": "うた",
+        "type": "kun",
+        "sentenceWithRuby": "あたらしい 歌を おぼえる。",
+        "sentenceHiragana": "あたらしい うたを おぼえる。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+6642",
+    "character": "時",
+    "newExamples": [
+      {
+        "id": "U+6642-ex-3",
+        "sentence": "その 時に あった。",
+        "reading": "とき",
+        "type": "kun",
+        "sentenceWithRuby": "その 時に あった。",
+        "sentenceHiragana": "その ときに あった。"
+      },
+      {
+        "id": "U+6642-ex-4",
+        "sentence": "三時に なる。",
+        "reading": "じ",
+        "type": "on",
+        "sentenceWithRuby": "三[さん]時に なる。",
+        "sentenceHiragana": "さんじに なる。"
+      },
+      {
+        "id": "U+6642-ex-5",
+        "sentence": "楽しい 時。",
+        "reading": "とき",
+        "type": "kun",
+        "sentenceWithRuby": "楽しい 時。",
+        "sentenceHiragana": "楽しい とき。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5BA4",
+    "character": "室",
+    "newExamples": [
+      {
+        "id": "U+5BA4-ex-3",
+        "sentence": "教室に はいる。",
+        "reading": "しつ",
+        "type": "on",
+        "sentenceWithRuby": "教室に はいる。",
+        "sentenceHiragana": "教しつに はいる。"
+      },
+      {
+        "id": "U+5BA4-ex-4",
+        "sentence": "おん室で あたたまる。",
+        "reading": "しつ",
+        "type": "on",
+        "sentenceWithRuby": "おん室で あたたまる。",
+        "sentenceHiragana": "おんしつで あたたまる。"
+      },
+      {
+        "id": "U+5BA4-ex-5",
+        "sentence": "室に しまう。",
+        "reading": "むろ",
+        "type": "kun",
+        "sentenceWithRuby": "室に しまう。",
+        "sentenceHiragana": "むろに しまう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+793E",
+    "character": "社",
+    "newExamples": [
+      {
+        "id": "U+793E-ex-3",
+        "sentence": "会社で はたらく。",
+        "reading": "しゃ",
+        "type": "on",
+        "sentenceWithRuby": "会社で はたらく。",
+        "sentenceHiragana": "会しゃで はたらく。"
+      },
+      {
+        "id": "U+793E-ex-4",
+        "sentence": "神社に おまいりする。",
+        "reading": "やしろ",
+        "type": "kun",
+        "sentenceWithRuby": "神社に おまいりする。",
+        "sentenceHiragana": "神やしろに おまいりする。"
+      },
+      {
+        "id": "U+793E-ex-5",
+        "sentence": "社会の べん強。",
+        "reading": "しゃ",
+        "type": "on",
+        "sentenceWithRuby": "社会の べん強。",
+        "sentenceHiragana": "しゃ会の べん強。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9996",
+    "character": "首",
+    "newExamples": [
+      {
+        "id": "U+9996-ex-3",
+        "sentence": "首を まわす。",
+        "reading": "くび",
+        "type": "kun",
+        "sentenceWithRuby": "首を まわす。",
+        "sentenceHiragana": "くびを まわす。"
+      },
+      {
+        "id": "U+9996-ex-4",
+        "sentence": "首とに すむ。",
+        "reading": "しゅ",
+        "type": "on",
+        "sentenceWithRuby": "首とに すむ。",
+        "sentenceHiragana": "しゅとに すむ。"
+      },
+      {
+        "id": "U+9996-ex-5",
+        "sentence": "首が いたい。",
+        "reading": "くび",
+        "type": "kun",
+        "sentenceWithRuby": "首が いたい。",
+        "sentenceHiragana": "くびが いたい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+79CB",
+    "character": "秋",
+    "newExamples": [
+      {
+        "id": "U+79CB-ex-3",
+        "sentence": "秋に なる。",
+        "reading": "あき",
+        "type": "kun",
+        "sentenceWithRuby": "秋に なる。",
+        "sentenceHiragana": "あきに なる。"
+      },
+      {
+        "id": "U+79CB-ex-4",
+        "sentence": "しゅう分の 日。",
+        "reading": "しゅう",
+        "type": "on",
+        "sentenceWithRuby": "しゅう分の 日。",
+        "sentenceHiragana": "しゅう分の 日。"
+      },
+      {
+        "id": "U+79CB-ex-5",
+        "sentence": "秋の はっぴょう会。",
+        "reading": "あき",
+        "type": "kun",
+        "sentenceWithRuby": "秋の はっぴょう会。",
+        "sentenceHiragana": "あきの はっぴょう会。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9031",
+    "character": "週",
+    "newExamples": [
+      {
+        "id": "U+9031-ex-3",
+        "sentence": "一週間が おわる。",
+        "reading": "しゅう",
+        "type": "on",
+        "sentenceWithRuby": "一[いち]週間が おわる。",
+        "sentenceHiragana": "いちしゅう間が おわる。"
+      },
+      {
+        "id": "U+9031-ex-4",
+        "sentence": "来週 あう。",
+        "reading": "しゅう",
+        "type": "on",
+        "sentenceWithRuby": "来[らい]週 あう。",
+        "sentenceHiragana": "らいしゅう あう。"
+      },
+      {
+        "id": "U+9031-ex-5",
+        "sentence": "まい週 ならう。",
+        "reading": "しゅう",
+        "type": "on",
+        "sentenceWithRuby": "まい週 ならう。",
+        "sentenceHiragana": "まいしゅう ならう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6625",
+    "character": "春",
+    "newExamples": [
+      {
+        "id": "U+6625-ex-3",
+        "sentence": "春に なる。",
+        "reading": "はる",
+        "type": "kun",
+        "sentenceWithRuby": "春に なる。",
+        "sentenceHiragana": "はるに なる。"
+      },
+      {
+        "id": "U+6625-ex-4",
+        "sentence": "せい春の とき。",
+        "reading": "しゅん",
+        "type": "on",
+        "sentenceWithRuby": "せい春の とき。",
+        "sentenceHiragana": "せいしゅんの とき。"
+      },
+      {
+        "id": "U+6625-ex-5",
+        "sentence": "春の はな。",
+        "reading": "はる",
+        "type": "kun",
+        "sentenceWithRuby": "春の はな。",
+        "sentenceHiragana": "はるの はな。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+66F8",
+    "character": "書",
+    "newExamples": [
+      {
+        "id": "U+66F8-ex-3",
+        "sentence": "てがみを 書く。",
+        "reading": "かく",
+        "type": "kun",
+        "sentenceWithRuby": "てがみを 書く。",
+        "sentenceHiragana": "てがみを かくく。"
+      },
+      {
+        "id": "U+66F8-ex-4",
+        "sentence": "図書かんに いく。",
+        "reading": "しょ",
+        "type": "on",
+        "sentenceWithRuby": "図書かんに いく。",
+        "sentenceHiragana": "図しょかんに いく。"
+      },
+      {
+        "id": "U+66F8-ex-5",
+        "sentence": "書き ものを する。",
+        "reading": "か",
+        "type": "kun",
+        "sentenceWithRuby": "書き ものを する。",
+        "sentenceHiragana": "かき ものを する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5C11",
+    "character": "少",
+    "newExamples": [
+      {
+        "id": "U+5C11-ex-3",
+        "sentence": "人が 少ない。",
+        "reading": "すくない",
+        "type": "kun",
+        "sentenceWithRuby": "人が 少ない。",
+        "sentenceHiragana": "人が すくないない。"
+      },
+      {
+        "id": "U+5C11-ex-4",
+        "sentence": "少し やすむ。",
+        "reading": "すこ",
+        "type": "kun",
+        "sentenceWithRuby": "少し やすむ。",
+        "sentenceHiragana": "すこし やすむ。"
+      },
+      {
+        "id": "U+5C11-ex-5",
+        "sentence": "少年が はしる。",
+        "reading": "しょう",
+        "type": "on",
+        "sentenceWithRuby": "少年が はしる。",
+        "sentenceHiragana": "しょう年が はしる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5F31",
+    "character": "弱",
+    "newExamples": [
+      {
+        "id": "U+5F31-ex-3",
+        "sentence": "弱い こえ。",
+        "reading": "よわい",
+        "type": "kun",
+        "sentenceWithRuby": "弱い こえ。",
+        "sentenceHiragana": "よわいい こえ。"
+      },
+      {
+        "id": "U+5F31-ex-4",
+        "sentence": "弱く なる。",
+        "reading": "よわ",
+        "type": "kun",
+        "sentenceWithRuby": "弱く なる。",
+        "sentenceHiragana": "よわく なる。"
+      },
+      {
+        "id": "U+5F31-ex-5",
+        "sentence": "じゃく点を なおす。",
+        "reading": "じゃく",
+        "type": "on",
+        "sentenceWithRuby": "じゃく点を なおす。",
+        "sentenceHiragana": "じゃく点を なおす。"
+      }
+    ]
+  }
+]

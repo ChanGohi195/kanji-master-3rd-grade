@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+884C",
+    "character": "行",
+    "newExamples": [
+      {
+        "id": "U+884C-ex-3",
+        "sentence": "がっこうに 行く。",
+        "reading": "いく",
+        "type": "kun",
+        "sentenceWithRuby": "がっこうに 行く。",
+        "sentenceHiragana": "がっこうに いくく。"
+      },
+      {
+        "id": "U+884C-ex-4",
+        "sentence": "行き。",
+        "reading": "ゆ",
+        "type": "kun",
+        "sentenceWithRuby": "行き。",
+        "sentenceHiragana": "ゆき。"
+      },
+      {
+        "id": "U+884C-ex-5",
+        "sentence": "りょ行に でかける。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "りょ行に でかける。",
+        "sentenceHiragana": "りょこうに でかける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9AD8",
+    "character": "高",
+    "newExamples": [
+      {
+        "id": "U+9AD8-ex-3",
+        "sentence": "高い やま。",
+        "reading": "たかい",
+        "type": "kun",
+        "sentenceWithRuby": "高い やま。",
+        "sentenceHiragana": "たかいい やま。"
+      },
+      {
+        "id": "U+9AD8-ex-4",
+        "sentence": "高さを はかる。",
+        "reading": "たか",
+        "type": "kun",
+        "sentenceWithRuby": "高さを はかる。",
+        "sentenceHiragana": "たかさを はかる。"
+      },
+      {
+        "id": "U+9AD8-ex-5",
+        "sentence": "高こうの せんぱい。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "高こうの せんぱい。",
+        "sentenceHiragana": "こうこうの せんぱい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9EC4",
+    "character": "黄",
+    "newExamples": [
+      {
+        "id": "U+9EC4-ex-3",
+        "sentence": "黄色い はな。",
+        "reading": "き",
+        "type": "kun",
+        "sentenceWithRuby": "黄色い はな。",
+        "sentenceHiragana": "き色い はな。"
+      },
+      {
+        "id": "U+9EC4-ex-4",
+        "sentence": "黄金の かざり。",
+        "reading": "こう",
+        "type": "on",
+        "sentenceWithRuby": "黄金の かざり。",
+        "sentenceHiragana": "こう金の かざり。"
+      },
+      {
+        "id": "U+9EC4-ex-5",
+        "sentence": "黄いろに なる。",
+        "reading": "き",
+        "type": "kun",
+        "sentenceWithRuby": "黄いろに なる。",
+        "sentenceHiragana": "きいろに なる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5408",
+    "character": "合",
+    "newExamples": [
+      {
+        "id": "U+5408-ex-3",
+        "sentence": "ちからを 合わせる。",
+        "reading": "あう",
+        "type": "kun",
+        "sentenceWithRuby": "ちからを 合わせる。",
+        "sentenceHiragana": "ちからを あうわせる。"
+      },
+      {
+        "id": "U+5408-ex-4",
+        "sentence": "ごう計する。",
+        "reading": "ごう",
+        "type": "on",
+        "sentenceWithRuby": "ごう計する。",
+        "sentenceHiragana": "ごう計する。"
+      },
+      {
+        "id": "U+5408-ex-5",
+        "sentence": "合う ふく。",
+        "reading": "あ",
+        "type": "kun",
+        "sentenceWithRuby": "合う ふく。",
+        "sentenceHiragana": "あう ふく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8C37",
+    "character": "谷",
+    "newExamples": [
+      {
+        "id": "U+8C37-ex-3",
+        "sentence": "谷に おりる。",
+        "reading": "たに",
+        "type": "kun",
+        "sentenceWithRuby": "谷に おりる。",
+        "sentenceHiragana": "たにに おりる。"
+      },
+      {
+        "id": "U+8C37-ex-4",
+        "sentence": "深い 谷。",
+        "reading": "たに",
+        "type": "kun",
+        "sentenceWithRuby": "深い 谷。",
+        "sentenceHiragana": "深い たに。"
+      },
+      {
+        "id": "U+8C37-ex-5",
+        "sentence": "たに谷を わたる。",
+        "reading": "こく",
+        "type": "on",
+        "sentenceWithRuby": "たに谷を わたる。",
+        "sentenceHiragana": "たにこくを わたる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+56FD",
+    "character": "国",
+    "newExamples": [
+      {
+        "id": "U+56FD-ex-3",
+        "sentence": "日本の 国。",
+        "reading": "くに",
+        "type": "kun",
+        "sentenceWithRuby": "日本の 国。",
+        "sentenceHiragana": "日本の くに。"
+      },
+      {
+        "id": "U+56FD-ex-4",
+        "sentence": "外国に いく。",
+        "reading": "こく",
+        "type": "on",
+        "sentenceWithRuby": "外[がい]国に いく。",
+        "sentenceHiragana": "がいこくに いく。"
+      },
+      {
+        "id": "U+56FD-ex-5",
+        "sentence": "国を あいする。",
+        "reading": "くに",
+        "type": "kun",
+        "sentenceWithRuby": "国を あいする。",
+        "sentenceHiragana": "くにを あいする。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9ED2",
+    "character": "黒",
+    "newExamples": [
+      {
+        "id": "U+9ED2-ex-3",
+        "sentence": "黒い ねこ。",
+        "reading": "くろ",
+        "type": "kun",
+        "sentenceWithRuby": "黒い ねこ。",
+        "sentenceHiragana": "くろい ねこ。"
+      },
+      {
+        "id": "U+9ED2-ex-4",
+        "sentence": "黒い くつ。",
+        "reading": "くろい",
+        "type": "kun",
+        "sentenceWithRuby": "黒い くつ。",
+        "sentenceHiragana": "くろいい くつ。"
+      },
+      {
+        "id": "U+9ED2-ex-5",
+        "sentence": "黒ばんに かく。",
+        "reading": "こく",
+        "type": "on",
+        "sentenceWithRuby": "黒ばんに かく。",
+        "sentenceHiragana": "こくばんに かく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4ECA",
+    "character": "今",
+    "newExamples": [
+      {
+        "id": "U+4ECA-ex-3",
+        "sentence": "今から でかける。",
+        "reading": "いま",
+        "type": "kun",
+        "sentenceWithRuby": "今から でかける。",
+        "sentenceHiragana": "いまから でかける。"
+      },
+      {
+        "id": "U+4ECA-ex-4",
+        "sentence": "今日は いい てんき。",
+        "reading": "こん",
+        "type": "on",
+        "sentenceWithRuby": "今日は いい てんき。",
+        "sentenceHiragana": "こん日は いい てんき。"
+      },
+      {
+        "id": "U+4ECA-ex-5",
+        "sentence": "今 なにを している？",
+        "reading": "いま",
+        "type": "kun",
+        "sentenceWithRuby": "今 なにを している？",
+        "sentenceHiragana": "いま なにを している？"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+624D",
+    "character": "才",
+    "newExamples": [
+      {
+        "id": "U+624D-ex-3",
+        "sentence": "七才に なる。",
+        "reading": "さい",
+        "type": "on",
+        "sentenceWithRuby": "七才に なる。",
+        "sentenceHiragana": "七さいに なる。"
+      },
+      {
+        "id": "U+624D-ex-4",
+        "sentence": "天才だね。",
+        "reading": "さい",
+        "type": "on",
+        "sentenceWithRuby": "天才だね。",
+        "sentenceHiragana": "天さいだね。"
+      },
+      {
+        "id": "U+624D-ex-5",
+        "sentence": "才のうが ある。",
+        "reading": "さい",
+        "type": "on",
+        "sentenceWithRuby": "才のうが ある。",
+        "sentenceHiragana": "さいのうが ある。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7D30",
+    "character": "細",
+    "newExamples": [
+      {
+        "id": "U+7D30-ex-3",
+        "sentence": "細い いと。",
+        "reading": "ほそい",
+        "type": "kun",
+        "sentenceWithRuby": "細い いと。",
+        "sentenceHiragana": "ほそいい いと。"
+      },
+      {
+        "id": "U+7D30-ex-4",
+        "sentence": "細く する。",
+        "reading": "ほそ",
+        "type": "kun",
+        "sentenceWithRuby": "細く する。",
+        "sentenceHiragana": "ほそく する。"
+      },
+      {
+        "id": "U+7D30-ex-5",
+        "sentence": "くわ細に しらべる。",
+        "reading": "さい",
+        "type": "on",
+        "sentenceWithRuby": "くわ細に しらべる。",
+        "sentenceHiragana": "くわさいに しらべる。"
+      }
+    ]
+  }
+]

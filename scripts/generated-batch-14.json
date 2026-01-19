@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+58F2",
+    "character": "売",
+    "newExamples": [
+      {
+        "id": "U+58F2-ex-3",
+        "sentence": "ものを 売る。",
+        "reading": "うる",
+        "type": "kun",
+        "sentenceWithRuby": "ものを 売る。",
+        "sentenceHiragana": "ものを うるる。"
+      },
+      {
+        "id": "U+58F2-ex-4",
+        "sentence": "売てんする。",
+        "reading": "ばい",
+        "type": "on",
+        "sentenceWithRuby": "売てんする。",
+        "sentenceHiragana": "ばいてんする。"
+      },
+      {
+        "id": "U+58F2-ex-5",
+        "sentence": "売り ものが ある。",
+        "reading": "う",
+        "type": "kun",
+        "sentenceWithRuby": "売り ものが ある。",
+        "sentenceHiragana": "うり ものが ある。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9EA6",
+    "character": "麦",
+    "newExamples": [
+      {
+        "id": "U+9EA6-ex-3",
+        "sentence": "麦が そだつ。",
+        "reading": "むぎ",
+        "type": "kun",
+        "sentenceWithRuby": "麦が そだつ。",
+        "sentenceHiragana": "むぎが そだつ。"
+      },
+      {
+        "id": "U+9EA6-ex-4",
+        "sentence": "小麦こを つかう。",
+        "reading": "ばく",
+        "type": "on",
+        "sentenceWithRuby": "小麦こを つかう。",
+        "sentenceHiragana": "小ばくこを つかう。"
+      },
+      {
+        "id": "U+9EA6-ex-5",
+        "sentence": "麦ばたけ。",
+        "reading": "むぎ",
+        "type": "kun",
+        "sentenceWithRuby": "麦ばたけ。",
+        "sentenceHiragana": "むぎばたけ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+534A",
+    "character": "半",
+    "newExamples": [
+      {
+        "id": "U+534A-ex-3",
+        "sentence": "八時半に おきる。",
+        "reading": "はん",
+        "type": "on",
+        "sentenceWithRuby": "八[はち]時半に おきる。",
+        "sentenceHiragana": "はち時はんに おきる。"
+      },
+      {
+        "id": "U+534A-ex-4",
+        "sentence": "半ばに なる。",
+        "reading": "なか",
+        "type": "kun",
+        "sentenceWithRuby": "半ばに なる。",
+        "sentenceHiragana": "なかばに なる。"
+      },
+      {
+        "id": "U+534A-ex-5",
+        "sentence": "半分に わける。",
+        "reading": "はん",
+        "type": "on",
+        "sentenceWithRuby": "半分に わける。",
+        "sentenceHiragana": "はん分に わける。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+756A",
+    "character": "番",
+    "newExamples": [
+      {
+        "id": "U+756A-ex-3",
+        "sentence": "一番に なる。",
+        "reading": "ばん",
+        "type": "on",
+        "sentenceWithRuby": "一[いち]番に なる。",
+        "sentenceHiragana": "いちばんに なる。"
+      },
+      {
+        "id": "U+756A-ex-4",
+        "sentence": "ばん号を かく。",
+        "reading": "ばん",
+        "type": "on",
+        "sentenceWithRuby": "ばん号を かく。",
+        "sentenceHiragana": "ばん号を かく。"
+      },
+      {
+        "id": "U+756A-ex-5",
+        "sentence": "じゅん番を まつ。",
+        "reading": "ばん",
+        "type": "on",
+        "sentenceWithRuby": "じゅん番を まつ。",
+        "sentenceHiragana": "じゅんばんを まつ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7236",
+    "character": "父",
+    "newExamples": [
+      {
+        "id": "U+7236-ex-3",
+        "sentence": "父と あそぶ。",
+        "reading": "ちち",
+        "type": "kun",
+        "sentenceWithRuby": "父と あそぶ。",
+        "sentenceHiragana": "ちちと あそぶ。"
+      },
+      {
+        "id": "U+7236-ex-4",
+        "sentence": "父母と でかける。",
+        "reading": "ふ",
+        "type": "on",
+        "sentenceWithRuby": "父母[はは]と でかける。",
+        "sentenceHiragana": "ふ母と でかける。"
+      },
+      {
+        "id": "U+7236-ex-5",
+        "sentence": "父が かえる。",
+        "reading": "ちち",
+        "type": "kun",
+        "sentenceWithRuby": "父が かえる。",
+        "sentenceHiragana": "ちちが かえる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+98A8",
+    "character": "風",
+    "newExamples": [
+      {
+        "id": "U+98A8-ex-3",
+        "sentence": "つよい 風。",
+        "reading": "かぜ",
+        "type": "kun",
+        "sentenceWithRuby": "つよい 風。",
+        "sentenceHiragana": "つよい かぜ。"
+      },
+      {
+        "id": "U+98A8-ex-4",
+        "sentence": "台風が くる。",
+        "reading": "ふう",
+        "type": "on",
+        "sentenceWithRuby": "台風が くる。",
+        "sentenceHiragana": "台ふうが くる。"
+      },
+      {
+        "id": "U+98A8-ex-5",
+        "sentence": "風が ふく。",
+        "reading": "かぜ",
+        "type": "kun",
+        "sentenceWithRuby": "風が ふく。",
+        "sentenceHiragana": "かぜが ふく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5206",
+    "character": "分",
+    "newExamples": [
+      {
+        "id": "U+5206-ex-3",
+        "sentence": "ふたつに 分ける。",
+        "reading": "わける",
+        "type": "kun",
+        "sentenceWithRuby": "ふたつに 分ける。",
+        "sentenceHiragana": "ふたつに わけるける。"
+      },
+      {
+        "id": "U+5206-ex-4",
+        "sentence": "十分 やすむ。",
+        "reading": "ぶん",
+        "type": "on",
+        "sentenceWithRuby": "十[じゅう]分 やすむ。",
+        "sentenceHiragana": "じゅうぶん やすむ。"
+      },
+      {
+        "id": "U+5206-ex-5",
+        "sentence": "分かれる。",
+        "reading": "わ",
+        "type": "kun",
+        "sentenceWithRuby": "分かれる。",
+        "sentenceHiragana": "わかれる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+805E",
+    "character": "聞",
+    "newExamples": [
+      {
+        "id": "U+805E-ex-3",
+        "sentence": "おとを 聞く。",
+        "reading": "きく",
+        "type": "kun",
+        "sentenceWithRuby": "おとを 聞く。",
+        "sentenceHiragana": "おとを きくく。"
+      },
+      {
+        "id": "U+805E-ex-4",
+        "sentence": "新聞を よむ。",
+        "reading": "ぶん",
+        "type": "on",
+        "sentenceWithRuby": "新[しん]聞を よむ。",
+        "sentenceHiragana": "しんぶんを よむ。"
+      },
+      {
+        "id": "U+805E-ex-5",
+        "sentence": "聞いて みる。",
+        "reading": "き",
+        "type": "kun",
+        "sentenceWithRuby": "聞いて みる。",
+        "sentenceHiragana": "きいて みる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7C73",
+    "character": "米",
+    "newExamples": [
+      {
+        "id": "U+7C73-ex-3",
+        "sentence": "米を とぐ。",
+        "reading": "こめ",
+        "type": "kun",
+        "sentenceWithRuby": "米を とぐ。",
+        "sentenceHiragana": "こめを とぐ。"
+      },
+      {
+        "id": "U+7C73-ex-4",
+        "sentence": "米こくを たべる。",
+        "reading": "べい",
+        "type": "on",
+        "sentenceWithRuby": "米こくを たべる。",
+        "sentenceHiragana": "べいこくを たべる。"
+      },
+      {
+        "id": "U+7C73-ex-5",
+        "sentence": "あたらしい 米。",
+        "reading": "こめ",
+        "type": "kun",
+        "sentenceWithRuby": "あたらしい 米。",
+        "sentenceHiragana": "あたらしい こめ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8CB7",
+    "character": "買",
+    "newExamples": [
+      {
+        "id": "U+8CB7-ex-3",
+        "sentence": "ほんを 買う。",
+        "reading": "かう",
+        "type": "kun",
+        "sentenceWithRuby": "ほんを 買う。",
+        "sentenceHiragana": "ほんを かうう。"
+      },
+      {
+        "id": "U+8CB7-ex-4",
+        "sentence": "買物に いく。",
+        "reading": "ばい",
+        "type": "on",
+        "sentenceWithRuby": "買物に いく。",
+        "sentenceHiragana": "ばい物に いく。"
+      },
+      {
+        "id": "U+8CB7-ex-5",
+        "sentence": "買って かえる。",
+        "reading": "か",
+        "type": "kun",
+        "sentenceWithRuby": "買って かえる。",
+        "sentenceHiragana": "かって かえる。"
+      }
+    ]
+  }
+]

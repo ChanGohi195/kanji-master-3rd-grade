@@ -1,0 +1,302 @@
+[
+  {
+    "kanjiId": "U+592A",
+    "character": "太",
+    "newExamples": [
+      {
+        "id": "U+592A-ex-3",
+        "sentence": "太い えだ。",
+        "reading": "ふとい",
+        "type": "kun",
+        "sentenceWithRuby": "太い えだ。",
+        "sentenceHiragana": "ふといい えだ。"
+      },
+      {
+        "id": "U+592A-ex-4",
+        "sentence": "太く かく。",
+        "reading": "ふと",
+        "type": "kun",
+        "sentenceWithRuby": "太く かく。",
+        "sentenceHiragana": "ふとく かく。"
+      },
+      {
+        "id": "U+592A-ex-5",
+        "sentence": "太よう。",
+        "reading": "たい",
+        "type": "on",
+        "sentenceWithRuby": "太よう。",
+        "sentenceHiragana": "たいよう。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4F53",
+    "character": "体",
+    "newExamples": [
+      {
+        "id": "U+4F53-ex-3",
+        "sentence": "体を うごかす。",
+        "reading": "からだ",
+        "type": "kun",
+        "sentenceWithRuby": "体を うごかす。",
+        "sentenceHiragana": "からだを うごかす。"
+      },
+      {
+        "id": "U+4F53-ex-4",
+        "sentence": "たい育の じゅぎょう。",
+        "reading": "たい",
+        "type": "on",
+        "sentenceWithRuby": "たい育の じゅぎょう。",
+        "sentenceHiragana": "たい育の じゅぎょう。"
+      },
+      {
+        "id": "U+4F53-ex-5",
+        "sentence": "体が つよい。",
+        "reading": "からだ",
+        "type": "kun",
+        "sentenceWithRuby": "体が つよい。",
+        "sentenceHiragana": "からだが つよい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+53F0",
+    "character": "台",
+    "newExamples": [
+      {
+        "id": "U+53F0-ex-3",
+        "sentence": "台の うえに のせる。",
+        "reading": "だい",
+        "type": "on",
+        "sentenceWithRuby": "台の うえに のせる。",
+        "sentenceHiragana": "だいの うえに のせる。"
+      },
+      {
+        "id": "U+53F0-ex-4",
+        "sentence": "だい所で つくる。",
+        "reading": "だい",
+        "type": "on",
+        "sentenceWithRuby": "だい所で つくる。",
+        "sentenceHiragana": "だい所で つくる。"
+      },
+      {
+        "id": "U+53F0-ex-5",
+        "sentence": "ぶ台に たつ。",
+        "reading": "だい",
+        "type": "on",
+        "sentenceWithRuby": "ぶ台に たつ。",
+        "sentenceHiragana": "ぶだいに たつ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5730",
+    "character": "地",
+    "newExamples": [
+      {
+        "id": "U+5730-ex-3",
+        "sentence": "地めんに おちる。",
+        "reading": "ち",
+        "type": "on",
+        "sentenceWithRuby": "地めんに おちる。",
+        "sentenceHiragana": "ちめんに おちる。"
+      },
+      {
+        "id": "U+5730-ex-4",
+        "sentence": "地しんが くる。",
+        "reading": "じ",
+        "type": "on",
+        "sentenceWithRuby": "地しんが くる。",
+        "sentenceHiragana": "じしんが くる。"
+      },
+      {
+        "id": "U+5730-ex-5",
+        "sentence": "地図を みる。",
+        "reading": "ち",
+        "type": "on",
+        "sentenceWithRuby": "地図を みる。",
+        "sentenceHiragana": "ち図を みる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6C60",
+    "character": "池",
+    "newExamples": [
+      {
+        "id": "U+6C60-ex-3",
+        "sentence": "池で さかなを みる。",
+        "reading": "いけ",
+        "type": "kun",
+        "sentenceWithRuby": "池で さかなを みる。",
+        "sentenceHiragana": "いけで さかなを みる。"
+      },
+      {
+        "id": "U+6C60-ex-4",
+        "sentence": "電池を かえる。",
+        "reading": "ち",
+        "type": "on",
+        "sentenceWithRuby": "電池を かえる。",
+        "sentenceHiragana": "電ちを かえる。"
+      },
+      {
+        "id": "U+6C60-ex-5",
+        "sentence": "大きな 池。",
+        "reading": "いけ",
+        "type": "kun",
+        "sentenceWithRuby": "大[おお]きな 池。",
+        "sentenceHiragana": "おおきな いけ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+77E5",
+    "character": "知",
+    "newExamples": [
+      {
+        "id": "U+77E5-ex-3",
+        "sentence": "ことばを 知る。",
+        "reading": "しる",
+        "type": "kun",
+        "sentenceWithRuby": "ことばを 知る。",
+        "sentenceHiragana": "ことばを しるる。"
+      },
+      {
+        "id": "U+77E5-ex-4",
+        "sentence": "知しきを ふやす。",
+        "reading": "ち",
+        "type": "on",
+        "sentenceWithRuby": "知しきを ふやす。",
+        "sentenceHiragana": "ちしきを ふやす。"
+      },
+      {
+        "id": "U+77E5-ex-5",
+        "sentence": "知って いる。",
+        "reading": "し",
+        "type": "kun",
+        "sentenceWithRuby": "知って いる。",
+        "sentenceHiragana": "しって いる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8336",
+    "character": "茶",
+    "newExamples": [
+      {
+        "id": "U+8336-ex-3",
+        "sentence": "お茶を のむ。",
+        "reading": "ちゃ",
+        "type": "on",
+        "sentenceWithRuby": "お茶を のむ。",
+        "sentenceHiragana": "おちゃを のむ。"
+      },
+      {
+        "id": "U+8336-ex-4",
+        "sentence": "茶いろの ふく。",
+        "reading": "ちゃ",
+        "type": "on",
+        "sentenceWithRuby": "茶いろの ふく。",
+        "sentenceHiragana": "ちゃいろの ふく。"
+      },
+      {
+        "id": "U+8336-ex-5",
+        "sentence": "こう茶を いれる。",
+        "reading": "ちゃ",
+        "type": "on",
+        "sentenceWithRuby": "こう茶を いれる。",
+        "sentenceHiragana": "こうちゃを いれる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+663C",
+    "character": "昼",
+    "newExamples": [
+      {
+        "id": "U+663C-ex-3",
+        "sentence": "昼ごはんを たべる。",
+        "reading": "ひる",
+        "type": "kun",
+        "sentenceWithRuby": "昼ごはんを たべる。",
+        "sentenceHiragana": "ひるごはんを たべる。"
+      },
+      {
+        "id": "U+663C-ex-4",
+        "sentence": "昼間に あそぶ。",
+        "reading": "ちゅう",
+        "type": "on",
+        "sentenceWithRuby": "昼間に あそぶ。",
+        "sentenceHiragana": "ちゅう間に あそぶ。"
+      },
+      {
+        "id": "U+663C-ex-5",
+        "sentence": "昼やすみ。",
+        "reading": "ひる",
+        "type": "kun",
+        "sentenceWithRuby": "昼やすみ。",
+        "sentenceHiragana": "ひるやすみ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9577",
+    "character": "長",
+    "newExamples": [
+      {
+        "id": "U+9577-ex-3",
+        "sentence": "長い ながい でんわ。",
+        "reading": "ながい",
+        "type": "kun",
+        "sentenceWithRuby": "長い ながい でんわ。",
+        "sentenceHiragana": "ながいい ながい でんわ。"
+      },
+      {
+        "id": "U+9577-ex-4",
+        "sentence": "長く なる。",
+        "reading": "なが",
+        "type": "kun",
+        "sentenceWithRuby": "長く なる。",
+        "sentenceHiragana": "ながく なる。"
+      },
+      {
+        "id": "U+9577-ex-5",
+        "sentence": "校長せんせい。",
+        "reading": "ちょう",
+        "type": "on",
+        "sentenceWithRuby": "校長せんせい。",
+        "sentenceHiragana": "校ちょうせんせい。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+9CE5",
+    "character": "鳥",
+    "newExamples": [
+      {
+        "id": "U+9CE5-ex-3",
+        "sentence": "かわいい 鳥。",
+        "reading": "とり",
+        "type": "kun",
+        "sentenceWithRuby": "かわいい 鳥。",
+        "sentenceHiragana": "かわいい とり。"
+      },
+      {
+        "id": "U+9CE5-ex-4",
+        "sentence": "野鳥を みる。",
+        "reading": "ちょう",
+        "type": "on",
+        "sentenceWithRuby": "野鳥を みる。",
+        "sentenceHiragana": "野ちょうを みる。"
+      },
+      {
+        "id": "U+9CE5-ex-5",
+        "sentence": "鳥が とぶ。",
+        "reading": "とり",
+        "type": "kun",
+        "sentenceWithRuby": "鳥が とぶ。",
+        "sentenceHiragana": "とりが とぶ。"
+      }
+    ]
+  }
+]
