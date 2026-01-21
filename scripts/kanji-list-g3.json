@@ -1,0 +1,4991 @@
+[
+  {
+    "kanjiId": "U+60AA",
+    "character": "悪",
+    "strokeCount": 11,
+    "meanings": [
+      "bad",
+      "evil"
+    ],
+    "currentCount": 1,
+    "targetCount": 5,
+    "needCount": 4,
+    "availableReadings": [
+      {
+        "reading": "わる.い",
+        "type": "kun"
+      },
+      {
+        "reading": "アク",
+        "type": "on"
+      },
+      {
+        "reading": "オ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [
+      {
+        "reading": "わる.い",
+        "type": "kun"
+      }
+    ],
+    "examples": [
+      {
+        "id": "U+60AA-ex-1",
+        "sentence": "悪い ことは しない。",
+        "reading": "わる.い",
+        "type": "kun",
+        "sentenceWithRuby": "悪い ことは しない。",
+        "sentenceHiragana": "わるい ことは しない。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5B89",
+    "character": "安",
+    "strokeCount": 6,
+    "meanings": [
+      "cheap",
+      "peaceful"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "やす.い",
+        "type": "kun"
+      },
+      {
+        "reading": "アン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6697",
+    "character": "暗",
+    "strokeCount": 13,
+    "meanings": [
+      "dark"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "くら.い",
+        "type": "kun"
+      },
+      {
+        "reading": "アン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+533B",
+    "character": "医",
+    "strokeCount": 7,
+    "meanings": [
+      "doctor",
+      "medicine"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "イ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+59D4",
+    "character": "委",
+    "strokeCount": 8,
+    "meanings": [
+      "committee",
+      "entrust"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ゆだ.ねる",
+        "type": "kun"
+      },
+      {
+        "reading": "イ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+610F",
+    "character": "意",
+    "strokeCount": 13,
+    "meanings": [
+      "idea",
+      "meaning"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "イ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+80B2",
+    "character": "育",
+    "strokeCount": 8,
+    "meanings": [
+      "raise",
+      "grow"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "そだ.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "そだ.てる",
+        "type": "kun"
+      },
+      {
+        "reading": "イク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+54E1",
+    "character": "員",
+    "strokeCount": 10,
+    "meanings": [
+      "member"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "イン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9662",
+    "character": "院",
+    "strokeCount": 10,
+    "meanings": [
+      "institution",
+      "temple"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "イン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+98F2",
+    "character": "飲",
+    "strokeCount": 12,
+    "meanings": [
+      "drink"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "の.む",
+        "type": "kun"
+      },
+      {
+        "reading": "イン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+904B",
+    "character": "運",
+    "strokeCount": 12,
+    "meanings": [
+      "carry",
+      "luck"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はこ.ぶ",
+        "type": "kun"
+      },
+      {
+        "reading": "ウン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6CF3",
+    "character": "泳",
+    "strokeCount": 8,
+    "meanings": [
+      "swim"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "およ.ぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "エイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+99C5",
+    "character": "駅",
+    "strokeCount": 14,
+    "meanings": [
+      "station"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "エキ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+592E",
+    "character": "央",
+    "strokeCount": 5,
+    "meanings": [
+      "center"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "オウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6A2A",
+    "character": "横",
+    "strokeCount": 15,
+    "meanings": [
+      "side",
+      "horizontal"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "よこ",
+        "type": "kun"
+      },
+      {
+        "reading": "オウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5C4B",
+    "character": "屋",
+    "strokeCount": 9,
+    "meanings": [
+      "roof",
+      "shop"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "や",
+        "type": "kun"
+      },
+      {
+        "reading": "オク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6E29",
+    "character": "温",
+    "strokeCount": 12,
+    "meanings": [
+      "warm"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あたた.か",
+        "type": "kun"
+      },
+      {
+        "reading": "あたた.める",
+        "type": "kun"
+      },
+      {
+        "reading": "オン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5316",
+    "character": "化",
+    "strokeCount": 4,
+    "meanings": [
+      "change",
+      "transform"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ば.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "ば.かす",
+        "type": "kun"
+      },
+      {
+        "reading": "カ",
+        "type": "on"
+      },
+      {
+        "reading": "ケ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8377",
+    "character": "荷",
+    "strokeCount": 10,
+    "meanings": [
+      "baggage",
+      "load"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "に",
+        "type": "kun"
+      },
+      {
+        "reading": "カ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+754C",
+    "character": "界",
+    "strokeCount": 9,
+    "meanings": [
+      "world",
+      "boundary"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "カイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+958B",
+    "character": "開",
+    "strokeCount": 12,
+    "meanings": [
+      "open"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ひら.く",
+        "type": "kun"
+      },
+      {
+        "reading": "あ.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "カイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+968E",
+    "character": "階",
+    "strokeCount": 12,
+    "meanings": [
+      "floor",
+      "story"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "カイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5BD2",
+    "character": "寒",
+    "strokeCount": 12,
+    "meanings": [
+      "cold"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さむ.い",
+        "type": "kun"
+      },
+      {
+        "reading": "カン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+611F",
+    "character": "感",
+    "strokeCount": 13,
+    "meanings": [
+      "feeling",
+      "emotion"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "カン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6F22",
+    "character": "漢",
+    "strokeCount": 13,
+    "meanings": [
+      "China",
+      "kanji"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "カン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9928",
+    "character": "館",
+    "strokeCount": 16,
+    "meanings": [
+      "building",
+      "hall"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "やかた",
+        "type": "kun"
+      },
+      {
+        "reading": "カン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5CB8",
+    "character": "岸",
+    "strokeCount": 8,
+    "meanings": [
+      "shore",
+      "bank"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "きし",
+        "type": "kun"
+      },
+      {
+        "reading": "ガン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8D77",
+    "character": "起",
+    "strokeCount": 10,
+    "meanings": [
+      "wake up",
+      "occur"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "お.きる",
+        "type": "kun"
+      },
+      {
+        "reading": "お.こす",
+        "type": "kun"
+      },
+      {
+        "reading": "キ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+671F",
+    "character": "期",
+    "strokeCount": 12,
+    "meanings": [
+      "period",
+      "term"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "キ",
+        "type": "on"
+      },
+      {
+        "reading": "ゴ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5BA2",
+    "character": "客",
+    "strokeCount": 9,
+    "meanings": [
+      "guest",
+      "customer"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "キャク",
+        "type": "on"
+      },
+      {
+        "reading": "カク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7A76",
+    "character": "究",
+    "strokeCount": 7,
+    "meanings": [
+      "research",
+      "study"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "きわ.める",
+        "type": "kun"
+      },
+      {
+        "reading": "キュウ",
+        "type": "on"
+      },
+      {
+        "reading": "ク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6025",
+    "character": "急",
+    "strokeCount": 9,
+    "meanings": [
+      "hurry",
+      "急ぐ"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "いそ.ぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "キュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7403",
+    "character": "球",
+    "strokeCount": 11,
+    "meanings": [
+      "ball",
+      "sphere"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "たま",
+        "type": "kun"
+      },
+      {
+        "reading": "キュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5BAE",
+    "character": "宮",
+    "strokeCount": 10,
+    "meanings": [
+      "palace",
+      "shrine"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みや",
+        "type": "kun"
+      },
+      {
+        "reading": "キュウ",
+        "type": "on"
+      },
+      {
+        "reading": "グウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7D1A",
+    "character": "級",
+    "strokeCount": 9,
+    "meanings": [
+      "class",
+      "grade"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "キュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+53BB",
+    "character": "去",
+    "strokeCount": 5,
+    "meanings": [
+      "leave",
+      "past"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "キョ",
+        "type": "on"
+      },
+      {
+        "reading": "コ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6A4B",
+    "character": "橋",
+    "strokeCount": 16,
+    "meanings": [
+      "bridge"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はし",
+        "type": "kun"
+      },
+      {
+        "reading": "キョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+696D",
+    "character": "業",
+    "strokeCount": 13,
+    "meanings": [
+      "business",
+      "profession"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "わざ",
+        "type": "kun"
+      },
+      {
+        "reading": "ギョウ",
+        "type": "on"
+      },
+      {
+        "reading": "ゴウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+66F2",
+    "character": "曲",
+    "strokeCount": 6,
+    "meanings": [
+      "music",
+      "bend"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ま.がる",
+        "type": "kun"
+      },
+      {
+        "reading": "ま.げる",
+        "type": "kun"
+      },
+      {
+        "reading": "キョク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5C40",
+    "character": "局",
+    "strokeCount": 7,
+    "meanings": [
+      "bureau",
+      "office"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "キョク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9280",
+    "character": "銀",
+    "strokeCount": 14,
+    "meanings": [
+      "silver"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ギン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+533A",
+    "character": "区",
+    "strokeCount": 4,
+    "meanings": [
+      "district",
+      "ward"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+82E6",
+    "character": "苦",
+    "strokeCount": 8,
+    "meanings": [
+      "suffering",
+      "bitter"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "くる.しい",
+        "type": "kun"
+      },
+      {
+        "reading": "にが.い",
+        "type": "kun"
+      },
+      {
+        "reading": "ク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5177",
+    "character": "具",
+    "strokeCount": 8,
+    "meanings": [
+      "tool",
+      "ingredient"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "グ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+541B",
+    "character": "君",
+    "strokeCount": 7,
+    "meanings": [
+      "you (familiar)"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "きみ",
+        "type": "kun"
+      },
+      {
+        "reading": "クン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4FC2",
+    "character": "係",
+    "strokeCount": 9,
+    "meanings": [
+      "connection",
+      "person in charge"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かか.る",
+        "type": "kun"
+      },
+      {
+        "reading": "かかり",
+        "type": "kun"
+      },
+      {
+        "reading": "ケイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8EFD",
+    "character": "軽",
+    "strokeCount": 12,
+    "meanings": [
+      "light (weight)"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かる.い",
+        "type": "kun"
+      },
+      {
+        "reading": "ケイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8840",
+    "character": "血",
+    "strokeCount": 6,
+    "meanings": [
+      "blood"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ち",
+        "type": "kun"
+      },
+      {
+        "reading": "ケツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6C7A",
+    "character": "決",
+    "strokeCount": 7,
+    "meanings": [
+      "decide"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "き.める",
+        "type": "kun"
+      },
+      {
+        "reading": "き.まる",
+        "type": "kun"
+      },
+      {
+        "reading": "ケツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7814",
+    "character": "研",
+    "strokeCount": 9,
+    "meanings": [
+      "polish",
+      "study"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "と.ぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "ケン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+770C",
+    "character": "県",
+    "strokeCount": 9,
+    "meanings": [
+      "prefecture"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ケン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5EAB",
+    "character": "庫",
+    "strokeCount": 10,
+    "meanings": [
+      "warehouse",
+      "storage"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "くら",
+        "type": "kun"
+      },
+      {
+        "reading": "コ",
+        "type": "on"
+      },
+      {
+        "reading": "ク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6E56",
+    "character": "湖",
+    "strokeCount": 12,
+    "meanings": [
+      "lake"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みずうみ",
+        "type": "kun"
+      },
+      {
+        "reading": "コ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5411",
+    "character": "向",
+    "strokeCount": 6,
+    "meanings": [
+      "face",
+      "turn toward"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "む.く",
+        "type": "kun"
+      },
+      {
+        "reading": "む.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "む.かう",
+        "type": "kun"
+      },
+      {
+        "reading": "コウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5E78",
+    "character": "幸",
+    "strokeCount": 8,
+    "meanings": [
+      "happiness",
+      "luck"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さいわ.い",
+        "type": "kun"
+      },
+      {
+        "reading": "しあわ.せ",
+        "type": "kun"
+      },
+      {
+        "reading": "コウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6E2F",
+    "character": "港",
+    "strokeCount": 12,
+    "meanings": [
+      "harbor",
+      "port"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みなと",
+        "type": "kun"
+      },
+      {
+        "reading": "コウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+53F7",
+    "character": "号",
+    "strokeCount": 5,
+    "meanings": [
+      "number",
+      "name"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ゴウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6839",
+    "character": "根",
+    "strokeCount": 10,
+    "meanings": [
+      "root"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ね",
+        "type": "kun"
+      },
+      {
+        "reading": "コン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+796D",
+    "character": "祭",
+    "strokeCount": 11,
+    "meanings": [
+      "festival"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "まつ.り",
+        "type": "kun"
+      },
+      {
+        "reading": "まつ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "サイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7686",
+    "character": "皿",
+    "strokeCount": 5,
+    "meanings": [
+      "plate",
+      "dish"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さら",
+        "type": "kun"
+      },
+      {
+        "reading": "ベイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4ED5",
+    "character": "仕",
+    "strokeCount": 5,
+    "meanings": [
+      "serve",
+      "work"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "つか.える",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      },
+      {
+        "reading": "ジ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6B7B",
+    "character": "死",
+    "strokeCount": 6,
+    "meanings": [
+      "death",
+      "die"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "し.ぬ",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4F7F",
+    "character": "使",
+    "strokeCount": 8,
+    "meanings": [
+      "use"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "つか.う",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+59CB",
+    "character": "始",
+    "strokeCount": 8,
+    "meanings": [
+      "begin",
+      "start"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はじ.める",
+        "type": "kun"
+      },
+      {
+        "reading": "はじ.まる",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6307",
+    "character": "指",
+    "strokeCount": 9,
+    "meanings": [
+      "finger",
+      "point"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ゆび",
+        "type": "kun"
+      },
+      {
+        "reading": "さ.す",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6B6F",
+    "character": "歯",
+    "strokeCount": 12,
+    "meanings": [
+      "tooth"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "は",
+        "type": "kun"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8A69",
+    "character": "詩",
+    "strokeCount": 13,
+    "meanings": [
+      "poem",
+      "poetry"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6B21",
+    "character": "次",
+    "strokeCount": 6,
+    "meanings": [
+      "next"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "つ.ぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "つぎ",
+        "type": "kun"
+      },
+      {
+        "reading": "ジ",
+        "type": "on"
+      },
+      {
+        "reading": "シ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E8B",
+    "character": "事",
+    "strokeCount": 8,
+    "meanings": [
+      "thing",
+      "matter"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "こと",
+        "type": "kun"
+      },
+      {
+        "reading": "ジ",
+        "type": "on"
+      },
+      {
+        "reading": "ズ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6301",
+    "character": "持",
+    "strokeCount": 9,
+    "meanings": [
+      "hold",
+      "have"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "も.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "ジ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5F0F",
+    "character": "式",
+    "strokeCount": 6,
+    "meanings": [
+      "ceremony",
+      "style"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "シキ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5B9F",
+    "character": "実",
+    "strokeCount": 8,
+    "meanings": [
+      "truth",
+      "fruit"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "み",
+        "type": "kun"
+      },
+      {
+        "reading": "みの.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ジツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5199",
+    "character": "写",
+    "strokeCount": 5,
+    "meanings": [
+      "copy",
+      "photograph"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "うつ.す",
+        "type": "kun"
+      },
+      {
+        "reading": "うつ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "シャ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8005",
+    "character": "者",
+    "strokeCount": 8,
+    "meanings": [
+      "person"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "もの",
+        "type": "kun"
+      },
+      {
+        "reading": "シャ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E3B",
+    "character": "主",
+    "strokeCount": 5,
+    "meanings": [
+      "master",
+      "main"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ぬし",
+        "type": "kun"
+      },
+      {
+        "reading": "おも",
+        "type": "kun"
+      },
+      {
+        "reading": "シュ",
+        "type": "on"
+      },
+      {
+        "reading": "ス",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5B88",
+    "character": "守",
+    "strokeCount": 6,
+    "meanings": [
+      "protect",
+      "guard"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "まも.る",
+        "type": "kun"
+      },
+      {
+        "reading": "シュ",
+        "type": "on"
+      },
+      {
+        "reading": "ス",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+53D6",
+    "character": "取",
+    "strokeCount": 8,
+    "meanings": [
+      "take"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "と.る",
+        "type": "kun"
+      },
+      {
+        "reading": "シュ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9152",
+    "character": "酒",
+    "strokeCount": 10,
+    "meanings": [
+      "alcohol",
+      "sake"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さけ",
+        "type": "kun"
+      },
+      {
+        "reading": "さか",
+        "type": "kun"
+      },
+      {
+        "reading": "シュ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+53D7",
+    "character": "受",
+    "strokeCount": 8,
+    "meanings": [
+      "receive"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "う.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "ジュ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5DDE",
+    "character": "州",
+    "strokeCount": 6,
+    "meanings": [
+      "state",
+      "province"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "す",
+        "type": "kun"
+      },
+      {
+        "reading": "シュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+62FE",
+    "character": "拾",
+    "strokeCount": 9,
+    "meanings": [
+      "pick up",
+      "gather"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ひろ.う",
+        "type": "kun"
+      },
+      {
+        "reading": "シュウ",
+        "type": "on"
+      },
+      {
+        "reading": "ジュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7D42",
+    "character": "終",
+    "strokeCount": 11,
+    "meanings": [
+      "end",
+      "finish"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "お.わる",
+        "type": "kun"
+      },
+      {
+        "reading": "お.える",
+        "type": "kun"
+      },
+      {
+        "reading": "シュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7FD2",
+    "character": "習",
+    "strokeCount": 11,
+    "meanings": [
+      "learn",
+      "practice"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "なら.う",
+        "type": "kun"
+      },
+      {
+        "reading": "シュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+96C6",
+    "character": "集",
+    "strokeCount": 12,
+    "meanings": [
+      "gather",
+      "collect"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あつ.まる",
+        "type": "kun"
+      },
+      {
+        "reading": "あつ.める",
+        "type": "kun"
+      },
+      {
+        "reading": "シュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4F4F",
+    "character": "住",
+    "strokeCount": 7,
+    "meanings": [
+      "live",
+      "dwell"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "す.む",
+        "type": "kun"
+      },
+      {
+        "reading": "す.まう",
+        "type": "kun"
+      },
+      {
+        "reading": "ジュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+91CD",
+    "character": "重",
+    "strokeCount": 9,
+    "meanings": [
+      "heavy",
+      "pile up"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "おも.い",
+        "type": "kun"
+      },
+      {
+        "reading": "かさ.ねる",
+        "type": "kun"
+      },
+      {
+        "reading": "ジュウ",
+        "type": "on"
+      },
+      {
+        "reading": "チョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5BBF",
+    "character": "宿",
+    "strokeCount": 11,
+    "meanings": [
+      "inn",
+      "lodging"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "やど",
+        "type": "kun"
+      },
+      {
+        "reading": "やど.る",
+        "type": "kun"
+      },
+      {
+        "reading": "シュク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6240",
+    "character": "所",
+    "strokeCount": 8,
+    "meanings": [
+      "place"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ところ",
+        "type": "kun"
+      },
+      {
+        "reading": "ショ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6691",
+    "character": "暑",
+    "strokeCount": 12,
+    "meanings": [
+      "hot (weather)"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あつ.い",
+        "type": "kun"
+      },
+      {
+        "reading": "ショ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+52A9",
+    "character": "助",
+    "strokeCount": 7,
+    "meanings": [
+      "help",
+      "assist"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "たす.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "たす.かる",
+        "type": "kun"
+      },
+      {
+        "reading": "ジョ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+662D",
+    "character": "昭",
+    "strokeCount": 9,
+    "meanings": [
+      "shining",
+      "Showa era"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6D88",
+    "character": "消",
+    "strokeCount": 10,
+    "meanings": [
+      "extinguish",
+      "disappear"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "き.える",
+        "type": "kun"
+      },
+      {
+        "reading": "け.す",
+        "type": "kun"
+      },
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5546",
+    "character": "商",
+    "strokeCount": 11,
+    "meanings": [
+      "commerce",
+      "trade"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あきな.う",
+        "type": "kun"
+      },
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7AE0",
+    "character": "章",
+    "strokeCount": 11,
+    "meanings": [
+      "chapter",
+      "badge"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+52DD",
+    "character": "勝",
+    "strokeCount": 12,
+    "meanings": [
+      "win",
+      "victory"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "か.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "まさ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E57",
+    "character": "乗",
+    "strokeCount": 9,
+    "meanings": [
+      "ride",
+      "board"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "の.る",
+        "type": "kun"
+      },
+      {
+        "reading": "の.せる",
+        "type": "kun"
+      },
+      {
+        "reading": "ジョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+690D",
+    "character": "植",
+    "strokeCount": 12,
+    "meanings": [
+      "plant"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "う.える",
+        "type": "kun"
+      },
+      {
+        "reading": "ショク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7533",
+    "character": "申",
+    "strokeCount": 5,
+    "meanings": [
+      "say",
+      "report"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "もう.す",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8EAB",
+    "character": "身",
+    "strokeCount": 7,
+    "meanings": [
+      "body",
+      "oneself"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "み",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+795E",
+    "character": "神",
+    "strokeCount": 9,
+    "meanings": [
+      "god",
+      "spirit"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かみ",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      },
+      {
+        "reading": "ジン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+771F",
+    "character": "真",
+    "strokeCount": 10,
+    "meanings": [
+      "true",
+      "reality"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ま",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6DF1",
+    "character": "深",
+    "strokeCount": 11,
+    "meanings": [
+      "deep"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ふか.い",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9032",
+    "character": "進",
+    "strokeCount": 11,
+    "meanings": [
+      "advance",
+      "proceed"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "すす.む",
+        "type": "kun"
+      },
+      {
+        "reading": "すす.める",
+        "type": "kun"
+      },
+      {
+        "reading": "シン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E16",
+    "character": "世",
+    "strokeCount": 5,
+    "meanings": [
+      "world",
+      "generation"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "よ",
+        "type": "kun"
+      },
+      {
+        "reading": "セイ",
+        "type": "on"
+      },
+      {
+        "reading": "セ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6574",
+    "character": "整",
+    "strokeCount": 16,
+    "meanings": [
+      "organize",
+      "arrange"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ととの.える",
+        "type": "kun"
+      },
+      {
+        "reading": "ととの.う",
+        "type": "kun"
+      },
+      {
+        "reading": "セイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6614",
+    "character": "昔",
+    "strokeCount": 8,
+    "meanings": [
+      "past",
+      "long ago"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "むかし",
+        "type": "kun"
+      },
+      {
+        "reading": "セキ",
+        "type": "on"
+      },
+      {
+        "reading": "シャク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5168",
+    "character": "全",
+    "strokeCount": 6,
+    "meanings": [
+      "all",
+      "whole"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "まった.く",
+        "type": "kun"
+      },
+      {
+        "reading": "すべ.て",
+        "type": "kun"
+      },
+      {
+        "reading": "ゼン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+76F8",
+    "character": "相",
+    "strokeCount": 9,
+    "meanings": [
+      "mutual",
+      "minister"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あい",
+        "type": "kun"
+      },
+      {
+        "reading": "ソウ",
+        "type": "on"
+      },
+      {
+        "reading": "ショウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9001",
+    "character": "送",
+    "strokeCount": 9,
+    "meanings": [
+      "send"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "おく.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ソウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+60F3",
+    "character": "想",
+    "strokeCount": 13,
+    "meanings": [
+      "thought",
+      "idea"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ソウ",
+        "type": "on"
+      },
+      {
+        "reading": "ソ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+606F",
+    "character": "息",
+    "strokeCount": 10,
+    "meanings": [
+      "breath",
+      "son"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "いき",
+        "type": "kun"
+      },
+      {
+        "reading": "ソク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+901F",
+    "character": "速",
+    "strokeCount": 10,
+    "meanings": [
+      "fast",
+      "quick"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はや.い",
+        "type": "kun"
+      },
+      {
+        "reading": "はや.める",
+        "type": "kun"
+      },
+      {
+        "reading": "ソク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+65CF",
+    "character": "族",
+    "strokeCount": 11,
+    "meanings": [
+      "tribe",
+      "family"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ゾク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4ED6",
+    "character": "他",
+    "strokeCount": 5,
+    "meanings": [
+      "other"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ほか",
+        "type": "kun"
+      },
+      {
+        "reading": "タ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6253",
+    "character": "打",
+    "strokeCount": 5,
+    "meanings": [
+      "hit",
+      "strike"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "う.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "ダ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5BFE",
+    "character": "対",
+    "strokeCount": 7,
+    "meanings": [
+      "opposite",
+      "versus"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "タイ",
+        "type": "on"
+      },
+      {
+        "reading": "ツイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5F85",
+    "character": "待",
+    "strokeCount": 9,
+    "meanings": [
+      "wait"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ま.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "タイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4EE3",
+    "character": "代",
+    "strokeCount": 5,
+    "meanings": [
+      "substitute",
+      "generation"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "か.わる",
+        "type": "kun"
+      },
+      {
+        "reading": "よ",
+        "type": "kun"
+      },
+      {
+        "reading": "しろ",
+        "type": "kun"
+      },
+      {
+        "reading": "ダイ",
+        "type": "on"
+      },
+      {
+        "reading": "タイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7B2C",
+    "character": "第",
+    "strokeCount": 11,
+    "meanings": [
+      "ordinal number prefix"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ダイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+984C",
+    "character": "題",
+    "strokeCount": 18,
+    "meanings": [
+      "title",
+      "topic"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ダイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+70AD",
+    "character": "炭",
+    "strokeCount": 9,
+    "meanings": [
+      "charcoal",
+      "coal"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "すみ",
+        "type": "kun"
+      },
+      {
+        "reading": "タン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+77ED",
+    "character": "短",
+    "strokeCount": 12,
+    "meanings": [
+      "short"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みじか.い",
+        "type": "kun"
+      },
+      {
+        "reading": "タン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8AC7",
+    "character": "談",
+    "strokeCount": 15,
+    "meanings": [
+      "talk",
+      "discuss"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ダン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7740",
+    "character": "着",
+    "strokeCount": 12,
+    "meanings": [
+      "wear",
+      "arrive"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "き.る",
+        "type": "kun"
+      },
+      {
+        "reading": "つ.く",
+        "type": "kun"
+      },
+      {
+        "reading": "チャク",
+        "type": "on"
+      },
+      {
+        "reading": "ジャク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6CE8",
+    "character": "注",
+    "strokeCount": 8,
+    "meanings": [
+      "pour",
+      "note"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "そそ.ぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "チュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+67F1",
+    "character": "柱",
+    "strokeCount": 9,
+    "meanings": [
+      "pillar"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はしら",
+        "type": "kun"
+      },
+      {
+        "reading": "チュウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E01",
+    "character": "丁",
+    "strokeCount": 2,
+    "meanings": [
+      "counter for blocks"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "チョウ",
+        "type": "on"
+      },
+      {
+        "reading": "テイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5E33",
+    "character": "帳",
+    "strokeCount": 11,
+    "meanings": [
+      "notebook",
+      "account book"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "チョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8ABF",
+    "character": "調",
+    "strokeCount": 15,
+    "meanings": [
+      "investigate",
+      "tune"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "しら.べる",
+        "type": "kun"
+      },
+      {
+        "reading": "ととの.える",
+        "type": "kun"
+      },
+      {
+        "reading": "チョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8FFD",
+    "character": "追",
+    "strokeCount": 9,
+    "meanings": [
+      "chase",
+      "follow"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "お.う",
+        "type": "kun"
+      },
+      {
+        "reading": "ツイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5B9A",
+    "character": "定",
+    "strokeCount": 8,
+    "meanings": [
+      "fix",
+      "decide"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さだ.める",
+        "type": "kun"
+      },
+      {
+        "reading": "さだ.まる",
+        "type": "kun"
+      },
+      {
+        "reading": "テイ",
+        "type": "on"
+      },
+      {
+        "reading": "ジョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5EAD",
+    "character": "庭",
+    "strokeCount": 10,
+    "meanings": [
+      "garden",
+      "yard"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "にわ",
+        "type": "kun"
+      },
+      {
+        "reading": "テイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7B1B",
+    "character": "笛",
+    "strokeCount": 11,
+    "meanings": [
+      "flute",
+      "whistle"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ふえ",
+        "type": "kun"
+      },
+      {
+        "reading": "テキ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9244",
+    "character": "鉄",
+    "strokeCount": 13,
+    "meanings": [
+      "iron"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "テツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8EE2",
+    "character": "転",
+    "strokeCount": 11,
+    "meanings": [
+      "roll",
+      "turn"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ころ.がる",
+        "type": "kun"
+      },
+      {
+        "reading": "ころ.げる",
+        "type": "kun"
+      },
+      {
+        "reading": "テン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+90FD",
+    "character": "都",
+    "strokeCount": 11,
+    "meanings": [
+      "capital",
+      "metropolis"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みやこ",
+        "type": "kun"
+      },
+      {
+        "reading": "ト",
+        "type": "on"
+      },
+      {
+        "reading": "ツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5EA6",
+    "character": "度",
+    "strokeCount": 9,
+    "meanings": [
+      "degree",
+      "time"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "たび",
+        "type": "kun"
+      },
+      {
+        "reading": "ド",
+        "type": "on"
+      },
+      {
+        "reading": "ト",
+        "type": "on"
+      },
+      {
+        "reading": "タク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6295",
+    "character": "投",
+    "strokeCount": 7,
+    "meanings": [
+      "throw"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "な.げる",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8C46",
+    "character": "豆",
+    "strokeCount": 7,
+    "meanings": [
+      "bean"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "まめ",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      },
+      {
+        "reading": "ズ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5CF6",
+    "character": "島",
+    "strokeCount": 10,
+    "meanings": [
+      "island"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "しま",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6E6F",
+    "character": "湯",
+    "strokeCount": 12,
+    "meanings": [
+      "hot water"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ゆ",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+767B",
+    "character": "登",
+    "strokeCount": 12,
+    "meanings": [
+      "climb"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "のぼ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      },
+      {
+        "reading": "ト",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7B49",
+    "character": "等",
+    "strokeCount": 12,
+    "meanings": [
+      "equal",
+      "class"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ひと.しい",
+        "type": "kun"
+      },
+      {
+        "reading": "トウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+52D5",
+    "character": "動",
+    "strokeCount": 11,
+    "meanings": [
+      "move"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "うご.く",
+        "type": "kun"
+      },
+      {
+        "reading": "うご.かす",
+        "type": "kun"
+      },
+      {
+        "reading": "ドウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7AE5",
+    "character": "童",
+    "strokeCount": 12,
+    "meanings": [
+      "child"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "わらべ",
+        "type": "kun"
+      },
+      {
+        "reading": "ドウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8FB2",
+    "character": "農",
+    "strokeCount": 13,
+    "meanings": [
+      "agriculture",
+      "farming"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ノウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6CE2",
+    "character": "波",
+    "strokeCount": 8,
+    "meanings": [
+      "wave"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "なみ",
+        "type": "kun"
+      },
+      {
+        "reading": "ハ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+914D",
+    "character": "配",
+    "strokeCount": 10,
+    "meanings": [
+      "distribute"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "くば.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ハイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+500D",
+    "character": "倍",
+    "strokeCount": 10,
+    "meanings": [
+      "double",
+      "times"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "バイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7BB1",
+    "character": "箱",
+    "strokeCount": 15,
+    "meanings": [
+      "box"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はこ",
+        "type": "kun"
+      },
+      {
+        "reading": "ソウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7551",
+    "character": "畑",
+    "strokeCount": 9,
+    "meanings": [
+      "field (dry)"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はた",
+        "type": "kun"
+      },
+      {
+        "reading": "はたけ",
+        "type": "kun"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+767A",
+    "character": "発",
+    "strokeCount": 9,
+    "meanings": [
+      "emit",
+      "departure"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ハツ",
+        "type": "on"
+      },
+      {
+        "reading": "ホツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+53CD",
+    "character": "反",
+    "strokeCount": 4,
+    "meanings": [
+      "anti-",
+      "oppose"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "そ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ハン",
+        "type": "on"
+      },
+      {
+        "reading": "ホン",
+        "type": "on"
+      },
+      {
+        "reading": "タン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5742",
+    "character": "坂",
+    "strokeCount": 7,
+    "meanings": [
+      "slope",
+      "hill"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さか",
+        "type": "kun"
+      },
+      {
+        "reading": "ハン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+677F",
+    "character": "板",
+    "strokeCount": 8,
+    "meanings": [
+      "board",
+      "plank"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "いた",
+        "type": "kun"
+      },
+      {
+        "reading": "ハン",
+        "type": "on"
+      },
+      {
+        "reading": "バン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+76AE",
+    "character": "皮",
+    "strokeCount": 5,
+    "meanings": [
+      "skin",
+      "leather"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かわ",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+60B2",
+    "character": "悲",
+    "strokeCount": 12,
+    "meanings": [
+      "sad",
+      "sorrow"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かな.しい",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7F8E",
+    "character": "美",
+    "strokeCount": 9,
+    "meanings": [
+      "beautiful"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "うつく.しい",
+        "type": "kun"
+      },
+      {
+        "reading": "ビ",
+        "type": "on"
+      },
+      {
+        "reading": "ミ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9F3B",
+    "character": "鼻",
+    "strokeCount": 14,
+    "meanings": [
+      "nose"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はな",
+        "type": "kun"
+      },
+      {
+        "reading": "ビ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7B46",
+    "character": "筆",
+    "strokeCount": 12,
+    "meanings": [
+      "writing brush"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ふで",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6C37",
+    "character": "氷",
+    "strokeCount": 5,
+    "meanings": [
+      "ice"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "こおり",
+        "type": "kun"
+      },
+      {
+        "reading": "ひ",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8868",
+    "character": "表",
+    "strokeCount": 8,
+    "meanings": [
+      "surface",
+      "express"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "おもて",
+        "type": "kun"
+      },
+      {
+        "reading": "あらわ.す",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+79D2",
+    "character": "秒",
+    "strokeCount": 9,
+    "meanings": [
+      "second (time)"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ビョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+75C5",
+    "character": "病",
+    "strokeCount": 10,
+    "meanings": [
+      "sick",
+      "illness"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "や.む",
+        "type": "kun"
+      },
+      {
+        "reading": "やまい",
+        "type": "kun"
+      },
+      {
+        "reading": "ビョウ",
+        "type": "on"
+      },
+      {
+        "reading": "ヘイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+54C1",
+    "character": "品",
+    "strokeCount": 9,
+    "meanings": [
+      "goods",
+      "article"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "しな",
+        "type": "kun"
+      },
+      {
+        "reading": "ヒン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8CA0",
+    "character": "負",
+    "strokeCount": 9,
+    "meanings": [
+      "lose",
+      "bear"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ま.ける",
+        "type": "kun"
+      },
+      {
+        "reading": "お.う",
+        "type": "kun"
+      },
+      {
+        "reading": "フ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+90E8",
+    "character": "部",
+    "strokeCount": 11,
+    "meanings": [
+      "part",
+      "section"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ブ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+670D",
+    "character": "服",
+    "strokeCount": 8,
+    "meanings": [
+      "clothes"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "フク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+798F",
+    "character": "福",
+    "strokeCount": 13,
+    "meanings": [
+      "fortune",
+      "blessing"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "フク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7269",
+    "character": "物",
+    "strokeCount": 8,
+    "meanings": [
+      "thing",
+      "object"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "もの",
+        "type": "kun"
+      },
+      {
+        "reading": "ブツ",
+        "type": "on"
+      },
+      {
+        "reading": "モツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5E73",
+    "character": "平",
+    "strokeCount": 5,
+    "meanings": [
+      "flat",
+      "peace"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "たい.ら",
+        "type": "kun"
+      },
+      {
+        "reading": "ひら",
+        "type": "kun"
+      },
+      {
+        "reading": "ヘイ",
+        "type": "on"
+      },
+      {
+        "reading": "ビョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8FD4",
+    "character": "返",
+    "strokeCount": 7,
+    "meanings": [
+      "return"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "かえ.す",
+        "type": "kun"
+      },
+      {
+        "reading": "かえ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ヘン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+52C9",
+    "character": "勉",
+    "strokeCount": 10,
+    "meanings": [
+      "effort",
+      "study"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ベン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+653E",
+    "character": "放",
+    "strokeCount": 8,
+    "meanings": [
+      "release",
+      "emit"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "はな.す",
+        "type": "kun"
+      },
+      {
+        "reading": "はな.つ",
+        "type": "kun"
+      },
+      {
+        "reading": "ホウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5473",
+    "character": "味",
+    "strokeCount": 8,
+    "meanings": [
+      "taste",
+      "flavor"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あじ",
+        "type": "kun"
+      },
+      {
+        "reading": "あじ.わう",
+        "type": "kun"
+      },
+      {
+        "reading": "ミ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+547D",
+    "character": "命",
+    "strokeCount": 8,
+    "meanings": [
+      "life",
+      "order"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "いのち",
+        "type": "kun"
+      },
+      {
+        "reading": "メイ",
+        "type": "on"
+      },
+      {
+        "reading": "ミョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+9762",
+    "character": "面",
+    "strokeCount": 9,
+    "meanings": [
+      "face",
+      "surface"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "おも",
+        "type": "kun"
+      },
+      {
+        "reading": "おもて",
+        "type": "kun"
+      },
+      {
+        "reading": "つら",
+        "type": "kun"
+      },
+      {
+        "reading": "メン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+554F",
+    "character": "問",
+    "strokeCount": 11,
+    "meanings": [
+      "question",
+      "ask"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "と.う",
+        "type": "kun"
+      },
+      {
+        "reading": "とん",
+        "type": "kun"
+      },
+      {
+        "reading": "モン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5F79",
+    "character": "役",
+    "strokeCount": 7,
+    "meanings": [
+      "role",
+      "duty"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ヤク",
+        "type": "on"
+      },
+      {
+        "reading": "エキ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+85AC",
+    "character": "薬",
+    "strokeCount": 16,
+    "meanings": [
+      "medicine",
+      "drug"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "くすり",
+        "type": "kun"
+      },
+      {
+        "reading": "ヤク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7531",
+    "character": "由",
+    "strokeCount": 5,
+    "meanings": [
+      "reason",
+      "cause"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "よし",
+        "type": "kun"
+      },
+      {
+        "reading": "ユ",
+        "type": "on"
+      },
+      {
+        "reading": "ユウ",
+        "type": "on"
+      },
+      {
+        "reading": "ユイ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6CB9",
+    "character": "油",
+    "strokeCount": 8,
+    "meanings": [
+      "oil"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あぶら",
+        "type": "kun"
+      },
+      {
+        "reading": "ユ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6709",
+    "character": "有",
+    "strokeCount": 6,
+    "meanings": [
+      "have",
+      "exist"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あ.る",
+        "type": "kun"
+      },
+      {
+        "reading": "ユウ",
+        "type": "on"
+      },
+      {
+        "reading": "ウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+904A",
+    "character": "遊",
+    "strokeCount": 12,
+    "meanings": [
+      "play",
+      "travel"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あそ.ぶ",
+        "type": "kun"
+      },
+      {
+        "reading": "ユウ",
+        "type": "on"
+      },
+      {
+        "reading": "ユ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E88",
+    "character": "予",
+    "strokeCount": 4,
+    "meanings": [
+      "beforehand"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "あらかじ.め",
+        "type": "kun"
+      },
+      {
+        "reading": "ヨ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7F8A",
+    "character": "羊",
+    "strokeCount": 6,
+    "meanings": [
+      "sheep"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ひつじ",
+        "type": "kun"
+      },
+      {
+        "reading": "ヨウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6D0B",
+    "character": "洋",
+    "strokeCount": 9,
+    "meanings": [
+      "ocean",
+      "Western"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ヨウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8449",
+    "character": "葉",
+    "strokeCount": 12,
+    "meanings": [
+      "leaf"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "は",
+        "type": "kun"
+      },
+      {
+        "reading": "ヨウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+967D",
+    "character": "陽",
+    "strokeCount": 12,
+    "meanings": [
+      "sun",
+      "positive"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ひ",
+        "type": "kun"
+      },
+      {
+        "reading": "ヨウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+69D8",
+    "character": "様",
+    "strokeCount": 14,
+    "meanings": [
+      "manner",
+      "Mr./Ms."
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "さま",
+        "type": "kun"
+      },
+      {
+        "reading": "ヨウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+843D",
+    "character": "落",
+    "strokeCount": 12,
+    "meanings": [
+      "fall",
+      "drop"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "お.ちる",
+        "type": "kun"
+      },
+      {
+        "reading": "お.とす",
+        "type": "kun"
+      },
+      {
+        "reading": "ラク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+6D41",
+    "character": "流",
+    "strokeCount": 10,
+    "meanings": [
+      "flow",
+      "stream"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "なが.れる",
+        "type": "kun"
+      },
+      {
+        "reading": "なが.す",
+        "type": "kun"
+      },
+      {
+        "reading": "リュウ",
+        "type": "on"
+      },
+      {
+        "reading": "ル",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+65C5",
+    "character": "旅",
+    "strokeCount": 10,
+    "meanings": [
+      "trip",
+      "travel"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "たび",
+        "type": "kun"
+      },
+      {
+        "reading": "リョ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+4E21",
+    "character": "両",
+    "strokeCount": 6,
+    "meanings": [
+      "both"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "リョウ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7DD1",
+    "character": "緑",
+    "strokeCount": 14,
+    "meanings": [
+      "green"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "みどり",
+        "type": "kun"
+      },
+      {
+        "reading": "リョク",
+        "type": "on"
+      },
+      {
+        "reading": "ロク",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+793C",
+    "character": "礼",
+    "strokeCount": 5,
+    "meanings": [
+      "thanks",
+      "bow"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "レイ",
+        "type": "on"
+      },
+      {
+        "reading": "ライ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+5217",
+    "character": "列",
+    "strokeCount": 6,
+    "meanings": [
+      "row",
+      "line"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "レツ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+7DF4",
+    "character": "練",
+    "strokeCount": 14,
+    "meanings": [
+      "practice",
+      "train"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "ね.る",
+        "type": "kun"
+      },
+      {
+        "reading": "レン",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+8DEF",
+    "character": "路",
+    "strokeCount": 13,
+    "meanings": [
+      "road",
+      "path"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "じ",
+        "type": "kun"
+      },
+      {
+        "reading": "みち",
+        "type": "kun"
+      },
+      {
+        "reading": "ロ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  },
+  {
+    "kanjiId": "U+548C",
+    "character": "和",
+    "strokeCount": 8,
+    "meanings": [
+      "peace",
+      "Japan"
+    ],
+    "currentCount": 0,
+    "targetCount": 5,
+    "needCount": 5,
+    "availableReadings": [
+      {
+        "reading": "やわ.らぐ",
+        "type": "kun"
+      },
+      {
+        "reading": "なご.む",
+        "type": "kun"
+      },
+      {
+        "reading": "ワ",
+        "type": "on"
+      },
+      {
+        "reading": "オ",
+        "type": "on"
+      }
+    ],
+    "existingReadings": [],
+    "examples": []
+  }
+]

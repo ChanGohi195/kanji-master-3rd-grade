@@ -1,301 +1,501 @@
 [
   {
-    "kanjiId": "U+4E38",
-    "character": "丸",
+    "kanjiId": "U+958B",
+    "character": "開",
     "newExamples": [
       {
-        "id": "U+4E38-ex-3",
-        "sentence": "丸い ボール。",
-        "reading": "まる",
+        "id": "U+958B-ex-1",
+        "sentence": "ドアを 開ける。",
+        "reading": "あ.ける",
         "type": "kun",
-        "sentenceWithRuby": "丸い ボール。",
-        "sentenceHiragana": "まるい ボール。"
+        "sentenceWithRuby": "ドアを 開ける。",
+        "sentenceHiragana": "どあを あける。"
       },
       {
-        "id": "U+4E38-ex-4",
-        "sentence": "丸を かく。",
-        "reading": "まる",
+        "id": "U+958B-ex-2",
+        "sentence": "はなが 開く。",
+        "reading": "ひら.く",
         "type": "kun",
-        "sentenceWithRuby": "丸を かく。",
-        "sentenceHiragana": "まるを かく。"
+        "sentenceWithRuby": "はなが 開く。",
+        "sentenceHiragana": "はなが ひらく。"
       },
       {
-        "id": "U+4E38-ex-5",
-        "sentence": "丸い おさらに のせる。",
-        "reading": "まる",
+        "id": "U+958B-ex-3",
+        "sentence": "まどを 開けて かぜを いれる。",
+        "reading": "あ.けて",
         "type": "kun",
-        "sentenceWithRuby": "丸い おさらに のせる。",
-        "sentenceHiragana": "まるい おさらに のせる。"
+        "sentenceWithRuby": "まどを 開けて かぜを いれる。",
+        "sentenceHiragana": "まどを あけて かぜを いれる。"
+      },
+      {
+        "id": "U+958B-ex-4",
+        "sentence": "かいかいの あいさつを する。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "開会",
+        "sentenceWithRuby": "開会[かいかい]の あいさつを する。",
+        "sentenceHiragana": "かいかいの あいさつを する。"
+      },
+      {
+        "id": "U+958B-ex-5",
+        "sentence": "みせが かいてんする。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "開店",
+        "sentenceWithRuby": "みせが 開店[かいてん]する。",
+        "sentenceHiragana": "みせが かいてんする。"
       }
     ]
   },
   {
-    "kanjiId": "U+5CA9",
-    "character": "岩",
+    "kanjiId": "U+968E",
+    "character": "階",
     "newExamples": [
       {
-        "id": "U+5CA9-ex-3",
-        "sentence": "大きな 岩が ある。",
-        "reading": "いわ",
-        "type": "kun",
-        "sentenceWithRuby": "大[おお]きな 岩が ある。",
-        "sentenceHiragana": "おおきな いわが ある。"
+        "id": "U+968E-ex-1",
+        "sentence": "にかいに あがる。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "二階",
+        "sentenceWithRuby": "二階[にかい]に あがる。",
+        "sentenceHiragana": "にかいに あがる。"
       },
       {
-        "id": "U+5CA9-ex-4",
-        "sentence": "岩に のぼる。",
-        "reading": "いわ",
-        "type": "kun",
-        "sentenceWithRuby": "岩に のぼる。",
-        "sentenceHiragana": "いわに のぼる。"
+        "id": "U+968E-ex-2",
+        "sentence": "さんがいに へやが ある。",
+        "reading": "ガイ",
+        "type": "on",
+        "targetWord": "三階",
+        "sentenceWithRuby": "三階[さんがい]に へやが ある。",
+        "sentenceHiragana": "さんがいに へやが ある。"
       },
       {
-        "id": "U+5CA9-ex-5",
-        "sentence": "岩の うえに すわる。",
-        "reading": "いわ",
-        "type": "kun",
-        "sentenceWithRuby": "岩の うえに すわる。",
-        "sentenceHiragana": "いわの うえに すわる。"
+        "id": "U+968E-ex-3",
+        "sentence": "かいだんを のぼる。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "階段",
+        "sentenceWithRuby": "階段[かいだん]を のぼる。",
+        "sentenceHiragana": "かいだんを のぼる。"
+      },
+      {
+        "id": "U+968E-ex-4",
+        "sentence": "いっかいに おりる。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "一階",
+        "sentenceWithRuby": "一階[いっかい]に おりる。",
+        "sentenceHiragana": "いっかいに おりる。"
+      },
+      {
+        "id": "U+968E-ex-5",
+        "sentence": "ちかいっかいで かいものを する。",
+        "reading": "カイ",
+        "type": "on",
+        "targetWord": "地下一階",
+        "sentenceWithRuby": "地下一階[ちかいっかい]で かいものを する。",
+        "sentenceHiragana": "ちかいっかいで かいものを する。"
       }
     ]
   },
   {
-    "kanjiId": "U+9854",
-    "character": "顔",
+    "kanjiId": "U+5BD2",
+    "character": "寒",
     "newExamples": [
       {
-        "id": "U+9854-ex-3",
-        "sentence": "顔を あらう。",
-        "reading": "かお",
+        "id": "U+5BD2-ex-1",
+        "sentence": "きょうは 寒い。",
+        "reading": "さむ.い",
         "type": "kun",
-        "sentenceWithRuby": "顔を あらう。",
-        "sentenceHiragana": "かおを あらう。"
+        "sentenceWithRuby": "きょうは 寒い。",
+        "sentenceHiragana": "きょうは さむい。"
       },
       {
-        "id": "U+9854-ex-4",
-        "sentence": "にこにこの 顔。",
-        "reading": "かお",
+        "id": "U+5BD2-ex-2",
+        "sentence": "ふゆは 寒く なる。",
+        "reading": "さむ.く",
         "type": "kun",
-        "sentenceWithRuby": "にこにこの 顔。",
-        "sentenceHiragana": "にこにこの かお。"
+        "sentenceWithRuby": "ふゆは 寒く なる。",
+        "sentenceHiragana": "ふゆは さむく なる。"
       },
       {
-        "id": "U+9854-ex-5",
-        "sentence": "顔が あかい。",
-        "reading": "かお",
+        "id": "U+5BD2-ex-3",
+        "sentence": "さむがりの ともだちが いる。",
+        "reading": "さむ",
         "type": "kun",
-        "sentenceWithRuby": "顔が あかい。",
-        "sentenceHiragana": "かおが あかい。"
+        "targetWord": "寒がり",
+        "sentenceWithRuby": "寒がりの ともだちが いる。",
+        "sentenceHiragana": "さむがりの ともだちが いる。"
+      },
+      {
+        "id": "U+5BD2-ex-4",
+        "sentence": "かんだんけいを みる。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "寒暖計",
+        "sentenceWithRuby": "寒暖計[かんだんけい]を みる。",
+        "sentenceHiragana": "かんだんけいを みる。"
+      },
+      {
+        "id": "U+5BD2-ex-5",
+        "sentence": "かんきが きびしい。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "寒気",
+        "sentenceWithRuby": "寒気[かんき]が きびしい。",
+        "sentenceHiragana": "かんきが きびしい。"
       }
     ]
   },
   {
-    "kanjiId": "U+6C7D",
-    "character": "汽",
+    "kanjiId": "U+611F",
+    "character": "感",
     "newExamples": [
       {
-        "id": "U+6C7D-ex-3",
-        "sentence": "汽車に のる。",
-        "reading": "き",
+        "id": "U+611F-ex-1",
+        "sentence": "かんしゃの きもちを つたえる。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "汽車に のる。",
-        "sentenceHiragana": "き車に のる。"
+        "targetWord": "感謝",
+        "sentenceWithRuby": "感謝[かんしゃ]の きもちを つたえる。",
+        "sentenceHiragana": "かんしゃの きもちを つたえる。"
       },
       {
-        "id": "U+6C7D-ex-4",
-        "sentence": "汽しゃは はやい。",
-        "reading": "き",
+        "id": "U+611F-ex-2",
+        "sentence": "かんそうぶんを かく。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "汽しゃは はやい。",
-        "sentenceHiragana": "きしゃは はやい。"
+        "targetWord": "感想文",
+        "sentenceWithRuby": "感想文[かんそうぶん]を かく。",
+        "sentenceHiragana": "かんそうぶんを かく。"
       },
       {
-        "id": "U+6C7D-ex-5",
-        "sentence": "汽ぶえが なる。",
-        "reading": "き",
+        "id": "U+611F-ex-3",
+        "sentence": "かんどうして なく。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "汽ぶえが なる。",
-        "sentenceHiragana": "きぶえが なる。"
+        "targetWord": "感動",
+        "sentenceWithRuby": "感動[かんどう]して なく。",
+        "sentenceHiragana": "かんどうして なく。"
+      },
+      {
+        "id": "U+611F-ex-4",
+        "sentence": "よかんが あたった。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "予感",
+        "sentenceWithRuby": "予感[よかん]が あたった。",
+        "sentenceHiragana": "よかんが あたった。"
+      },
+      {
+        "id": "U+611F-ex-5",
+        "sentence": "ごかんを つかう。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "五感",
+        "sentenceWithRuby": "五感[ごかん]を つかう。",
+        "sentenceHiragana": "ごかんを つかう。"
       }
     ]
   },
   {
-    "kanjiId": "U+8A18",
-    "character": "記",
+    "kanjiId": "U+6F22",
+    "character": "漢",
     "newExamples": [
       {
-        "id": "U+8A18-ex-3",
-        "sentence": "日記を かく。",
-        "reading": "き",
+        "id": "U+6F22-ex-1",
+        "sentence": "かんじを べんきょうする。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "日記を かく。",
-        "sentenceHiragana": "日きを かく。"
+        "targetWord": "漢字",
+        "sentenceWithRuby": "漢字[かんじ]を べんきょうする。",
+        "sentenceHiragana": "かんじを べんきょうする。"
       },
       {
-        "id": "U+8A18-ex-4",
-        "sentence": "記ろくする。",
-        "reading": "き",
+        "id": "U+6F22-ex-2",
+        "sentence": "あたらしい かんじを おぼえる。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "記ろくする。",
-        "sentenceHiragana": "きろくする。"
+        "targetWord": "漢字",
+        "sentenceWithRuby": "あたらしい 漢字[かんじ]を おぼえる。",
+        "sentenceHiragana": "あたらしい かんじを おぼえる。"
       },
       {
-        "id": "U+8A18-ex-5",
-        "sentence": "記ねんの しゃしん。",
-        "reading": "き",
+        "id": "U+6F22-ex-3",
+        "sentence": "かんわじてんを つかう。",
+        "reading": "カン",
         "type": "on",
-        "sentenceWithRuby": "記ねんの しゃしん。",
-        "sentenceHiragana": "きねんの しゃしん。"
+        "targetWord": "漢和辞典",
+        "sentenceWithRuby": "漢和辞典[かんわじてん]を つかう。",
+        "sentenceHiragana": "かんわじてんを つかう。"
+      },
+      {
+        "id": "U+6F22-ex-4",
+        "sentence": "かんぶんを よむ。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "漢文",
+        "sentenceWithRuby": "漢文[かんぶん]を よむ。",
+        "sentenceHiragana": "かんぶんを よむ。"
+      },
+      {
+        "id": "U+6F22-ex-5",
+        "sentence": "かんすうじで かく。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "漢数字",
+        "sentenceWithRuby": "漢数字[かんすうじ]で かく。",
+        "sentenceHiragana": "かんすうじで かく。"
       }
     ]
   },
   {
-    "kanjiId": "U+5E30",
-    "character": "帰",
+    "kanjiId": "U+9928",
+    "character": "館",
     "newExamples": [
       {
-        "id": "U+5E30-ex-3",
-        "sentence": "いえに 帰る。",
-        "reading": "かえる",
-        "type": "kun",
-        "sentenceWithRuby": "いえに 帰る。",
-        "sentenceHiragana": "いえに かえる。"
+        "id": "U+9928-ex-1",
+        "sentence": "としょかんで ほんを かりる。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "図書館",
+        "sentenceWithRuby": "図書館[としょかん]で ほんを かりる。",
+        "sentenceHiragana": "としょかんで ほんを かりる。"
       },
       {
-        "id": "U+5E30-ex-4",
-        "sentence": "帰り道。",
-        "reading": "かえ",
-        "type": "kun",
-        "sentenceWithRuby": "帰り道。",
-        "sentenceHiragana": "かえり道。"
+        "id": "U+9928-ex-2",
+        "sentence": "びじゅつかんに いく。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "美術館",
+        "sentenceWithRuby": "美術館[びじゅつかん]に いく。",
+        "sentenceHiragana": "びじゅつかんに いく。"
       },
       {
-        "id": "U+5E30-ex-5",
-        "sentence": "はやく 帰る。",
-        "reading": "かえる",
-        "type": "kun",
-        "sentenceWithRuby": "はやく 帰る。",
-        "sentenceHiragana": "はやく かえる。"
+        "id": "U+9928-ex-3",
+        "sentence": "えいがかんで えいがを みる。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "映画館",
+        "sentenceWithRuby": "映画館[えいがかん]で えいがを みる。",
+        "sentenceHiragana": "えいがかんで えいがを みる。"
+      },
+      {
+        "id": "U+9928-ex-4",
+        "sentence": "たいいくかんで うんどうする。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "体育館",
+        "sentenceWithRuby": "体育館[たいいくかん]で うんどうする。",
+        "sentenceHiragana": "たいいくかんで うんどうする。"
+      },
+      {
+        "id": "U+9928-ex-5",
+        "sentence": "りょかんに とまる。",
+        "reading": "カン",
+        "type": "on",
+        "targetWord": "旅館",
+        "sentenceWithRuby": "旅館[りょかん]に とまる。",
+        "sentenceHiragana": "りょかんに とまる。"
       }
     ]
   },
   {
-    "kanjiId": "U+5F13",
-    "character": "弓",
+    "kanjiId": "U+5CB8",
+    "character": "岸",
     "newExamples": [
       {
-        "id": "U+5F13-ex-3",
-        "sentence": "弓を ひく。",
-        "reading": "ゆみ",
+        "id": "U+5CB8-ex-1",
+        "sentence": "かわの 岸に たつ。",
+        "reading": "きし",
         "type": "kun",
-        "sentenceWithRuby": "弓を ひく。",
-        "sentenceHiragana": "ゆみを ひく。"
+        "sentenceWithRuby": "かわの 岸に たつ。",
+        "sentenceHiragana": "かわの きしに たつ。"
       },
       {
-        "id": "U+5F13-ex-4",
-        "sentence": "大きな 弓。",
-        "reading": "ゆみ",
+        "id": "U+5CB8-ex-2",
+        "sentence": "むこうぎしへ わたる。",
+        "reading": "きし",
         "type": "kun",
-        "sentenceWithRuby": "大[おお]きな 弓。",
-        "sentenceHiragana": "おおきな ゆみ。"
+        "targetWord": "向こう岸",
+        "sentenceWithRuby": "向[む]こう岸へ わたる。",
+        "sentenceHiragana": "むこうぎしへ わたる。"
       },
       {
-        "id": "U+5F13-ex-5",
-        "sentence": "弓で やを うつ。",
-        "reading": "ゆみ",
+        "id": "U+5CB8-ex-3",
+        "sentence": "かいがんで あそぶ。",
+        "reading": "ガン",
+        "type": "on",
+        "targetWord": "海岸",
+        "sentenceWithRuby": "海岸[かいがん]で あそぶ。",
+        "sentenceHiragana": "かいがんで あそぶ。"
+      },
+      {
+        "id": "U+5CB8-ex-4",
+        "sentence": "がんぺきに ふねが とまる。",
+        "reading": "ガン",
+        "type": "on",
+        "targetWord": "岸壁",
+        "sentenceWithRuby": "岸壁[がんぺき]に ふねが とまる。",
+        "sentenceHiragana": "がんぺきに ふねが とまる。"
+      },
+      {
+        "id": "U+5CB8-ex-5",
+        "sentence": "みずぎわの 岸を あるく。",
+        "reading": "きし",
         "type": "kun",
-        "sentenceWithRuby": "弓で やを うつ。",
-        "sentenceHiragana": "ゆみで やを うつ。"
+        "sentenceWithRuby": "みずぎわの 岸を あるく。",
+        "sentenceHiragana": "みずぎわの きしを あるく。"
       }
     ]
   },
   {
-    "kanjiId": "U+725B",
-    "character": "牛",
+    "kanjiId": "U+8D77",
+    "character": "起",
     "newExamples": [
       {
-        "id": "U+725B-ex-3",
-        "sentence": "牛が いる。",
-        "reading": "うし",
+        "id": "U+8D77-ex-1",
+        "sentence": "あさ はやく 起きる。",
+        "reading": "お.きる",
         "type": "kun",
-        "sentenceWithRuby": "牛が いる。",
-        "sentenceHiragana": "うしが いる。"
+        "sentenceWithRuby": "あさ はやく 起きる。",
+        "sentenceHiragana": "あさ はやく おきる。"
       },
       {
-        "id": "U+725B-ex-4",
-        "sentence": "牛にゅうを のむ。",
-        "reading": "ぎゅう",
+        "id": "U+8D77-ex-2",
+        "sentence": "おとうとを 起こす。",
+        "reading": "お.こす",
+        "type": "kun",
+        "sentenceWithRuby": "おとうとを 起こす。",
+        "sentenceHiragana": "おとうとを おこす。"
+      },
+      {
+        "id": "U+8D77-ex-3",
+        "sentence": "きりつして あいさつする。",
+        "reading": "キ",
         "type": "on",
-        "sentenceWithRuby": "牛にゅうを のむ。",
-        "sentenceHiragana": "ぎゅうにゅうを のむ。"
+        "targetWord": "起立",
+        "sentenceWithRuby": "起立[きりつ]して あいさつする。",
+        "sentenceHiragana": "きりつして あいさつする。"
       },
       {
-        "id": "U+725B-ex-5",
-        "sentence": "牛を みる。",
-        "reading": "うし",
+        "id": "U+8D77-ex-4",
+        "sentence": "ろくじに 起きた。",
+        "reading": "お.きた",
         "type": "kun",
-        "sentenceWithRuby": "牛を みる。",
-        "sentenceHiragana": "うしを みる。"
+        "sentenceWithRuby": "ろくじに 起きた。",
+        "sentenceHiragana": "ろくじに おきた。"
+      },
+      {
+        "id": "U+8D77-ex-5",
+        "sentence": "きしょうじかんを きめる。",
+        "reading": "キ",
+        "type": "on",
+        "targetWord": "起床時間",
+        "sentenceWithRuby": "起床時間[きしょうじかん]を きめる。",
+        "sentenceHiragana": "きしょうじかんを きめる。"
       }
     ]
   },
   {
-    "kanjiId": "U+9B5A",
-    "character": "魚",
+    "kanjiId": "U+671F",
+    "character": "期",
     "newExamples": [
       {
-        "id": "U+9B5A-ex-3",
-        "sentence": "魚を つる。",
-        "reading": "さかな",
-        "type": "kun",
-        "sentenceWithRuby": "魚を つる。",
-        "sentenceHiragana": "さかなを つる。"
-      },
-      {
-        "id": "U+9B5A-ex-4",
-        "sentence": "大きな 魚。",
-        "reading": "さかな",
-        "type": "kun",
-        "sentenceWithRuby": "大[おお]きな 魚。",
-        "sentenceHiragana": "おおきな さかな。"
-      },
-      {
-        "id": "U+9B5A-ex-5",
-        "sentence": "金魚が およぐ。",
-        "reading": "ぎょ",
+        "id": "U+671F-ex-1",
+        "sentence": "いっしゅうきに いちど あう。",
+        "reading": "キ",
         "type": "on",
-        "sentenceWithRuby": "金魚が およぐ。",
-        "sentenceHiragana": "きんぎょが およぐ。"
+        "targetWord": "一周期",
+        "sentenceWithRuby": "一周期[いっしゅうき]に いちど あう。",
+        "sentenceHiragana": "いっしゅうきに いちど あう。"
+      },
+      {
+        "id": "U+671F-ex-2",
+        "sentence": "にがっきが はじまる。",
+        "reading": "キ",
+        "type": "on",
+        "targetWord": "二学期",
+        "sentenceWithRuby": "二学期[にがっき]が はじまる。",
+        "sentenceHiragana": "にがっきが はじまる。"
+      },
+      {
+        "id": "U+671F-ex-3",
+        "sentence": "きげんを まもる。",
+        "reading": "キ",
+        "type": "on",
+        "targetWord": "期限",
+        "sentenceWithRuby": "期限[きげん]を まもる。",
+        "sentenceHiragana": "きげんを まもる。"
+      },
+      {
+        "id": "U+671F-ex-4",
+        "sentence": "きたいして まつ。",
+        "reading": "キ",
+        "type": "on",
+        "targetWord": "期待",
+        "sentenceWithRuby": "期待[きたい]して まつ。",
+        "sentenceHiragana": "きたいして まつ。"
+      },
+      {
+        "id": "U+671F-ex-5",
+        "sentence": "きまつテストが ある。",
+        "reading": "キ",
+        "type": "on",
+        "targetWord": "期末",
+        "sentenceWithRuby": "期末[きまつ]テストが ある。",
+        "sentenceHiragana": "きまつてすとが ある。"
       }
     ]
   },
   {
-    "kanjiId": "U+4EAC",
-    "character": "京",
+    "kanjiId": "U+5BA2",
+    "character": "客",
     "newExamples": [
       {
-        "id": "U+4EAC-ex-3",
-        "sentence": "東京に いく。",
-        "reading": "きょう",
+        "id": "U+5BA2-ex-1",
+        "sentence": "おきゃくさんが くる。",
+        "reading": "キャク",
         "type": "on",
-        "sentenceWithRuby": "東[とう]京に いく。",
-        "sentenceHiragana": "とうきょうに いく。"
+        "targetWord": "お客さん",
+        "sentenceWithRuby": "お客[きゃく]さんが くる。",
+        "sentenceHiragana": "おきゃくさんが くる。"
       },
       {
-        "id": "U+4EAC-ex-4",
-        "sentence": "京とに すむ。",
-        "reading": "きょう",
+        "id": "U+5BA2-ex-2",
+        "sentence": "きゃくしつに あんないする。",
+        "reading": "キャク",
         "type": "on",
-        "sentenceWithRuby": "京とに すむ。",
-        "sentenceHiragana": "きょうとに すむ。"
+        "targetWord": "客室",
+        "sentenceWithRuby": "客室[きゃくしつ]に あんないする。",
+        "sentenceHiragana": "きゃくしつに あんないする。"
       },
       {
-        "id": "U+4EAC-ex-5",
-        "sentence": "上京する。",
-        "reading": "きょう",
+        "id": "U+5BA2-ex-3",
+        "sentence": "じょうきゃくが のりこむ。",
+        "reading": "キャク",
         "type": "on",
-        "sentenceWithRuby": "上[じょう]京する。",
-        "sentenceHiragana": "じょうきょうする。"
+        "targetWord": "乗客",
+        "sentenceWithRuby": "乗客[じょうきゃく]が のりこむ。",
+        "sentenceHiragana": "じょうきゃくが のりこむ。"
+      },
+      {
+        "id": "U+5BA2-ex-4",
+        "sentence": "らいきゃくが おおい。",
+        "reading": "キャク",
+        "type": "on",
+        "targetWord": "来客",
+        "sentenceWithRuby": "来客[らいきゃく]が おおい。",
+        "sentenceHiragana": "らいきゃくが おおい。"
+      },
+      {
+        "id": "U+5BA2-ex-5",
+        "sentence": "かんこうきゃくで にぎわう。",
+        "reading": "キャク",
+        "type": "on",
+        "targetWord": "観光客",
+        "sentenceWithRuby": "観光客[かんこうきゃく]で にぎわう。",
+        "sentenceHiragana": "かんこうきゃくで にぎわう。"
       }
     ]
   }

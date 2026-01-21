@@ -3,7 +3,7 @@
 export const UI = {
 	// アプリ名
 	appName: 'かんじマスター',
-	grade: '2ねんせい',
+	grade: '3ねんせい',
 	
 	// ナビゲーション
 	back: 'もどる',

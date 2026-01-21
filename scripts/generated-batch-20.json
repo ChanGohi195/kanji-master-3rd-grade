@@ -1,0 +1,500 @@
+[
+  {
+    "kanjiId": "U+843D",
+    "character": "落",
+    "newExamples": [
+      {
+        "id": "U+843D-ex-1",
+        "sentence": "はっぱが 落ちる。",
+        "reading": "お.ちる",
+        "type": "kun",
+        "sentenceWithRuby": "はっぱが 落ちる。",
+        "sentenceHiragana": "はっぱが おちる。"
+      },
+      {
+        "id": "U+843D-ex-2",
+        "sentence": "さいふを 落とす。",
+        "reading": "お.とす",
+        "type": "kun",
+        "sentenceWithRuby": "さいふを 落とす。",
+        "sentenceHiragana": "さいふを おとす。"
+      },
+      {
+        "id": "U+843D-ex-3",
+        "sentence": "らくようの きせつだ。",
+        "reading": "ラク",
+        "type": "on",
+        "targetWord": "落葉",
+        "sentenceWithRuby": "落葉[らくよう]の きせつだ。",
+        "sentenceHiragana": "らくようの きせつだ。"
+      },
+      {
+        "id": "U+843D-ex-4",
+        "sentence": "ぼうしが 落ちた。",
+        "reading": "お.ちた",
+        "type": "kun",
+        "sentenceWithRuby": "ぼうしが 落ちた。",
+        "sentenceHiragana": "ぼうしが おちた。"
+      },
+      {
+        "id": "U+843D-ex-5",
+        "sentence": "らくごを きく。",
+        "reading": "ラク",
+        "type": "on",
+        "targetWord": "落語",
+        "sentenceWithRuby": "落語[らくご]を きく。",
+        "sentenceHiragana": "らくごを きく。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6D41",
+    "character": "流",
+    "newExamples": [
+      {
+        "id": "U+6D41-ex-1",
+        "sentence": "かわが 流れる。",
+        "reading": "なが.れる",
+        "type": "kun",
+        "sentenceWithRuby": "かわが 流れる。",
+        "sentenceHiragana": "かわが ながれる。"
+      },
+      {
+        "id": "U+6D41-ex-2",
+        "sentence": "みずを 流す。",
+        "reading": "なが.す",
+        "type": "kun",
+        "sentenceWithRuby": "みずを 流す。",
+        "sentenceHiragana": "みずを ながす。"
+      },
+      {
+        "id": "U+6D41-ex-3",
+        "sentence": "りゅうこうの ふくを きる。",
+        "reading": "リュウ",
+        "type": "on",
+        "targetWord": "流行",
+        "sentenceWithRuby": "流行[りゅうこう]の ふくを きる。",
+        "sentenceHiragana": "りゅうこうの ふくを きる。"
+      },
+      {
+        "id": "U+6D41-ex-4",
+        "sentence": "なみだが 流れた。",
+        "reading": "なが.れた",
+        "type": "kun",
+        "sentenceWithRuby": "なみだが 流れた。",
+        "sentenceHiragana": "なみだが ながれた。"
+      },
+      {
+        "id": "U+6D41-ex-5",
+        "sentence": "でんりゅうに ちゅういする。",
+        "reading": "リュウ",
+        "type": "on",
+        "targetWord": "電流",
+        "sentenceWithRuby": "電流[でんりゅう]に ちゅういする。",
+        "sentenceHiragana": "でんりゅうに ちゅういする。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+65C5",
+    "character": "旅",
+    "newExamples": [
+      {
+        "id": "U+65C5-ex-1",
+        "sentence": "かぞくで 旅に でる。",
+        "reading": "たび",
+        "type": "kun",
+        "sentenceWithRuby": "かぞくで 旅に でる。",
+        "sentenceHiragana": "かぞくで たびに でる。"
+      },
+      {
+        "id": "U+65C5-ex-2",
+        "sentence": "りょこうに いく。",
+        "reading": "リョ",
+        "type": "on",
+        "targetWord": "旅行",
+        "sentenceWithRuby": "旅行[りょこう]に いく。",
+        "sentenceHiragana": "りょこうに いく。"
+      },
+      {
+        "id": "U+65C5-ex-3",
+        "sentence": "りょかんに とまる。",
+        "reading": "リョ",
+        "type": "on",
+        "targetWord": "旅館",
+        "sentenceWithRuby": "旅館[りょかん]に とまる。",
+        "sentenceHiragana": "りょかんに とまる。"
+      },
+      {
+        "id": "U+65C5-ex-4",
+        "sentence": "たのしい 旅だった。",
+        "reading": "たび",
+        "type": "kun",
+        "sentenceWithRuby": "たのしい 旅だった。",
+        "sentenceHiragana": "たのしい たびだった。"
+      },
+      {
+        "id": "U+65C5-ex-5",
+        "sentence": "りょひを ためる。",
+        "reading": "リョ",
+        "type": "on",
+        "targetWord": "旅費",
+        "sentenceWithRuby": "旅費[りょひ]を ためる。",
+        "sentenceHiragana": "りょひを ためる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4E21",
+    "character": "両",
+    "newExamples": [
+      {
+        "id": "U+4E21-ex-1",
+        "sentence": "りょうてを あげる。",
+        "reading": "リョウ",
+        "type": "on",
+        "targetWord": "両手",
+        "sentenceWithRuby": "両手[りょうて]を あげる。",
+        "sentenceHiragana": "りょうてを あげる。"
+      },
+      {
+        "id": "U+4E21-ex-2",
+        "sentence": "りょうあしで とぶ。",
+        "reading": "リョウ",
+        "type": "on",
+        "targetWord": "両足",
+        "sentenceWithRuby": "両足[りょうあし]で とぶ。",
+        "sentenceHiragana": "りょうあしで とぶ。"
+      },
+      {
+        "id": "U+4E21-ex-3",
+        "sentence": "りょうほうとも すきだ。",
+        "reading": "リョウ",
+        "type": "on",
+        "targetWord": "両方",
+        "sentenceWithRuby": "両方[りょうほう]とも すきだ。",
+        "sentenceHiragana": "りょうほうとも すきだ。"
+      },
+      {
+        "id": "U+4E21-ex-4",
+        "sentence": "りょうしんに あいさつする。",
+        "reading": "リョウ",
+        "type": "on",
+        "targetWord": "両親",
+        "sentenceWithRuby": "両親[りょうしん]に あいさつする。",
+        "sentenceHiragana": "りょうしんに あいさつする。"
+      },
+      {
+        "id": "U+4E21-ex-5",
+        "sentence": "りょうめで みる。",
+        "reading": "リョウ",
+        "type": "on",
+        "targetWord": "両目",
+        "sentenceWithRuby": "両目[りょうめ]で みる。",
+        "sentenceHiragana": "りょうめで みる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7DD1",
+    "character": "緑",
+    "newExamples": [
+      {
+        "id": "U+7DD1-ex-1",
+        "sentence": "緑の はっぱが きれいだ。",
+        "reading": "みどり",
+        "type": "kun",
+        "sentenceWithRuby": "緑の はっぱが きれいだ。",
+        "sentenceHiragana": "みどりの はっぱが きれいだ。"
+      },
+      {
+        "id": "U+7DD1-ex-2",
+        "sentence": "しんりょくが まぶしい。",
+        "reading": "リョク",
+        "type": "on",
+        "targetWord": "新緑",
+        "sentenceWithRuby": "新緑[しんりょく]が まぶしい。",
+        "sentenceHiragana": "しんりょくが まぶしい。"
+      },
+      {
+        "id": "U+7DD1-ex-3",
+        "sentence": "緑いろの えんぴつを つかう。",
+        "reading": "みどり",
+        "type": "kun",
+        "sentenceWithRuby": "緑いろの えんぴつを つかう。",
+        "sentenceHiragana": "みどりいろの えんぴつを つかう。"
+      },
+      {
+        "id": "U+7DD1-ex-4",
+        "sentence": "りょくちで あそぶ。",
+        "reading": "リョク",
+        "type": "on",
+        "targetWord": "緑地",
+        "sentenceWithRuby": "緑地[りょくち]で あそぶ。",
+        "sentenceHiragana": "りょくちで あそぶ。"
+      },
+      {
+        "id": "U+7DD1-ex-5",
+        "sentence": "りょくちゃを のむ。",
+        "reading": "リョク",
+        "type": "on",
+        "targetWord": "緑茶",
+        "sentenceWithRuby": "緑茶[りょくちゃ]を のむ。",
+        "sentenceHiragana": "りょくちゃを のむ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+793C",
+    "character": "礼",
+    "newExamples": [
+      {
+        "id": "U+793C-ex-1",
+        "sentence": "おれいを いう。",
+        "reading": "レイ",
+        "type": "on",
+        "targetWord": "お礼",
+        "sentenceWithRuby": "お礼[れい]を いう。",
+        "sentenceHiragana": "おれいを いう。"
+      },
+      {
+        "id": "U+793C-ex-2",
+        "sentence": "れいぎを まもる。",
+        "reading": "レイ",
+        "type": "on",
+        "targetWord": "礼儀",
+        "sentenceWithRuby": "礼儀[れいぎ]を まもる。",
+        "sentenceHiragana": "れいぎを まもる。"
+      },
+      {
+        "id": "U+793C-ex-3",
+        "sentence": "しつれいします。",
+        "reading": "レイ",
+        "type": "on",
+        "targetWord": "失礼",
+        "sentenceWithRuby": "失礼[しつれい]します。",
+        "sentenceHiragana": "しつれいします。"
+      },
+      {
+        "id": "U+793C-ex-4",
+        "sentence": "けいれいを する。",
+        "reading": "レイ",
+        "type": "on",
+        "targetWord": "敬礼",
+        "sentenceWithRuby": "敬礼[けいれい]を する。",
+        "sentenceHiragana": "けいれいを する。"
+      },
+      {
+        "id": "U+793C-ex-5",
+        "sentence": "ていねいに おじぎを する。",
+        "reading": "レイ",
+        "type": "on",
+        "targetWord": "礼",
+        "sentenceWithRuby": "ていねいに お礼[れい]を する。",
+        "sentenceHiragana": "ていねいに おれいを する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+5217",
+    "character": "列",
+    "newExamples": [
+      {
+        "id": "U+5217-ex-1",
+        "sentence": "れつに ならぶ。",
+        "reading": "レツ",
+        "type": "on",
+        "targetWord": "列",
+        "sentenceWithRuby": "列[れつ]に ならぶ。",
+        "sentenceHiragana": "れつに ならぶ。"
+      },
+      {
+        "id": "U+5217-ex-2",
+        "sentence": "ぎょうれつが できた。",
+        "reading": "レツ",
+        "type": "on",
+        "targetWord": "行列",
+        "sentenceWithRuby": "行列[ぎょうれつ]が できた。",
+        "sentenceHiragana": "ぎょうれつが できた。"
+      },
+      {
+        "id": "U+5217-ex-3",
+        "sentence": "れっしゃに のる。",
+        "reading": "レッ",
+        "type": "on",
+        "targetWord": "列車",
+        "sentenceWithRuby": "列車[れっしゃ]に のる。",
+        "sentenceHiragana": "れっしゃに のる。"
+      },
+      {
+        "id": "U+5217-ex-4",
+        "sentence": "せいれつする。",
+        "reading": "レツ",
+        "type": "on",
+        "targetWord": "整列",
+        "sentenceWithRuby": "整列[せいれつ]する。",
+        "sentenceHiragana": "せいれつする。"
+      },
+      {
+        "id": "U+5217-ex-5",
+        "sentence": "いちれつに ならぶ。",
+        "reading": "レツ",
+        "type": "on",
+        "targetWord": "一列",
+        "sentenceWithRuby": "一列[いちれつ]に ならぶ。",
+        "sentenceHiragana": "いちれつに ならぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7DF4",
+    "character": "練",
+    "newExamples": [
+      {
+        "id": "U+7DF4-ex-1",
+        "sentence": "さくせんを 練る。",
+        "reading": "ね.る",
+        "type": "kun",
+        "sentenceWithRuby": "さくせんを 練る。",
+        "sentenceHiragana": "さくせんを ねる。"
+      },
+      {
+        "id": "U+7DF4-ex-2",
+        "sentence": "れんしゅうを する。",
+        "reading": "レン",
+        "type": "on",
+        "targetWord": "練習",
+        "sentenceWithRuby": "練習[れんしゅう]を する。",
+        "sentenceHiragana": "れんしゅうを する。"
+      },
+      {
+        "id": "U+7DF4-ex-3",
+        "sentence": "くんれんを うける。",
+        "reading": "レン",
+        "type": "on",
+        "targetWord": "訓練",
+        "sentenceWithRuby": "訓練[くんれん]を うける。",
+        "sentenceHiragana": "くんれんを うける。"
+      },
+      {
+        "id": "U+7DF4-ex-4",
+        "sentence": "ピアノを れんしゅうする。",
+        "reading": "レン",
+        "type": "on",
+        "targetWord": "練習",
+        "sentenceWithRuby": "ピアノを 練習[れんしゅう]する。",
+        "sentenceHiragana": "ぴあのを れんしゅうする。"
+      },
+      {
+        "id": "U+7DF4-ex-5",
+        "sentence": "じゅくれんした うごきだ。",
+        "reading": "レン",
+        "type": "on",
+        "targetWord": "熟練",
+        "sentenceWithRuby": "熟練[じゅくれん]した うごきだ。",
+        "sentenceHiragana": "じゅくれんした うごきだ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8DEF",
+    "character": "路",
+    "newExamples": [
+      {
+        "id": "U+8DEF-ex-1",
+        "sentence": "どうろを わたる。",
+        "reading": "ロ",
+        "type": "on",
+        "targetWord": "道路",
+        "sentenceWithRuby": "道路[どうろ]を わたる。",
+        "sentenceHiragana": "どうろを わたる。"
+      },
+      {
+        "id": "U+8DEF-ex-2",
+        "sentence": "つうろを あるく。",
+        "reading": "ロ",
+        "type": "on",
+        "targetWord": "通路",
+        "sentenceWithRuby": "通路[つうろ]を あるく。",
+        "sentenceHiragana": "つうろを あるく。"
+      },
+      {
+        "id": "U+8DEF-ex-3",
+        "sentence": "せんろを みる。",
+        "reading": "ロ",
+        "type": "on",
+        "targetWord": "線路",
+        "sentenceWithRuby": "線路[せんろ]を みる。",
+        "sentenceHiragana": "せんろを みる。"
+      },
+      {
+        "id": "U+8DEF-ex-4",
+        "sentence": "ろじを あるく。",
+        "reading": "ロ",
+        "type": "on",
+        "targetWord": "路地",
+        "sentenceWithRuby": "路地[ろじ]を あるく。",
+        "sentenceHiragana": "ろじを あるく。"
+      },
+      {
+        "id": "U+8DEF-ex-5",
+        "sentence": "しんろを きめる。",
+        "reading": "ロ",
+        "type": "on",
+        "targetWord": "進路",
+        "sentenceWithRuby": "進路[しんろ]を きめる。",
+        "sentenceHiragana": "しんろを きめる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+548C",
+    "character": "和",
+    "newExamples": [
+      {
+        "id": "U+548C-ex-1",
+        "sentence": "きもちが 和む。",
+        "reading": "なご.む",
+        "type": "kun",
+        "sentenceWithRuby": "きもちが 和む。",
+        "sentenceHiragana": "きもちが なごむ。"
+      },
+      {
+        "id": "U+548C-ex-2",
+        "sentence": "へいわな せかいを ねがう。",
+        "reading": "ワ",
+        "type": "on",
+        "targetWord": "平和",
+        "sentenceWithRuby": "平和[へいわ]な せかいを ねがう。",
+        "sentenceHiragana": "へいわな せかいを ねがう。"
+      },
+      {
+        "id": "U+548C-ex-3",
+        "sentence": "わしつに すわる。",
+        "reading": "ワ",
+        "type": "on",
+        "targetWord": "和室",
+        "sentenceWithRuby": "和室[わしつ]に すわる。",
+        "sentenceHiragana": "わしつに すわる。"
+      },
+      {
+        "id": "U+548C-ex-4",
+        "sentence": "わふくを きる。",
+        "reading": "ワ",
+        "type": "on",
+        "targetWord": "和服",
+        "sentenceWithRuby": "和服[わふく]を きる。",
+        "sentenceHiragana": "わふくを きる。"
+      },
+      {
+        "id": "U+548C-ex-5",
+        "sentence": "わしょくを たべる。",
+        "reading": "ワ",
+        "type": "on",
+        "targetWord": "和食",
+        "sentenceWithRuby": "和食[わしょく]を たべる。",
+        "sentenceHiragana": "わしょくを たべる。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,501 @@
+[
+  {
+    "kanjiId": "U+7531",
+    "character": "由",
+    "newExamples": [
+      {
+        "id": "U+7531-ex-1",
+        "sentence": "りゆうを きく。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "理由",
+        "sentenceWithRuby": "理由[りゆう]を きく。",
+        "sentenceHiragana": "りゆうを きく。"
+      },
+      {
+        "id": "U+7531-ex-2",
+        "sentence": "じゆうに あそぶ。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "自由",
+        "sentenceWithRuby": "自由[じゆう]に あそぶ。",
+        "sentenceHiragana": "じゆうに あそぶ。"
+      },
+      {
+        "id": "U+7531-ex-3",
+        "sentence": "けいゆちを とおる。",
+        "reading": "ユ",
+        "type": "on",
+        "targetWord": "経由地",
+        "sentenceWithRuby": "経由地[けいゆち]を とおる。",
+        "sentenceHiragana": "けいゆちを とおる。"
+      },
+      {
+        "id": "U+7531-ex-4",
+        "sentence": "ゆらいを しらべる。",
+        "reading": "ユ",
+        "type": "on",
+        "targetWord": "由来",
+        "sentenceWithRuby": "由来[ゆらい]を しらべる。",
+        "sentenceHiragana": "ゆらいを しらべる。"
+      },
+      {
+        "id": "U+7531-ex-5",
+        "sentence": "じゆうけんきゅうを する。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "自由研究",
+        "sentenceWithRuby": "自由研究[じゆうけんきゅう]を する。",
+        "sentenceHiragana": "じゆうけんきゅうを する。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6CB9",
+    "character": "油",
+    "newExamples": [
+      {
+        "id": "U+6CB9-ex-1",
+        "sentence": "油で やく。",
+        "reading": "あぶら",
+        "type": "kun",
+        "sentenceWithRuby": "油で やく。",
+        "sentenceHiragana": "あぶらで やく。"
+      },
+      {
+        "id": "U+6CB9-ex-2",
+        "sentence": "油を ひく。",
+        "reading": "あぶら",
+        "type": "kun",
+        "sentenceWithRuby": "油を ひく。",
+        "sentenceHiragana": "あぶらを ひく。"
+      },
+      {
+        "id": "U+6CB9-ex-3",
+        "sentence": "せきゆストーブを つかう。",
+        "reading": "ユ",
+        "type": "on",
+        "targetWord": "石油",
+        "sentenceWithRuby": "石油[せきゆ]ストーブを つかう。",
+        "sentenceHiragana": "せきゆストーブを つかう。"
+      },
+      {
+        "id": "U+6CB9-ex-4",
+        "sentence": "しょうゆを かける。",
+        "reading": "ユ",
+        "type": "on",
+        "targetWord": "醤油",
+        "sentenceWithRuby": "醤油[しょうゆ]を かける。",
+        "sentenceHiragana": "しょうゆを かける。"
+      },
+      {
+        "id": "U+6CB9-ex-5",
+        "sentence": "きかいに 油を さす。",
+        "reading": "あぶら",
+        "type": "kun",
+        "sentenceWithRuby": "きかいに 油を さす。",
+        "sentenceHiragana": "きかいに あぶらを さす。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6709",
+    "character": "有",
+    "newExamples": [
+      {
+        "id": "U+6709-ex-1",
+        "sentence": "ゆうめいな やまだ。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "有名",
+        "sentenceWithRuby": "有名[ゆうめい]な やまだ。",
+        "sentenceHiragana": "ゆうめいな やまだ。"
+      },
+      {
+        "id": "U+6709-ex-2",
+        "sentence": "しょゆうしゃを しらべる。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "所有者",
+        "sentenceWithRuby": "所有者[しょゆうしゃ]を しらべる。",
+        "sentenceHiragana": "しょゆうしゃを しらべる。"
+      },
+      {
+        "id": "U+6709-ex-3",
+        "sentence": "ゆうりな じょうけんだ。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "有利",
+        "sentenceWithRuby": "有利[ゆうり]な じょうけんだ。",
+        "sentenceHiragana": "ゆうりな じょうけんだ。"
+      },
+      {
+        "id": "U+6709-ex-4",
+        "sentence": "ゆうこうきげんを たしかめる。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "有効期限",
+        "sentenceWithRuby": "有効期限[ゆうこうきげん]を たしかめる。",
+        "sentenceHiragana": "ゆうこうきげんを たしかめる。"
+      },
+      {
+        "id": "U+6709-ex-5",
+        "sentence": "ゆうがいな ものを すてる。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "有害",
+        "sentenceWithRuby": "有害[ゆうがい]な ものを すてる。",
+        "sentenceHiragana": "ゆうがいな ものを すてる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+904A",
+    "character": "遊",
+    "newExamples": [
+      {
+        "id": "U+904A-ex-1",
+        "sentence": "こうえんで 遊ぶ。",
+        "reading": "あそ.ぶ",
+        "type": "kun",
+        "sentenceWithRuby": "こうえんで 遊ぶ。",
+        "sentenceHiragana": "こうえんで あそぶ。"
+      },
+      {
+        "id": "U+904A-ex-2",
+        "sentence": "ともだちと 遊んだ。",
+        "reading": "あそ.んだ",
+        "type": "kun",
+        "sentenceWithRuby": "ともだちと 遊んだ。",
+        "sentenceHiragana": "ともだちと あそんだ。"
+      },
+      {
+        "id": "U+904A-ex-3",
+        "sentence": "ゆうえんちに いく。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "遊園地",
+        "sentenceWithRuby": "遊園地[ゆうえんち]に いく。",
+        "sentenceHiragana": "ゆうえんちに いく。"
+      },
+      {
+        "id": "U+904A-ex-4",
+        "sentence": "おに遊びを する。",
+        "reading": "あそ.び",
+        "type": "kun",
+        "targetWord": "遊び",
+        "sentenceWithRuby": "おに遊び[あそび]を する。",
+        "sentenceHiragana": "おにあそびを する。"
+      },
+      {
+        "id": "U+904A-ex-5",
+        "sentence": "ゆうぎしつで あそぶ。",
+        "reading": "ユウ",
+        "type": "on",
+        "targetWord": "遊戯室",
+        "sentenceWithRuby": "遊戯室[ゆうぎしつ]で あそぶ。",
+        "sentenceHiragana": "ゆうぎしつで あそぶ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+4E88",
+    "character": "予",
+    "newExamples": [
+      {
+        "id": "U+4E88-ex-1",
+        "sentence": "よていを たてる。",
+        "reading": "ヨ",
+        "type": "on",
+        "targetWord": "予定",
+        "sentenceWithRuby": "予定[よてい]を たてる。",
+        "sentenceHiragana": "よていを たてる。"
+      },
+      {
+        "id": "U+4E88-ex-2",
+        "sentence": "よしゅうを する。",
+        "reading": "ヨ",
+        "type": "on",
+        "targetWord": "予習",
+        "sentenceWithRuby": "予習[よしゅう]を する。",
+        "sentenceHiragana": "よしゅうを する。"
+      },
+      {
+        "id": "U+4E88-ex-3",
+        "sentence": "てんきよほうを みる。",
+        "reading": "ヨ",
+        "type": "on",
+        "targetWord": "天気予報",
+        "sentenceWithRuby": "天気予報[てんきよほう]を みる。",
+        "sentenceHiragana": "てんきよほうを みる。"
+      },
+      {
+        "id": "U+4E88-ex-4",
+        "sentence": "よやくを する。",
+        "reading": "ヨ",
+        "type": "on",
+        "targetWord": "予約",
+        "sentenceWithRuby": "予約[よやく]を する。",
+        "sentenceHiragana": "よやくを する。"
+      },
+      {
+        "id": "U+4E88-ex-5",
+        "sentence": "よそうが あたった。",
+        "reading": "ヨ",
+        "type": "on",
+        "targetWord": "予想",
+        "sentenceWithRuby": "予想[よそう]が あたった。",
+        "sentenceHiragana": "よそうが あたった。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+7F8A",
+    "character": "羊",
+    "newExamples": [
+      {
+        "id": "U+7F8A-ex-1",
+        "sentence": "羊が いる。",
+        "reading": "ひつじ",
+        "type": "kun",
+        "sentenceWithRuby": "羊が いる。",
+        "sentenceHiragana": "ひつじが いる。"
+      },
+      {
+        "id": "U+7F8A-ex-2",
+        "sentence": "羊の けを かる。",
+        "reading": "ひつじ",
+        "type": "kun",
+        "sentenceWithRuby": "羊の けを かる。",
+        "sentenceHiragana": "ひつじの けを かる。"
+      },
+      {
+        "id": "U+7F8A-ex-3",
+        "sentence": "ようもうの セーターを きる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "羊毛",
+        "sentenceWithRuby": "羊毛[ようもう]の セーターを きる。",
+        "sentenceHiragana": "ようもうの セーターを きる。"
+      },
+      {
+        "id": "U+7F8A-ex-4",
+        "sentence": "羊を かぞえる。",
+        "reading": "ひつじ",
+        "type": "kun",
+        "sentenceWithRuby": "羊を かぞえる。",
+        "sentenceHiragana": "ひつじを かぞえる。"
+      },
+      {
+        "id": "U+7F8A-ex-5",
+        "sentence": "こひつじが うまれた。",
+        "reading": "ひつじ",
+        "type": "kun",
+        "targetWord": "子羊",
+        "sentenceWithRuby": "子羊[こひつじ]が うまれた。",
+        "sentenceHiragana": "こひつじが うまれた。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+6D0B",
+    "character": "洋",
+    "newExamples": [
+      {
+        "id": "U+6D0B-ex-1",
+        "sentence": "たいへいようを わたる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "太平洋",
+        "sentenceWithRuby": "太平洋[たいへいよう]を わたる。",
+        "sentenceHiragana": "たいへいようを わたる。"
+      },
+      {
+        "id": "U+6D0B-ex-2",
+        "sentence": "ようふくを きる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "洋服",
+        "sentenceWithRuby": "洋服[ようふく]を きる。",
+        "sentenceHiragana": "ようふくを きる。"
+      },
+      {
+        "id": "U+6D0B-ex-3",
+        "sentence": "せいようの えを みる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "西洋",
+        "sentenceWithRuby": "西洋[せいよう]の えを みる。",
+        "sentenceHiragana": "せいようの えを みる。"
+      },
+      {
+        "id": "U+6D0B-ex-4",
+        "sentence": "ようしつに はいる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "洋室",
+        "sentenceWithRuby": "洋室[ようしつ]に はいる。",
+        "sentenceHiragana": "ようしつに はいる。"
+      },
+      {
+        "id": "U+6D0B-ex-5",
+        "sentence": "ようしょくを たべる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "洋食",
+        "sentenceWithRuby": "洋食[ようしょく]を たべる。",
+        "sentenceHiragana": "ようしょくを たべる。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+8449",
+    "character": "葉",
+    "newExamples": [
+      {
+        "id": "U+8449-ex-1",
+        "sentence": "きの 葉が おちる。",
+        "reading": "は",
+        "type": "kun",
+        "sentenceWithRuby": "きの 葉が おちる。",
+        "sentenceHiragana": "きの はが おちる。"
+      },
+      {
+        "id": "U+8449-ex-2",
+        "sentence": "あかい 葉を ひろう。",
+        "reading": "は",
+        "type": "kun",
+        "sentenceWithRuby": "あかい 葉を ひろう。",
+        "sentenceHiragana": "あかい はを ひろう。"
+      },
+      {
+        "id": "U+8449-ex-3",
+        "sentence": "こうようが きれいだ。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "紅葉",
+        "sentenceWithRuby": "紅葉[こうよう]が きれいだ。",
+        "sentenceHiragana": "こうようが きれいだ。"
+      },
+      {
+        "id": "U+8449-ex-4",
+        "sentence": "ことばを おぼえる。",
+        "reading": "ば",
+        "type": "kun",
+        "targetWord": "言葉",
+        "sentenceWithRuby": "言葉[ことば]を おぼえる。",
+        "sentenceHiragana": "ことばを おぼえる。"
+      },
+      {
+        "id": "U+8449-ex-5",
+        "sentence": "わかばが でてきた。",
+        "reading": "ば",
+        "type": "kun",
+        "targetWord": "若葉",
+        "sentenceWithRuby": "若葉[わかば]が でてきた。",
+        "sentenceHiragana": "わかばが でてきた。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+967D",
+    "character": "陽",
+    "newExamples": [
+      {
+        "id": "U+967D-ex-1",
+        "sentence": "たいようが のぼる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "太陽",
+        "sentenceWithRuby": "太陽[たいよう]が のぼる。",
+        "sentenceHiragana": "たいようが のぼる。"
+      },
+      {
+        "id": "U+967D-ex-2",
+        "sentence": "ようきな せいかくだ。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "陽気",
+        "sentenceWithRuby": "陽気[ようき]な せいかくだ。",
+        "sentenceHiragana": "ようきな せいかくだ。"
+      },
+      {
+        "id": "U+967D-ex-3",
+        "sentence": "ひなたで ほんを よむ。",
+        "reading": "ひ",
+        "type": "kun",
+        "targetWord": "日向",
+        "sentenceWithRuby": "日向[ひなた]で ほんを よむ。",
+        "sentenceHiragana": "ひなたで ほんを よむ。"
+      },
+      {
+        "id": "U+967D-ex-4",
+        "sentence": "たいようけいを まなぶ。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "太陽系",
+        "sentenceWithRuby": "太陽系[たいようけい]を まなぶ。",
+        "sentenceHiragana": "たいようけいを まなぶ。"
+      },
+      {
+        "id": "U+967D-ex-5",
+        "sentence": "せきようが きれいだ。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "夕陽",
+        "sentenceWithRuby": "夕陽[せきよう]が きれいだ。",
+        "sentenceHiragana": "せきようが きれいだ。"
+      }
+    ]
+  },
+  {
+    "kanjiId": "U+69D8",
+    "character": "様",
+    "newExamples": [
+      {
+        "id": "U+69D8-ex-1",
+        "sentence": "おきゃく様が きた。",
+        "reading": "さま",
+        "type": "kun",
+        "sentenceWithRuby": "おきゃく様が きた。",
+        "sentenceHiragana": "おきゃくさまが きた。"
+      },
+      {
+        "id": "U+69D8-ex-2",
+        "sentence": "たなかさまへ てがみを かく。",
+        "reading": "さま",
+        "type": "kun",
+        "targetWord": "様",
+        "sentenceWithRuby": "たなか様へ てがみを かく。",
+        "sentenceHiragana": "たなかさまへ てがみを かく。"
+      },
+      {
+        "id": "U+69D8-ex-3",
+        "sentence": "ようすを みる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "様子",
+        "sentenceWithRuby": "様子[ようす]を みる。",
+        "sentenceHiragana": "ようすを みる。"
+      },
+      {
+        "id": "U+69D8-ex-4",
+        "sentence": "どうように やる。",
+        "reading": "ヨウ",
+        "type": "on",
+        "targetWord": "同様",
+        "sentenceWithRuby": "同様[どうよう]に やる。",
+        "sentenceHiragana": "どうように やる。"
+      },
+      {
+        "id": "U+69D8-ex-5",
+        "sentence": "さまざまな いろが ある。",
+        "reading": "さま",
+        "type": "kun",
+        "targetWord": "様々",
+        "sentenceWithRuby": "様々[さまざま]な いろが ある。",
+        "sentenceHiragana": "さまざまな いろが ある。"
+      }
+    ]
+  }
+]
