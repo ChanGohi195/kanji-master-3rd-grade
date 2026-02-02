@@ -25,7 +25,7 @@
         "reading": "わるくち",
         "type": "kun",
         "targetWord": "悪口",
-        "sentenceWithRuby": "悪口[わるくち]を いっては いけない。",
+        "sentenceWithRuby": "悪[わる]口[くち]を いっては いけない。",
         "sentenceHiragana": "わるくちを いっては いけない。"
       },
       {
@@ -34,7 +34,7 @@
         "reading": "アク",
         "type": "on",
         "targetWord": "悪魔",
-        "sentenceWithRuby": "悪魔[あくま]は こわい。",
+        "sentenceWithRuby": "悪[あ]魔[くま]は こわい。",
         "sentenceHiragana": "あくまは こわい。"
       },
       {
@@ -43,7 +43,7 @@
         "reading": "アク",
         "type": "on",
         "targetWord": "最悪",
-        "sentenceWithRuby": "最悪[さいあく]の じたいだ。",
+        "sentenceWithRuby": "最[さい]悪[あく]の じたいだ。",
         "sentenceHiragana": "さいあくの じたいだ。"
       }
     ]
@@ -74,7 +74,7 @@
         "reading": "アン",
         "type": "on",
         "targetWord": "安心",
-        "sentenceWithRuby": "安心[あんしん]して ねる。",
+        "sentenceWithRuby": "安[あん]心[しん]して ねる。",
         "sentenceHiragana": "あんしんして ねる。"
       },
       {
@@ -83,7 +83,7 @@
         "reading": "アン",
         "type": "on",
         "targetWord": "安全",
-        "sentenceWithRuby": "安全[あんぜん]に きを つける。",
+        "sentenceWithRuby": "安[あん]全[ぜん]に きを つける。",
         "sentenceHiragana": "あんぜんに きを つける。"
       },
       {
@@ -92,7 +92,7 @@
         "reading": "アン",
         "type": "on",
         "targetWord": "不安",
-        "sentenceWithRuby": "不安[ふあん]な きもちに なる。",
+        "sentenceWithRuby": "不[ふ]安[あん]な きもちに なる。",
         "sentenceHiragana": "ふあんな きもちに なる。"
       }
     ]
@@ -123,7 +123,7 @@
         "reading": "アン",
         "type": "on",
         "targetWord": "暗記",
-        "sentenceWithRuby": "暗記[あんき]して おぼえる。",
+        "sentenceWithRuby": "暗[あ]記[んき]して おぼえる。",
         "sentenceHiragana": "あんきして おぼえる。"
       },
       {
@@ -141,7 +141,7 @@
         "reading": "アン",
         "type": "on",
         "targetWord": "暗号",
-        "sentenceWithRuby": "暗号[あんごう]を とく。",
+        "sentenceWithRuby": "暗[あん]号[ごう]を とく。",
         "sentenceHiragana": "あんごうを とく。"
       }
     ]
@@ -156,7 +156,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "医者",
-        "sentenceWithRuby": "医者[いしゃ]に みて もらう。",
+        "sentenceWithRuby": "医[い]者[しゃ]に みて もらう。",
         "sentenceHiragana": "いしゃに みて もらう。"
       },
       {
@@ -165,7 +165,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "医院",
-        "sentenceWithRuby": "医院[いいん]に いく。",
+        "sentenceWithRuby": "医[い]院[いん]に いく。",
         "sentenceHiragana": "いいんに いく。"
       },
       {
@@ -174,7 +174,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "医学",
-        "sentenceWithRuby": "医学[いがく]を べんきょうする。",
+        "sentenceWithRuby": "医[い]学[がく]を べんきょうする。",
         "sentenceHiragana": "いがくを べんきょうする。"
       },
       {
@@ -183,7 +183,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "医療",
-        "sentenceWithRuby": "医療[いりょう]の しごとを する。",
+        "sentenceWithRuby": "医[い]療[りょう]の しごとを する。",
         "sentenceHiragana": "いりょうの しごとを する。"
       },
       {
@@ -192,7 +192,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "名医",
-        "sentenceWithRuby": "名医[めいい]に みて もらう。",
+        "sentenceWithRuby": "名[め]医[いい]に みて もらう。",
         "sentenceHiragana": "めいいに みて もらう。"
       }
     ]
@@ -207,7 +207,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "委員会",
-        "sentenceWithRuby": "委員会[いいんかい]に さんかする。",
+        "sentenceWithRuby": "委[い]員[いん]会[かい]に さんかする。",
         "sentenceHiragana": "いいんかいに さんかする。"
       },
       {
@@ -216,7 +216,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "図書委員",
-        "sentenceWithRuby": "図書委員[としょいいん]に なる。",
+        "sentenceWithRuby": "図[と]書[しょ]委[い]員[いん]に なる。",
         "sentenceHiragana": "としょいいんに なる。"
       },
       {
@@ -233,7 +233,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "委員長",
-        "sentenceWithRuby": "委員長[いいんちょう]を きめる。",
+        "sentenceWithRuby": "委[い]員[い]長[んちょう]を きめる。",
         "sentenceHiragana": "いいんちょうを きめる。"
       },
       {
@@ -242,7 +242,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "保健委員",
-        "sentenceWithRuby": "保健委員[ほけんいいん]の しごとを する。",
+        "sentenceWithRuby": "保[ほ]健[けん]委[い]員[いん]の しごとを する。",
         "sentenceHiragana": "ほけんいいんの しごとを する。"
       }
     ]
@@ -257,7 +257,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "意味",
-        "sentenceWithRuby": "意味[いみ]が わかった。",
+        "sentenceWithRuby": "意[い]味[み]が わかった。",
         "sentenceHiragana": "いみが わかった。"
       },
       {
@@ -266,7 +266,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "意見",
-        "sentenceWithRuby": "意見[いけん]を いう。",
+        "sentenceWithRuby": "意[い]見[けん]を いう。",
         "sentenceHiragana": "いけんを いう。"
       },
       {
@@ -275,7 +275,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "注意",
-        "sentenceWithRuby": "注意[ちゅうい]して きく。",
+        "sentenceWithRuby": "注[ちゅ]意[うい]して きく。",
         "sentenceHiragana": "ちゅういして きく。"
       },
       {
@@ -284,7 +284,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "用意",
-        "sentenceWithRuby": "用意[ようい]を する。",
+        "sentenceWithRuby": "用[よ]意[うい]を する。",
         "sentenceHiragana": "よういを する。"
       },
       {
@@ -293,7 +293,7 @@
         "reading": "イ",
         "type": "on",
         "targetWord": "意志",
-        "sentenceWithRuby": "意志[いし]を つたえる。",
+        "sentenceWithRuby": "意[い]志[し]を つたえる。",
         "sentenceHiragana": "いしを つたえる。"
       }
     ]
@@ -324,7 +324,7 @@
         "reading": "イク",
         "type": "on",
         "targetWord": "体育",
-        "sentenceWithRuby": "体育[たいいく]の じゅぎょうが ある。",
+        "sentenceWithRuby": "体[たい]育[いく]の じゅぎょうが ある。",
         "sentenceHiragana": "たいいくの じゅぎょうが ある。"
       },
       {
@@ -333,7 +333,7 @@
         "reading": "イク",
         "type": "on",
         "targetWord": "教育",
-        "sentenceWithRuby": "教育[きょういく]を うける。",
+        "sentenceWithRuby": "教[きょう]育[いく]を うける。",
         "sentenceHiragana": "きょういくを うける。"
       },
       {
@@ -356,7 +356,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "委員",
-        "sentenceWithRuby": "委員[いいん]に なる。",
+        "sentenceWithRuby": "委[い]員[いん]に なる。",
         "sentenceHiragana": "いいんに なる。"
       },
       {
@@ -365,7 +365,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "会員",
-        "sentenceWithRuby": "会員[かいいん]に なる。",
+        "sentenceWithRuby": "会[かい]員[いん]に なる。",
         "sentenceHiragana": "かいいんに なる。"
       },
       {
@@ -374,7 +374,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "店員",
-        "sentenceWithRuby": "店員[てんいん]さんに きく。",
+        "sentenceWithRuby": "店[てん]員[いん]さんに きく。",
         "sentenceHiragana": "てんいんさんに きく。"
       },
       {
@@ -383,7 +383,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "全員",
-        "sentenceWithRuby": "全員[ぜんいん]が あつまる。",
+        "sentenceWithRuby": "全[ぜん]員[いん]が あつまる。",
         "sentenceHiragana": "ぜんいんが あつまる。"
       },
       {
@@ -392,7 +392,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "教員室",
-        "sentenceWithRuby": "教員室[きょういんしつ]に いく。",
+        "sentenceWithRuby": "教[きょう]員[いん]室[しつ]に いく。",
         "sentenceHiragana": "きょういんしつに いく。"
       }
     ]
@@ -407,7 +407,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "病院",
-        "sentenceWithRuby": "病院[びょういん]に いく。",
+        "sentenceWithRuby": "病[びょう]院[いん]に いく。",
         "sentenceHiragana": "びょういんに いく。"
       },
       {
@@ -416,7 +416,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "院長",
-        "sentenceWithRuby": "院長[いんちょう]せんせいに あう。",
+        "sentenceWithRuby": "院[いん]長[ちょう]せんせいに あう。",
         "sentenceHiragana": "いんちょうせんせいに あう。"
       },
       {
@@ -425,7 +425,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "入院",
-        "sentenceWithRuby": "入院[にゅういん]する。",
+        "sentenceWithRuby": "入[にゅう]院[いん]する。",
         "sentenceHiragana": "にゅういんする。"
       },
       {
@@ -434,7 +434,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "退院",
-        "sentenceWithRuby": "退院[たいいん]する ひが きまる。",
+        "sentenceWithRuby": "退[たい]院[いん]する ひが きまる。",
         "sentenceHiragana": "たいいんする ひが きまる。"
       },
       {
@@ -443,7 +443,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "美容院",
-        "sentenceWithRuby": "美容院[びよういん]で かみを きる。",
+        "sentenceWithRuby": "美[び]容[よ]院[ういん]で かみを きる。",
         "sentenceHiragana": "びよういんで かみを きる。"
       }
     ]
@@ -474,7 +474,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "飲料水",
-        "sentenceWithRuby": "飲料水[いんりょうすい]を かう。",
+        "sentenceWithRuby": "飲[いん]料[りょう]水[すい]を かう。",
         "sentenceHiragana": "いんりょうすいを かう。"
       },
       {
@@ -491,7 +491,7 @@
         "reading": "イン",
         "type": "on",
         "targetWord": "飲食店",
-        "sentenceWithRuby": "飲食店[いんしょくてん]に いく。",
+        "sentenceWithRuby": "飲[いん]食[しょく]店[てん]に いく。",
         "sentenceHiragana": "いんしょくてんに いく。"
       }
     ]
@@ -522,7 +522,7 @@
         "reading": "ウン",
         "type": "on",
         "targetWord": "運動会",
-        "sentenceWithRuby": "運動会[うんどうかい]が たのしみだ。",
+        "sentenceWithRuby": "運[うん]動[どう]会[かい]が たのしみだ。",
         "sentenceHiragana": "うんどうかいが たのしみだ。"
       },
       {
@@ -540,7 +540,7 @@
         "reading": "ウン",
         "type": "on",
         "targetWord": "運転手",
-        "sentenceWithRuby": "運転手[うんてんしゅ]さんに あいさつする。",
+        "sentenceWithRuby": "運[う]転[ん]手[てんしゅ]さんに あいさつする。",
         "sentenceHiragana": "うんてんしゅさんに あいさつする。"
       }
     ]
@@ -571,7 +571,7 @@
         "reading": "エイ",
         "type": "on",
         "targetWord": "水泳",
-        "sentenceWithRuby": "水泳[すいえい]を ならう。",
+        "sentenceWithRuby": "水[すい]泳[えい]を ならう。",
         "sentenceHiragana": "すいえいを ならう。"
       },
       {
@@ -610,7 +610,7 @@
         "reading": "エキ",
         "type": "on",
         "targetWord": "駅員",
-        "sentenceWithRuby": "駅員[えきいん]さんに きく。",
+        "sentenceWithRuby": "駅[えき]員[いん]さんに きく。",
         "sentenceHiragana": "えきいんさんに きく。"
       },
       {
@@ -619,7 +619,7 @@
         "reading": "エキ",
         "type": "on",
         "targetWord": "駅前",
-        "sentenceWithRuby": "駅前[えきまえ]で まつ。",
+        "sentenceWithRuby": "駅[えき]前[まえ]で まつ。",
         "sentenceHiragana": "えきまえで まつ。"
       },
       {
@@ -636,7 +636,7 @@
         "reading": "エキ",
         "type": "on",
         "targetWord": "東京駅",
-        "sentenceWithRuby": "東京駅[とうきょうえき]は おおきい。",
+        "sentenceWithRuby": "東[とう]京[きょう]駅[えき]は おおきい。",
         "sentenceHiragana": "とうきょうえきは おおきい。"
       }
     ]
@@ -651,7 +651,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "中央",
-        "sentenceWithRuby": "まちの 中央[ちゅうおう]に いく。",
+        "sentenceWithRuby": "まちの 中[ちゅう]央[おう]に いく。",
         "sentenceHiragana": "まちの ちゅうおうに いく。"
       },
       {
@@ -660,7 +660,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "中央線",
-        "sentenceWithRuby": "中央線[ちゅうおうせん]に のる。",
+        "sentenceWithRuby": "中[ちゅう]央[おう]線[せん]に のる。",
         "sentenceHiragana": "ちゅうおうせんに のる。"
       },
       {
@@ -669,7 +669,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "中央",
-        "sentenceWithRuby": "こうていの 中央[ちゅうおう]に あつまる。",
+        "sentenceWithRuby": "こうていの 中[ちゅう]央[おう]に あつまる。",
         "sentenceHiragana": "こうていの ちゅうおうに あつまる。"
       },
       {
@@ -678,7 +678,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "中央公園",
-        "sentenceWithRuby": "中央公園[ちゅうおうこうえん]で あそぶ。",
+        "sentenceWithRuby": "中[ちゅう]央[おう]公[こう]園[えん]で あそぶ。",
         "sentenceHiragana": "ちゅうおうこうえんで あそぶ。"
       },
       {
@@ -687,7 +687,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "中央口",
-        "sentenceWithRuby": "中央口[ちゅうおうぐち]から でる。",
+        "sentenceWithRuby": "中[ちゅう]央[おう]口[ぐち]から でる。",
         "sentenceHiragana": "ちゅうおうぐちから でる。"
       }
     ]
@@ -718,7 +718,7 @@
         "reading": "オウ",
         "type": "on",
         "targetWord": "横断歩道",
-        "sentenceWithRuby": "横断歩道[おうだんほどう]を わたる。",
+        "sentenceWithRuby": "横[お]断[う]歩[だん]道[ほどう]を わたる。",
         "sentenceHiragana": "おうだんほどうを わたる。"
       },
       {
@@ -735,7 +735,7 @@
         "reading": "よこ",
         "type": "kun",
         "targetWord": "横書き",
-        "sentenceWithRuby": "横書[よこが]きで じを かく。",
+        "sentenceWithRuby": "横[よこ]書[が]きで じを かく。",
         "sentenceHiragana": "よこがきで じを かく。"
       }
     ]
@@ -759,7 +759,7 @@
         "reading": "や",
         "type": "kun",
         "targetWord": "本屋",
-        "sentenceWithRuby": "本屋[ほんや]で まんがを かう。",
+        "sentenceWithRuby": "本[ほん]屋[や]で まんがを かう。",
         "sentenceHiragana": "ほんやで まんがを かう。"
       },
       {
@@ -768,7 +768,7 @@
         "reading": "オク",
         "type": "on",
         "targetWord": "屋上",
-        "sentenceWithRuby": "屋上[おくじょう]で おひるを たべる。",
+        "sentenceWithRuby": "屋[おく]上[じょう]で おひるを たべる。",
         "sentenceHiragana": "おくじょうで おひるを たべる。"
       },
       {
@@ -777,7 +777,7 @@
         "reading": "や",
         "type": "kun",
         "targetWord": "お菓子屋",
-        "sentenceWithRuby": "お菓子屋[おかしや]さんで あめを かう。",
+        "sentenceWithRuby": "お菓[お]子[か]屋[しや]さんで あめを かう。",
         "sentenceHiragana": "おかしやさんに あめを かう。"
       },
       {
@@ -786,7 +786,7 @@
         "reading": "や",
         "type": "kun",
         "targetWord": "部屋",
-        "sentenceWithRuby": "部屋[へや]の そうじを する。",
+        "sentenceWithRuby": "部[へ]屋[や]の そうじを する。",
         "sentenceHiragana": "へやの そうじを する。"
       }
     ]
@@ -817,7 +817,7 @@
         "reading": "オン",
         "type": "on",
         "targetWord": "温泉",
-        "sentenceWithRuby": "温泉[おんせん]に はいる。",
+        "sentenceWithRuby": "温[おん]泉[せん]に はいる。",
         "sentenceHiragana": "おんせんに はいる。"
       },
       {
@@ -826,7 +826,7 @@
         "reading": "オン",
         "type": "on",
         "targetWord": "気温",
-        "sentenceWithRuby": "気温[きおん]が あがる。",
+        "sentenceWithRuby": "気[き]温[おん]が あがる。",
         "sentenceHiragana": "きおんが あがる。"
       },
       {
@@ -835,7 +835,7 @@
         "reading": "オン",
         "type": "on",
         "targetWord": "体温",
-        "sentenceWithRuby": "体温[たいおん]を はかる。",
+        "sentenceWithRuby": "体[たい]温[おん]を はかる。",
         "sentenceHiragana": "たいおんを はかる。"
       }
     ]
@@ -866,7 +866,7 @@
         "reading": "カ",
         "type": "on",
         "targetWord": "変化",
-        "sentenceWithRuby": "変化[へんか]に きづく。",
+        "sentenceWithRuby": "変[へ]化[んか]に きづく。",
         "sentenceHiragana": "へんかに きづく。"
       },
       {
@@ -875,7 +875,7 @@
         "reading": "カ",
         "type": "on",
         "targetWord": "文化祭",
-        "sentenceWithRuby": "文化祭[ぶんかさい]が たのしみだ。",
+        "sentenceWithRuby": "文[ぶ]化[ん]祭[かさい]が たのしみだ。",
         "sentenceHiragana": "ぶんかさいが たのしみだ。"
       },
       {
@@ -907,7 +907,7 @@
         "reading": "に",
         "type": "kun",
         "targetWord": "荷物",
-        "sentenceWithRuby": "荷物[にもつ]を はこぶ。",
+        "sentenceWithRuby": "荷[に]物[もつ]を はこぶ。",
         "sentenceHiragana": "にもつを はこぶ。"
       },
       {
@@ -916,7 +916,7 @@
         "reading": "に",
         "type": "kun",
         "targetWord": "手荷物",
-        "sentenceWithRuby": "手荷物[てにもつ]を あずける。",
+        "sentenceWithRuby": "手[て]荷[に]物[もつ]を あずける。",
         "sentenceHiragana": "てにもつを あずける。"
       },
       {
@@ -925,7 +925,7 @@
         "reading": "に",
         "type": "kun",
         "targetWord": "荷物",
-        "sentenceWithRuby": "荷物[にもつ]が とどいた。",
+        "sentenceWithRuby": "荷[に]物[もつ]が とどいた。",
         "sentenceHiragana": "にもつが とどいた。"
       },
       {
@@ -934,7 +934,7 @@
         "reading": "カ",
         "type": "on",
         "targetWord": "出荷",
-        "sentenceWithRuby": "出荷[しゅっか]を まつ。",
+        "sentenceWithRuby": "出[しゅ]荷[っか]を まつ。",
         "sentenceHiragana": "しゅっかを まつ。"
       }
     ]
@@ -949,7 +949,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "世界",
-        "sentenceWithRuby": "世界[せかい]の くにを しらべる。",
+        "sentenceWithRuby": "世[せ]界[かい]の くにを しらべる。",
         "sentenceHiragana": "せかいの くにを しらべる。"
       },
       {
@@ -958,7 +958,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "世界地図",
-        "sentenceWithRuby": "世界地図[せかいちず]を みる。",
+        "sentenceWithRuby": "世[せ]界[か]地[い]図[ちず]を みる。",
         "sentenceHiragana": "せかいちずを みる。"
       },
       {
@@ -967,7 +967,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "限界",
-        "sentenceWithRuby": "限界[げんかい]に ちょうせんする。",
+        "sentenceWithRuby": "限[げん]界[かい]に ちょうせんする。",
         "sentenceHiragana": "げんかいに ちょうせんする。"
       },
       {
@@ -976,7 +976,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "自然界",
-        "sentenceWithRuby": "自然界[しぜんかい]の いきものを まなぶ。",
+        "sentenceWithRuby": "自[し]然[ぜ]界[んかい]の いきものを まなぶ。",
         "sentenceHiragana": "しぜんかいの いきものを まなぶ。"
       },
       {
@@ -985,7 +985,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "境界線",
-        "sentenceWithRuby": "境界線[きょうかいせん]を こえる。",
+        "sentenceWithRuby": "境[きょう]界[かい]線[せん]を こえる。",
         "sentenceHiragana": "きょうかいせんを こえる。"
       }
     ]
@@ -1024,7 +1024,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "開会",
-        "sentenceWithRuby": "開会[かいかい]の あいさつを する。",
+        "sentenceWithRuby": "開[かい]会[かい]の あいさつを する。",
         "sentenceHiragana": "かいかいの あいさつを する。"
       },
       {
@@ -1033,7 +1033,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "開店",
-        "sentenceWithRuby": "みせが 開店[かいてん]する。",
+        "sentenceWithRuby": "みせが 開[かい]店[てん]する。",
         "sentenceHiragana": "みせが かいてんする。"
       }
     ]
@@ -1048,7 +1048,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "二階",
-        "sentenceWithRuby": "二階[にかい]に あがる。",
+        "sentenceWithRuby": "二[に]階[かい]に あがる。",
         "sentenceHiragana": "にかいに あがる。"
       },
       {
@@ -1057,7 +1057,7 @@
         "reading": "ガイ",
         "type": "on",
         "targetWord": "三階",
-        "sentenceWithRuby": "三階[さんがい]に へやが ある。",
+        "sentenceWithRuby": "三[さん]階[がい]に へやが ある。",
         "sentenceHiragana": "さんがいに へやが ある。"
       },
       {
@@ -1066,7 +1066,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "階段",
-        "sentenceWithRuby": "階段[かいだん]を のぼる。",
+        "sentenceWithRuby": "階[かい]段[だん]を のぼる。",
         "sentenceHiragana": "かいだんを のぼる。"
       },
       {
@@ -1075,7 +1075,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "一階",
-        "sentenceWithRuby": "一階[いっかい]に おりる。",
+        "sentenceWithRuby": "一[いっ]階[かい]に おりる。",
         "sentenceHiragana": "いっかいに おりる。"
       },
       {
@@ -1084,7 +1084,7 @@
         "reading": "カイ",
         "type": "on",
         "targetWord": "地下一階",
-        "sentenceWithRuby": "地下一階[ちかいっかい]で かいものを する。",
+        "sentenceWithRuby": "地[ち]下[か]一[いっ]階[かい]で かいものを する。",
         "sentenceHiragana": "ちかいっかいで かいものを する。"
       }
     ]
@@ -1124,7 +1124,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "寒暖計",
-        "sentenceWithRuby": "寒暖計[かんだんけい]を みる。",
+        "sentenceWithRuby": "寒[かん]暖[だん]計[けい]を みる。",
         "sentenceHiragana": "かんだんけいを みる。"
       },
       {
@@ -1133,7 +1133,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "寒気",
-        "sentenceWithRuby": "寒気[かんき]が きびしい。",
+        "sentenceWithRuby": "寒[か]気[んき]が きびしい。",
         "sentenceHiragana": "かんきが きびしい。"
       }
     ]
@@ -1148,7 +1148,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "感謝",
-        "sentenceWithRuby": "感謝[かんしゃ]の きもちを つたえる。",
+        "sentenceWithRuby": "感[か]謝[んしゃ]の きもちを つたえる。",
         "sentenceHiragana": "かんしゃの きもちを つたえる。"
       },
       {
@@ -1157,7 +1157,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "感想文",
-        "sentenceWithRuby": "感想文[かんそうぶん]を かく。",
+        "sentenceWithRuby": "感[かん]想[そう]文[ぶん]を かく。",
         "sentenceHiragana": "かんそうぶんを かく。"
       },
       {
@@ -1166,7 +1166,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "感動",
-        "sentenceWithRuby": "感動[かんどう]して なく。",
+        "sentenceWithRuby": "感[かん]動[どう]して なく。",
         "sentenceHiragana": "かんどうして なく。"
       },
       {
@@ -1175,7 +1175,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "予感",
-        "sentenceWithRuby": "予感[よかん]が あたった。",
+        "sentenceWithRuby": "予[よ]感[かん]が あたった。",
         "sentenceHiragana": "よかんが あたった。"
       },
       {
@@ -1184,7 +1184,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "五感",
-        "sentenceWithRuby": "五感[ごかん]を つかう。",
+        "sentenceWithRuby": "五[ご]感[かん]を つかう。",
         "sentenceHiragana": "ごかんを つかう。"
       }
     ]
@@ -1199,7 +1199,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "漢字",
-        "sentenceWithRuby": "漢字[かんじ]を べんきょうする。",
+        "sentenceWithRuby": "漢[か]字[んじ]を べんきょうする。",
         "sentenceHiragana": "かんじを べんきょうする。"
       },
       {
@@ -1208,7 +1208,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "漢字",
-        "sentenceWithRuby": "あたらしい 漢字[かんじ]を おぼえる。",
+        "sentenceWithRuby": "あたらしい 漢[か]字[んじ]を おぼえる。",
         "sentenceHiragana": "あたらしい かんじを おぼえる。"
       },
       {
@@ -1217,7 +1217,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "漢和辞典",
-        "sentenceWithRuby": "漢和辞典[かんわじてん]を つかう。",
+        "sentenceWithRuby": "漢[かん]和[わ]辞[じ]典[てん]を つかう。",
         "sentenceHiragana": "かんわじてんを つかう。"
       },
       {
@@ -1226,7 +1226,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "漢文",
-        "sentenceWithRuby": "漢文[かんぶん]を よむ。",
+        "sentenceWithRuby": "漢[かん]文[ぶん]を よむ。",
         "sentenceHiragana": "かんぶんを よむ。"
       },
       {
@@ -1235,7 +1235,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "漢数字",
-        "sentenceWithRuby": "漢数字[かんすうじ]で かく。",
+        "sentenceWithRuby": "漢[か]数[ん]字[すうじ]で かく。",
         "sentenceHiragana": "かんすうじで かく。"
       }
     ]
@@ -1250,7 +1250,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "図書館",
-        "sentenceWithRuby": "図書館[としょかん]で ほんを かりる。",
+        "sentenceWithRuby": "図[と]書[しょ]館[かん]で ほんを かりる。",
         "sentenceHiragana": "としょかんで ほんを かりる。"
       },
       {
@@ -1259,7 +1259,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "美術館",
-        "sentenceWithRuby": "美術館[びじゅつかん]に いく。",
+        "sentenceWithRuby": "美[び]術[じゅ]館[つかん]に いく。",
         "sentenceHiragana": "びじゅつかんに いく。"
       },
       {
@@ -1268,7 +1268,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "映画館",
-        "sentenceWithRuby": "映画館[えいがかん]で えいがを みる。",
+        "sentenceWithRuby": "映[え]画[い]館[がかん]で えいがを みる。",
         "sentenceHiragana": "えいがかんで えいがを みる。"
       },
       {
@@ -1277,7 +1277,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "体育館",
-        "sentenceWithRuby": "体育館[たいいくかん]で うんどうする。",
+        "sentenceWithRuby": "体[たい]育[いく]館[かん]で うんどうする。",
         "sentenceHiragana": "たいいくかんで うんどうする。"
       },
       {
@@ -1286,7 +1286,7 @@
         "reading": "カン",
         "type": "on",
         "targetWord": "旅館",
-        "sentenceWithRuby": "旅館[りょかん]に とまる。",
+        "sentenceWithRuby": "旅[りょ]館[かん]に とまる。",
         "sentenceHiragana": "りょかんに とまる。"
       }
     ]
@@ -1318,7 +1318,7 @@
         "reading": "ガン",
         "type": "on",
         "targetWord": "海岸",
-        "sentenceWithRuby": "海岸[かいがん]で あそぶ。",
+        "sentenceWithRuby": "海[かい]岸[がん]で あそぶ。",
         "sentenceHiragana": "かいがんで あそぶ。"
       },
       {
@@ -1327,7 +1327,7 @@
         "reading": "ガン",
         "type": "on",
         "targetWord": "岸壁",
-        "sentenceWithRuby": "岸壁[がんぺき]に ふねが とまる。",
+        "sentenceWithRuby": "岸[がん]壁[ぺき]に ふねが とまる。",
         "sentenceHiragana": "がんぺきに ふねが とまる。"
       },
       {
@@ -1366,7 +1366,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "起立",
-        "sentenceWithRuby": "起立[きりつ]して あいさつする。",
+        "sentenceWithRuby": "起[き]立[りつ]して あいさつする。",
         "sentenceHiragana": "きりつして あいさつする。"
       },
       {
@@ -1383,7 +1383,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "起床時間",
-        "sentenceWithRuby": "起床時間[きしょうじかん]を きめる。",
+        "sentenceWithRuby": "起[き]床[しょう]時[じ]間[かん]を きめる。",
         "sentenceHiragana": "きしょうじかんを きめる。"
       }
     ]
@@ -1398,7 +1398,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "一周期",
-        "sentenceWithRuby": "一周期[いっしゅうき]に いちど あう。",
+        "sentenceWithRuby": "一[い]周[っ]期[しゅうき]に いちど あう。",
         "sentenceHiragana": "いっしゅうきに いちど あう。"
       },
       {
@@ -1407,7 +1407,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "二学期",
-        "sentenceWithRuby": "二学期[にがっき]が はじまる。",
+        "sentenceWithRuby": "二[に]学[が]期[っき]が はじまる。",
         "sentenceHiragana": "にがっきが はじまる。"
       },
       {
@@ -1416,7 +1416,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "期限",
-        "sentenceWithRuby": "期限[きげん]を まもる。",
+        "sentenceWithRuby": "期[き]限[げん]を まもる。",
         "sentenceHiragana": "きげんを まもる。"
       },
       {
@@ -1425,7 +1425,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "期待",
-        "sentenceWithRuby": "期待[きたい]して まつ。",
+        "sentenceWithRuby": "期[き]待[たい]して まつ。",
         "sentenceHiragana": "きたいして まつ。"
       },
       {
@@ -1434,7 +1434,7 @@
         "reading": "キ",
         "type": "on",
         "targetWord": "期末",
-        "sentenceWithRuby": "期末[きまつ]テストが ある。",
+        "sentenceWithRuby": "期[き]末[まつ]テストが ある。",
         "sentenceHiragana": "きまつてすとが ある。"
       }
     ]
@@ -1458,7 +1458,7 @@
         "reading": "キャク",
         "type": "on",
         "targetWord": "客室",
-        "sentenceWithRuby": "客室[きゃくしつ]に あんないする。",
+        "sentenceWithRuby": "客[きゃく]室[しつ]に あんないする。",
         "sentenceHiragana": "きゃくしつに あんないする。"
       },
       {
@@ -1467,7 +1467,7 @@
         "reading": "キャク",
         "type": "on",
         "targetWord": "乗客",
-        "sentenceWithRuby": "乗客[じょうきゃく]が のりこむ。",
+        "sentenceWithRuby": "乗[じょう]客[きゃく]が のりこむ。",
         "sentenceHiragana": "じょうきゃくが のりこむ。"
       },
       {
@@ -1476,7 +1476,7 @@
         "reading": "キャク",
         "type": "on",
         "targetWord": "来客",
-        "sentenceWithRuby": "来客[らいきゃく]が おおい。",
+        "sentenceWithRuby": "来[らい]客[きゃく]が おおい。",
         "sentenceHiragana": "らいきゃくが おおい。"
       },
       {
@@ -1485,7 +1485,7 @@
         "reading": "キャク",
         "type": "on",
         "targetWord": "観光客",
-        "sentenceWithRuby": "観光客[かんこうきゃく]で にぎわう。",
+        "sentenceWithRuby": "観[かん]光[こう]客[きゃく]で にぎわう。",
         "sentenceHiragana": "かんこうきゃくで にぎわう。"
       }
     ]
@@ -1500,7 +1500,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "研究",
-        "sentenceWithRuby": "研究[けんきゅう]を する。",
+        "sentenceWithRuby": "研[けん]究[きゅう]を する。",
         "sentenceHiragana": "けんきゅうを する。"
       },
       {
@@ -1509,7 +1509,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "研究",
-        "sentenceWithRuby": "りかの 研究[けんきゅう]が たのしい。",
+        "sentenceWithRuby": "りかの 研[けん]究[きゅう]が たのしい。",
         "sentenceHiragana": "りかの けんきゅうが たのしい。"
       },
       {
@@ -1518,7 +1518,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "研究",
-        "sentenceWithRuby": "むしの 研究[けんきゅう]を つづける。",
+        "sentenceWithRuby": "むしの 研[けん]究[きゅう]を つづける。",
         "sentenceHiragana": "むしの けんきゅうを つづける。"
       },
       {
@@ -1535,7 +1535,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "究極",
-        "sentenceWithRuby": "究極[きゅうきょく]の わざを みる。",
+        "sentenceWithRuby": "究[きゅう]極[きょく]の わざを みる。",
         "sentenceHiragana": "きゅうきょくの わざを みる。"
       }
     ]
@@ -1566,7 +1566,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "急行",
-        "sentenceWithRuby": "急行[きゅうこう]れっしゃに のる。",
+        "sentenceWithRuby": "急[きゅう]行[こう]れっしゃに のる。",
         "sentenceHiragana": "きゅうこうれっしゃに のる。"
       },
       {
@@ -1584,7 +1584,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "特急",
-        "sentenceWithRuby": "特急[とっきゅう]に のって たびを する。",
+        "sentenceWithRuby": "特[とっ]急[きゅう]に のって たびを する。",
         "sentenceHiragana": "とっきゅうに のって たびを する。"
       }
     ]
@@ -1599,7 +1599,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "野球",
-        "sentenceWithRuby": "野球[やきゅう]を する。",
+        "sentenceWithRuby": "野[や]球[きゅう]を する。",
         "sentenceHiragana": "やきゅうを する。"
       },
       {
@@ -1608,7 +1608,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "地球",
-        "sentenceWithRuby": "地球[ちきゅう]は まるい。",
+        "sentenceWithRuby": "地[ち]球[きゅう]は まるい。",
         "sentenceHiragana": "ちきゅうは まるい。"
       },
       {
@@ -1617,7 +1617,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "電球",
-        "sentenceWithRuby": "電球[でんきゅう]を かえる。",
+        "sentenceWithRuby": "電[でん]球[きゅう]を かえる。",
         "sentenceHiragana": "でんきゅうを かえる。"
       },
       {
@@ -1634,7 +1634,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "水球",
-        "sentenceWithRuby": "水球[すいきゅう]の しあいを みる。",
+        "sentenceWithRuby": "水[すい]球[きゅう]の しあいを みる。",
         "sentenceHiragana": "すいきゅうの しあいを みる。"
       }
     ]
@@ -1649,7 +1649,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "王宮",
-        "sentenceWithRuby": "王宮[おうきゅう]を みる。",
+        "sentenceWithRuby": "王[おう]宮[きゅう]を みる。",
         "sentenceHiragana": "おうきゅうを みる。"
       },
       {
@@ -1667,7 +1667,7 @@
         "reading": "グウ",
         "type": "on",
         "targetWord": "神宮",
-        "sentenceWithRuby": "神宮[じんぐう]に いく。",
+        "sentenceWithRuby": "神[じん]宮[ぐう]に いく。",
         "sentenceHiragana": "じんぐうに いく。"
       },
       {
@@ -1676,7 +1676,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "宮殿",
-        "sentenceWithRuby": "宮殿[きゅうでん]は おおきい。",
+        "sentenceWithRuby": "宮[きゅう]殿[でん]は おおきい。",
         "sentenceHiragana": "きゅうでんは おおきい。"
       },
       {
@@ -1699,7 +1699,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "学級",
-        "sentenceWithRuby": "さんねんせいの 学級[がっきゅう]に いる。",
+        "sentenceWithRuby": "さんねんせいの 学[がっ]級[きゅう]に いる。",
         "sentenceHiragana": "さんねんせいの がっきゅうに いる。"
       },
       {
@@ -1708,7 +1708,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "高級",
-        "sentenceWithRuby": "高級[こうきゅう]な おかしを たべる。",
+        "sentenceWithRuby": "高[こう]級[きゅう]な おかしを たべる。",
         "sentenceHiragana": "こうきゅうな おかしを たべる。"
       },
       {
@@ -1717,7 +1717,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "級友",
-        "sentenceWithRuby": "級友[きゅうゆう]に あう。",
+        "sentenceWithRuby": "級[きゅう]友[ゆう]に あう。",
         "sentenceHiragana": "きゅうゆうに あう。"
       },
       {
@@ -1726,7 +1726,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "上級",
-        "sentenceWithRuby": "上級[じょうきゅう]に すすむ。",
+        "sentenceWithRuby": "上[じょう]級[きゅう]に すすむ。",
         "sentenceHiragana": "じょうきゅうに すすむ。"
       },
       {
@@ -1735,7 +1735,7 @@
         "reading": "キュウ",
         "type": "on",
         "targetWord": "同級生",
-        "sentenceWithRuby": "同級生[どうきゅうせい]と あそぶ。",
+        "sentenceWithRuby": "同[どう]級[きゅう]生[せい]と あそぶ。",
         "sentenceHiragana": "どうきゅうせいと あそぶ。"
       }
     ]
@@ -1758,7 +1758,7 @@
         "reading": "キョ",
         "type": "on",
         "targetWord": "去年",
-        "sentenceWithRuby": "去年[きょねん]の なつは あつかった。",
+        "sentenceWithRuby": "去[きょ]年[ねん]の なつは あつかった。",
         "sentenceHiragana": "きょねんの なつは あつかった。"
       },
       {
@@ -1767,7 +1767,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "過去",
-        "sentenceWithRuby": "過去[かこ]の ことを おもいだす。",
+        "sentenceWithRuby": "過[か]去[こ]の ことを おもいだす。",
         "sentenceHiragana": "かこの ことを おもいだす。"
       },
       {
@@ -1784,7 +1784,7 @@
         "reading": "キョ",
         "type": "on",
         "targetWord": "消去",
-        "sentenceWithRuby": "消去[しょうきょ]する。",
+        "sentenceWithRuby": "消[しょ]去[うきょ]する。",
         "sentenceHiragana": "しょうきょする。"
       }
     ]
@@ -1815,7 +1815,7 @@
         "reading": "キョウ",
         "type": "on",
         "targetWord": "歩道橋",
-        "sentenceWithRuby": "歩道橋[ほどうきょう]を わたる。",
+        "sentenceWithRuby": "歩[ほ]道[ど]橋[うきょう]を わたる。",
         "sentenceHiragana": "ほどうきょうを わたる。"
       },
       {
@@ -1824,7 +1824,7 @@
         "reading": "はし",
         "type": "kun",
         "targetWord": "石橋",
-        "sentenceWithRuby": "石橋[いしばし]を あるく。",
+        "sentenceWithRuby": "石[いし]橋[ばし]を あるく。",
         "sentenceHiragana": "いしばしを あるく。"
       },
       {
@@ -1833,7 +1833,7 @@
         "reading": "キョウ",
         "type": "on",
         "targetWord": "鉄橋",
-        "sentenceWithRuby": "鉄橋[てっきょう]を でんしゃが わたる。",
+        "sentenceWithRuby": "鉄[てっ]橋[きょう]を でんしゃが わたる。",
         "sentenceHiragana": "てっきょうを でんしゃが わたる。"
       }
     ]
@@ -1848,7 +1848,7 @@
         "reading": "ギョウ",
         "type": "on",
         "targetWord": "授業",
-        "sentenceWithRuby": "授業[じゅぎょう]が はじまる。",
+        "sentenceWithRuby": "授[じゅ]業[ぎょう]が はじまる。",
         "sentenceHiragana": "じゅぎょうが はじまる。"
       },
       {
@@ -1857,7 +1857,7 @@
         "reading": "ギョウ",
         "type": "on",
         "targetWord": "作業",
-        "sentenceWithRuby": "作業[さぎょう]を する。",
+        "sentenceWithRuby": "作[さ]業[ぎょう]を する。",
         "sentenceHiragana": "さぎょうを する。"
       },
       {
@@ -1866,7 +1866,7 @@
         "reading": "ギョウ",
         "type": "on",
         "targetWord": "農業",
-        "sentenceWithRuby": "農業[のうぎょう]を まなぶ。",
+        "sentenceWithRuby": "農[のう]業[ぎょう]を まなぶ。",
         "sentenceHiragana": "のうぎょうを まなぶ。"
       },
       {
@@ -1875,7 +1875,7 @@
         "reading": "ギョウ",
         "type": "on",
         "targetWord": "卒業式",
-        "sentenceWithRuby": "卒業式[そつぎょうしき]に でる。",
+        "sentenceWithRuby": "卒[そつ]業[ぎょう]式[しき]に でる。",
         "sentenceHiragana": "そつぎょうしきに でる。"
       },
       {
@@ -1884,7 +1884,7 @@
         "reading": "ギョウ",
         "type": "on",
         "targetWord": "企業",
-        "sentenceWithRuby": "企業[きぎょう]で はたらく。",
+        "sentenceWithRuby": "企[き]業[ぎょう]で はたらく。",
         "sentenceHiragana": "きぎょうで はたらく。"
       }
     ]
@@ -1924,7 +1924,7 @@
         "reading": "キョク",
         "type": "on",
         "targetWord": "名曲",
-        "sentenceWithRuby": "名曲[めいきょく]を えんそうする。",
+        "sentenceWithRuby": "名[めい]曲[きょく]を えんそうする。",
         "sentenceHiragana": "めいきょくを えんそうする。"
       },
       {
@@ -1947,7 +1947,7 @@
         "reading": "キョク",
         "type": "on",
         "targetWord": "郵便局",
-        "sentenceWithRuby": "郵便局[ゆうびんきょく]に いく。",
+        "sentenceWithRuby": "郵[ゆう]便[びん]局[きょく]に いく。",
         "sentenceHiragana": "ゆうびんきょくに いく。"
       },
       {
@@ -1956,7 +1956,7 @@
         "reading": "キョク",
         "type": "on",
         "targetWord": "薬局",
-        "sentenceWithRuby": "薬局[やっきょく]で くすりを もらう。",
+        "sentenceWithRuby": "薬[やっ]局[きょく]で くすりを もらう。",
         "sentenceHiragana": "やっきょくで くすりを もらう。"
       },
       {
@@ -1974,7 +1974,7 @@
         "reading": "キョク",
         "type": "on",
         "targetWord": "放送局",
-        "sentenceWithRuby": "放送局[ほうそうきょく]で はたらく。",
+        "sentenceWithRuby": "放[ほう]送[そう]局[きょく]で はたらく。",
         "sentenceHiragana": "ほうそうきょくで はたらく。"
       },
       {
@@ -1983,7 +1983,7 @@
         "reading": "キョク",
         "type": "on",
         "targetWord": "局員",
-        "sentenceWithRuby": "局員[きょくいん]さんに きく。",
+        "sentenceWithRuby": "局[きょく]員[いん]さんに きく。",
         "sentenceHiragana": "きょくいんさんに きく。"
       }
     ]
@@ -1998,7 +1998,7 @@
         "reading": "ギン",
         "type": "on",
         "targetWord": "銀色",
-        "sentenceWithRuby": "銀色[ぎんいろ]の ほしが ひかる。",
+        "sentenceWithRuby": "銀[ぎん]色[いろ]の ほしが ひかる。",
         "sentenceHiragana": "ぎんいろの ほしが ひかる。"
       },
       {
@@ -2007,7 +2007,7 @@
         "reading": "ギン",
         "type": "on",
         "targetWord": "銀行",
-        "sentenceWithRuby": "銀行[ぎんこう]に おかねを あずける。",
+        "sentenceWithRuby": "銀[ぎん]行[こう]に おかねを あずける。",
         "sentenceHiragana": "ぎんこうに おかねを あずける。"
       },
       {
@@ -2025,7 +2025,7 @@
         "reading": "ギン",
         "type": "on",
         "targetWord": "銀河",
-        "sentenceWithRuby": "銀河[ぎんが]が きれいに みえる。",
+        "sentenceWithRuby": "銀[ぎ]河[んが]が きれいに みえる。",
         "sentenceHiragana": "ぎんがが きれいに みえる。"
       },
       {
@@ -2034,7 +2034,7 @@
         "reading": "ギン",
         "type": "on",
         "targetWord": "水銀",
-        "sentenceWithRuby": "水銀[すいぎん]は きけんだ。",
+        "sentenceWithRuby": "水[すい]銀[ぎん]は きけんだ。",
         "sentenceHiragana": "すいぎんは きけんだ。"
       }
     ]
@@ -2049,7 +2049,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "地区",
-        "sentenceWithRuby": "地区[ちく]に わけて かんがえる。",
+        "sentenceWithRuby": "地[ち]区[く]に わけて かんがえる。",
         "sentenceHiragana": "ちくに わけて かんがえる。"
       },
       {
@@ -2058,7 +2058,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "区別",
-        "sentenceWithRuby": "区別[くべつ]が つかない。",
+        "sentenceWithRuby": "区[く]別[べつ]が つかない。",
         "sentenceHiragana": "くべつが つかない。"
       },
       {
@@ -2067,7 +2067,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "区域",
-        "sentenceWithRuby": "この 区域[くいき]は あぶない。",
+        "sentenceWithRuby": "この 区[く]域[いき]は あぶない。",
         "sentenceHiragana": "この くいきは あぶない。"
       },
       {
@@ -2076,7 +2076,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "区間",
-        "sentenceWithRuby": "区間[くかん]を くぎる。",
+        "sentenceWithRuby": "区[く]間[かん]を くぎる。",
         "sentenceHiragana": "くかんを くぎる。"
       },
       {
@@ -2085,7 +2085,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "区役所",
-        "sentenceWithRuby": "区役所[くやくしょ]に いく。",
+        "sentenceWithRuby": "区[く]役[や]所[くしょ]に いく。",
         "sentenceHiragana": "くやくしょに いく。"
       }
     ]
@@ -2116,7 +2116,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "苦労",
-        "sentenceWithRuby": "苦労[くろう]して つくった。",
+        "sentenceWithRuby": "苦[く]労[ろう]して つくった。",
         "sentenceHiragana": "くろうして つくった。"
       },
       {
@@ -2133,7 +2133,7 @@
         "reading": "ク",
         "type": "on",
         "targetWord": "苦手",
-        "sentenceWithRuby": "苦手[にがて]を かんがえる。",
+        "sentenceWithRuby": "苦[に]手[がて]を かんがえる。",
         "sentenceHiragana": "にがてを かんがえる。"
       }
     ]
@@ -2148,7 +2148,7 @@
         "reading": "グ",
         "type": "on",
         "targetWord": "道具",
-        "sentenceWithRuby": "道具[どうぐ]を つかう。",
+        "sentenceWithRuby": "道[ど]具[うぐ]を つかう。",
         "sentenceHiragana": "どうぐを つかう。"
       },
       {
@@ -2157,7 +2157,7 @@
         "reading": "グ",
         "type": "on",
         "targetWord": "具体的",
-        "sentenceWithRuby": "具体的[ぐたいてき]に せつめいする。",
+        "sentenceWithRuby": "具[ぐ]体[た]的[いてき]に せつめいする。",
         "sentenceHiragana": "ぐたいてきに せつめいする。"
       },
       {
@@ -2166,7 +2166,7 @@
         "reading": "グ",
         "type": "on",
         "targetWord": "家具",
-        "sentenceWithRuby": "家具[かぐ]を ならべる。",
+        "sentenceWithRuby": "家[か]具[ぐ]を ならべる。",
         "sentenceHiragana": "かぐを ならべる。"
       },
       {
@@ -2175,7 +2175,7 @@
         "reading": "グ",
         "type": "on",
         "targetWord": "文房具",
-        "sentenceWithRuby": "文房具[ぶんぼうぐ]を かう。",
+        "sentenceWithRuby": "文[ぶ]房[ん]具[ぼうぐ]を かう。",
         "sentenceHiragana": "ぶんぼうぐを かう。"
       },
       {
@@ -2184,7 +2184,7 @@
         "reading": "グ",
         "type": "on",
         "targetWord": "用具",
-        "sentenceWithRuby": "用具[ようぐ]を かたづける。",
+        "sentenceWithRuby": "用[よ]具[うぐ]を かたづける。",
         "sentenceHiragana": "ようぐを かたづける。"
       }
     ]
@@ -2207,7 +2207,7 @@
         "reading": "クン",
         "type": "on",
         "targetWord": "山田君",
-        "sentenceWithRuby": "山田[やまだ]君[くん]が きた。",
+        "sentenceWithRuby": "山[や]田[まだ]君[くん]が きた。",
         "sentenceHiragana": "やまだくんが きた。"
       },
       {
@@ -2224,7 +2224,7 @@
         "reading": "クン",
         "type": "on",
         "targetWord": "高橋君",
-        "sentenceWithRuby": "高橋[たかはし]君[くん]は やさしい。",
+        "sentenceWithRuby": "高[たか]橋[はし]君[くん]は やさしい。",
         "sentenceHiragana": "たかはしくんは やさしい。"
       },
       {
@@ -2247,7 +2247,7 @@
         "reading": "かかり",
         "type": "kun",
         "targetWord": "掃除係",
-        "sentenceWithRuby": "掃除係[そうじがかり]に なる。",
+        "sentenceWithRuby": "掃[そう]除[じが]係[かり]に なる。",
         "sentenceHiragana": "そうじがかりに なる。"
       },
       {
@@ -2256,7 +2256,7 @@
         "reading": "ケイ",
         "type": "on",
         "targetWord": "関係",
-        "sentenceWithRuby": "関係[かんけい]が ある。",
+        "sentenceWithRuby": "関[かん]係[けい]が ある。",
         "sentenceHiragana": "かんけいが ある。"
       },
       {
@@ -2265,7 +2265,7 @@
         "reading": "かかり",
         "type": "kun",
         "targetWord": "給食係",
-        "sentenceWithRuby": "給食係[きゅうしょくがかり]を する。",
+        "sentenceWithRuby": "給[きゅう]食[しょく]係[がかり]を する。",
         "sentenceHiragana": "きゅうしょくがかりを する。"
       },
       {
@@ -2282,7 +2282,7 @@
         "reading": "かかり",
         "type": "kun",
         "targetWord": "受付係",
-        "sentenceWithRuby": "受付係[うけつけがかり]に きく。",
+        "sentenceWithRuby": "受[うけ]付[つけ]係[がかり]に きく。",
         "sentenceHiragana": "うけつけがかりに きく。"
       }
     ]
@@ -2313,7 +2313,7 @@
         "reading": "ケイ",
         "type": "on",
         "targetWord": "軽食",
-        "sentenceWithRuby": "軽食[けいしょく]を とる。",
+        "sentenceWithRuby": "軽[けい]食[しょく]を とる。",
         "sentenceHiragana": "けいしょくを とる。"
       },
       {
@@ -2322,7 +2322,7 @@
         "reading": "かる",
         "type": "kun",
         "targetWord": "手軽",
-        "sentenceWithRuby": "手軽[てがる]に できる。",
+        "sentenceWithRuby": "手[て]軽[がる]に できる。",
         "sentenceHiragana": "てがるに できる。"
       },
       {
@@ -2331,7 +2331,7 @@
         "reading": "かる",
         "type": "kun",
         "targetWord": "気軽",
-        "sentenceWithRuby": "気軽[きがる]に さんかする。",
+        "sentenceWithRuby": "気[き]軽[がる]に さんかする。",
         "sentenceHiragana": "きがるに さんかする。"
       }
     ]
@@ -2354,7 +2354,7 @@
         "reading": "ケツ",
         "type": "on",
         "targetWord": "血液型",
-        "sentenceWithRuby": "血液型[けつえきがた]は なにがた。",
+        "sentenceWithRuby": "血[けつ]液[えき]型[がた]は なにがた。",
         "sentenceHiragana": "けつえきがたは なにがた。"
       },
       {
@@ -2371,7 +2371,7 @@
         "reading": "ケツ",
         "type": "on",
         "targetWord": "出血",
-        "sentenceWithRuby": "出血[しゅっけつ]を おさえる。",
+        "sentenceWithRuby": "出[しゅっ]血[けつ]を おさえる。",
         "sentenceHiragana": "しゅっけつを おさえる。"
       },
       {
@@ -2380,7 +2380,7 @@
         "reading": "ぢ",
         "type": "kun",
         "targetWord": "鼻血",
-        "sentenceWithRuby": "鼻血[はなぢ]が でた。",
+        "sentenceWithRuby": "鼻[は]血[なぢ]が でた。",
         "sentenceHiragana": "はなぢが でた。"
       }
     ]
@@ -2411,7 +2411,7 @@
         "reading": "ケツ",
         "type": "on",
         "targetWord": "決定",
-        "sentenceWithRuby": "決定[けってい]を まつ。",
+        "sentenceWithRuby": "決[けっ]定[てい]を まつ。",
         "sentenceHiragana": "けっていを まつ。"
       },
       {
@@ -2420,7 +2420,7 @@
         "reading": "ケツ",
         "type": "on",
         "targetWord": "決心",
-        "sentenceWithRuby": "決心[けっしん]を する。",
+        "sentenceWithRuby": "決[けっ]心[しん]を する。",
         "sentenceHiragana": "けっしんを する。"
       },
       {
@@ -2443,7 +2443,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "研究",
-        "sentenceWithRuby": "研究[けんきゅう]を する。",
+        "sentenceWithRuby": "研[けん]究[きゅう]を する。",
         "sentenceHiragana": "けんきゅうを する。"
       },
       {
@@ -2460,7 +2460,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "研修",
-        "sentenceWithRuby": "研修[けんしゅう]に さんかする。",
+        "sentenceWithRuby": "研[けん]修[しゅう]に さんかする。",
         "sentenceHiragana": "けんしゅうに さんかする。"
       },
       {
@@ -2477,7 +2477,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "研究者",
-        "sentenceWithRuby": "研究者[けんきゅうしゃ]に なりたい。",
+        "sentenceWithRuby": "研[け]究[ん]者[きゅうしゃ]に なりたい。",
         "sentenceHiragana": "けんきゅうしゃに なりたい。"
       }
     ]
@@ -2491,7 +2491,7 @@
         "sentence": "わたしは 東京都の となりの 県に すんでいる。",
         "reading": "ケン",
         "type": "on",
-        "sentenceWithRuby": "わたしは 東京都[とうきょうと]の となりの 県に すんでいる。",
+        "sentenceWithRuby": "わたしは 東[と]京[う]都[きょうと]の となりの 県に すんでいる。",
         "sentenceHiragana": "わたしは とうきょうとの となりの けんに すんでいる。"
       },
       {
@@ -2508,7 +2508,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "県庁",
-        "sentenceWithRuby": "県庁[けんちょう]に いく。",
+        "sentenceWithRuby": "県[けん]庁[ちょう]に いく。",
         "sentenceHiragana": "けんちょうに いく。"
       },
       {
@@ -2517,7 +2517,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "県内",
-        "sentenceWithRuby": "県内[けんない]の まちを たんけんする。",
+        "sentenceWithRuby": "県[けん]内[ない]の まちを たんけんする。",
         "sentenceHiragana": "けんないの まちを たんけんする。"
       },
       {
@@ -2526,7 +2526,7 @@
         "reading": "ケン",
         "type": "on",
         "targetWord": "県立",
-        "sentenceWithRuby": "県立[けんりつ]の としょかんで ほんを かりる。",
+        "sentenceWithRuby": "県[けん]立[りつ]の としょかんで ほんを かりる。",
         "sentenceHiragana": "けんりつの としょかんで ほんを かりる。"
       }
     ]
@@ -2541,7 +2541,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "車庫",
-        "sentenceWithRuby": "車庫[しゃこ]に いれる。",
+        "sentenceWithRuby": "車[しゃ]庫[こ]に いれる。",
         "sentenceHiragana": "くるまを しゃこに いれる。"
       },
       {
@@ -2550,7 +2550,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "冷蔵庫",
-        "sentenceWithRuby": "冷蔵庫[れいぞうこ]に やさいを いれる。",
+        "sentenceWithRuby": "冷[れ]蔵[い]庫[ぞうこ]に やさいを いれる。",
         "sentenceHiragana": "れいぞうこに やさいを いれる。"
       },
       {
@@ -2559,7 +2559,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "倉庫",
-        "sentenceWithRuby": "倉庫[そうこ]に にもつを しまう。",
+        "sentenceWithRuby": "倉[そ]庫[うこ]に にもつを しまう。",
         "sentenceHiragana": "そうこに にもつを しまう。"
       },
       {
@@ -2568,7 +2568,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "文庫本",
-        "sentenceWithRuby": "文庫本[ぶんこぼん]を よむ。",
+        "sentenceWithRuby": "文[ぶ]庫[ん]本[こぼん]を よむ。",
         "sentenceHiragana": "ぶんこぼんを よむ。"
       },
       {
@@ -2577,7 +2577,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "金庫",
-        "sentenceWithRuby": "金庫[きんこ]に だいじな ものを いれる。",
+        "sentenceWithRuby": "金[き]庫[んこ]に だいじな ものを いれる。",
         "sentenceHiragana": "きんこに だいじな ものを いれる。"
       }
     ]
@@ -2608,7 +2608,7 @@
         "reading": "コ",
         "type": "on",
         "targetWord": "湖畔",
-        "sentenceWithRuby": "湖畔[こはん]を さんぽする。",
+        "sentenceWithRuby": "湖[こ]畔[はん]を さんぽする。",
         "sentenceHiragana": "こはんを さんぽする。"
       },
       {
@@ -2663,7 +2663,7 @@
         "reading": "コウ",
         "type": "on",
         "targetWord": "方向",
-        "sentenceWithRuby": "方向[ほうこう]を たしかめる。",
+        "sentenceWithRuby": "方[ほう]向[こう]を たしかめる。",
         "sentenceHiragana": "ほうこうを たしかめる。"
       },
       {
@@ -2705,7 +2705,7 @@
         "reading": "コウ",
         "type": "on",
         "targetWord": "幸運",
-        "sentenceWithRuby": "幸運[こううん]を いのる。",
+        "sentenceWithRuby": "幸[こう]運[うん]を いのる。",
         "sentenceHiragana": "こううんを いのる。"
       },
       {
@@ -2714,7 +2714,7 @@
         "reading": "コウ",
         "type": "on",
         "targetWord": "幸福",
-        "sentenceWithRuby": "幸福[こうふく]な じかんを すごす。",
+        "sentenceWithRuby": "幸[こう]福[ふく]な じかんを すごす。",
         "sentenceHiragana": "こうふくな じかんを すごす。"
       },
       {
@@ -2754,7 +2754,7 @@
         "reading": "コウ",
         "type": "on",
         "targetWord": "空港",
-        "sentenceWithRuby": "空港[くうこう]へ むかえに いく。",
+        "sentenceWithRuby": "空[くう]港[こう]へ むかえに いく。",
         "sentenceHiragana": "くうこうへ むかえに いく。"
       },
       {
@@ -2763,7 +2763,7 @@
         "reading": "みなと",
         "type": "kun",
         "targetWord": "港町",
-        "sentenceWithRuby": "港町[みなとまち]を さんぽする。",
+        "sentenceWithRuby": "港[みなと]町[まち]を さんぽする。",
         "sentenceHiragana": "みなとまちを さんぽする。"
       },
       {
@@ -2786,7 +2786,7 @@
         "reading": "ゴウ",
         "type": "on",
         "targetWord": "番号",
-        "sentenceWithRuby": "番号[ばんごう]を かく。",
+        "sentenceWithRuby": "番[ばん]号[ごう]を かく。",
         "sentenceHiragana": "ばんごうを かく。"
       },
       {
@@ -2795,7 +2795,7 @@
         "reading": "ゴウ",
         "type": "on",
         "targetWord": "記号",
-        "sentenceWithRuby": "記号[きごう]の いみを しらべる。",
+        "sentenceWithRuby": "記[き]号[ごう]の いみを しらべる。",
         "sentenceHiragana": "きごうの いみを しらべる。"
       },
       {
@@ -2804,7 +2804,7 @@
         "reading": "ゴウ",
         "type": "on",
         "targetWord": "号令",
-        "sentenceWithRuby": "号令[ごうれい]で はしりだす。",
+        "sentenceWithRuby": "号[ごう]令[れい]で はしりだす。",
         "sentenceHiragana": "ごうれいで はしりだす。"
       },
       {
@@ -2813,7 +2813,7 @@
         "reading": "ゴウ",
         "type": "on",
         "targetWord": "信号",
-        "sentenceWithRuby": "信号[しんごう]が あおに なる。",
+        "sentenceWithRuby": "信[しん]号[ごう]が あおに なる。",
         "sentenceHiragana": "しんごうが あおに なる。"
       },
       {
@@ -2822,7 +2822,7 @@
         "reading": "ゴウ",
         "type": "on",
         "targetWord": "一号車",
-        "sentenceWithRuby": "一号車[いちごうしゃ]に のる。",
+        "sentenceWithRuby": "一[い]号[ち]車[ごうしゃ]に のる。",
         "sentenceHiragana": "いちごうしゃに のる。"
       }
     ]
@@ -2853,7 +2853,7 @@
         "reading": "コン",
         "type": "on",
         "targetWord": "根気",
-        "sentenceWithRuby": "根気[こんき]よく れんしゅうする。",
+        "sentenceWithRuby": "根[こ]気[んき]よく れんしゅうする。",
         "sentenceHiragana": "こんきよく れんしゅうする。"
       },
       {
@@ -2870,7 +2870,7 @@
         "reading": "ね",
         "type": "kun",
         "targetWord": "屋根",
-        "sentenceWithRuby": "屋根[やね]の うえに のぼる。",
+        "sentenceWithRuby": "屋[や]根[ね]の うえに のぼる。",
         "sentenceHiragana": "やねの うえに のぼる。"
       }
     ]
@@ -2901,7 +2901,7 @@
         "reading": "サイ",
         "type": "on",
         "targetWord": "文化祭",
-        "sentenceWithRuby": "文化祭[ぶんかさい]で うたう。",
+        "sentenceWithRuby": "文[ぶ]化[ん]祭[かさい]で うたう。",
         "sentenceHiragana": "ぶんかさいで うたう。"
       },
       {
@@ -2919,7 +2919,7 @@
         "reading": "サイ",
         "type": "on",
         "targetWord": "祭日",
-        "sentenceWithRuby": "祭日[さいじつ]は がっこうが やすみだ。",
+        "sentenceWithRuby": "祭[さい]日[じつ]は がっこうが やすみだ。",
         "sentenceHiragana": "さいじつは がっこうが やすみだ。"
       }
     ]
@@ -2950,7 +2950,7 @@
         "reading": "ざら",
         "type": "kun",
         "targetWord": "大皿",
-        "sentenceWithRuby": "大皿[おおざら]に サラダを もる。",
+        "sentenceWithRuby": "大[おお]皿[ざら]に サラダを もる。",
         "sentenceHiragana": "おおざらに さらだを もる。"
       },
       {
@@ -2959,7 +2959,7 @@
         "reading": "ざら",
         "type": "kun",
         "targetWord": "小皿",
-        "sentenceWithRuby": "小皿[こざら]に おかしを のせる。",
+        "sentenceWithRuby": "小[こ]皿[ざら]に おかしを のせる。",
         "sentenceHiragana": "こざらに おかしを のせる。"
       },
       {
@@ -2990,7 +2990,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "仕事",
-        "sentenceWithRuby": "おとうさんは 仕事[しごと]に いく。",
+        "sentenceWithRuby": "おとうさんは 仕[し]事[ごと]に いく。",
         "sentenceHiragana": "おとうさんは しごとに いく。"
       },
       {
@@ -2999,7 +2999,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "仕上げる",
-        "sentenceWithRuby": "さくひんを 仕上[しあ]げる。",
+        "sentenceWithRuby": "さくひんを 仕[し]上[あ]げる。",
         "sentenceHiragana": "さくひんを しあげる。"
       },
       {
@@ -3008,7 +3008,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "仕方",
-        "sentenceWithRuby": "仕方[しかた]が わからない。",
+        "sentenceWithRuby": "仕[し]方[かた]が わからない。",
         "sentenceHiragana": "しかたが わからない。"
       },
       {
@@ -3017,7 +3017,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "仕組み",
-        "sentenceWithRuby": "仕組[しく]みを しらべる。",
+        "sentenceWithRuby": "仕[し]組[く]みを しらべる。",
         "sentenceHiragana": "しくみを しらべる。"
       }
     ]
@@ -3040,7 +3040,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "必死",
-        "sentenceWithRuby": "必死[ひっし]に がんばる。",
+        "sentenceWithRuby": "必[ひ]死[っし]に がんばる。",
         "sentenceHiragana": "ひっしに がんばる。"
       },
       {
@@ -3096,7 +3096,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "大使",
-        "sentenceWithRuby": "大使[たいし]が くにを だいひょうする。",
+        "sentenceWithRuby": "大[た]使[いし]が くにを だいひょうする。",
         "sentenceHiragana": "たいしが くにを だいひょうする。"
       },
       {
@@ -3105,7 +3105,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "天使",
-        "sentenceWithRuby": "天使[てんし]は はねが ある。",
+        "sentenceWithRuby": "天[て]使[んし]は はねが ある。",
         "sentenceHiragana": "てんしは はねが ある。"
       },
       {
@@ -3114,7 +3114,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "使用",
-        "sentenceWithRuby": "使用[しよう]ほうを よむ。",
+        "sentenceWithRuby": "使[し]用[よう]ほうを よむ。",
         "sentenceHiragana": "しようほうを よむ。"
       }
     ]
@@ -3145,7 +3145,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "開始",
-        "sentenceWithRuby": "開始[かいし]の あいずが なる。",
+        "sentenceWithRuby": "開[か]始[いし]の あいずが なる。",
         "sentenceHiragana": "かいしの あいずが なる。"
       },
       {
@@ -3154,7 +3154,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "始業式",
-        "sentenceWithRuby": "始業式[しぎょうしき]に でる。",
+        "sentenceWithRuby": "始[し]業[ぎょ]式[うしき]に でる。",
         "sentenceHiragana": "しぎょうしきに でる。"
       },
       {
@@ -3193,7 +3193,7 @@
         "reading": "ゆび",
         "type": "kun",
         "targetWord": "小指",
-        "sentenceWithRuby": "小指[こゆび]を たてる。",
+        "sentenceWithRuby": "小[こ]指[ゆび]を たてる。",
         "sentenceHiragana": "こゆびを たてる。"
       },
       {
@@ -3202,7 +3202,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "指示",
-        "sentenceWithRuby": "指示[しじ]に したがう。",
+        "sentenceWithRuby": "指[し]示[じ]に したがう。",
         "sentenceHiragana": "しじに したがう。"
       },
       {
@@ -3211,7 +3211,7 @@
         "reading": "ゆび",
         "type": "kun",
         "targetWord": "指輪",
-        "sentenceWithRuby": "指輪[ゆびわ]を もらった。",
+        "sentenceWithRuby": "指[ゆ]輪[びわ]を もらった。",
         "sentenceHiragana": "ゆびわを もらった。"
       }
     ]
@@ -3242,7 +3242,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "歯科",
-        "sentenceWithRuby": "歯科[しか]に いく。",
+        "sentenceWithRuby": "歯[し]科[か]に いく。",
         "sentenceHiragana": "しかに いく。"
       },
       {
@@ -3260,7 +3260,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "乳歯",
-        "sentenceWithRuby": "乳歯[にゅうし]が はえた。",
+        "sentenceWithRuby": "乳[にゅ]歯[うし]が はえた。",
         "sentenceHiragana": "にゅうしが はえた。"
       }
     ]
@@ -3284,7 +3284,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "詩人",
-        "sentenceWithRuby": "詩人[しじん]に なりたい。",
+        "sentenceWithRuby": "詩[し]人[じん]に なりたい。",
         "sentenceHiragana": "しじんに なりたい。"
       },
       {
@@ -3302,7 +3302,7 @@
         "reading": "シ",
         "type": "on",
         "targetWord": "詩集",
-        "sentenceWithRuby": "詩集[ししゅう]を かりた。",
+        "sentenceWithRuby": "詩[し]集[しゅう]を かりた。",
         "sentenceHiragana": "ししゅうを かりた。"
       },
       {
@@ -3342,7 +3342,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "次女",
-        "sentenceWithRuby": "次女[じじょ]が いる。",
+        "sentenceWithRuby": "次[じ]女[じょ]が いる。",
         "sentenceHiragana": "じじょが いる。"
       },
       {
@@ -3351,7 +3351,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "目次",
-        "sentenceWithRuby": "目次[もくじ]を みる。",
+        "sentenceWithRuby": "目[も]次[くじ]を みる。",
         "sentenceHiragana": "もくじを みる。"
       },
       {
@@ -3382,7 +3382,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "仕事",
-        "sentenceWithRuby": "仕事[しごと]を がんばる。",
+        "sentenceWithRuby": "仕[し]事[ごと]を がんばる。",
         "sentenceHiragana": "しごとを がんばる。"
       },
       {
@@ -3391,7 +3391,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "事故",
-        "sentenceWithRuby": "事故[じこ]に きを つける。",
+        "sentenceWithRuby": "事[じ]故[こ]に きを つける。",
         "sentenceHiragana": "じこに きを つける。"
       },
       {
@@ -3400,7 +3400,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "大事",
-        "sentenceWithRuby": "大事[だいじ]な ものを まもる。",
+        "sentenceWithRuby": "大[だ]事[いじ]な ものを まもる。",
         "sentenceHiragana": "だいじな ものを まもる。"
       },
       {
@@ -3439,7 +3439,7 @@
         "reading": "も.ち",
         "type": "kun",
         "targetWord": "気持ち",
-        "sentenceWithRuby": "気持[きも]ちを つたえる。",
+        "sentenceWithRuby": "気[き]持[も]ちを つたえる。",
         "sentenceHiragana": "きもちを つたえる。"
       },
       {
@@ -3457,7 +3457,7 @@
         "reading": "ジ",
         "type": "on",
         "targetWord": "支持",
-        "sentenceWithRuby": "支持[しじ]する ひとが おおい。",
+        "sentenceWithRuby": "支[し]持[じ]する ひとが おおい。",
         "sentenceHiragana": "しじする ひとが おおい。"
       }
     ]
@@ -3472,7 +3472,7 @@
         "reading": "シキ",
         "type": "on",
         "targetWord": "卒業式",
-        "sentenceWithRuby": "卒業式[そつぎょうしき]に でる。",
+        "sentenceWithRuby": "卒[そつ]業[ぎょう]式[しき]に でる。",
         "sentenceHiragana": "そつぎょうしきに でる。"
       },
       {
@@ -3481,7 +3481,7 @@
         "reading": "シキ",
         "type": "on",
         "targetWord": "入学式",
-        "sentenceWithRuby": "入学式[にゅうがくしき]で うたを うたう。",
+        "sentenceWithRuby": "入[にゅう]学[がく]式[しき]で うたを うたう。",
         "sentenceHiragana": "にゅうがくしきで うたを うたう。"
       },
       {
@@ -3490,7 +3490,7 @@
         "reading": "シキ",
         "type": "on",
         "targetWord": "結婚式",
-        "sentenceWithRuby": "結婚式[けっこんしき]に よばれた。",
+        "sentenceWithRuby": "結[けっ]婚[こん]式[しき]に よばれた。",
         "sentenceHiragana": "けっこんしきに よばれた。"
       },
       {
@@ -3508,7 +3508,7 @@
         "reading": "シキ",
         "type": "on",
         "targetWord": "開会式",
-        "sentenceWithRuby": "開会式[かいかいしき]が はじまる。",
+        "sentenceWithRuby": "開[かい]会[かい]式[しき]が はじまる。",
         "sentenceHiragana": "かいかいしきが はじまる。"
       }
     ]
@@ -3540,7 +3540,7 @@
         "reading": "ジツ",
         "type": "on",
         "targetWord": "実験",
-        "sentenceWithRuby": "実験[じっけん]を する。",
+        "sentenceWithRuby": "実[じっ]験[けん]を する。",
         "sentenceHiragana": "じっけんを する。"
       },
       {
@@ -3549,7 +3549,7 @@
         "reading": "ジツ",
         "type": "on",
         "targetWord": "実際",
-        "sentenceWithRuby": "実際[じっさい]に やって みる。",
+        "sentenceWithRuby": "実[じっ]際[さい]に やって みる。",
         "sentenceHiragana": "じっさいに やって みる。"
       },
       {
@@ -3558,7 +3558,7 @@
         "reading": "ジツ",
         "type": "on",
         "targetWord": "実現",
-        "sentenceWithRuby": "ゆめを 実現[じつげん]する。",
+        "sentenceWithRuby": "ゆめを 実[じつ]現[げん]する。",
         "sentenceHiragana": "ゆめを じつげんする。"
       }
     ]
@@ -3581,7 +3581,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "写真",
-        "sentenceWithRuby": "写真[しゃしん]を とる。",
+        "sentenceWithRuby": "写[しゃ]真[しん]を とる。",
         "sentenceHiragana": "しゃしんを とる。"
       },
       {
@@ -3606,7 +3606,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "写生",
-        "sentenceWithRuby": "写生[しゃせい]を する。",
+        "sentenceWithRuby": "写[しゃ]生[せい]を する。",
         "sentenceHiragana": "しゃせいを する。"
       }
     ]
@@ -3621,7 +3621,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "医者",
-        "sentenceWithRuby": "医者[いしゃ]に みて もらう。",
+        "sentenceWithRuby": "医[い]者[しゃ]に みて もらう。",
         "sentenceHiragana": "いしゃに みて もらう。"
       },
       {
@@ -3630,7 +3630,7 @@
         "reading": "もの",
         "type": "kun",
         "targetWord": "若者",
-        "sentenceWithRuby": "若者[わかもの]が おおい まち。",
+        "sentenceWithRuby": "若[わか]者[もの]が おおい まち。",
         "sentenceHiragana": "わかものが おおい まち。"
       },
       {
@@ -3639,7 +3639,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "作者",
-        "sentenceWithRuby": "作者[さくしゃ]の なまえを しらべる。",
+        "sentenceWithRuby": "作[さ]者[くしゃ]の なまえを しらべる。",
         "sentenceHiragana": "さくしゃの なまえを しらべる。"
       },
       {
@@ -3648,7 +3648,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "読者",
-        "sentenceWithRuby": "読者[どくしゃ]から てがみが きた。",
+        "sentenceWithRuby": "読[ど]者[くしゃ]から てがみが きた。",
         "sentenceHiragana": "どくしゃから てがみが きた。"
       },
       {
@@ -3657,7 +3657,7 @@
         "reading": "シャ",
         "type": "on",
         "targetWord": "歯医者",
-        "sentenceWithRuby": "歯医者[はいしゃ]に いく。",
+        "sentenceWithRuby": "歯[は]医[い]者[しゃ]に いく。",
         "sentenceHiragana": "はいしゃに いく。"
       }
     ]
@@ -3690,7 +3690,7 @@
         "reading": "シュ",
         "type": "on",
         "targetWord": "主人公",
-        "sentenceWithRuby": "主人公[しゅじんこう]が かつやくする。",
+        "sentenceWithRuby": "主[しゅ]人[じ]公[んこう]が かつやくする。",
         "sentenceHiragana": "しゅじんこうが かつやくする。"
       },
       {
@@ -3699,7 +3699,7 @@
         "reading": "シュ",
         "type": "on",
         "targetWord": "主役",
-        "sentenceWithRuby": "じぶんが 主役[しゅやく]に なる。",
+        "sentenceWithRuby": "じぶんが 主[しゅ]役[やく]に なる。",
         "sentenceHiragana": "じぶんが しゅやくに なる。"
       },
       {
@@ -3708,7 +3708,7 @@
         "reading": "ぬし",
         "type": "kun",
         "targetWord": "地主",
-        "sentenceWithRuby": "地主[じぬし]さんに あいさつする。",
+        "sentenceWithRuby": "地[じ]主[ぬし]さんに あいさつする。",
         "sentenceHiragana": "じぬしさんに あいさつする。"
       }
     ]
@@ -3739,7 +3739,7 @@
         "reading": "ス",
         "type": "on",
         "targetWord": "留守番",
-        "sentenceWithRuby": "留守番[るすばん]を する。",
+        "sentenceWithRuby": "留[る]守[す]番[ばん]を する。",
         "sentenceHiragana": "るすばんを する。"
       },
       {
@@ -3828,7 +3828,7 @@
         "reading": "シュ",
         "type": "on",
         "targetWord": "日本酒",
-        "sentenceWithRuby": "日本酒[にほんしゅ]を つくる。",
+        "sentenceWithRuby": "日[に]本[ほ]酒[んしゅ]を つくる。",
         "sentenceHiragana": "にほんしゅを つくる。"
       },
       {
@@ -3837,7 +3837,7 @@
         "reading": "さか",
         "type": "kun",
         "targetWord": "酒屋",
-        "sentenceWithRuby": "酒屋[さかや]に かいものに いく。",
+        "sentenceWithRuby": "酒[さ]屋[かや]に かいものに いく。",
         "sentenceHiragana": "さかやに かいものに いく。"
       },
       {
@@ -3878,7 +3878,7 @@
         "reading": "ジュ",
         "type": "on",
         "targetWord": "受験",
-        "sentenceWithRuby": "受験[じゅけん]を する。",
+        "sentenceWithRuby": "受[じゅ]験[けん]を する。",
         "sentenceHiragana": "じゅけんを する。"
       },
       {
@@ -3895,7 +3895,7 @@
         "reading": "う.け",
         "type": "kun",
         "targetWord": "受付",
-        "sentenceWithRuby": "受付[うけつけ]で なまえを かく。",
+        "sentenceWithRuby": "受[うけ]付[つけ]で なまえを かく。",
         "sentenceHiragana": "うけつけで なまえを かく。"
       },
       {
@@ -3919,7 +3919,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "九州",
-        "sentenceWithRuby": "九州[きゅうしゅう]に いく。",
+        "sentenceWithRuby": "九[きゅう]州[しゅう]に いく。",
         "sentenceHiragana": "きゅうしゅうに いく。"
       },
       {
@@ -3928,7 +3928,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "本州",
-        "sentenceWithRuby": "本州[ほんしゅう]は にほんで いちばん おおきい。",
+        "sentenceWithRuby": "本[ほん]州[しゅう]は にほんで いちばん おおきい。",
         "sentenceHiragana": "ほんしゅうは にほんで いちばん おおきい。"
       },
       {
@@ -3955,7 +3955,7 @@
         "reading": "す",
         "type": "kun",
         "targetWord": "中州",
-        "sentenceWithRuby": "中州[なかす]は はかたの ちかくに ある。",
+        "sentenceWithRuby": "中[な]州[かす]は はかたの ちかくに ある。",
         "sentenceHiragana": "なかすは はかたの ちかくに ある。"
       }
     ]
@@ -4002,7 +4002,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "拾得物",
-        "sentenceWithRuby": "拾得物[しゅうとくぶつ]を とどける。",
+        "sentenceWithRuby": "拾[しゅう]得[とく]物[ぶつ]を とどける。",
         "sentenceHiragana": "しゅうとくぶつを とどける。"
       }
     ]
@@ -4033,7 +4033,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "終点",
-        "sentenceWithRuby": "終点[しゅうてん]で おりる。",
+        "sentenceWithRuby": "終[しゅう]点[てん]で おりる。",
         "sentenceHiragana": "しゅうてんで おりる。"
       },
       {
@@ -4042,7 +4042,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "最終",
-        "sentenceWithRuby": "最終[さいしゅう]の ひに なる。",
+        "sentenceWithRuby": "最[さい]終[しゅう]の ひに なる。",
         "sentenceHiragana": "さいしゅうの ひに なる。"
       },
       {
@@ -4082,7 +4082,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "学習",
-        "sentenceWithRuby": "学習[がくしゅう]を する。",
+        "sentenceWithRuby": "学[がく]習[しゅう]を する。",
         "sentenceHiragana": "がくしゅうを する。"
       },
       {
@@ -4091,7 +4091,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "練習",
-        "sentenceWithRuby": "練習[れんしゅう]を かさねる。",
+        "sentenceWithRuby": "練[れん]習[しゅう]を かさねる。",
         "sentenceHiragana": "れんしゅうを かさねる。"
       },
       {
@@ -4100,7 +4100,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "復習",
-        "sentenceWithRuby": "復習[ふくしゅう]を する。",
+        "sentenceWithRuby": "復[ふく]習[しゅう]を する。",
         "sentenceHiragana": "ふくしゅうを する。"
       }
     ]
@@ -4131,7 +4131,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "集合",
-        "sentenceWithRuby": "集合[しゅうごう]の じかんだ。",
+        "sentenceWithRuby": "集[しゅう]合[ごう]の じかんだ。",
         "sentenceHiragana": "しゅうごうの じかんだ。"
       },
       {
@@ -4140,7 +4140,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "詩集",
-        "sentenceWithRuby": "しを 詩集[ししゅう]に のせる。",
+        "sentenceWithRuby": "しを 詩[し]集[しゅう]に のせる。",
         "sentenceHiragana": "しを ししゅうに のせる。"
       },
       {
@@ -4149,7 +4149,7 @@
         "reading": "シュウ",
         "type": "on",
         "targetWord": "集中",
-        "sentenceWithRuby": "集中[しゅうちゅう]して きく。",
+        "sentenceWithRuby": "集[しゅう]中[ちゅう]して きく。",
         "sentenceHiragana": "しゅうちゅうして きく。"
       }
     ]
@@ -4180,7 +4180,7 @@
         "reading": "ジュウ",
         "type": "on",
         "targetWord": "住所",
-        "sentenceWithRuby": "住所[じゅうしょ]を かく。",
+        "sentenceWithRuby": "住[じゅ]所[うしょ]を かく。",
         "sentenceHiragana": "じゅうしょを かく。"
       },
       {
@@ -4189,7 +4189,7 @@
         "reading": "ジュウ",
         "type": "on",
         "targetWord": "住宅街",
-        "sentenceWithRuby": "住宅街[じゅうたくがい]を あるく。",
+        "sentenceWithRuby": "住[じゅう]宅[たく]街[がい]を あるく。",
         "sentenceHiragana": "じゅうたくがいを あるく。"
       },
       {
@@ -4198,7 +4198,7 @@
         "reading": "ジュウ",
         "type": "on",
         "targetWord": "住民",
-        "sentenceWithRuby": "住民[じゅうみん]が ふえる。",
+        "sentenceWithRuby": "住[じゅう]民[みん]が ふえる。",
         "sentenceHiragana": "じゅうみんが ふえる。"
       }
     ]
@@ -4229,7 +4229,7 @@
         "reading": "ジュウ",
         "type": "on",
         "targetWord": "体重",
-        "sentenceWithRuby": "体重[たいじゅう]を はかる。",
+        "sentenceWithRuby": "体[たい]重[じゅう]を はかる。",
         "sentenceHiragana": "たいじゅうを はかる。"
       },
       {
@@ -4238,7 +4238,7 @@
         "reading": "ジュウ",
         "type": "on",
         "targetWord": "重要",
-        "sentenceWithRuby": "重要[じゅうよう]な ことを きく。",
+        "sentenceWithRuby": "重[じゅう]要[よう]な ことを きく。",
         "sentenceHiragana": "じゅうような ことを きく。"
       },
       {
@@ -4247,7 +4247,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "重宝",
-        "sentenceWithRuby": "重宝[ちょうほう]される。",
+        "sentenceWithRuby": "重[ちょう]宝[ほう]される。",
         "sentenceHiragana": "ちょうほうされる。"
       }
     ]
@@ -4278,7 +4278,7 @@
         "reading": "シュク",
         "type": "on",
         "targetWord": "宿題",
-        "sentenceWithRuby": "宿題[しゅくだい]を おわらせる。",
+        "sentenceWithRuby": "宿[しゅく]題[だい]を おわらせる。",
         "sentenceHiragana": "しゅくだいを おわらせる。"
       },
       {
@@ -4287,7 +4287,7 @@
         "reading": "シュク",
         "type": "on",
         "targetWord": "下宿",
-        "sentenceWithRuby": "下宿[げしゅく]に すむ。",
+        "sentenceWithRuby": "下[げ]宿[しゅく]に すむ。",
         "sentenceHiragana": "げしゅくに すむ。"
       },
       {
@@ -4296,7 +4296,7 @@
         "reading": "シュク",
         "type": "on",
         "targetWord": "宿泊",
-        "sentenceWithRuby": "宿泊[しゅくはく]する。",
+        "sentenceWithRuby": "宿[しゅく]泊[はく]する。",
         "sentenceHiragana": "しゅくはくする。"
       }
     ]
@@ -4327,7 +4327,7 @@
         "reading": "ショ",
         "type": "on",
         "targetWord": "住所",
-        "sentenceWithRuby": "住所[じゅうしょ]を かく。",
+        "sentenceWithRuby": "住[じゅ]所[うしょ]を かく。",
         "sentenceHiragana": "じゅうしょを かく。"
       },
       {
@@ -4336,7 +4336,7 @@
         "reading": "ショ",
         "type": "on",
         "targetWord": "近所",
-        "sentenceWithRuby": "近所[きんじょ]の こうえんへ いく。",
+        "sentenceWithRuby": "近[き]所[んじょ]の こうえんへ いく。",
         "sentenceHiragana": "きんじょの こうえんへ いく。"
       },
       {
@@ -4345,7 +4345,7 @@
         "reading": "ところ",
         "type": "kun",
         "targetWord": "台所",
-        "sentenceWithRuby": "台所[だいどころ]で りょうりする。",
+        "sentenceWithRuby": "台[だい]所[どころ]で りょうりする。",
         "sentenceHiragana": "だいどころで りょうりする。"
       }
     ]
@@ -4376,7 +4376,7 @@
         "reading": "ショ",
         "type": "on",
         "targetWord": "猛暑",
-        "sentenceWithRuby": "猛暑[もうしょ]が つづく。",
+        "sentenceWithRuby": "猛[も]暑[うしょ]が つづく。",
         "sentenceHiragana": "もうしょが つづく。"
       },
       {
@@ -4385,7 +4385,7 @@
         "reading": "ショ",
         "type": "on",
         "targetWord": "残暑",
-        "sentenceWithRuby": "残暑[ざんしょ]が きびしい。",
+        "sentenceWithRuby": "残[ざ]暑[んしょ]が きびしい。",
         "sentenceHiragana": "ざんしょが きびしい。"
       },
       {
@@ -4394,7 +4394,7 @@
         "reading": "ショ",
         "type": "on",
         "targetWord": "暑中",
-        "sentenceWithRuby": "暑中[しょちゅう] みまいを おくる。",
+        "sentenceWithRuby": "暑[しょ]中[ちゅう] みまいを おくる。",
         "sentenceHiragana": "しょちゅう みまいを おくる。"
       }
     ]
@@ -4425,7 +4425,7 @@
         "reading": "ジョ",
         "type": "on",
         "targetWord": "援助",
-        "sentenceWithRuby": "援助[えんじょ]を もとめる。",
+        "sentenceWithRuby": "援[え]助[んじょ]を もとめる。",
         "sentenceHiragana": "えんじょを もとめる。"
       },
       {
@@ -4434,7 +4434,7 @@
         "reading": "ジョ",
         "type": "on",
         "targetWord": "助手",
-        "sentenceWithRuby": "助手[じょしゅ]が てつだう。",
+        "sentenceWithRuby": "助[じょ]手[しゅ]が てつだう。",
         "sentenceHiragana": "じょしゅが てつだう。"
       },
       {
@@ -4458,7 +4458,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "昭和時代",
-        "sentenceWithRuby": "昭和時代[しょうわじだい]の はなしを きく。",
+        "sentenceWithRuby": "昭[しょう]和[わ]時[じ]代[だい]の はなしを きく。",
         "sentenceHiragana": "しょうわじだいの はなしを きく。"
       },
       {
@@ -4467,7 +4467,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "昭和",
-        "sentenceWithRuby": "おじいちゃんは 昭和[しょうわ]うまれだ。",
+        "sentenceWithRuby": "おじいちゃんは 昭[しょ]和[うわ]うまれだ。",
         "sentenceHiragana": "おじいちゃんは しょうわうまれだ。"
       },
       {
@@ -4476,7 +4476,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "昭和",
-        "sentenceWithRuby": "昭和[しょうわ]の ころの しゃしんを みる。",
+        "sentenceWithRuby": "昭[しょ]和[うわ]の ころの しゃしんを みる。",
         "sentenceHiragana": "しょうわの ころの しゃしんを みる。"
       },
       {
@@ -4485,7 +4485,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "昭和天皇",
-        "sentenceWithRuby": "昭和天皇[しょうわてんのう]の おはなしを よむ。",
+        "sentenceWithRuby": "昭[しょ]和[う]天[わて]皇[んのう]の おはなしを よむ。",
         "sentenceHiragana": "しょうわてんのうの おはなしを よむ。"
       },
       {
@@ -4494,7 +4494,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "昭和",
-        "sentenceWithRuby": "昭和[しょうわ]の うたを うたう。",
+        "sentenceWithRuby": "昭[しょ]和[うわ]の うたを うたう。",
         "sentenceHiragana": "しょうわの うたを うたう。"
       }
     ]
@@ -4533,7 +4533,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "消防車",
-        "sentenceWithRuby": "消防車[しょうぼうしゃ]が とおる。",
+        "sentenceWithRuby": "消[しょ]防[う]車[ぼうしゃ]が とおる。",
         "sentenceHiragana": "しょうぼうしゃが とおる。"
       },
       {
@@ -4542,7 +4542,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "消防士",
-        "sentenceWithRuby": "消防士[しょうぼうし]に なりたい。",
+        "sentenceWithRuby": "消[しょ]防[う]士[ぼうし]に なりたい。",
         "sentenceHiragana": "しょうぼうしに なりたい。"
       }
     ]
@@ -4557,7 +4557,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "商店街",
-        "sentenceWithRuby": "商店街[しょうてんがい]で かいものを する。",
+        "sentenceWithRuby": "商[しょう]店[てん]街[がい]で かいものを する。",
         "sentenceHiragana": "しょうてんがいで かいものを する。"
       },
       {
@@ -4566,7 +4566,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "商品",
-        "sentenceWithRuby": "商品[しょうひん]を えらぶ。",
+        "sentenceWithRuby": "商[しょう]品[ひん]を えらぶ。",
         "sentenceHiragana": "しょうひんを えらぶ。"
       },
       {
@@ -4575,7 +4575,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "商売",
-        "sentenceWithRuby": "商売[しょうばい]を する。",
+        "sentenceWithRuby": "商[しょう]売[ばい]を する。",
         "sentenceHiragana": "しょうばいを する。"
       },
       {
@@ -4592,7 +4592,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "商人",
-        "sentenceWithRuby": "商人[しょうにん]が ものを うる。",
+        "sentenceWithRuby": "商[しょう]人[にん]が ものを うる。",
         "sentenceHiragana": "しょうにんが ものを うる。"
       }
     ]
@@ -4607,7 +4607,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "第一章",
-        "sentenceWithRuby": "第一章[だいいっしょう]を よむ。",
+        "sentenceWithRuby": "第[だい]一[いっ]章[しょう]を よむ。",
         "sentenceHiragana": "だいいっしょうを よむ。"
       },
       {
@@ -4616,7 +4616,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "文章",
-        "sentenceWithRuby": "文章[ぶんしょう]を かく。",
+        "sentenceWithRuby": "文[ぶん]章[しょう]を かく。",
         "sentenceHiragana": "ぶんしょうを かく。"
       },
       {
@@ -4625,7 +4625,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "紋章",
-        "sentenceWithRuby": "きんメダルの 紋章[もんしょう]を みる。",
+        "sentenceWithRuby": "きんメダルの 紋[もん]章[しょう]を みる。",
         "sentenceHiragana": "きんめだるの もんしょうを みる。"
       },
       {
@@ -4643,7 +4643,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "文章",
-        "sentenceWithRuby": "ながい 文章[ぶんしょう]を よむ。",
+        "sentenceWithRuby": "ながい 文[ぶん]章[しょう]を よむ。",
         "sentenceHiragana": "ながい ぶんしょうを よむ。"
       }
     ]
@@ -4674,7 +4674,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "勝負",
-        "sentenceWithRuby": "勝負[しょうぶ]に まける。",
+        "sentenceWithRuby": "勝[しょ]負[うぶ]に まける。",
         "sentenceHiragana": "しょうぶに まける。"
       },
       {
@@ -4683,7 +4683,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "優勝",
-        "sentenceWithRuby": "優勝[ゆうしょう]して うれしい。",
+        "sentenceWithRuby": "優[ゆう]勝[しょう]して うれしい。",
         "sentenceHiragana": "ゆうしょうして うれしい。"
       },
       {
@@ -4722,7 +4722,7 @@
         "reading": "ジョウ",
         "type": "on",
         "targetWord": "乗客",
-        "sentenceWithRuby": "乗客[じょうきゃく]が たくさん いる。",
+        "sentenceWithRuby": "乗[じょう]客[きゃく]が たくさん いる。",
         "sentenceHiragana": "じょうきゃくが たくさん いる。"
       },
       {
@@ -4740,7 +4740,7 @@
         "reading": "ジョウ",
         "type": "on",
         "targetWord": "乗車券",
-        "sentenceWithRuby": "乗車券[じょうしゃけん]を かう。",
+        "sentenceWithRuby": "乗[じょ]車[う]券[しゃけん]を かう。",
         "sentenceHiragana": "じょうしゃけんを かう。"
       }
     ]
@@ -4771,7 +4771,7 @@
         "reading": "ショク",
         "type": "on",
         "targetWord": "植物",
-        "sentenceWithRuby": "植物[しょくぶつ]を そだてる。",
+        "sentenceWithRuby": "植[しょく]物[ぶつ]を そだてる。",
         "sentenceHiragana": "しょくぶつを そだてる。"
       },
       {
@@ -4780,7 +4780,7 @@
         "reading": "ショク",
         "type": "on",
         "targetWord": "植物園",
-        "sentenceWithRuby": "植物園[しょくぶつえん]に いく。",
+        "sentenceWithRuby": "植[しょく]物[ぶつ]園[えん]に いく。",
         "sentenceHiragana": "しょくぶつえんに いく。"
       },
       {
@@ -4819,7 +4819,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "申請書",
-        "sentenceWithRuby": "申請書[しんせいしょ]を かく。",
+        "sentenceWithRuby": "申[し]請[ん]書[せいしょ]を かく。",
         "sentenceHiragana": "しんせいしょを かく。"
       },
       {
@@ -4860,7 +4860,7 @@
         "reading": "み",
         "type": "kun",
         "targetWord": "中身",
-        "sentenceWithRuby": "中身[なかみ]を みる。",
+        "sentenceWithRuby": "中[な]身[かみ]を みる。",
         "sentenceHiragana": "なかみを みる。"
       },
       {
@@ -4869,7 +4869,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "身長",
-        "sentenceWithRuby": "身長[しんちょう]を はかる。",
+        "sentenceWithRuby": "身[しん]長[ちょう]を はかる。",
         "sentenceHiragana": "しんちょうを はかる。"
       },
       {
@@ -4887,7 +4887,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "全身",
-        "sentenceWithRuby": "全身[ぜんしん]を うごかす。",
+        "sentenceWithRuby": "全[ぜん]身[しん]を うごかす。",
         "sentenceHiragana": "ぜんしんを うごかす。"
       }
     ]
@@ -4910,7 +4910,7 @@
         "reading": "ジン",
         "type": "on",
         "targetWord": "神社",
-        "sentenceWithRuby": "神社[じんじゃ]に いく。",
+        "sentenceWithRuby": "神[じ]社[んじゃ]に いく。",
         "sentenceHiragana": "じんじゃに いく。"
       },
       {
@@ -4919,7 +4919,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "神話",
-        "sentenceWithRuby": "神話[しんわ]の ほんを よむ。",
+        "sentenceWithRuby": "神[し]話[んわ]の ほんを よむ。",
         "sentenceHiragana": "しんわの ほんを よむ。"
       },
       {
@@ -4936,7 +4936,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "神秘的",
-        "sentenceWithRuby": "神秘的[しんぴてき]な もりに はいる。",
+        "sentenceWithRuby": "神[し]秘[ん]的[ぴてき]な もりに はいる。",
         "sentenceHiragana": "しんぴてきな もりに はいる。"
       }
     ]
@@ -4978,7 +4978,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "真剣",
-        "sentenceWithRuby": "真剣[しんけん]に べんきょうする。",
+        "sentenceWithRuby": "真[しん]剣[けん]に べんきょうする。",
         "sentenceHiragana": "しんけんに べんきょうする。"
       },
       {
@@ -4987,7 +4987,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "真実",
-        "sentenceWithRuby": "真実[しんじつ]を はなす。",
+        "sentenceWithRuby": "真[しん]実[じつ]を はなす。",
         "sentenceHiragana": "しんじつを はなす。"
       }
     ]
@@ -5018,7 +5018,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "深呼吸",
-        "sentenceWithRuby": "深呼吸[しんこきゅう]を する。",
+        "sentenceWithRuby": "深[し]呼[ん]吸[こきゅう]を する。",
         "sentenceHiragana": "しんこきゅうを する。"
       },
       {
@@ -5027,7 +5027,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "深夜",
-        "sentenceWithRuby": "深夜[しんや]に ほしを みる。",
+        "sentenceWithRuby": "深[し]夜[んや]に ほしを みる。",
         "sentenceHiragana": "しんやに ほしを みる。"
       },
       {
@@ -5074,7 +5074,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "進路",
-        "sentenceWithRuby": "進路[しんろ]を きめる。",
+        "sentenceWithRuby": "進[し]路[んろ]を きめる。",
         "sentenceHiragana": "しんろを きめる。"
       },
       {
@@ -5083,7 +5083,7 @@
         "reading": "シン",
         "type": "on",
         "targetWord": "前進",
-        "sentenceWithRuby": "前進[ぜんしん]する。",
+        "sentenceWithRuby": "前[ぜん]進[しん]する。",
         "sentenceHiragana": "ぜんしんする。"
       }
     ]
@@ -5107,7 +5107,7 @@
         "reading": "セ",
         "type": "on",
         "targetWord": "世界",
-        "sentenceWithRuby": "世界[せかい]の ちずを みる。",
+        "sentenceWithRuby": "世[せ]界[かい]の ちずを みる。",
         "sentenceHiragana": "せかいの ちずを みる。"
       },
       {
@@ -5116,7 +5116,7 @@
         "reading": "セイ",
         "type": "on",
         "targetWord": "世紀",
-        "sentenceWithRuby": "世紀[せいき]の はじまりだ。",
+        "sentenceWithRuby": "世[せ]紀[いき]の はじまりだ。",
         "sentenceHiragana": "せいきの はじまりだ。"
       },
       {
@@ -5125,7 +5125,7 @@
         "reading": "セ",
         "type": "on",
         "targetWord": "世話",
-        "sentenceWithRuby": "世話[せわ]に なった ひとに おれいを いう。",
+        "sentenceWithRuby": "世[せ]話[わ]に なった ひとに おれいを いう。",
         "sentenceHiragana": "せわに なった ひとに おれいを いう。"
       },
       {
@@ -5134,7 +5134,7 @@
         "reading": "セ",
         "type": "on",
         "targetWord": "三世代",
-        "sentenceWithRuby": "おやこ 三世代[さんせだい]で くらす。",
+        "sentenceWithRuby": "おやこ 三[さ]世[ん]代[せだい]で くらす。",
         "sentenceHiragana": "おやこ さんせだいで くらす。"
       }
     ]
@@ -5165,7 +5165,7 @@
         "reading": "セイ",
         "type": "on",
         "targetWord": "整理整頓",
-        "sentenceWithRuby": "整理整頓[せいりせいとん]を する。",
+        "sentenceWithRuby": "整[せ]理[い]整[りせ]頓[いとん]を する。",
         "sentenceHiragana": "せいりせいとんを する。"
       },
       {
@@ -5174,7 +5174,7 @@
         "reading": "セイ",
         "type": "on",
         "targetWord": "整列",
-        "sentenceWithRuby": "整列[せいれつ]して ならぶ。",
+        "sentenceWithRuby": "整[せい]列[れつ]して ならぶ。",
         "sentenceHiragana": "せいれつして ならぶ。"
       },
       {
@@ -5183,7 +5183,7 @@
         "reading": "セイ",
         "type": "on",
         "targetWord": "調整",
-        "sentenceWithRuby": "調整[ちょうせい]する。",
+        "sentenceWithRuby": "調[ちょう]整[せい]する。",
         "sentenceHiragana": "ちょうせいする。"
       }
     ]
@@ -5261,7 +5261,7 @@
         "reading": "ゼン",
         "type": "on",
         "targetWord": "全員",
-        "sentenceWithRuby": "全員[ぜんいん]が あつまる。",
+        "sentenceWithRuby": "全[ぜん]員[いん]が あつまる。",
         "sentenceHiragana": "ぜんいんが あつまる。"
       },
       {
@@ -5270,7 +5270,7 @@
         "reading": "ゼン",
         "type": "on",
         "targetWord": "安全",
-        "sentenceWithRuby": "安全[あんぜん]に きを つける。",
+        "sentenceWithRuby": "安[あん]全[ぜん]に きを つける。",
         "sentenceHiragana": "あんぜんに きを つける。"
       },
       {
@@ -5279,7 +5279,7 @@
         "reading": "ゼン",
         "type": "on",
         "targetWord": "全国",
-        "sentenceWithRuby": "全国[ぜんこく]たいかいに でる。",
+        "sentenceWithRuby": "全[ぜん]国[こく]たいかいに でる。",
         "sentenceHiragana": "ぜんこくたいかいに でる。"
       }
     ]
@@ -5294,7 +5294,7 @@
         "reading": "あい",
         "type": "kun",
         "targetWord": "相手",
-        "sentenceWithRuby": "相手[あいて]の はなしを きく。",
+        "sentenceWithRuby": "相[あ]手[いて]の はなしを きく。",
         "sentenceHiragana": "あいての はなしを きく。"
       },
       {
@@ -5303,7 +5303,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "相談",
-        "sentenceWithRuby": "相談[そうだん]に のる。",
+        "sentenceWithRuby": "相[そう]談[だん]に のる。",
         "sentenceHiragana": "そうだんに のる。"
       },
       {
@@ -5312,7 +5312,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "相談",
-        "sentenceWithRuby": "ともだちに 相談[そうだん]する。",
+        "sentenceWithRuby": "ともだちに 相[そう]談[だん]する。",
         "sentenceHiragana": "ともだちに そうだんする。"
       },
       {
@@ -5321,7 +5321,7 @@
         "reading": "あい",
         "type": "kun",
         "targetWord": "相手",
-        "sentenceWithRuby": "相手[あいて]を おもいやる。",
+        "sentenceWithRuby": "相[あ]手[いて]を おもいやる。",
         "sentenceHiragana": "あいてを おもいやる。"
       },
       {
@@ -5330,7 +5330,7 @@
         "reading": "ショウ",
         "type": "on",
         "targetWord": "首相",
-        "sentenceWithRuby": "首相[しゅしょう]が はなしを する。",
+        "sentenceWithRuby": "首[しゅ]相[しょう]が はなしを する。",
         "sentenceHiragana": "しゅしょうが はなしを する。"
       }
     ]
@@ -5361,7 +5361,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "配送",
-        "sentenceWithRuby": "にもつを 配送[はいそう]する。",
+        "sentenceWithRuby": "にもつを 配[はい]送[そう]する。",
         "sentenceHiragana": "にもつを はいそうする。"
       },
       {
@@ -5370,7 +5370,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "放送",
-        "sentenceWithRuby": "放送[ほうそう]を みる。",
+        "sentenceWithRuby": "放[ほう]送[そう]を みる。",
         "sentenceHiragana": "ほうそうを みる。"
       },
       {
@@ -5394,7 +5394,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "感想",
-        "sentenceWithRuby": "感想[かんそう]を かく。",
+        "sentenceWithRuby": "感[かん]想[そう]を かく。",
         "sentenceHiragana": "かんそうを かく。"
       },
       {
@@ -5403,7 +5403,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "想像力",
-        "sentenceWithRuby": "想像力[そうぞうりょく]が ゆたかだ。",
+        "sentenceWithRuby": "想[そう]像[ぞう]力[りょく]が ゆたかだ。",
         "sentenceHiragana": "そうぞうりょくが ゆたかだ。"
       },
       {
@@ -5412,7 +5412,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "予想",
-        "sentenceWithRuby": "予想[よそう]が あたる。",
+        "sentenceWithRuby": "予[よ]想[そう]が あたる。",
         "sentenceHiragana": "よそうが あたる。"
       },
       {
@@ -5421,7 +5421,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "理想",
-        "sentenceWithRuby": "理想[りそう]の いえを たてる。",
+        "sentenceWithRuby": "理[り]想[そう]の いえを たてる。",
         "sentenceHiragana": "りそうの いえを たてる。"
       },
       {
@@ -5430,7 +5430,7 @@
         "reading": "ソウ",
         "type": "on",
         "targetWord": "回想",
-        "sentenceWithRuby": "むかしを 回想[かいそう]する。",
+        "sentenceWithRuby": "むかしを 回[かい]想[そう]する。",
         "sentenceHiragana": "むかしを かいそうする。"
       }
     ]
@@ -5461,7 +5461,7 @@
         "reading": "ソク",
         "type": "on",
         "targetWord": "休息",
-        "sentenceWithRuby": "休息[きゅうそく]して やすむ。",
+        "sentenceWithRuby": "休[きゅう]息[そく]して やすむ。",
         "sentenceHiragana": "きゅうそくして やすむ。"
       },
       {
@@ -5501,7 +5501,7 @@
         "reading": "ソク",
         "type": "on",
         "targetWord": "速度",
-        "sentenceWithRuby": "あるく 速度[そくど]を はかる。",
+        "sentenceWithRuby": "あるく 速[そ]度[くど]を はかる。",
         "sentenceHiragana": "あるく そくどを はかる。"
       },
       {
@@ -5510,7 +5510,7 @@
         "reading": "ソク",
         "type": "on",
         "targetWord": "高速道路",
-        "sentenceWithRuby": "高速道路[こうそくどうろ]を はしる。",
+        "sentenceWithRuby": "高[こ]速[う]道[そく]路[どうろ]を はしる。",
         "sentenceHiragana": "こうそくどうろを はしる。"
       },
       {
@@ -5527,7 +5527,7 @@
         "reading": "はや",
         "type": "kun",
         "targetWord": "速足",
-        "sentenceWithRuby": "速足[はやあし]で あるく。",
+        "sentenceWithRuby": "速[はや]足[あし]で あるく。",
         "sentenceHiragana": "はやあしで あるく。"
       }
     ]
@@ -5542,7 +5542,7 @@
         "reading": "ゾク",
         "type": "on",
         "targetWord": "家族",
-        "sentenceWithRuby": "家族[かぞく]で でかける。",
+        "sentenceWithRuby": "家[か]族[ぞく]で でかける。",
         "sentenceHiragana": "かぞくで でかける。"
       },
       {
@@ -5551,7 +5551,7 @@
         "reading": "ゾク",
         "type": "on",
         "targetWord": "親族",
-        "sentenceWithRuby": "親族[しんぞく]が あつまる。",
+        "sentenceWithRuby": "親[しん]族[ぞく]が あつまる。",
         "sentenceHiragana": "しんぞくが あつまる。"
       },
       {
@@ -5560,7 +5560,7 @@
         "reading": "ゾク",
         "type": "on",
         "targetWord": "民族",
-        "sentenceWithRuby": "民族[みんぞく]の おどりを みる。",
+        "sentenceWithRuby": "民[みん]族[ぞく]の おどりを みる。",
         "sentenceHiragana": "みんぞくの おどりを みる。"
       },
       {
@@ -5569,7 +5569,7 @@
         "reading": "ゾク",
         "type": "on",
         "targetWord": "家族旅行",
-        "sentenceWithRuby": "家族旅行[かぞくりょこう]に いく。",
+        "sentenceWithRuby": "家[か]族[ぞく]旅[りょ]行[こう]に いく。",
         "sentenceHiragana": "かぞくりょこうに いく。"
       },
       {
@@ -5578,7 +5578,7 @@
         "reading": "ゾク",
         "type": "on",
         "targetWord": "水族館",
-        "sentenceWithRuby": "水族館[すいぞくかん]に いく。",
+        "sentenceWithRuby": "水[すい]族[ぞく]館[かん]に いく。",
         "sentenceHiragana": "すいぞくかんに いく。"
       }
     ]
@@ -5610,7 +5610,7 @@
         "reading": "タ",
         "type": "on",
         "targetWord": "他人",
-        "sentenceWithRuby": "他人[たにん]に やさしく する。",
+        "sentenceWithRuby": "他[た]人[にん]に やさしく する。",
         "sentenceHiragana": "たにんに やさしく する。"
       },
       {
@@ -5619,7 +5619,7 @@
         "reading": "タ",
         "type": "on",
         "targetWord": "他国",
-        "sentenceWithRuby": "他国[たこく]の りょうりを たべる。",
+        "sentenceWithRuby": "他[た]国[こく]の りょうりを たべる。",
         "sentenceHiragana": "たこくの りょうりを たべる。"
       },
       {
@@ -5658,7 +5658,7 @@
         "reading": "ダ",
         "type": "on",
         "targetWord": "打者",
-        "sentenceWithRuby": "打者[だしゃ]が でる。",
+        "sentenceWithRuby": "打[だ]者[しゃ]が でる。",
         "sentenceHiragana": "だしゃが でる。"
       },
       {
@@ -5667,7 +5667,7 @@
         "reading": "ダ",
         "type": "on",
         "targetWord": "安打",
-        "sentenceWithRuby": "安打[あんだ]を うった。",
+        "sentenceWithRuby": "安[あ]打[んだ]を うった。",
         "sentenceHiragana": "あんだを うった。"
       },
       {
@@ -5698,7 +5698,7 @@
         "reading": "タイ",
         "type": "on",
         "targetWord": "対戦",
-        "sentenceWithRuby": "対戦[たいせん]あいてが きまる。",
+        "sentenceWithRuby": "対[たい]戦[せん]あいてが きまる。",
         "sentenceHiragana": "たいせんあいてが きまる。"
       },
       {
@@ -5707,7 +5707,7 @@
         "reading": "タイ",
         "type": "on",
         "targetWord": "反対",
-        "sentenceWithRuby": "反対[はんたい]の いけんを いう。",
+        "sentenceWithRuby": "反[はん]対[たい]の いけんを いう。",
         "sentenceHiragana": "はんたいの いけんを いう。"
       },
       {
@@ -5716,7 +5716,7 @@
         "reading": "タイ",
         "type": "on",
         "targetWord": "絶対",
-        "sentenceWithRuby": "絶対[ぜったい]に まけない。",
+        "sentenceWithRuby": "絶[ぜっ]対[たい]に まけない。",
         "sentenceHiragana": "ぜったいに まけない。"
       },
       {
@@ -5725,7 +5725,7 @@
         "reading": "ツイ",
         "type": "on",
         "targetWord": "一対",
-        "sentenceWithRuby": "一対[いっつい]の くつを はく。",
+        "sentenceWithRuby": "一[いっ]対[つい]の くつを はく。",
         "sentenceHiragana": "いっついの くつを はく。"
       }
     ]
@@ -5756,7 +5756,7 @@
         "reading": "タイ",
         "type": "on",
         "targetWord": "期待",
-        "sentenceWithRuby": "期待[きたい]して まつ。",
+        "sentenceWithRuby": "期[き]待[たい]して まつ。",
         "sentenceHiragana": "きたいして まつ。"
       },
       {
@@ -5765,7 +5765,7 @@
         "reading": "タイ",
         "type": "on",
         "targetWord": "招待状",
-        "sentenceWithRuby": "招待状[しょうたいじょう]を もらう。",
+        "sentenceWithRuby": "招[しょう]待[たい]状[じょう]を もらう。",
         "sentenceHiragana": "しょうたいじょうを もらう。"
       },
       {
@@ -5774,7 +5774,7 @@
         "reading": "ま.つ",
         "type": "kun",
         "targetWord": "待合室",
-        "sentenceWithRuby": "待合室[まちあいしつ]で 待つ。",
+        "sentenceWithRuby": "待[まち]合[あい]室[しつ]で 待つ。",
         "sentenceHiragana": "まちあいしつで まつ。"
       }
     ]
@@ -5797,7 +5797,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "電車代",
-        "sentenceWithRuby": "電車代[でんしゃだい]を はらう。",
+        "sentenceWithRuby": "電[で]車[ん]代[しゃだい]を はらう。",
         "sentenceHiragana": "でんしゃだいを はらう。"
       },
       {
@@ -5806,7 +5806,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "時代",
-        "sentenceWithRuby": "時代[じだい]げきを みる。",
+        "sentenceWithRuby": "時[じ]代[だい]げきを みる。",
         "sentenceHiragana": "じだいげきを みる。"
       },
       {
@@ -5815,7 +5815,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "代表",
-        "sentenceWithRuby": "代表[だいひょう]に えらばれる。",
+        "sentenceWithRuby": "代[だい]表[ひょう]に えらばれる。",
         "sentenceHiragana": "だいひょうに えらばれる。"
       },
       {
@@ -5824,7 +5824,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "古代",
-        "sentenceWithRuby": "古代[こだい]の れきしを まなぶ。",
+        "sentenceWithRuby": "古[こ]代[だい]の れきしを まなぶ。",
         "sentenceHiragana": "こだいの れきしを まなぶ。"
       }
     ]
@@ -5839,7 +5839,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "第一",
-        "sentenceWithRuby": "第一[だいいち]に あんぜんを かんがえる。",
+        "sentenceWithRuby": "第[だい]一[いち]に あんぜんを かんがえる。",
         "sentenceHiragana": "だいいちに あんぜんを かんがえる。"
       },
       {
@@ -5848,7 +5848,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "第三章",
-        "sentenceWithRuby": "第三章[だいさんしょう]を よむ。",
+        "sentenceWithRuby": "第[だい]三[さん]章[しょう]を よむ。",
         "sentenceHiragana": "だいさんしょうを よむ。"
       },
       {
@@ -5857,7 +5857,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "第二",
-        "sentenceWithRuby": "第二[だいに]の もんだいに こたえる。",
+        "sentenceWithRuby": "第[だ]二[いに]の もんだいに こたえる。",
         "sentenceHiragana": "だいにの もんだいに こたえる。"
       },
       {
@@ -5866,7 +5866,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "第一位",
-        "sentenceWithRuby": "かけっこで 第一位[だいいちい]に なった。",
+        "sentenceWithRuby": "かけっこで 第[だ]一[い]位[いちい]に なった。",
         "sentenceHiragana": "かけっこで だいいちいに なった。"
       },
       {
@@ -5875,7 +5875,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "第一回",
-        "sentenceWithRuby": "第一回[だいいっかい]の たいかいに でる。",
+        "sentenceWithRuby": "第[だい]一[いっ]回[かい]の たいかいに でる。",
         "sentenceHiragana": "だいいっかいの たいかいに でる。"
       }
     ]
@@ -5890,7 +5890,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "問題",
-        "sentenceWithRuby": "問題[もんだい]を とく。",
+        "sentenceWithRuby": "問[もん]題[だい]を とく。",
         "sentenceHiragana": "もんだいを とく。"
       },
       {
@@ -5899,7 +5899,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "宿題",
-        "sentenceWithRuby": "宿題[しゅくだい]を する。",
+        "sentenceWithRuby": "宿[しゅく]題[だい]を する。",
         "sentenceHiragana": "しゅくだいを する。"
       },
       {
@@ -5908,7 +5908,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "題名",
-        "sentenceWithRuby": "題名[だいめい]を かんがえる。",
+        "sentenceWithRuby": "題[だい]名[めい]を かんがえる。",
         "sentenceHiragana": "だいめいを かんがえる。"
       },
       {
@@ -5917,7 +5917,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "話題",
-        "sentenceWithRuby": "話題[わだい]の えいがを みる。",
+        "sentenceWithRuby": "話[わ]題[だい]の えいがを みる。",
         "sentenceHiragana": "わだいの えいがを みる。"
       },
       {
@@ -5926,7 +5926,7 @@
         "reading": "ダイ",
         "type": "on",
         "targetWord": "課題",
-        "sentenceWithRuby": "課題[かだい]を ていしゅつする。",
+        "sentenceWithRuby": "課[か]題[だい]を ていしゅつする。",
         "sentenceHiragana": "かだいを ていしゅつする。"
       }
     ]
@@ -5957,7 +5957,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "石炭",
-        "sentenceWithRuby": "石炭[せきたん]を ほる。",
+        "sentenceWithRuby": "石[せき]炭[たん]を ほる。",
         "sentenceHiragana": "せきたんを ほる。"
       },
       {
@@ -5966,7 +5966,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "木炭",
-        "sentenceWithRuby": "木炭[もくたん]で えを かく。",
+        "sentenceWithRuby": "木[もく]炭[たん]で えを かく。",
         "sentenceHiragana": "もくたんで えを かく。"
       },
       {
@@ -5975,7 +5975,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "炭鉱",
-        "sentenceWithRuby": "炭鉱[たんこう]で はたらく。",
+        "sentenceWithRuby": "炭[たん]鉱[こう]で はたらく。",
         "sentenceHiragana": "たんこうで はたらく。"
       }
     ]
@@ -6006,7 +6006,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "短距離走",
-        "sentenceWithRuby": "短距離走[たんきょりそう]を はしる。",
+        "sentenceWithRuby": "短[たん]距[きょ]離[り]走[そう]を はしる。",
         "sentenceHiragana": "たんきょりそうを はしる。"
       },
       {
@@ -6015,7 +6015,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "長短",
-        "sentenceWithRuby": "長短[ちょうたん]の さが ある。",
+        "sentenceWithRuby": "長[ちょう]短[たん]の さが ある。",
         "sentenceHiragana": "ちょうたんの さが ある。"
       },
       {
@@ -6024,7 +6024,7 @@
         "reading": "タン",
         "type": "on",
         "targetWord": "短所",
-        "sentenceWithRuby": "短所[たんしょ]を なおしたい。",
+        "sentenceWithRuby": "短[た]所[んしょ]を なおしたい。",
         "sentenceHiragana": "たんしょを なおしたい。"
       }
     ]
@@ -6039,7 +6039,7 @@
         "reading": "ダン",
         "type": "on",
         "targetWord": "相談",
-        "sentenceWithRuby": "相談[そうだん]に のる。",
+        "sentenceWithRuby": "相[そう]談[だん]に のる。",
         "sentenceHiragana": "そうだんに のる。"
       },
       {
@@ -6048,7 +6048,7 @@
         "reading": "ダン",
         "type": "on",
         "targetWord": "相談",
-        "sentenceWithRuby": "せんせいに 相談[そうだん]する。",
+        "sentenceWithRuby": "せんせいに 相[そう]談[だん]する。",
         "sentenceHiragana": "せんせいに そうだんする。"
       },
       {
@@ -6057,7 +6057,7 @@
         "reading": "ダン",
         "type": "on",
         "targetWord": "冗談",
-        "sentenceWithRuby": "おもしろい 冗談[じょうだん]を いう。",
+        "sentenceWithRuby": "おもしろい 冗[じょう]談[だん]を いう。",
         "sentenceHiragana": "おもしろい じょうだんを いう。"
       },
       {
@@ -6066,7 +6066,7 @@
         "reading": "ダン",
         "type": "on",
         "targetWord": "怪談",
-        "sentenceWithRuby": "怪談[かいだん]を きいて ふるえた。",
+        "sentenceWithRuby": "怪[かい]談[だん]を きいて ふるえた。",
         "sentenceHiragana": "かいだんを きいて ふるえた。"
       },
       {
@@ -6075,7 +6075,7 @@
         "reading": "ダン",
         "type": "on",
         "targetWord": "談話",
-        "sentenceWithRuby": "かぞくで 談話[だんわ]を たのしむ。",
+        "sentenceWithRuby": "かぞくで 談[だ]話[んわ]を たのしむ。",
         "sentenceHiragana": "かぞくで だんわを たのしむ。"
       }
     ]
@@ -6106,7 +6106,7 @@
         "reading": "チャク",
         "type": "on",
         "targetWord": "到着",
-        "sentenceWithRuby": "到着時刻[とうちゃくじこく]を かくにんする。",
+        "sentenceWithRuby": "到[と]着[う]時[ちゃく]刻[じこく]を かくにんする。",
         "sentenceHiragana": "とうちゃくじこくを かくにんする。"
       },
       {
@@ -6123,7 +6123,7 @@
         "reading": "チャク",
         "type": "on",
         "targetWord": "着陸",
-        "sentenceWithRuby": "ひこうきが 着陸[ちゃくりく]した。",
+        "sentenceWithRuby": "ひこうきが 着[ちゃく]陸[りく]した。",
         "sentenceHiragana": "ひこうきが ちゃくりくした。"
       }
     ]
@@ -6146,7 +6146,7 @@
         "reading": "チュウ",
         "type": "on",
         "targetWord": "注意",
-        "sentenceWithRuby": "くるまに 注意[ちゅうい]する。",
+        "sentenceWithRuby": "くるまに 注[ちゅ]意[うい]する。",
         "sentenceHiragana": "くるまに ちゅういする。"
       },
       {
@@ -6155,7 +6155,7 @@
         "reading": "チュウ",
         "type": "on",
         "targetWord": "注文",
-        "sentenceWithRuby": "注文[ちゅうもん]を する。",
+        "sentenceWithRuby": "注[ちゅう]文[もん]を する。",
         "sentenceHiragana": "ちゅうもんを する。"
       },
       {
@@ -6164,7 +6164,7 @@
         "reading": "チュウ",
         "type": "on",
         "targetWord": "注射",
-        "sentenceWithRuby": "注射[ちゅうしゃ]を うける。",
+        "sentenceWithRuby": "注[ちゅ]射[うしゃ]を うける。",
         "sentenceHiragana": "ちゅうしゃを うける。"
       },
       {
@@ -6173,7 +6173,7 @@
         "reading": "チュウ",
         "type": "on",
         "targetWord": "注目",
-        "sentenceWithRuby": "注目[ちゅうもく]を あびる。",
+        "sentenceWithRuby": "注[ちゅう]目[もく]を あびる。",
         "sentenceHiragana": "ちゅうもくを あびる。"
       }
     ]
@@ -6204,7 +6204,7 @@
         "reading": "チュウ",
         "type": "on",
         "targetWord": "電柱",
-        "sentenceWithRuby": "電柱[でんちゅう]に ポスターが はってある。",
+        "sentenceWithRuby": "電[でん]柱[ちゅう]に ポスターが はってある。",
         "sentenceHiragana": "でんちゅうに ポスターが はってある。"
       },
       {
@@ -6221,7 +6221,7 @@
         "reading": "はしら",
         "type": "kun",
         "targetWord": "大黒柱",
-        "sentenceWithRuby": "かぞくの 大黒柱[だいこくばしら]だ。",
+        "sentenceWithRuby": "かぞくの 大[だい]黒[こく]柱[ばしら]だ。",
         "sentenceHiragana": "かぞくの だいこくばしらだ。"
       }
     ]
@@ -6236,7 +6236,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "一丁目",
-        "sentenceWithRuby": "一丁目[いっちょうめ]に すんでいる。",
+        "sentenceWithRuby": "一[い]丁[っ]目[ちょうめ]に すんでいる。",
         "sentenceHiragana": "いっちょうめに すんでいる。"
       },
       {
@@ -6245,7 +6245,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "丁寧",
-        "sentenceWithRuby": "丁寧[ていねい]に かく。",
+        "sentenceWithRuby": "丁[てい]寧[ねい]に かく。",
         "sentenceHiragana": "ていねいに かく。"
       },
       {
@@ -6254,7 +6254,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "包丁",
-        "sentenceWithRuby": "包丁[ほうちょう]で きる。",
+        "sentenceWithRuby": "包[ほう]丁[ちょう]で きる。",
         "sentenceHiragana": "ほうちょうで きる。"
       },
       {
@@ -6263,7 +6263,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "二丁目",
-        "sentenceWithRuby": "二丁目[にちょうめ]を まがる。",
+        "sentenceWithRuby": "二[に]丁[ちょ]目[うめ]を まがる。",
         "sentenceHiragana": "にちょうめを まがる。"
       },
       {
@@ -6272,7 +6272,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "丁寧",
-        "sentenceWithRuby": "丁寧[ていねい]な ことばを つかう。",
+        "sentenceWithRuby": "丁[てい]寧[ねい]な ことばを つかう。",
         "sentenceHiragana": "ていねいな ことばを つかう。"
       }
     ]
@@ -6287,7 +6287,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "手帳",
-        "sentenceWithRuby": "手帳[てちょう]に かく。",
+        "sentenceWithRuby": "手[て]帳[ちょう]に かく。",
         "sentenceHiragana": "てちょうに かく。"
       },
       {
@@ -6296,7 +6296,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "通帳",
-        "sentenceWithRuby": "通帳[つうちょう]を みせる。",
+        "sentenceWithRuby": "通[つう]帳[ちょう]を みせる。",
         "sentenceHiragana": "つうちょうを みせる。"
       },
       {
@@ -6305,7 +6305,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "日記帳",
-        "sentenceWithRuby": "日記帳[にっきちょう]を つける。",
+        "sentenceWithRuby": "日[に]記[っ]帳[きちょう]を つける。",
         "sentenceHiragana": "にっきちょうを つける。"
       },
       {
@@ -6314,7 +6314,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "電話帳",
-        "sentenceWithRuby": "電話帳[でんわちょう]で しらべる。",
+        "sentenceWithRuby": "電[で]話[ん]帳[わちょう]で しらべる。",
         "sentenceHiragana": "でんわちょうで しらべる。"
       },
       {
@@ -6323,7 +6323,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "帳面",
-        "sentenceWithRuby": "帳面[ちょうめん]に きろくする。",
+        "sentenceWithRuby": "帳[ちょう]面[めん]に きろくする。",
         "sentenceHiragana": "ちょうめんに きろくする。"
       }
     ]
@@ -6354,7 +6354,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "調査",
-        "sentenceWithRuby": "調査[ちょうさ]を する。",
+        "sentenceWithRuby": "調[ちょ]査[うさ]を する。",
         "sentenceHiragana": "ちょうさを する。"
       },
       {
@@ -6363,7 +6363,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "調子",
-        "sentenceWithRuby": "からだの 調子[ちょうし]が いい。",
+        "sentenceWithRuby": "からだの 調[ちょ]子[うし]が いい。",
         "sentenceHiragana": "からだの ちょうしが いい。"
       },
       {
@@ -6372,7 +6372,7 @@
         "reading": "チョウ",
         "type": "on",
         "targetWord": "調律",
-        "sentenceWithRuby": "ピアノを 調律[ちょうりつ]する。",
+        "sentenceWithRuby": "ピアノを 調[ちょう]律[りつ]する。",
         "sentenceHiragana": "ピアノを ちょうりつする。"
       }
     ]
@@ -6403,7 +6403,7 @@
         "reading": "ツイ",
         "type": "on",
         "targetWord": "追加",
-        "sentenceWithRuby": "追加[ついか]で もう いっこ かう。",
+        "sentenceWithRuby": "追[つ]加[いか]で もう いっこ かう。",
         "sentenceHiragana": "ついかで もう いっこ かう。"
       },
       {
@@ -6420,7 +6420,7 @@
         "reading": "ツイ",
         "type": "on",
         "targetWord": "追跡",
-        "sentenceWithRuby": "追跡[ついせき]を かいしする。",
+        "sentenceWithRuby": "追[つい]跡[せき]を かいしする。",
         "sentenceHiragana": "ついせきを かいしする。"
       }
     ]
@@ -6443,7 +6443,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "予定",
-        "sentenceWithRuby": "予定[よてい]を たてる。",
+        "sentenceWithRuby": "予[よ]定[てい]を たてる。",
         "sentenceHiragana": "よていを たてる。"
       },
       {
@@ -6460,7 +6460,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "決定",
-        "sentenceWithRuby": "かいぎの ひにちが 決定[けってい]した。",
+        "sentenceWithRuby": "かいぎの ひにちが 決[けっ]定[てい]した。",
         "sentenceHiragana": "かいぎの ひにちが けっていした。"
       },
       {
@@ -6469,7 +6469,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "安定",
-        "sentenceWithRuby": "安定[あんてい]した せいかつを する。",
+        "sentenceWithRuby": "安[あん]定[てい]した せいかつを する。",
         "sentenceHiragana": "あんていした せいかつを する。"
       }
     ]
@@ -6500,7 +6500,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "家庭科",
-        "sentenceWithRuby": "家庭科[かていか]の じゅぎょうが ある。",
+        "sentenceWithRuby": "家[か]庭[て]科[いか]の じゅぎょうが ある。",
         "sentenceHiragana": "かていかの じゅぎょうが ある。"
       },
       {
@@ -6509,7 +6509,7 @@
         "reading": "テイ",
         "type": "on",
         "targetWord": "校庭",
-        "sentenceWithRuby": "校庭[こうてい]で たいそうを する。",
+        "sentenceWithRuby": "校[こう]庭[てい]で たいそうを する。",
         "sentenceHiragana": "こうていで たいそうを する。"
       },
       {
@@ -6540,7 +6540,7 @@
         "reading": "ぶえ",
         "type": "kun",
         "targetWord": "縦笛",
-        "sentenceWithRuby": "縦笛[たてぶえ]を れんしゅうする。",
+        "sentenceWithRuby": "縦[たて]笛[ぶえ]を れんしゅうする。",
         "sentenceHiragana": "たてぶえを れんしゅうする。"
       },
       {
@@ -6549,7 +6549,7 @@
         "reading": "ぶえ",
         "type": "kun",
         "targetWord": "草笛",
-        "sentenceWithRuby": "草笛[くさぶえ]を つくる。",
+        "sentenceWithRuby": "草[くさ]笛[ぶえ]を つくる。",
         "sentenceHiragana": "くさぶえを つくる。"
       },
       {
@@ -6558,7 +6558,7 @@
         "reading": "ぶえ",
         "type": "kun",
         "targetWord": "横笛",
-        "sentenceWithRuby": "横笛[よこぶえ]の おとが きこえる。",
+        "sentenceWithRuby": "横[よこ]笛[ぶえ]の おとが きこえる。",
         "sentenceHiragana": "よこぶえの おとが きこえる。"
       },
       {
@@ -6581,7 +6581,7 @@
         "reading": "テツ",
         "type": "on",
         "targetWord": "鉄棒",
-        "sentenceWithRuby": "鉄棒[てつぼう]で うんどうする。",
+        "sentenceWithRuby": "鉄[てつ]棒[ぼう]で うんどうする。",
         "sentenceHiragana": "てつぼうで うんどうする。"
       },
       {
@@ -6590,7 +6590,7 @@
         "reading": "テツ",
         "type": "on",
         "targetWord": "鉄道",
-        "sentenceWithRuby": "鉄道[てつどう]で りょこうする。",
+        "sentenceWithRuby": "鉄[てつ]道[どう]で りょこうする。",
         "sentenceHiragana": "てつどうで りょこうする。"
       },
       {
@@ -6599,7 +6599,7 @@
         "reading": "テツ",
         "type": "on",
         "targetWord": "地下鉄",
-        "sentenceWithRuby": "地下鉄[ちかてつ]に のる。",
+        "sentenceWithRuby": "地[ち]下[か]鉄[てつ]に のる。",
         "sentenceHiragana": "ちかてつに のる。"
       },
       {
@@ -6608,7 +6608,7 @@
         "reading": "テツ",
         "type": "on",
         "targetWord": "鉄橋",
-        "sentenceWithRuby": "鉄橋[てっきょう]を わたる。",
+        "sentenceWithRuby": "鉄[てっ]橋[きょう]を わたる。",
         "sentenceHiragana": "てっきょうを わたる。"
       },
       {
@@ -6648,7 +6648,7 @@
         "reading": "テン",
         "type": "on",
         "targetWord": "自転車",
-        "sentenceWithRuby": "自転車[じてんしゃ]に のる。",
+        "sentenceWithRuby": "自[じ]転[て]車[んしゃ]に のる。",
         "sentenceHiragana": "じてんしゃに のる。"
       },
       {
@@ -6657,7 +6657,7 @@
         "reading": "テン",
         "type": "on",
         "targetWord": "転校生",
-        "sentenceWithRuby": "転校生[てんこうせい]が きた。",
+        "sentenceWithRuby": "転[てん]校[こう]生[せい]が きた。",
         "sentenceHiragana": "てんこうせいが きた。"
       },
       {
@@ -6666,7 +6666,7 @@
         "reading": "テン",
         "type": "on",
         "targetWord": "運転手",
-        "sentenceWithRuby": "運転手[うんてんしゅ]に なりたい。",
+        "sentenceWithRuby": "運[う]転[ん]手[てんしゅ]に なりたい。",
         "sentenceHiragana": "うんてんしゅに なりたい。"
       }
     ]
@@ -6689,7 +6689,7 @@
         "reading": "ト",
         "type": "on",
         "targetWord": "都会",
-        "sentenceWithRuby": "都会[とかい]で くらす。",
+        "sentenceWithRuby": "都[と]会[かい]で くらす。",
         "sentenceHiragana": "とかいで くらす。"
       },
       {
@@ -6698,7 +6698,7 @@
         "reading": "ト",
         "type": "on",
         "targetWord": "京都",
-        "sentenceWithRuby": "京都[きょうと]に いく。",
+        "sentenceWithRuby": "京[きょ]都[うと]に いく。",
         "sentenceHiragana": "きょうとに いく。"
       },
       {
@@ -6707,7 +6707,7 @@
         "reading": "ト",
         "type": "on",
         "targetWord": "東京都",
-        "sentenceWithRuby": "東京都[とうきょうと]に すむ。",
+        "sentenceWithRuby": "東[と]京[う]都[きょうと]に すむ。",
         "sentenceHiragana": "とうきょうとに すむ。"
       },
       {
@@ -6716,7 +6716,7 @@
         "reading": "ト",
         "type": "on",
         "targetWord": "首都",
-        "sentenceWithRuby": "首都[しゅと]は とうきょうだ。",
+        "sentenceWithRuby": "首[しゅ]都[と]は とうきょうだ。",
         "sentenceHiragana": "しゅとは とうきょうだ。"
       }
     ]
@@ -6731,7 +6731,7 @@
         "reading": "ド",
         "type": "on",
         "targetWord": "何度",
-        "sentenceWithRuby": "何度[なんど]も れんしゅうする。",
+        "sentenceWithRuby": "何[な]度[んど]も れんしゅうする。",
         "sentenceHiragana": "なんども れんしゅうする。"
       },
       {
@@ -6740,7 +6740,7 @@
         "reading": "ド",
         "type": "on",
         "targetWord": "温度",
-        "sentenceWithRuby": "温度[おんど]を はかる。",
+        "sentenceWithRuby": "温[お]度[んど]を はかる。",
         "sentenceHiragana": "おんどを はかる。"
       },
       {
@@ -6758,7 +6758,7 @@
         "reading": "ド",
         "type": "on",
         "targetWord": "三十度",
-        "sentenceWithRuby": "三十度[さんじゅうど]の あつさだ。",
+        "sentenceWithRuby": "三[さ]十[ん]度[じゅうど]の あつさだ。",
         "sentenceHiragana": "さんじゅうどの あつさだ。"
       },
       {
@@ -6767,7 +6767,7 @@
         "reading": "ド",
         "type": "on",
         "targetWord": "一度",
-        "sentenceWithRuby": "一度[いちど]だけ ためす。",
+        "sentenceWithRuby": "一[い]度[ちど]だけ ためす。",
         "sentenceHiragana": "いちどだけ ためす。"
       }
     ]
@@ -6790,7 +6790,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "投票",
-        "sentenceWithRuby": "投票[とうひょう]で きめる。",
+        "sentenceWithRuby": "投[とう]票[ひょう]で きめる。",
         "sentenceHiragana": "とうひょうで きめる。"
       },
       {
@@ -6799,7 +6799,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "投手",
-        "sentenceWithRuby": "投手[とうしゅ]が なげた。",
+        "sentenceWithRuby": "投[と]手[うしゅ]が なげた。",
         "sentenceHiragana": "とうしゅが なげた。"
       },
       {
@@ -6838,7 +6838,7 @@
         "reading": "ズ",
         "type": "on",
         "targetWord": "大豆",
-        "sentenceWithRuby": "大豆[だいず]で とうふを つくる。",
+        "sentenceWithRuby": "大[だ]豆[いず]で とうふを つくる。",
         "sentenceHiragana": "だいずで とうふを つくる。"
       },
       {
@@ -6847,7 +6847,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "納豆",
-        "sentenceWithRuby": "納豆[なっとう]を たべる。",
+        "sentenceWithRuby": "納[なっ]豆[とう]を たべる。",
         "sentenceHiragana": "なっとうを たべる。"
       },
       {
@@ -6856,7 +6856,7 @@
         "reading": "まめ",
         "type": "kun",
         "targetWord": "枝豆",
-        "sentenceWithRuby": "枝豆[えだまめ]が おいしい。",
+        "sentenceWithRuby": "枝[えだ]豆[まめ]が おいしい。",
         "sentenceHiragana": "えだまめが おいしい。"
       },
       {
@@ -6896,7 +6896,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "半島",
-        "sentenceWithRuby": "半島[はんとう]を りょこうする。",
+        "sentenceWithRuby": "半[はん]島[とう]を りょこうする。",
         "sentenceHiragana": "はんとうを りょこうする。"
       },
       {
@@ -6905,7 +6905,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "島民",
-        "sentenceWithRuby": "島民[とうみん]が くらす。",
+        "sentenceWithRuby": "島[とう]民[みん]が くらす。",
         "sentenceHiragana": "とうみんが くらす。"
       },
       {
@@ -6914,7 +6914,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "離島",
-        "sentenceWithRuby": "離島[りとう]に ふねで いく。",
+        "sentenceWithRuby": "離[り]島[とう]に ふねで いく。",
         "sentenceHiragana": "りとうに ふねで いく。"
       }
     ]
@@ -6953,7 +6953,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "熱湯",
-        "sentenceWithRuby": "熱湯[ねっとう]は あぶない。",
+        "sentenceWithRuby": "熱[ねっ]湯[とう]は あぶない。",
         "sentenceHiragana": "ねっとうは あぶない。"
       },
       {
@@ -6993,7 +6993,7 @@
         "reading": "ト",
         "type": "on",
         "targetWord": "登山",
-        "sentenceWithRuby": "登山[とざん]を たのしむ。",
+        "sentenceWithRuby": "登[と]山[ざん]を たのしむ。",
         "sentenceHiragana": "とざんを たのしむ。"
       },
       {
@@ -7002,7 +7002,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "登校",
-        "sentenceWithRuby": "登校[とうこう]する じかんだ。",
+        "sentenceWithRuby": "登[とう]校[こう]する じかんだ。",
         "sentenceHiragana": "とうこうする じかんだ。"
       },
       {
@@ -7011,7 +7011,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "登場人物",
-        "sentenceWithRuby": "登場人物[とうじょうじんぶつ]を しらべる。",
+        "sentenceWithRuby": "登[とう]場[じょう]人[じん]物[ぶつ]を しらべる。",
         "sentenceHiragana": "とうじょうじんぶつを しらべる。"
       }
     ]
@@ -7034,7 +7034,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "平等",
-        "sentenceWithRuby": "平等[びょうどう]に わける。",
+        "sentenceWithRuby": "平[びょう]等[どう]に わける。",
         "sentenceHiragana": "びょうどうに わける。"
       },
       {
@@ -7043,7 +7043,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "一等賞",
-        "sentenceWithRuby": "一等賞[いっとうしょう]を もらう。",
+        "sentenceWithRuby": "一[いっ]等[とう]賞[しょう]を もらう。",
         "sentenceHiragana": "いっとうしょうを もらう。"
       },
       {
@@ -7052,7 +7052,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "高等学校",
-        "sentenceWithRuby": "高等学校[こうとうがっこう]に いく。",
+        "sentenceWithRuby": "高[こう]等[とう]学[がっ]校[こう]に いく。",
         "sentenceHiragana": "こうとうがっこうに いく。"
       },
       {
@@ -7061,7 +7061,7 @@
         "reading": "トウ",
         "type": "on",
         "targetWord": "等分",
-        "sentenceWithRuby": "等分[とうぶん]に わける。",
+        "sentenceWithRuby": "等[とう]分[ぶん]に わける。",
         "sentenceHiragana": "とうぶんに わける。"
       }
     ]
@@ -7092,7 +7092,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "動物園",
-        "sentenceWithRuby": "動物園[どうぶつえん]に いく。",
+        "sentenceWithRuby": "動[どう]物[ぶつ]園[えん]に いく。",
         "sentenceHiragana": "どうぶつえんに いく。"
       },
       {
@@ -7101,7 +7101,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "運動会",
-        "sentenceWithRuby": "運動会[うんどうかい]が ある。",
+        "sentenceWithRuby": "運[うん]動[どう]会[かい]が ある。",
         "sentenceHiragana": "うんどうかいが ある。"
       },
       {
@@ -7110,7 +7110,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "自動車",
-        "sentenceWithRuby": "自動車[じどうしゃ]に のる。",
+        "sentenceWithRuby": "自[じ]動[ど]車[うしゃ]に のる。",
         "sentenceHiragana": "じどうしゃに のる。"
       }
     ]
@@ -7125,7 +7125,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "童話",
-        "sentenceWithRuby": "童話[どうわ]を よむ。",
+        "sentenceWithRuby": "童[ど]話[うわ]を よむ。",
         "sentenceHiragana": "どうわを よむ。"
       },
       {
@@ -7134,7 +7134,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "童謡",
-        "sentenceWithRuby": "童謡[どうよう]を うたう。",
+        "sentenceWithRuby": "童[どう]謡[よう]を うたう。",
         "sentenceHiragana": "どうようを うたう。"
       },
       {
@@ -7143,7 +7143,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "児童",
-        "sentenceWithRuby": "児童[じどう]の ほんを かりる。",
+        "sentenceWithRuby": "児[じ]童[どう]の ほんを かりる。",
         "sentenceHiragana": "じどうの ほんを かりる。"
       },
       {
@@ -7161,7 +7161,7 @@
         "reading": "ドウ",
         "type": "on",
         "targetWord": "童心",
-        "sentenceWithRuby": "童心[どうしん]を わすれない。",
+        "sentenceWithRuby": "童[どう]心[しん]を わすれない。",
         "sentenceHiragana": "どうしんを わすれない。"
       }
     ]
@@ -7176,7 +7176,7 @@
         "reading": "ノウ",
         "type": "on",
         "targetWord": "農家",
-        "sentenceWithRuby": "農家[のうか]の しごとを てつだう。",
+        "sentenceWithRuby": "農[の]家[うか]の しごとを てつだう。",
         "sentenceHiragana": "のうかの しごとを てつだう。"
       },
       {
@@ -7185,7 +7185,7 @@
         "reading": "ノウ",
         "type": "on",
         "targetWord": "農業",
-        "sentenceWithRuby": "農業[のうぎょう]を べんきょうする。",
+        "sentenceWithRuby": "農[のう]業[ぎょう]を べんきょうする。",
         "sentenceHiragana": "のうぎょうを べんきょうする。"
       },
       {
@@ -7194,7 +7194,7 @@
         "reading": "ノウ",
         "type": "on",
         "targetWord": "農村",
-        "sentenceWithRuby": "農村[のうそん]に すんでいる。",
+        "sentenceWithRuby": "農[のう]村[そん]に すんでいる。",
         "sentenceHiragana": "のうそんに すんでいる。"
       },
       {
@@ -7203,7 +7203,7 @@
         "reading": "ノウ",
         "type": "on",
         "targetWord": "農作物",
-        "sentenceWithRuby": "農作物[のうさくもつ]を そだてる。",
+        "sentenceWithRuby": "農[のう]作[さく]物[もつ]を そだてる。",
         "sentenceHiragana": "のうさくもつを そだてる。"
       },
       {
@@ -7212,7 +7212,7 @@
         "reading": "ノウ",
         "type": "on",
         "targetWord": "農場",
-        "sentenceWithRuby": "農場[のうじょう]で はたらく。",
+        "sentenceWithRuby": "農[のう]場[じょう]で はたらく。",
         "sentenceHiragana": "のうじょうで はたらく。"
       }
     ]
@@ -7243,7 +7243,7 @@
         "reading": "ハ",
         "type": "on",
         "targetWord": "電波",
-        "sentenceWithRuby": "電波[でんぱ]が とどく。",
+        "sentenceWithRuby": "電[で]波[んぱ]が とどく。",
         "sentenceHiragana": "でんぱが とどく。"
       },
       {
@@ -7252,7 +7252,7 @@
         "reading": "なみ",
         "type": "kun",
         "targetWord": "大波",
-        "sentenceWithRuby": "大波[おおなみ]に ちゅういする。",
+        "sentenceWithRuby": "大[おお]波[なみ]に ちゅういする。",
         "sentenceHiragana": "おおなみに ちゅういする。"
       },
       {
@@ -7292,7 +7292,7 @@
         "reading": "ハイ",
         "type": "on",
         "targetWord": "心配",
-        "sentenceWithRuby": "心配[しんぱい]しないで ください。",
+        "sentenceWithRuby": "心[しん]配[ぱい]しないで ください。",
         "sentenceHiragana": "しんぱいしないで ください。"
       },
       {
@@ -7301,7 +7301,7 @@
         "reading": "ハイ",
         "type": "on",
         "targetWord": "配達",
-        "sentenceWithRuby": "配達[はいたつ]が とどく。",
+        "sentenceWithRuby": "配[はい]達[たつ]が とどく。",
         "sentenceHiragana": "はいたつが とどく。"
       },
       {
@@ -7324,7 +7324,7 @@
         "reading": "バイ",
         "type": "on",
         "targetWord": "二倍",
-        "sentenceWithRuby": "二倍[にばい]に なる。",
+        "sentenceWithRuby": "二[に]倍[ばい]に なる。",
         "sentenceHiragana": "にばいに なる。"
       },
       {
@@ -7333,7 +7333,7 @@
         "reading": "バイ",
         "type": "on",
         "targetWord": "三倍",
-        "sentenceWithRuby": "三倍[さんばい]の おおきさだ。",
+        "sentenceWithRuby": "三[さん]倍[ばい]の おおきさだ。",
         "sentenceHiragana": "さんばいの おおきさだ。"
       },
       {
@@ -7342,7 +7342,7 @@
         "reading": "バイ",
         "type": "on",
         "targetWord": "倍数",
-        "sentenceWithRuby": "さんすうで 倍数[ばいすう]を ならう。",
+        "sentenceWithRuby": "さんすうで 倍[ばい]数[すう]を ならう。",
         "sentenceHiragana": "さんすうで ばいすうを ならう。"
       },
       {
@@ -7351,7 +7351,7 @@
         "reading": "バイ",
         "type": "on",
         "targetWord": "何倍",
-        "sentenceWithRuby": "何倍[なんばい]も れんしゅうする。",
+        "sentenceWithRuby": "何[なん]倍[ばい]も れんしゅうする。",
         "sentenceHiragana": "なんばいも れんしゅうする。"
       },
       {
@@ -7360,7 +7360,7 @@
         "reading": "バイ",
         "type": "on",
         "targetWord": "十倍",
-        "sentenceWithRuby": "十倍[じゅうばい]の かずに なった。",
+        "sentenceWithRuby": "十[じゅう]倍[ばい]の かずに なった。",
         "sentenceHiragana": "じゅうばいの かずに なった。"
       }
     ]
@@ -7383,7 +7383,7 @@
         "reading": "ばこ",
         "type": "kun",
         "targetWord": "筆箱",
-        "sentenceWithRuby": "筆箱[ふでばこ]を あける。",
+        "sentenceWithRuby": "筆[ふで]箱[ばこ]を あける。",
         "sentenceHiragana": "ふでばこを あける。"
       },
       {
@@ -7409,7 +7409,7 @@
         "reading": "ばこ",
         "type": "kun",
         "targetWord": "本箱",
-        "sentenceWithRuby": "本箱[ほんばこ]に ほんを いれる。",
+        "sentenceWithRuby": "本[ほん]箱[ばこ]に ほんを いれる。",
         "sentenceHiragana": "ほんばこに ほんを いれる。"
       }
     ]
@@ -7448,7 +7448,7 @@
         "reading": "はたけ",
         "type": "kun",
         "targetWord": "畑仕事",
-        "sentenceWithRuby": "畑仕事[はたけしごと]を てつだう。",
+        "sentenceWithRuby": "畑[はた]仕[けし]事[ごと]を てつだう。",
         "sentenceHiragana": "はたけしごとを てつだう。"
       },
       {
@@ -7471,7 +7471,7 @@
         "reading": "ハツ",
         "type": "on",
         "targetWord": "出発",
-        "sentenceWithRuby": "出発[しゅっぱつ]の じかんだ。",
+        "sentenceWithRuby": "出[しゅっ]発[ぱつ]の じかんだ。",
         "sentenceHiragana": "しゅっぱつの じかんだ。"
       },
       {
@@ -7480,7 +7480,7 @@
         "reading": "ハツ",
         "type": "on",
         "targetWord": "発明",
-        "sentenceWithRuby": "発明[はつめい]を する。",
+        "sentenceWithRuby": "発[はつ]明[めい]を する。",
         "sentenceHiragana": "はつめいを する。"
       },
       {
@@ -7489,7 +7489,7 @@
         "reading": "ハツ",
         "type": "on",
         "targetWord": "発表会",
-        "sentenceWithRuby": "発表会[はっぴょうかい]に でる。",
+        "sentenceWithRuby": "発[はっ]表[ぴょう]会[かい]に でる。",
         "sentenceHiragana": "はっぴょうかいに でる。"
       },
       {
@@ -7498,7 +7498,7 @@
         "reading": "ハツ",
         "type": "on",
         "targetWord": "発見",
-        "sentenceWithRuby": "発見[はっけん]した ことを はなす。",
+        "sentenceWithRuby": "発[はっ]見[けん]した ことを はなす。",
         "sentenceHiragana": "はっけんした ことを はなす。"
       },
       {
@@ -7507,7 +7507,7 @@
         "reading": "ハツ",
         "type": "on",
         "targetWord": "発車",
-        "sentenceWithRuby": "でんしゃが 発車[はっしゃ]する。",
+        "sentenceWithRuby": "でんしゃが 発[は]車[っしゃ]する。",
         "sentenceHiragana": "でんしゃが はっしゃする。"
       }
     ]
@@ -7530,7 +7530,7 @@
         "reading": "ハン",
         "type": "on",
         "targetWord": "反対",
-        "sentenceWithRuby": "反対[はんたい]の いけんを いう。",
+        "sentenceWithRuby": "反[はん]対[たい]の いけんを いう。",
         "sentenceHiragana": "はんたいの いけんを いう。"
       },
       {
@@ -7539,7 +7539,7 @@
         "reading": "ハン",
         "type": "on",
         "targetWord": "反省",
-        "sentenceWithRuby": "反省[はんせい]して あやまる。",
+        "sentenceWithRuby": "反[はん]省[せい]して あやまる。",
         "sentenceHiragana": "はんせいして あやまる。"
       },
       {
@@ -7556,7 +7556,7 @@
         "reading": "ハン",
         "type": "on",
         "targetWord": "反応",
-        "sentenceWithRuby": "反応[はんのう]を みる。",
+        "sentenceWithRuby": "反[はん]応[のう]を みる。",
         "sentenceHiragana": "はんのうを みる。"
       }
     ]
@@ -7587,7 +7587,7 @@
         "reading": "さか",
         "type": "kun",
         "targetWord": "坂道",
-        "sentenceWithRuby": "坂道[さかみち]を じてんしゃで いく。",
+        "sentenceWithRuby": "坂[さか]道[みち]を じてんしゃで いく。",
         "sentenceHiragana": "さかみちを じてんしゃで いく。"
       },
       {
@@ -7627,7 +7627,7 @@
         "reading": "バン",
         "type": "on",
         "targetWord": "黒板",
-        "sentenceWithRuby": "黒板[こくばん]に じを かく。",
+        "sentenceWithRuby": "黒[こく]板[ばん]に じを かく。",
         "sentenceHiragana": "こくばんに じを かく。"
       },
       {
@@ -7644,7 +7644,7 @@
         "reading": "バン",
         "type": "on",
         "targetWord": "鉄板",
-        "sentenceWithRuby": "鉄板[てっぱん]で にくを やく。",
+        "sentenceWithRuby": "鉄[てっ]板[ぱん]で にくを やく。",
         "sentenceHiragana": "てっぱんで にくを やく。"
       },
       {
@@ -7675,7 +7675,7 @@
         "reading": "かわ",
         "type": "kun",
         "targetWord": "皮靴",
-        "sentenceWithRuby": "皮靴[かわぐつ]を はく。",
+        "sentenceWithRuby": "皮[かわ]靴[ぐつ]を はく。",
         "sentenceHiragana": "かわぐつを はく。"
       },
       {
@@ -7692,7 +7692,7 @@
         "reading": "ヒ",
         "type": "on",
         "targetWord": "皮膚",
-        "sentenceWithRuby": "皮膚[ひふ]を まもる。",
+        "sentenceWithRuby": "皮[ひ]膚[ふ]を まもる。",
         "sentenceHiragana": "ひふを まもる。"
       },
       {
@@ -7731,7 +7731,7 @@
         "reading": "ヒ",
         "type": "on",
         "targetWord": "悲劇",
-        "sentenceWithRuby": "悲劇[ひげき]の えいがを みる。",
+        "sentenceWithRuby": "悲[ひ]劇[げき]の えいがを みる。",
         "sentenceHiragana": "ひげきの えいがを みる。"
       },
       {
@@ -7748,7 +7748,7 @@
         "reading": "ヒ",
         "type": "on",
         "targetWord": "悲鳴",
-        "sentenceWithRuby": "悲鳴[ひめい]が きこえた。",
+        "sentenceWithRuby": "悲[ひ]鳴[めい]が きこえた。",
         "sentenceHiragana": "ひめいが きこえた。"
       }
     ]
@@ -7771,7 +7771,7 @@
         "reading": "ビ",
         "type": "on",
         "targetWord": "美術館",
-        "sentenceWithRuby": "美術館[びじゅつかん]に いく。",
+        "sentenceWithRuby": "美[び]術[じゅ]館[つかん]に いく。",
         "sentenceHiragana": "びじゅつかんに いく。"
       },
       {
@@ -7788,7 +7788,7 @@
         "reading": "ビ",
         "type": "on",
         "targetWord": "美人",
-        "sentenceWithRuby": "美人[びじん]の えを かく。",
+        "sentenceWithRuby": "美[び]人[じん]の えを かく。",
         "sentenceHiragana": "びじんの えを かく。"
       },
       {
@@ -7827,7 +7827,7 @@
         "reading": "ビ",
         "type": "on",
         "targetWord": "鼻孔",
-        "sentenceWithRuby": "鼻孔[びこう]から いきを する。",
+        "sentenceWithRuby": "鼻[び]孔[こう]から いきを する。",
         "sentenceHiragana": "びこうから いきを する。"
       },
       {
@@ -7836,7 +7836,7 @@
         "reading": "はな",
         "type": "kun",
         "targetWord": "鼻水",
-        "sentenceWithRuby": "鼻水[はなみず]が でる。",
+        "sentenceWithRuby": "鼻[はな]水[みず]が でる。",
         "sentenceHiragana": "はなみずが でる。"
       },
       {
@@ -7867,7 +7867,7 @@
         "reading": "ふで",
         "type": "kun",
         "targetWord": "筆箱",
-        "sentenceWithRuby": "筆箱[ふでばこ]を もってくる。",
+        "sentenceWithRuby": "筆[ふで]箱[ばこ]を もってくる。",
         "sentenceHiragana": "ふでばこを もってくる。"
       },
       {
@@ -7876,7 +7876,7 @@
         "reading": "ヒツ",
         "type": "on",
         "targetWord": "鉛筆",
-        "sentenceWithRuby": "鉛筆[えんぴつ]で かく。",
+        "sentenceWithRuby": "鉛[えん]筆[ぴつ]で かく。",
         "sentenceHiragana": "えんぴつで かく。"
       },
       {
@@ -7893,7 +7893,7 @@
         "reading": "ヒツ",
         "type": "on",
         "targetWord": "毛筆",
-        "sentenceWithRuby": "毛筆[もうひつ]で かく。",
+        "sentenceWithRuby": "毛[もう]筆[ひつ]で かく。",
         "sentenceHiragana": "もうひつで かく。"
       }
     ]
@@ -7932,7 +7932,7 @@
         "reading": "ヒョウ",
         "type": "on",
         "targetWord": "氷山",
-        "sentenceWithRuby": "氷山[ひょうざん]が みえる。",
+        "sentenceWithRuby": "氷[ひょう]山[ざん]が みえる。",
         "sentenceHiragana": "ひょうざんが みえる。"
       },
       {
@@ -7972,7 +7972,7 @@
         "reading": "ヒョウ",
         "type": "on",
         "targetWord": "表現",
-        "sentenceWithRuby": "表現[ひょうげん]が ゆたかだ。",
+        "sentenceWithRuby": "表[ひょう]現[げん]が ゆたかだ。",
         "sentenceHiragana": "ひょうげんが ゆたかだ。"
       },
       {
@@ -7981,7 +7981,7 @@
         "reading": "ヒョウ",
         "type": "on",
         "targetWord": "時刻表",
-        "sentenceWithRuby": "時刻表[じこくひょう]を みる。",
+        "sentenceWithRuby": "時[じ]刻[こ]表[くひょう]を みる。",
         "sentenceHiragana": "じこくひょうを みる。"
       },
       {
@@ -7990,7 +7990,7 @@
         "reading": "ヒョウ",
         "type": "on",
         "targetWord": "表示",
-        "sentenceWithRuby": "表示[ひょうじ]を よむ。",
+        "sentenceWithRuby": "表[ひょ]示[うじ]を よむ。",
         "sentenceHiragana": "ひょうじを よむ。"
       }
     ]
@@ -8005,7 +8005,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "十秒",
-        "sentenceWithRuby": "十秒[じゅうびょう]で はしる。",
+        "sentenceWithRuby": "十[じゅう]秒[びょう]で はしる。",
         "sentenceHiragana": "じゅうびょうで はしる。"
       },
       {
@@ -8014,7 +8014,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "秒針",
-        "sentenceWithRuby": "秒針[びょうしん]が うごく。",
+        "sentenceWithRuby": "秒[びょう]針[しん]が うごく。",
         "sentenceHiragana": "びょうしんが うごく。"
       },
       {
@@ -8023,7 +8023,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "一秒",
-        "sentenceWithRuby": "一秒[いちびょう]を かぞえる。",
+        "sentenceWithRuby": "一[いち]秒[びょう]を かぞえる。",
         "sentenceHiragana": "いちびょうを かぞえる。"
       },
       {
@@ -8032,7 +8032,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "五秒",
-        "sentenceWithRuby": "五秒[ごびょう]まえに スタートする。",
+        "sentenceWithRuby": "五[ご]秒[びょう]まえに スタートする。",
         "sentenceHiragana": "ごびょうまえに すたーとする。"
       },
       {
@@ -8041,7 +8041,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "三十秒",
-        "sentenceWithRuby": "三十秒[さんじゅうびょう]で おわる。",
+        "sentenceWithRuby": "三[さん]十[じゅう]秒[びょう]で おわる。",
         "sentenceHiragana": "さんじゅうびょうで おわる。"
       }
     ]
@@ -8064,7 +8064,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "病気",
-        "sentenceWithRuby": "病気[びょうき]が なおる。",
+        "sentenceWithRuby": "病[びょ]気[うき]が なおる。",
         "sentenceHiragana": "びょうきが なおる。"
       },
       {
@@ -8073,7 +8073,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "病院",
-        "sentenceWithRuby": "病院[びょういん]に いく。",
+        "sentenceWithRuby": "病[びょう]院[いん]に いく。",
         "sentenceHiragana": "びょういんに いく。"
       },
       {
@@ -8082,7 +8082,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "病室",
-        "sentenceWithRuby": "病室[びょうしつ]で やすむ。",
+        "sentenceWithRuby": "病[びょう]室[しつ]で やすむ。",
         "sentenceHiragana": "びょうしつで やすむ。"
       },
       {
@@ -8091,7 +8091,7 @@
         "reading": "ビョウ",
         "type": "on",
         "targetWord": "重病",
-        "sentenceWithRuby": "重病[じゅうびょう]から かいふくする。",
+        "sentenceWithRuby": "重[じゅう]病[びょう]から かいふくする。",
         "sentenceHiragana": "じゅうびょうから かいふくする。"
       }
     ]
@@ -8114,7 +8114,7 @@
         "reading": "ヒン",
         "type": "on",
         "targetWord": "食品",
-        "sentenceWithRuby": "食品[しょくひん]を かう。",
+        "sentenceWithRuby": "食[しょく]品[ひん]を かう。",
         "sentenceHiragana": "しょくひんを かう。"
       },
       {
@@ -8123,7 +8123,7 @@
         "reading": "ヒン",
         "type": "on",
         "targetWord": "作品",
-        "sentenceWithRuby": "作品[さくひん]を つくる。",
+        "sentenceWithRuby": "作[さく]品[ひん]を つくる。",
         "sentenceHiragana": "さくひんを つくる。"
       },
       {
@@ -8132,7 +8132,7 @@
         "reading": "しなもの",
         "type": "kun",
         "targetWord": "品物",
-        "sentenceWithRuby": "品物[しなもの]が とどく。",
+        "sentenceWithRuby": "品[しな]物[もの]が とどく。",
         "sentenceHiragana": "しなものが とどく。"
       },
       {
@@ -8141,7 +8141,7 @@
         "reading": "ヒン",
         "type": "on",
         "targetWord": "部品",
-        "sentenceWithRuby": "部品[ぶひん]を くみたてる。",
+        "sentenceWithRuby": "部[ぶ]品[ひん]を くみたてる。",
         "sentenceHiragana": "ぶひんを くみたてる。"
       }
     ]
@@ -8172,7 +8172,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "勝負",
-        "sentenceWithRuby": "勝負[しょうぶ]に かつ。",
+        "sentenceWithRuby": "勝[しょ]負[うぶ]に かつ。",
         "sentenceHiragana": "しょうぶに かつ。"
       },
       {
@@ -8190,7 +8190,7 @@
         "reading": "フ",
         "type": "on",
         "targetWord": "負担",
-        "sentenceWithRuby": "負担[ふたん]を へらす。",
+        "sentenceWithRuby": "負[ふ]担[たん]を へらす。",
         "sentenceHiragana": "ふたんを へらす。"
       }
     ]
@@ -8205,7 +8205,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "野球部",
-        "sentenceWithRuby": "野球部[やきゅうぶ]に はいる。",
+        "sentenceWithRuby": "野[や]球[きゅ]部[うぶ]に はいる。",
         "sentenceHiragana": "やきゅうぶに はいる。"
       },
       {
@@ -8214,7 +8214,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "部長",
-        "sentenceWithRuby": "部長[ぶちょう]に あいさつする。",
+        "sentenceWithRuby": "部[ぶ]長[ちょう]に あいさつする。",
         "sentenceHiragana": "ぶちょうに あいさつする。"
       },
       {
@@ -8223,7 +8223,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "全部",
-        "sentenceWithRuby": "全部[ぜんぶ]の ページを よむ。",
+        "sentenceWithRuby": "全[ぜ]部[んぶ]の ページを よむ。",
         "sentenceHiragana": "ぜんぶの ぺーじを よむ。"
       },
       {
@@ -8232,7 +8232,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "部分",
-        "sentenceWithRuby": "部分[ぶぶん]を なおす。",
+        "sentenceWithRuby": "部[ぶ]分[ぶん]を なおす。",
         "sentenceHiragana": "ぶぶんを なおす。"
       },
       {
@@ -8241,7 +8241,7 @@
         "reading": "ブ",
         "type": "on",
         "targetWord": "部員",
-        "sentenceWithRuby": "部員[ぶいん]が あつまる。",
+        "sentenceWithRuby": "部[ぶ]員[いん]が あつまる。",
         "sentenceHiragana": "ぶいんが あつまる。"
       }
     ]
@@ -8265,7 +8265,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "洋服",
-        "sentenceWithRuby": "洋服[ようふく]を えらぶ。",
+        "sentenceWithRuby": "洋[よう]服[ふく]を えらぶ。",
         "sentenceHiragana": "ようふくを えらぶ。"
       },
       {
@@ -8274,7 +8274,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "制服",
-        "sentenceWithRuby": "制服[せいふく]を きて いく。",
+        "sentenceWithRuby": "制[せい]服[ふく]を きて いく。",
         "sentenceHiragana": "せいふくを きて いく。"
       },
       {
@@ -8283,7 +8283,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "服装",
-        "sentenceWithRuby": "服装[ふくそう]を ととのえる。",
+        "sentenceWithRuby": "服[ふく]装[そう]を ととのえる。",
         "sentenceHiragana": "ふくそうを ととのえる。"
       },
       {
@@ -8292,7 +8292,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "和服",
-        "sentenceWithRuby": "和服[わふく]を きて でかける。",
+        "sentenceWithRuby": "和[わ]服[ふく]を きて でかける。",
         "sentenceHiragana": "わふくを きて でかける。"
       }
     ]
@@ -8307,7 +8307,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "幸福",
-        "sentenceWithRuby": "幸福[こうふく]な きもちに なる。",
+        "sentenceWithRuby": "幸[こう]福[ふく]な きもちに なる。",
         "sentenceHiragana": "こうふくな きもちに なる。"
       },
       {
@@ -8316,7 +8316,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "福引",
-        "sentenceWithRuby": "福引[ふくびき]で あたる。",
+        "sentenceWithRuby": "福[ふく]引[びき]で あたる。",
         "sentenceHiragana": "ふくびきで あたる。"
       },
       {
@@ -8325,7 +8325,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "祝福",
-        "sentenceWithRuby": "祝福[しゅくふく]の ことばを おくる。",
+        "sentenceWithRuby": "祝[しゅく]福[ふく]の ことばを おくる。",
         "sentenceHiragana": "しゅくふくの ことばを おくる。"
       },
       {
@@ -8334,7 +8334,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "福祉",
-        "sentenceWithRuby": "福祉[ふくし]の しごとを する。",
+        "sentenceWithRuby": "福[ふ]祉[くし]の しごとを する。",
         "sentenceHiragana": "ふくしの しごとを する。"
       },
       {
@@ -8343,7 +8343,7 @@
         "reading": "フク",
         "type": "on",
         "targetWord": "七福神",
-        "sentenceWithRuby": "七福神[しちふくじん]を まつる。",
+        "sentenceWithRuby": "七[しち]福[ふく]神[じん]を まつる。",
         "sentenceHiragana": "しちふくじんを まつる。"
       }
     ]
@@ -8375,7 +8375,7 @@
         "reading": "ブツ",
         "type": "on",
         "targetWord": "動物園",
-        "sentenceWithRuby": "動物園[どうぶつえん]に いく。",
+        "sentenceWithRuby": "動[どう]物[ぶつ]園[えん]に いく。",
         "sentenceHiragana": "どうぶつえんに いく。"
       },
       {
@@ -8393,7 +8393,7 @@
         "reading": "モツ",
         "type": "on",
         "targetWord": "荷物",
-        "sentenceWithRuby": "荷物[にもつ]を はこぶ。",
+        "sentenceWithRuby": "荷[に]物[もつ]を はこぶ。",
         "sentenceHiragana": "にもつを はこぶ。"
       }
     ]
@@ -8424,7 +8424,7 @@
         "reading": "ヘイ",
         "type": "on",
         "targetWord": "平和",
-        "sentenceWithRuby": "平和[へいわ]な せかいを ねがう。",
+        "sentenceWithRuby": "平[へ]和[いわ]な せかいを ねがう。",
         "sentenceHiragana": "へいわな せかいを ねがう。"
       },
       {
@@ -8433,7 +8433,7 @@
         "reading": "ヘイ",
         "type": "on",
         "targetWord": "水平線",
-        "sentenceWithRuby": "水平線[すいへいせん]が みえる。",
+        "sentenceWithRuby": "水[すい]平[へい]線[せん]が みえる。",
         "sentenceHiragana": "すいへいせんが みえる。"
       },
       {
@@ -8442,7 +8442,7 @@
         "reading": "ひら",
         "type": "kun",
         "targetWord": "平仮名",
-        "sentenceWithRuby": "平仮名[ひらがな]を かく。",
+        "sentenceWithRuby": "平[ひ]仮[ら]名[がな]を かく。",
         "sentenceHiragana": "ひらがなを かく。"
       }
     ]
@@ -8473,7 +8473,7 @@
         "reading": "ヘン",
         "type": "on",
         "targetWord": "返事",
-        "sentenceWithRuby": "返事[へんじ]を する。",
+        "sentenceWithRuby": "返[へ]事[んじ]を する。",
         "sentenceHiragana": "へんじを する。"
       },
       {
@@ -8505,7 +8505,7 @@
         "reading": "ベン",
         "type": "on",
         "targetWord": "勉強",
-        "sentenceWithRuby": "勉強[べんきょう]を する。",
+        "sentenceWithRuby": "勉[べん]強[きょう]を する。",
         "sentenceHiragana": "べんきょうを する。"
       },
       {
@@ -8514,7 +8514,7 @@
         "reading": "ベン",
         "type": "on",
         "targetWord": "勉強",
-        "sentenceWithRuby": "まいにち 勉強[べんきょう]する。",
+        "sentenceWithRuby": "まいにち 勉[べん]強[きょう]する。",
         "sentenceHiragana": "まいにち べんきょうする。"
       },
       {
@@ -8523,7 +8523,7 @@
         "reading": "ベン",
         "type": "on",
         "targetWord": "勉強",
-        "sentenceWithRuby": "さんすうを 勉強[べんきょう]する。",
+        "sentenceWithRuby": "さんすうを 勉[べん]強[きょう]する。",
         "sentenceHiragana": "さんすうを べんきょうする。"
       },
       {
@@ -8532,7 +8532,7 @@
         "reading": "ベン",
         "type": "on",
         "targetWord": "勉強会",
-        "sentenceWithRuby": "勉強会[べんきょうかい]に いく。",
+        "sentenceWithRuby": "勉[べん]強[きょう]会[かい]に いく。",
         "sentenceHiragana": "べんきょうかいに いく。"
       },
       {
@@ -8541,7 +8541,7 @@
         "reading": "ベン",
         "type": "on",
         "targetWord": "勉強",
-        "sentenceWithRuby": "かんじを 勉強[べんきょう]する。",
+        "sentenceWithRuby": "かんじを 勉[べん]強[きょう]する。",
         "sentenceHiragana": "かんじを べんきょうする。"
       }
     ]
@@ -8572,7 +8572,7 @@
         "reading": "ホウ",
         "type": "on",
         "targetWord": "放送",
-        "sentenceWithRuby": "放送[ほうそう]を きく。",
+        "sentenceWithRuby": "放[ほう]送[そう]を きく。",
         "sentenceHiragana": "ほうそうを きく。"
       },
       {
@@ -8581,7 +8581,7 @@
         "reading": "ホウ",
         "type": "on",
         "targetWord": "放課後",
-        "sentenceWithRuby": "放課後[ほうかご]に あそぶ。",
+        "sentenceWithRuby": "放[ほ]課[う]後[かご]に あそぶ。",
         "sentenceHiragana": "ほうかごに あそぶ。"
       },
       {
@@ -8628,7 +8628,7 @@
         "reading": "ミ",
         "type": "on",
         "targetWord": "意味",
-        "sentenceWithRuby": "意味[いみ]が わかる。",
+        "sentenceWithRuby": "意[い]味[み]が わかる。",
         "sentenceHiragana": "いみが わかる。"
       },
       {
@@ -8637,7 +8637,7 @@
         "reading": "ミ",
         "type": "on",
         "targetWord": "興味",
-        "sentenceWithRuby": "興味[きょうみ]が ある。",
+        "sentenceWithRuby": "興[きょ]味[うみ]が ある。",
         "sentenceHiragana": "きょうみが ある。"
       }
     ]
@@ -8668,7 +8668,7 @@
         "reading": "メイ",
         "type": "on",
         "targetWord": "生命",
-        "sentenceWithRuby": "生命[せいめい]の ふしぎを まなぶ。",
+        "sentenceWithRuby": "生[せい]命[めい]の ふしぎを まなぶ。",
         "sentenceHiragana": "せいめいの ふしぎを まなぶ。"
       },
       {
@@ -8685,7 +8685,7 @@
         "reading": "メイ",
         "type": "on",
         "targetWord": "人命",
-        "sentenceWithRuby": "人命[じんめい]を まもる。",
+        "sentenceWithRuby": "人[じん]命[めい]を まもる。",
         "sentenceHiragana": "じんめいを まもる。"
       }
     ]
@@ -8709,7 +8709,7 @@
         "reading": "メン",
         "type": "on",
         "targetWord": "面積",
-        "sentenceWithRuby": "面積[めんせき]を はかる。",
+        "sentenceWithRuby": "面[めん]積[せき]を はかる。",
         "sentenceHiragana": "めんせきを はかる。"
       },
       {
@@ -8727,7 +8727,7 @@
         "reading": "メン",
         "type": "on",
         "targetWord": "地面",
-        "sentenceWithRuby": "地面[じめん]に おちる。",
+        "sentenceWithRuby": "地[じ]面[めん]に おちる。",
         "sentenceHiragana": "じめんに おちる。"
       },
       {
@@ -8736,7 +8736,7 @@
         "reading": "メン",
         "type": "on",
         "targetWord": "場面",
-        "sentenceWithRuby": "おもしろい 場面[ばめん]だ。",
+        "sentenceWithRuby": "おもしろい 場[ば]面[めん]だ。",
         "sentenceHiragana": "おもしろい ばめんだ。"
       }
     ]
@@ -8759,7 +8759,7 @@
         "reading": "モン",
         "type": "on",
         "targetWord": "質問",
-        "sentenceWithRuby": "質問[しつもん]を する。",
+        "sentenceWithRuby": "質[しつ]問[もん]を する。",
         "sentenceHiragana": "しつもんを する。"
       },
       {
@@ -8768,7 +8768,7 @@
         "reading": "モン",
         "type": "on",
         "targetWord": "問題",
-        "sentenceWithRuby": "問題[もんだい]を とく。",
+        "sentenceWithRuby": "問[もん]題[だい]を とく。",
         "sentenceHiragana": "もんだいを とく。"
       },
       {
@@ -8777,7 +8777,7 @@
         "reading": "モン",
         "type": "on",
         "targetWord": "学問",
-        "sentenceWithRuby": "学問[がくもん]を する。",
+        "sentenceWithRuby": "学[がく]問[もん]を する。",
         "sentenceHiragana": "がくもんを する。"
       },
       {
@@ -8810,7 +8810,7 @@
         "reading": "ヤク",
         "type": "on",
         "targetWord": "主役",
-        "sentenceWithRuby": "主役[しゅやく]を やる。",
+        "sentenceWithRuby": "主[しゅ]役[やく]を やる。",
         "sentenceHiragana": "しゅやくを やる。"
       },
       {
@@ -8819,7 +8819,7 @@
         "reading": "ヤク",
         "type": "on",
         "targetWord": "役割",
-        "sentenceWithRuby": "役割[やくわり]を きめる。",
+        "sentenceWithRuby": "役[やく]割[わり]を きめる。",
         "sentenceHiragana": "やくわりを きめる。"
       },
       {
@@ -8828,7 +8828,7 @@
         "reading": "ヤク",
         "type": "on",
         "targetWord": "役所",
-        "sentenceWithRuby": "役所[やくしょ]に いく。",
+        "sentenceWithRuby": "役[や]所[くしょ]に いく。",
         "sentenceHiragana": "やくしょに いく。"
       },
       {
@@ -8837,7 +8837,7 @@
         "reading": "ヤク",
         "type": "on",
         "targetWord": "役目",
-        "sentenceWithRuby": "おおきな 役目[やくめ]が ある。",
+        "sentenceWithRuby": "おおきな 役[や]目[くめ]が ある。",
         "sentenceHiragana": "おおきな やくめが ある。"
       }
     ]
@@ -8868,7 +8868,7 @@
         "reading": "ヤク",
         "type": "on",
         "targetWord": "薬局",
-        "sentenceWithRuby": "薬局[やっきょく]に いく。",
+        "sentenceWithRuby": "薬[やっ]局[きょく]に いく。",
         "sentenceHiragana": "やっきょくに いく。"
       },
       {
@@ -8877,7 +8877,7 @@
         "reading": "ぐすり",
         "type": "kun",
         "targetWord": "目薬",
-        "sentenceWithRuby": "目薬[めぐすり]を さす。",
+        "sentenceWithRuby": "目[めぐ]薬[すり]を さす。",
         "sentenceHiragana": "めぐすりを さす。"
       },
       {
@@ -8886,7 +8886,7 @@
         "reading": "くすり",
         "type": "kun",
         "targetWord": "薬箱",
-        "sentenceWithRuby": "薬箱[くすりばこ]を あける。",
+        "sentenceWithRuby": "薬[くすり]箱[ばこ]を あける。",
         "sentenceHiragana": "くすりばこを あける。"
       }
     ]
@@ -8901,7 +8901,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "理由",
-        "sentenceWithRuby": "理由[りゆう]を きく。",
+        "sentenceWithRuby": "理[り]由[ゆう]を きく。",
         "sentenceHiragana": "りゆうを きく。"
       },
       {
@@ -8910,7 +8910,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "自由",
-        "sentenceWithRuby": "自由[じゆう]に あそぶ。",
+        "sentenceWithRuby": "自[じ]由[ゆう]に あそぶ。",
         "sentenceHiragana": "じゆうに あそぶ。"
       },
       {
@@ -8919,7 +8919,7 @@
         "reading": "ユ",
         "type": "on",
         "targetWord": "経由地",
-        "sentenceWithRuby": "経由地[けいゆち]を とおる。",
+        "sentenceWithRuby": "経[け]由[い]地[ゆち]を とおる。",
         "sentenceHiragana": "けいゆちを とおる。"
       },
       {
@@ -8928,7 +8928,7 @@
         "reading": "ユ",
         "type": "on",
         "targetWord": "由来",
-        "sentenceWithRuby": "由来[ゆらい]を しらべる。",
+        "sentenceWithRuby": "由[ゆ]来[らい]を しらべる。",
         "sentenceHiragana": "ゆらいを しらべる。"
       },
       {
@@ -8937,7 +8937,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "自由研究",
-        "sentenceWithRuby": "自由研究[じゆうけんきゅう]を する。",
+        "sentenceWithRuby": "自[じ]由[ゆ]研[うけ]究[んきゅう]を する。",
         "sentenceHiragana": "じゆうけんきゅうを する。"
       }
     ]
@@ -8968,7 +8968,7 @@
         "reading": "ユ",
         "type": "on",
         "targetWord": "石油",
-        "sentenceWithRuby": "石油[せきゆ]ストーブを つかう。",
+        "sentenceWithRuby": "石[せ]油[きゆ]ストーブを つかう。",
         "sentenceHiragana": "せきゆストーブを つかう。"
       },
       {
@@ -8977,7 +8977,7 @@
         "reading": "ユ",
         "type": "on",
         "targetWord": "醤油",
-        "sentenceWithRuby": "醤油[しょうゆ]を かける。",
+        "sentenceWithRuby": "醤[しょ]油[うゆ]を かける。",
         "sentenceHiragana": "しょうゆを かける。"
       },
       {
@@ -9000,7 +9000,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "有名",
-        "sentenceWithRuby": "有名[ゆうめい]な やまだ。",
+        "sentenceWithRuby": "有[ゆう]名[めい]な やまだ。",
         "sentenceHiragana": "ゆうめいな やまだ。"
       },
       {
@@ -9009,7 +9009,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "所有者",
-        "sentenceWithRuby": "所有者[しょゆうしゃ]を しらべる。",
+        "sentenceWithRuby": "所[しょ]有[ゆ]者[うしゃ]を しらべる。",
         "sentenceHiragana": "しょゆうしゃを しらべる。"
       },
       {
@@ -9018,7 +9018,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "有利",
-        "sentenceWithRuby": "有利[ゆうり]な じょうけんだ。",
+        "sentenceWithRuby": "有[ゆ]利[うり]な じょうけんだ。",
         "sentenceHiragana": "ゆうりな じょうけんだ。"
       },
       {
@@ -9027,7 +9027,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "有効期限",
-        "sentenceWithRuby": "有効期限[ゆうこうきげん]を たしかめる。",
+        "sentenceWithRuby": "有[ゆ]効[う]期[こう]限[きげん]を たしかめる。",
         "sentenceHiragana": "ゆうこうきげんを たしかめる。"
       },
       {
@@ -9036,7 +9036,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "有害",
-        "sentenceWithRuby": "有害[ゆうがい]な ものを すてる。",
+        "sentenceWithRuby": "有[ゆう]害[がい]な ものを すてる。",
         "sentenceHiragana": "ゆうがいな ものを すてる。"
       }
     ]
@@ -9067,7 +9067,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "遊園地",
-        "sentenceWithRuby": "遊園地[ゆうえんち]に いく。",
+        "sentenceWithRuby": "遊[ゆ]園[う]地[えんち]に いく。",
         "sentenceHiragana": "ゆうえんちに いく。"
       },
       {
@@ -9085,7 +9085,7 @@
         "reading": "ユウ",
         "type": "on",
         "targetWord": "遊戯室",
-        "sentenceWithRuby": "遊戯室[ゆうぎしつ]で あそぶ。",
+        "sentenceWithRuby": "遊[ゆ]戯[う]室[ぎしつ]で あそぶ。",
         "sentenceHiragana": "ゆうぎしつで あそぶ。"
       }
     ]
@@ -9100,7 +9100,7 @@
         "reading": "ヨ",
         "type": "on",
         "targetWord": "予定",
-        "sentenceWithRuby": "予定[よてい]を たてる。",
+        "sentenceWithRuby": "予[よ]定[てい]を たてる。",
         "sentenceHiragana": "よていを たてる。"
       },
       {
@@ -9109,7 +9109,7 @@
         "reading": "ヨ",
         "type": "on",
         "targetWord": "予習",
-        "sentenceWithRuby": "予習[よしゅう]を する。",
+        "sentenceWithRuby": "予[よ]習[しゅう]を する。",
         "sentenceHiragana": "よしゅうを する。"
       },
       {
@@ -9118,7 +9118,7 @@
         "reading": "ヨ",
         "type": "on",
         "targetWord": "天気予報",
-        "sentenceWithRuby": "天気予報[てんきよほう]を みる。",
+        "sentenceWithRuby": "天[てん]気[き]予[よ]報[ほう]を みる。",
         "sentenceHiragana": "てんきよほうを みる。"
       },
       {
@@ -9127,7 +9127,7 @@
         "reading": "ヨ",
         "type": "on",
         "targetWord": "予約",
-        "sentenceWithRuby": "予約[よやく]を する。",
+        "sentenceWithRuby": "予[よ]約[やく]を する。",
         "sentenceHiragana": "よやくを する。"
       },
       {
@@ -9136,7 +9136,7 @@
         "reading": "ヨ",
         "type": "on",
         "targetWord": "予想",
-        "sentenceWithRuby": "予想[よそう]が あたった。",
+        "sentenceWithRuby": "予[よ]想[そう]が あたった。",
         "sentenceHiragana": "よそうが あたった。"
       }
     ]
@@ -9167,7 +9167,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "羊毛",
-        "sentenceWithRuby": "羊毛[ようもう]の セーターを きる。",
+        "sentenceWithRuby": "羊[よう]毛[もう]の セーターを きる。",
         "sentenceHiragana": "ようもうの セーターを きる。"
       },
       {
@@ -9184,7 +9184,7 @@
         "reading": "ひつじ",
         "type": "kun",
         "targetWord": "子羊",
-        "sentenceWithRuby": "子羊[こひつじ]が うまれた。",
+        "sentenceWithRuby": "子[こひ]羊[つじ]が うまれた。",
         "sentenceHiragana": "こひつじが うまれた。"
       }
     ]
@@ -9199,7 +9199,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "太平洋",
-        "sentenceWithRuby": "太平洋[たいへいよう]を わたる。",
+        "sentenceWithRuby": "太[たい]平[へい]洋[よう]を わたる。",
         "sentenceHiragana": "たいへいようを わたる。"
       },
       {
@@ -9208,7 +9208,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "洋服",
-        "sentenceWithRuby": "洋服[ようふく]を きる。",
+        "sentenceWithRuby": "洋[よう]服[ふく]を きる。",
         "sentenceHiragana": "ようふくを きる。"
       },
       {
@@ -9217,7 +9217,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "西洋",
-        "sentenceWithRuby": "西洋[せいよう]の えを みる。",
+        "sentenceWithRuby": "西[せい]洋[よう]の えを みる。",
         "sentenceHiragana": "せいようの えを みる。"
       },
       {
@@ -9226,7 +9226,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "洋室",
-        "sentenceWithRuby": "洋室[ようしつ]に はいる。",
+        "sentenceWithRuby": "洋[よう]室[しつ]に はいる。",
         "sentenceHiragana": "ようしつに はいる。"
       },
       {
@@ -9235,7 +9235,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "洋食",
-        "sentenceWithRuby": "洋食[ようしょく]を たべる。",
+        "sentenceWithRuby": "洋[よう]食[しょく]を たべる。",
         "sentenceHiragana": "ようしょくを たべる。"
       }
     ]
@@ -9266,7 +9266,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "紅葉",
-        "sentenceWithRuby": "紅葉[こうよう]が きれいだ。",
+        "sentenceWithRuby": "紅[こう]葉[よう]が きれいだ。",
         "sentenceHiragana": "こうようが きれいだ。"
       },
       {
@@ -9275,7 +9275,7 @@
         "reading": "ば",
         "type": "kun",
         "targetWord": "言葉",
-        "sentenceWithRuby": "言葉[ことば]を おぼえる。",
+        "sentenceWithRuby": "言[こ]葉[とば]を おぼえる。",
         "sentenceHiragana": "ことばを おぼえる。"
       },
       {
@@ -9284,7 +9284,7 @@
         "reading": "ば",
         "type": "kun",
         "targetWord": "若葉",
-        "sentenceWithRuby": "若葉[わかば]が でてきた。",
+        "sentenceWithRuby": "若[わ]葉[かば]が でてきた。",
         "sentenceHiragana": "わかばが でてきた。"
       }
     ]
@@ -9299,7 +9299,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "太陽",
-        "sentenceWithRuby": "太陽[たいよう]が のぼる。",
+        "sentenceWithRuby": "太[たい]陽[よう]が のぼる。",
         "sentenceHiragana": "たいようが のぼる。"
       },
       {
@@ -9308,7 +9308,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "陽気",
-        "sentenceWithRuby": "陽気[ようき]な せいかくだ。",
+        "sentenceWithRuby": "陽[よ]気[うき]な せいかくだ。",
         "sentenceHiragana": "ようきな せいかくだ。"
       },
       {
@@ -9317,7 +9317,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "太陽",
-        "sentenceWithRuby": "太陽[たいよう]が しずむ。",
+        "sentenceWithRuby": "太[たい]陽[よう]が しずむ。",
         "sentenceHiragana": "たいようが しずむ。"
       },
       {
@@ -9326,7 +9326,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "太陽系",
-        "sentenceWithRuby": "太陽系[たいようけい]を まなぶ。",
+        "sentenceWithRuby": "太[たい]陽[よう]系[けい]を まなぶ。",
         "sentenceHiragana": "たいようけいを まなぶ。"
       },
       {
@@ -9335,7 +9335,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "夕陽",
-        "sentenceWithRuby": "夕陽[せきよう]が きれいだ。",
+        "sentenceWithRuby": "夕[せき]陽[よう]が きれいだ。",
         "sentenceHiragana": "せきようが きれいだ。"
       }
     ]
@@ -9367,7 +9367,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "様子",
-        "sentenceWithRuby": "様子[ようす]を みる。",
+        "sentenceWithRuby": "様[よ]子[うす]を みる。",
         "sentenceHiragana": "ようすを みる。"
       },
       {
@@ -9376,7 +9376,7 @@
         "reading": "ヨウ",
         "type": "on",
         "targetWord": "同様",
-        "sentenceWithRuby": "同様[どうよう]に やる。",
+        "sentenceWithRuby": "同[どう]様[よう]に やる。",
         "sentenceHiragana": "どうように やる。"
       },
       {
@@ -9416,7 +9416,7 @@
         "reading": "ラク",
         "type": "on",
         "targetWord": "落葉",
-        "sentenceWithRuby": "落葉[らくよう]の きせつだ。",
+        "sentenceWithRuby": "落[らく]葉[よう]の きせつだ。",
         "sentenceHiragana": "らくようの きせつだ。"
       },
       {
@@ -9433,7 +9433,7 @@
         "reading": "ラク",
         "type": "on",
         "targetWord": "落語",
-        "sentenceWithRuby": "落語[らくご]を きく。",
+        "sentenceWithRuby": "落[ら]語[くご]を きく。",
         "sentenceHiragana": "らくごを きく。"
       }
     ]
@@ -9464,7 +9464,7 @@
         "reading": "リュウ",
         "type": "on",
         "targetWord": "流行",
-        "sentenceWithRuby": "流行[りゅうこう]の ふくを きる。",
+        "sentenceWithRuby": "流[りゅう]行[こう]の ふくを きる。",
         "sentenceHiragana": "りゅうこうの ふくを きる。"
       },
       {
@@ -9481,7 +9481,7 @@
         "reading": "リュウ",
         "type": "on",
         "targetWord": "電流",
-        "sentenceWithRuby": "電流[でんりゅう]に ちゅういする。",
+        "sentenceWithRuby": "電[でん]流[りゅう]に ちゅういする。",
         "sentenceHiragana": "でんりゅうに ちゅういする。"
       }
     ]
@@ -9504,7 +9504,7 @@
         "reading": "リョ",
         "type": "on",
         "targetWord": "旅行",
-        "sentenceWithRuby": "旅行[りょこう]に いく。",
+        "sentenceWithRuby": "旅[りょ]行[こう]に いく。",
         "sentenceHiragana": "りょこうに いく。"
       },
       {
@@ -9513,7 +9513,7 @@
         "reading": "リョ",
         "type": "on",
         "targetWord": "旅館",
-        "sentenceWithRuby": "旅館[りょかん]に とまる。",
+        "sentenceWithRuby": "旅[りょ]館[かん]に とまる。",
         "sentenceHiragana": "りょかんに とまる。"
       },
       {
@@ -9530,7 +9530,7 @@
         "reading": "リョ",
         "type": "on",
         "targetWord": "旅費",
-        "sentenceWithRuby": "旅費[りょひ]を ためる。",
+        "sentenceWithRuby": "旅[りょ]費[ひ]を ためる。",
         "sentenceHiragana": "りょひを ためる。"
       }
     ]
@@ -9545,7 +9545,7 @@
         "reading": "リョウ",
         "type": "on",
         "targetWord": "両手",
-        "sentenceWithRuby": "両手[りょうて]を あげる。",
+        "sentenceWithRuby": "両[りょ]手[うて]を あげる。",
         "sentenceHiragana": "りょうてを あげる。"
       },
       {
@@ -9554,7 +9554,7 @@
         "reading": "リョウ",
         "type": "on",
         "targetWord": "両足",
-        "sentenceWithRuby": "両足[りょうあし]で とぶ。",
+        "sentenceWithRuby": "両[りょう]足[あし]で とぶ。",
         "sentenceHiragana": "りょうあしで とぶ。"
       },
       {
@@ -9563,7 +9563,7 @@
         "reading": "リョウ",
         "type": "on",
         "targetWord": "両方",
-        "sentenceWithRuby": "両方[りょうほう]とも すきだ。",
+        "sentenceWithRuby": "両[りょう]方[ほう]とも すきだ。",
         "sentenceHiragana": "りょうほうとも すきだ。"
       },
       {
@@ -9572,7 +9572,7 @@
         "reading": "リョウ",
         "type": "on",
         "targetWord": "両親",
-        "sentenceWithRuby": "両親[りょうしん]に あいさつする。",
+        "sentenceWithRuby": "両[りょう]親[しん]に あいさつする。",
         "sentenceHiragana": "りょうしんに あいさつする。"
       },
       {
@@ -9581,7 +9581,7 @@
         "reading": "リョウ",
         "type": "on",
         "targetWord": "両目",
-        "sentenceWithRuby": "両目[りょうめ]で みる。",
+        "sentenceWithRuby": "両[りょ]目[うめ]で みる。",
         "sentenceHiragana": "りょうめで みる。"
       }
     ]
@@ -9604,7 +9604,7 @@
         "reading": "リョク",
         "type": "on",
         "targetWord": "新緑",
-        "sentenceWithRuby": "新緑[しんりょく]が まぶしい。",
+        "sentenceWithRuby": "新[しん]緑[りょく]が まぶしい。",
         "sentenceHiragana": "しんりょくが まぶしい。"
       },
       {
@@ -9621,7 +9621,7 @@
         "reading": "リョク",
         "type": "on",
         "targetWord": "緑地",
-        "sentenceWithRuby": "緑地[りょくち]で あそぶ。",
+        "sentenceWithRuby": "緑[りょ]地[くち]で あそぶ。",
         "sentenceHiragana": "りょくちで あそぶ。"
       },
       {
@@ -9630,7 +9630,7 @@
         "reading": "リョク",
         "type": "on",
         "targetWord": "緑茶",
-        "sentenceWithRuby": "緑茶[りょくちゃ]を のむ。",
+        "sentenceWithRuby": "緑[りょ]茶[くちゃ]を のむ。",
         "sentenceHiragana": "りょくちゃを のむ。"
       }
     ]
@@ -9654,7 +9654,7 @@
         "reading": "レイ",
         "type": "on",
         "targetWord": "礼儀",
-        "sentenceWithRuby": "礼儀[れいぎ]を まもる。",
+        "sentenceWithRuby": "礼[れ]儀[いぎ]を まもる。",
         "sentenceHiragana": "れいぎを まもる。"
       },
       {
@@ -9663,7 +9663,7 @@
         "reading": "レイ",
         "type": "on",
         "targetWord": "失礼",
-        "sentenceWithRuby": "失礼[しつれい]します。",
+        "sentenceWithRuby": "失[しつ]礼[れい]します。",
         "sentenceHiragana": "しつれいします。"
       },
       {
@@ -9672,7 +9672,7 @@
         "reading": "レイ",
         "type": "on",
         "targetWord": "敬礼",
-        "sentenceWithRuby": "敬礼[けいれい]を する。",
+        "sentenceWithRuby": "敬[けい]礼[れい]を する。",
         "sentenceHiragana": "けいれいを する。"
       },
       {
@@ -9705,7 +9705,7 @@
         "reading": "レツ",
         "type": "on",
         "targetWord": "行列",
-        "sentenceWithRuby": "行列[ぎょうれつ]が できた。",
+        "sentenceWithRuby": "行[ぎょう]列[れつ]が できた。",
         "sentenceHiragana": "ぎょうれつが できた。"
       },
       {
@@ -9714,7 +9714,7 @@
         "reading": "レッ",
         "type": "on",
         "targetWord": "列車",
-        "sentenceWithRuby": "列車[れっしゃ]に のる。",
+        "sentenceWithRuby": "列[れ]車[っしゃ]に のる。",
         "sentenceHiragana": "れっしゃに のる。"
       },
       {
@@ -9723,7 +9723,7 @@
         "reading": "レツ",
         "type": "on",
         "targetWord": "整列",
-        "sentenceWithRuby": "整列[せいれつ]する。",
+        "sentenceWithRuby": "整[せい]列[れつ]する。",
         "sentenceHiragana": "せいれつする。"
       },
       {
@@ -9732,7 +9732,7 @@
         "reading": "レツ",
         "type": "on",
         "targetWord": "一列",
-        "sentenceWithRuby": "一列[いちれつ]に ならぶ。",
+        "sentenceWithRuby": "一[いち]列[れつ]に ならぶ。",
         "sentenceHiragana": "いちれつに ならぶ。"
       }
     ]
@@ -9755,7 +9755,7 @@
         "reading": "レン",
         "type": "on",
         "targetWord": "練習",
-        "sentenceWithRuby": "練習[れんしゅう]を する。",
+        "sentenceWithRuby": "練[れん]習[しゅう]を する。",
         "sentenceHiragana": "れんしゅうを する。"
       },
       {
@@ -9764,7 +9764,7 @@
         "reading": "レン",
         "type": "on",
         "targetWord": "訓練",
-        "sentenceWithRuby": "訓練[くんれん]を うける。",
+        "sentenceWithRuby": "訓[くん]練[れん]を うける。",
         "sentenceHiragana": "くんれんを うける。"
       },
       {
@@ -9773,7 +9773,7 @@
         "reading": "レン",
         "type": "on",
         "targetWord": "練習",
-        "sentenceWithRuby": "ピアノを 練習[れんしゅう]する。",
+        "sentenceWithRuby": "ピアノを 練[れん]習[しゅう]する。",
         "sentenceHiragana": "ぴあのを れんしゅうする。"
       },
       {
@@ -9782,7 +9782,7 @@
         "reading": "レン",
         "type": "on",
         "targetWord": "熟練",
-        "sentenceWithRuby": "熟練[じゅくれん]した うごきだ。",
+        "sentenceWithRuby": "熟[じゅく]練[れん]した うごきだ。",
         "sentenceHiragana": "じゅくれんした うごきだ。"
       }
     ]
@@ -9797,7 +9797,7 @@
         "reading": "ロ",
         "type": "on",
         "targetWord": "道路",
-        "sentenceWithRuby": "道路[どうろ]を わたる。",
+        "sentenceWithRuby": "道[ど]路[うろ]を わたる。",
         "sentenceHiragana": "どうろを わたる。"
       },
       {
@@ -9806,7 +9806,7 @@
         "reading": "ロ",
         "type": "on",
         "targetWord": "通路",
-        "sentenceWithRuby": "通路[つうろ]を あるく。",
+        "sentenceWithRuby": "通[つ]路[うろ]を あるく。",
         "sentenceHiragana": "つうろを あるく。"
       },
       {
@@ -9815,7 +9815,7 @@
         "reading": "ロ",
         "type": "on",
         "targetWord": "線路",
-        "sentenceWithRuby": "線路[せんろ]を みる。",
+        "sentenceWithRuby": "線[せ]路[んろ]を みる。",
         "sentenceHiragana": "せんろを みる。"
       },
       {
@@ -9824,7 +9824,7 @@
         "reading": "ロ",
         "type": "on",
         "targetWord": "路地",
-        "sentenceWithRuby": "路地[ろじ]を あるく。",
+        "sentenceWithRuby": "路[ろ]地[じ]を あるく。",
         "sentenceHiragana": "ろじを あるく。"
       },
       {
@@ -9833,7 +9833,7 @@
         "reading": "ロ",
         "type": "on",
         "targetWord": "進路",
-        "sentenceWithRuby": "進路[しんろ]を きめる。",
+        "sentenceWithRuby": "進[し]路[んろ]を きめる。",
         "sentenceHiragana": "しんろを きめる。"
       }
     ]
@@ -9856,7 +9856,7 @@
         "reading": "ワ",
         "type": "on",
         "targetWord": "平和",
-        "sentenceWithRuby": "平和[へいわ]な せかいを ねがう。",
+        "sentenceWithRuby": "平[へ]和[いわ]な せかいを ねがう。",
         "sentenceHiragana": "へいわな せかいを ねがう。"
       },
       {
@@ -9865,7 +9865,7 @@
         "reading": "ワ",
         "type": "on",
         "targetWord": "和室",
-        "sentenceWithRuby": "和室[わしつ]に すわる。",
+        "sentenceWithRuby": "和[わ]室[しつ]に すわる。",
         "sentenceHiragana": "わしつに すわる。"
       },
       {
@@ -9874,7 +9874,7 @@
         "reading": "ワ",
         "type": "on",
         "targetWord": "和服",
-        "sentenceWithRuby": "和服[わふく]を きる。",
+        "sentenceWithRuby": "和[わ]服[ふく]を きる。",
         "sentenceHiragana": "わふくを きる。"
       },
       {
@@ -9883,7 +9883,7 @@
         "reading": "ワ",
         "type": "on",
         "targetWord": "和食",
-        "sentenceWithRuby": "和食[わしょく]を たべる。",
+        "sentenceWithRuby": "和[わ]食[しょく]を たべる。",
         "sentenceHiragana": "わしょくを たべる。"
       }
     ]
