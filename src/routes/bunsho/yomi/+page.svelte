@@ -123,23 +123,49 @@
 		if (!currentExample) return;
 
 		const correct = currentExample.example.reading;
+		const correctStem = getStemReading(correct);
 
-		// targetWordがある場合は同じ漢字の他の例文から選択肢を取る
-		if (currentExample.example.targetWord) {
-			const sameKanjiReadings = currentExample.kanji.examples
-				.map(e => e.reading)
-				.filter(r => r !== correct);
-			const shuffled = [...new Set(sameKanjiReadings)].sort(() => Math.random() - 0.5);
-			const wrongChoices = shuffled.slice(0, 3);
-			choices = [correct, ...wrongChoices].sort(() => Math.random() - 0.5);
-		} else {
+		// 表示上の重複を避けるため、stemで管理
+		const usedStems = new Set<string>([correctStem]);
+		let wrongChoices: string[] = [];
+
+		// まず同じ漢字の他の読みから選択肢を取る
+		const sameKanjiReadings = currentExample.kanji.examples
+			.map(e => e.reading)
+			.filter(r => {
+				const stem = getStemReading(r);
+				if (usedStems.has(stem)) return false;
+				return true;
+			});
+
+		// シャッフルして重複なく追加
+		const shuffledSame = sameKanjiReadings.sort(() => Math.random() - 0.5);
+		for (const r of shuffledSame) {
+			if (wrongChoices.length >= 3) break;
+			const stem = getStemReading(r);
+			if (!usedStems.has(stem)) {
+				usedStems.add(stem);
+				wrongChoices.push(r);
+			}
+		}
+
+		// 3つに満たない場合、他の漢字の読みから補完
+		if (wrongChoices.length < 3) {
 			const allReadings = allExamples
 				.flatMap(k => k.examples.map(e => e.reading))
-				.filter(r => r !== correct);
-			const shuffled = [...new Set(allReadings)].sort(() => Math.random() - 0.5);
-			const wrongChoices = shuffled.slice(0, 3);
-			choices = [correct, ...wrongChoices].sort(() => Math.random() - 0.5);
+				.sort(() => Math.random() - 0.5);
+
+			for (const r of allReadings) {
+				if (wrongChoices.length >= 3) break;
+				const stem = getStemReading(r);
+				if (!usedStems.has(stem)) {
+					usedStems.add(stem);
+					wrongChoices.push(r);
+				}
+			}
 		}
+
+		choices = [correct, ...wrongChoices].sort(() => Math.random() - 0.5);
 	}
 
 	async function handleSelect(answer: string) {
@@ -223,7 +249,6 @@
 					<VerticalSentence
 						sentence={currentExample.example.sentence}
 						targetKanji={currentExample.kanji.character}
-						targetWord={currentExample.example.targetWord}
 					/>
 				</div>
 				<div class="flex-shrink-0 flex justify-center py-2">
@@ -240,7 +265,7 @@
 				<div class="mb-4 text-center">
 					<span class="inline-block rounded-full bg-yellow-100 px-4 py-2 text-xl font-bold text-yellow-700">
 						{#if currentExample.example.targetWord}
-							「{currentExample.example.targetWord}」の よみかたは？
+							「{currentExample.example.targetWord}」の「{currentExample.kanji.character}」の よみかたは？
 						{:else}
 							「{currentExample.kanji.character}」の よみかたは？
 						{/if}

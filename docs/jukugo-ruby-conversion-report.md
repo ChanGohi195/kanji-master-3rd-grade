@@ -253,7 +253,109 @@ const compoundDict = {
 
 ---
 
-## 7. 参考資料
+## 7. 追加修正：読み問題UIの不整合
+
+ルビ変換完了後の動作確認で、読み問題（`bunsho/yomi`）に複数の設計不整合が発見された。
+
+### 7.1 熟語の問い方とデータ構造の不整合
+
+**発見された問題**:
+```
+問い: 「七福神」の読みは？
+正解: 「フク」
+表示: 七・福・神 すべてに枠
+```
+
+ユーザーは熟語全体の読みを問われていると認識するが、正解は対象漢字（福）の読みのみ。
+
+**根本原因**:
+
+データ構造には「どの漢字を問うか」の情報が存在する（`character`フィールド）が、UIがそれを適切に表示していなかった。
+
+| フィールド | 値 | 役割 |
+|-----------|-----|------|
+| `character` | 福 | 学習対象の漢字 |
+| `targetWord` | 七福神 | 熟語全体 |
+| `reading` | フク | 対象漢字の読み |
+
+**修正内容**:
+
+1. 問いの文言を修正:
+```svelte
+// Before
+「{targetWord}」の よみかたは？
+
+// After
+「{targetWord}」の「{character}」の よみかたは？
+```
+
+2. 強調表示を対象漢字のみに限定:
+```svelte
+// Before: 熟語全体をハイライト
+<VerticalSentence targetWord={targetWord} ... />
+
+// After: 対象漢字のみハイライト
+<VerticalSentence targetKanji={character} ... />
+```
+
+### 7.2 選択肢の4択保証
+
+**発見された問題**:
+
+168件の漢字でユニーク読みが4未満のため、選択肢が2〜3択になるケースがあった。
+
+**修正内容**:
+
+同じ漢字の読みが不足する場合、他の漢字の読みから補完:
+
+```javascript
+// 3つに満たない場合、他の漢字の読みから補完
+if (wrongChoices.length < 3) {
+  const allReadings = allExamples.flatMap(k => k.examples.map(e => e.reading));
+  // ... 補完ロジック
+}
+```
+
+### 7.3 選択肢の表示上重複
+
+**発見された問題**:
+
+同じ選択肢が複数表示される。例:
+- `わる.い` と `わる.く` は異なる`reading`だが、表示上は両方「わる」
+- 同じ漢字に`アン`が5回出現し、選択肢に複数の「アン」が並ぶ
+
+**根本原因**:
+
+選択肢生成時は`reading`（送り仮名付き）で重複チェックしていたが、表示時は`getStemReading`で送り仮名を除去していた。
+
+**修正内容**:
+
+表示上の読み（送り仮名除去後）で重複チェック:
+
+```javascript
+const correctStem = getStemReading(correct);
+const usedStems = new Set<string>([correctStem]);
+
+for (const r of candidates) {
+  const stem = getStemReading(r);
+  if (!usedStems.has(stem)) {
+    usedStems.add(stem);
+    wrongChoices.push(r);
+  }
+}
+```
+
+### 7.4 教訓
+
+1. **データ構造とUIの整合性**: データに情報があっても、UIが適切に利用しなければ意味がない。設計時にUI側の表示要件を明確にすべき。
+
+2. **表示層と処理層の一貫性**: 表示時に変換（送り仮名除去）を行う場合、処理層（選択肢生成）でも同じ変換を適用して整合性を保つ。
+
+3. **エッジケースの網羅**: 「ユニーク読みが4未満の漢字」のような境界条件を事前に洗い出し、テストケースとして確保すべき。
+
+---
+
+## 8. 参考資料
 
 - [W3C Ruby Markup](https://www.w3.org/TR/ruby/)
 - [文化庁 常用漢字表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/)
@@ -262,5 +364,6 @@ const compoundDict = {
 ---
 
 **作成日**: 2026-02-02
+**更新日**: 2026-02-02（追加修正分を追記）
 **プロジェクト**: kanji-master-3rd-grade
-**バージョン**: v2.0
+**バージョン**: v2.1
