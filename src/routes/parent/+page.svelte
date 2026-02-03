@@ -11,16 +11,20 @@
 	let averageAccuracy = $state(0);
 	let totalStudyTime = $state(0);
 	let todayStudyTime = $state(0);
+	let totalKanji = $state(200);
 	let loading = $state(true);
 
 	onMount(async () => {
-		const [stats, counts, progressList, studyTime, todayStats] = await Promise.all([
+		const [stats, counts, progressList, studyTime, todayStats, kanjiRes] = await Promise.all([
 			getDailyStats(7),
 			getGrowthCounts(),
 			getAllProgress(),
 			getTotalStudyTime(),
-			getTodayStats()
+			getTodayStats(),
+			fetch('/data/kanji-g4.json')
 		]);
+		const kanjiList = await kanjiRes.json();
+		totalKanji = Array.isArray(kanjiList) ? kanjiList.length : 200;
 
 		totalStudyTime = studyTime;
 		todayStudyTime = todayStats.time;
@@ -115,7 +119,7 @@
 				<div class="space-y-3">
 					{#each [5, 4, 3, 2, 1, 0] as level}
 						{@const count = growthCounts[level as GrowthLevel]}
-						{@const percent = 80 > 0 ? (count / 80) * 100 : 0}
+						{@const percent = totalKanji > 0 ? (count / totalKanji) * 100 : 0}
 						<div class="flex items-center gap-3">
 							<span class="text-2xl">{getGrowthIcon(level as GrowthLevel)}</span>
 							<span class="w-24 text-sm text-gray-600">{getGrowthLabel(level as GrowthLevel)}</span>

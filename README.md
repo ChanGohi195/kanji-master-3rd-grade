@@ -1,38 +1,54 @@
-# sv
+# かんじマスター（4年生）
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+小学校4年生向けの漢字学習アプリです。  
+SvelteKit + TypeScript で構成され、ローカル学習記録は IndexedDB（Dexie）に保存します。
 
-## Creating a project
+## 主な機能
 
-If you're seeing this, you've probably already done this step. Congrats!
+- 文章モード（よみ / かき）
+- チャレンジモード（時間制）
+- 漢字図鑑（習熟度表示）
+- 検索（漢字・読み・熟語）
+- 保護者モード（週間統計、PIN）
+
+## 技術スタック
+
+- SvelteKit 2 / Svelte 5 / TypeScript
+- Tailwind CSS 4
+- Dexie（IndexedDB）
+
+## セットアップ
 
 ```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+npm install
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 開発
 
 ```sh
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## 型チェック
 
-To create a production version of your app:
+```sh
+npm run check
+```
+
+## ビルド
 
 ```sh
 npm run build
+npm run preview
 ```
 
-You can preview the production build with `npm run preview`.
+## データ配置
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- `static/data/kanji-g4.json`: 漢字マスターデータ
+- `static/data/examples.json`: 例文データ
+- `static/data/jukugo.json`: 熟語データ
+
+## 補足
+
+例文/熟語の生成・検証スクリプトは `scripts/` 配下にあります。  
+運用手順は `scripts/README.md` を参照してください。

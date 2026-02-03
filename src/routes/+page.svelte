@@ -9,7 +9,12 @@
 
 	onMount(async () => {
 		try {
-			const counts = await getGrowthCounts();
+			const [counts, kanjiRes] = await Promise.all([
+				getGrowthCounts(),
+				fetch('/data/kanji-g4.json')
+			]);
+			const kanjiList = await kanjiRes.json();
+			totalKanji = Array.isArray(kanjiList) ? kanjiList.length : 200;
 			const learned = Object.values(counts).reduce((a, b) => a + b, 0);
 			growthCounts = { ...counts, 0: totalKanji - learned };
 		} catch (e) {
@@ -104,8 +109,13 @@
 			</a>
 		</section>
 
-		<!-- 設定 -->
-		<section class="text-center">
+		<!-- 検索・設定 -->
+		<section class="flex justify-center gap-4">
+			<a href="/search"
+				class="inline-flex items-center gap-2 rounded-full bg-indigo-100 px-6 py-3 text-xl text-indigo-600
+					   hover:bg-indigo-200 transition-colors">
+				🔍 けんさく
+			</a>
 			<a href="/settings"
 				class="inline-flex items-center gap-2 rounded-full bg-gray-100 px-6 py-3 text-xl text-gray-600
 					   hover:bg-gray-200 transition-colors">
