@@ -2319,7 +2319,7 @@
       {
         "id": "U+8EFD-ex-4",
         "sentence": "手軽に できる。",
-        "reading": "かる",
+        "reading": "がる",
         "type": "kun",
         "targetWord": "手軽",
         "sentenceWithRuby": "手[て]軽[がる]に できる。",
@@ -2328,7 +2328,7 @@
       {
         "id": "U+8EFD-ex-5",
         "sentence": "気軽に さんかする。",
-        "reading": "かる",
+        "reading": "がる",
         "type": "kun",
         "targetWord": "気軽",
         "sentenceWithRuby": "気[き]軽[がる]に さんかする。",
@@ -9332,11 +9332,11 @@
       {
         "id": "U+967D-ex-5",
         "sentence": "夕陽が きれいだ。",
-        "reading": "ヨウ",
-        "type": "on",
+        "reading": "ひ",
+        "type": "kun",
         "targetWord": "夕陽",
-        "sentenceWithRuby": "夕[せき]陽[よう]が きれいだ。",
-        "sentenceHiragana": "せきようが きれいだ。"
+        "sentenceWithRuby": "夕[ゆう]陽[ひ]が きれいだ。",
+        "sentenceHiragana": "ゆうひが きれいだ。"
       }
     ]
   },
