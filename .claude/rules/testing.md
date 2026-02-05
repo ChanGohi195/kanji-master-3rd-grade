@@ -31,3 +31,9 @@ npm test -- --coverage
 src/lib/services/strokeValidator.ts
 src/lib/services/strokeValidator.test.ts
 ```
+
+## DOM依存の回避
+
+- `generateReferenceImage`等のDOM(Canvas API)依存関数はNode.jsテスト不可
+- **confidence値をゲート識別子として使う**: 各ゲートが固有のconfidence値を返す設計にし、テストでは「どのゲートが発火したか」を値で判別（0.1=ストローク数, 0.15=カバレッジ）
+- DOM到達前にrejectされるテスト入力を設計する（高カバレッジ画像→絶対カバレッジゲート等）

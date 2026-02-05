@@ -55,6 +55,7 @@
 	interface KanjiExample {
 		kanjiId: string;
 		character: string;
+		strokeCount: number;
 		examples: Example[];
 	}
 
@@ -249,7 +250,10 @@
 		isRecognizing = true;
 
 		const imageData = canvasRef.getImageForRecognition(64);
-		const result = recognizeKanji(imageData, currentQuestion.kanji.character);
+		const result = recognizeKanji(imageData, currentQuestion.kanji.character, {
+			userStrokeCount: canvasRef.getStrokeCount(),
+			expectedStrokeCount: currentQuestion.kanji.strokeCount
+		});
 
 		isRecognizing = false;
 		isCorrect = result.isCorrect;
@@ -499,7 +503,7 @@
 									<KanjiWriterComponent
 										bind:this={writerRef}
 										character={currentQuestion.kanji.character}
-										size={180}
+										size={240}
 										showOutline={true}
 										onComplete={handleQuizComplete}
 										onMistake={handleQuizMistake}
@@ -509,8 +513,8 @@
 								<!-- 手書き認識 -->
 								<WritingCanvas
 									bind:this={canvasRef}
-									width={180}
-									height={180}
+									width={240}
+									height={240}
 									strokeColor="#333"
 									strokeWidth={3}
 								/>

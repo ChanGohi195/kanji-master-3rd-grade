@@ -2,6 +2,7 @@
   {
     "kanjiId": "U+60AA",
     "character": "悪",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+60AA-ex-1",
@@ -51,6 +52,7 @@
   {
     "kanjiId": "U+5B89",
     "character": "安",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5B89-ex-1",
@@ -100,6 +102,7 @@
   {
     "kanjiId": "U+6697",
     "character": "暗",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+6697-ex-1",
@@ -149,6 +152,7 @@
   {
     "kanjiId": "U+533B",
     "character": "医",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+533B-ex-1",
@@ -200,6 +204,7 @@
   {
     "kanjiId": "U+59D4",
     "character": "委",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+59D4-ex-1",
@@ -250,6 +255,7 @@
   {
     "kanjiId": "U+610F",
     "character": "意",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+610F-ex-1",
@@ -301,6 +307,7 @@
   {
     "kanjiId": "U+80B2",
     "character": "育",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+80B2-ex-1",
@@ -349,6 +356,7 @@
   {
     "kanjiId": "U+54E1",
     "character": "員",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+54E1-ex-1",
@@ -400,6 +408,7 @@
   {
     "kanjiId": "U+9662",
     "character": "院",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+9662-ex-1",
@@ -451,6 +460,7 @@
   {
     "kanjiId": "U+98F2",
     "character": "飲",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+98F2-ex-1",
@@ -499,6 +509,7 @@
   {
     "kanjiId": "U+904B",
     "character": "運",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+904B-ex-1",
@@ -548,6 +559,7 @@
   {
     "kanjiId": "U+6CF3",
     "character": "泳",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6CF3-ex-1",
@@ -595,6 +607,7 @@
   {
     "kanjiId": "U+99C5",
     "character": "駅",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+99C5-ex-1",
@@ -644,6 +657,7 @@
   {
     "kanjiId": "U+592E",
     "character": "央",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+592E-ex-1",
@@ -695,6 +709,7 @@
   {
     "kanjiId": "U+6A2A",
     "character": "横",
+    "strokeCount": 15,
     "examples": [
       {
         "id": "U+6A2A-ex-1",
@@ -743,6 +758,7 @@
   {
     "kanjiId": "U+5C4B",
     "character": "屋",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+5C4B-ex-1",
@@ -794,6 +810,7 @@
   {
     "kanjiId": "U+6E29",
     "character": "温",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6E29-ex-1",
@@ -843,6 +860,7 @@
   {
     "kanjiId": "U+5316",
     "character": "化",
+    "strokeCount": 4,
     "examples": [
       {
         "id": "U+5316-ex-1",
@@ -892,6 +910,7 @@
   {
     "kanjiId": "U+8377",
     "character": "荷",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+8377-ex-1",
@@ -942,6 +961,7 @@
   {
     "kanjiId": "U+754C",
     "character": "界",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+754C-ex-1",
@@ -993,6 +1013,7 @@
   {
     "kanjiId": "U+958B",
     "character": "開",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+958B-ex-1",
@@ -1041,6 +1062,7 @@
   {
     "kanjiId": "U+968E",
     "character": "階",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+968E-ex-1",
@@ -1092,6 +1114,7 @@
   {
     "kanjiId": "U+5BD2",
     "character": "寒",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+5BD2-ex-1",
@@ -1141,6 +1164,7 @@
   {
     "kanjiId": "U+611F",
     "character": "感",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+611F-ex-1",
@@ -1192,6 +1216,7 @@
   {
     "kanjiId": "U+6F22",
     "character": "漢",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+6F22-ex-1",
@@ -1243,6 +1268,7 @@
   {
     "kanjiId": "U+9928",
     "character": "館",
+    "strokeCount": 16,
     "examples": [
       {
         "id": "U+9928-ex-1",
@@ -1294,6 +1320,7 @@
   {
     "kanjiId": "U+5CB8",
     "character": "岸",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5CB8-ex-1",
@@ -1343,6 +1370,7 @@
   {
     "kanjiId": "U+8D77",
     "character": "起",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+8D77-ex-1",
@@ -1391,6 +1419,7 @@
   {
     "kanjiId": "U+671F",
     "character": "期",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+671F-ex-1",
@@ -1442,6 +1471,7 @@
   {
     "kanjiId": "U+5BA2",
     "character": "客",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+5BA2-ex-1",
@@ -1493,6 +1523,7 @@
   {
     "kanjiId": "U+7A76",
     "character": "究",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+7A76-ex-1",
@@ -1543,6 +1574,7 @@
   {
     "kanjiId": "U+6025",
     "character": "急",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+6025-ex-1",
@@ -1592,6 +1624,7 @@
   {
     "kanjiId": "U+7403",
     "character": "球",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7403-ex-1",
@@ -1642,6 +1675,7 @@
   {
     "kanjiId": "U+5BAE",
     "character": "宮",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+5BAE-ex-1",
@@ -1692,6 +1726,7 @@
   {
     "kanjiId": "U+7D1A",
     "character": "級",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+7D1A-ex-1",
@@ -1743,6 +1778,7 @@
   {
     "kanjiId": "U+53BB",
     "character": "去",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+53BB-ex-1",
@@ -1792,6 +1828,7 @@
   {
     "kanjiId": "U+6A4B",
     "character": "橋",
+    "strokeCount": 16,
     "examples": [
       {
         "id": "U+6A4B-ex-1",
@@ -1841,6 +1878,7 @@
   {
     "kanjiId": "U+696D",
     "character": "業",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+696D-ex-1",
@@ -1892,6 +1930,7 @@
   {
     "kanjiId": "U+66F2",
     "character": "曲",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+66F2-ex-1",
@@ -1940,6 +1979,7 @@
   {
     "kanjiId": "U+5C40",
     "character": "局",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+5C40-ex-1",
@@ -1991,6 +2031,7 @@
   {
     "kanjiId": "U+9280",
     "character": "銀",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+9280-ex-1",
@@ -2042,6 +2083,7 @@
   {
     "kanjiId": "U+533A",
     "character": "区",
+    "strokeCount": 4,
     "examples": [
       {
         "id": "U+533A-ex-1",
@@ -2093,6 +2135,7 @@
   {
     "kanjiId": "U+82E6",
     "character": "苦",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+82E6-ex-1",
@@ -2141,6 +2184,7 @@
   {
     "kanjiId": "U+5177",
     "character": "具",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5177-ex-1",
@@ -2192,6 +2236,7 @@
   {
     "kanjiId": "U+541B",
     "character": "君",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+541B-ex-1",
@@ -2240,6 +2285,7 @@
   {
     "kanjiId": "U+4FC2",
     "character": "係",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+4FC2-ex-1",
@@ -2290,6 +2336,7 @@
   {
     "kanjiId": "U+8EFD",
     "character": "軽",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+8EFD-ex-1",
@@ -2339,6 +2386,7 @@
   {
     "kanjiId": "U+8840",
     "character": "血",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+8840-ex-1",
@@ -2388,6 +2436,7 @@
   {
     "kanjiId": "U+6C7A",
     "character": "決",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+6C7A-ex-1",
@@ -2436,6 +2485,7 @@
   {
     "kanjiId": "U+7814",
     "character": "研",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+7814-ex-1",
@@ -2485,6 +2535,7 @@
   {
     "kanjiId": "U+770C",
     "character": "県",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+770C-ex-1",
@@ -2534,6 +2585,7 @@
   {
     "kanjiId": "U+5EAB",
     "character": "庫",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+5EAB-ex-1",
@@ -2585,6 +2637,7 @@
   {
     "kanjiId": "U+6E56",
     "character": "湖",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6E56-ex-1",
@@ -2632,6 +2685,7 @@
   {
     "kanjiId": "U+5411",
     "character": "向",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5411-ex-1",
@@ -2680,6 +2734,7 @@
   {
     "kanjiId": "U+5E78",
     "character": "幸",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5E78-ex-1",
@@ -2731,6 +2786,7 @@
   {
     "kanjiId": "U+6E2F",
     "character": "港",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6E2F-ex-1",
@@ -2779,6 +2835,7 @@
   {
     "kanjiId": "U+53F7",
     "character": "号",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+53F7-ex-1",
@@ -2830,6 +2887,7 @@
   {
     "kanjiId": "U+6839",
     "character": "根",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+6839-ex-1",
@@ -2878,6 +2936,7 @@
   {
     "kanjiId": "U+796D",
     "character": "祭",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+796D-ex-1",
@@ -2927,6 +2986,7 @@
   {
     "kanjiId": "U+7686",
     "character": "皿",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+7686-ex-1",
@@ -2975,6 +3035,7 @@
   {
     "kanjiId": "U+4ED5",
     "character": "仕",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+4ED5-ex-1",
@@ -3025,6 +3086,7 @@
   {
     "kanjiId": "U+6B7B",
     "character": "死",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+6B7B-ex-1",
@@ -3073,6 +3135,7 @@
   {
     "kanjiId": "U+4F7F",
     "character": "使",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+4F7F-ex-1",
@@ -3122,6 +3185,7 @@
   {
     "kanjiId": "U+59CB",
     "character": "始",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+59CB-ex-1",
@@ -3170,6 +3234,7 @@
   {
     "kanjiId": "U+6307",
     "character": "指",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+6307-ex-1",
@@ -3219,6 +3284,7 @@
   {
     "kanjiId": "U+6B6F",
     "character": "歯",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6B6F-ex-1",
@@ -3268,6 +3334,7 @@
   {
     "kanjiId": "U+8A69",
     "character": "詩",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+8A69-ex-1",
@@ -3319,6 +3386,7 @@
   {
     "kanjiId": "U+6B21",
     "character": "次",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+6B21-ex-1",
@@ -3367,6 +3435,7 @@
   {
     "kanjiId": "U+4E8B",
     "character": "事",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+4E8B-ex-1",
@@ -3416,6 +3485,7 @@
   {
     "kanjiId": "U+6301",
     "character": "持",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+6301-ex-1",
@@ -3465,6 +3535,7 @@
   {
     "kanjiId": "U+5F0F",
     "character": "式",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5F0F-ex-1",
@@ -3516,6 +3587,7 @@
   {
     "kanjiId": "U+5B9F",
     "character": "実",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5B9F-ex-1",
@@ -3566,6 +3638,7 @@
   {
     "kanjiId": "U+5199",
     "character": "写",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+5199-ex-1",
@@ -3614,6 +3687,7 @@
   {
     "kanjiId": "U+8005",
     "character": "者",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+8005-ex-1",
@@ -3665,6 +3739,7 @@
   {
     "kanjiId": "U+4E3B",
     "character": "主",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+4E3B-ex-1",
@@ -3716,6 +3791,7 @@
   {
     "kanjiId": "U+5B88",
     "character": "守",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5B88-ex-1",
@@ -3764,6 +3840,7 @@
   {
     "kanjiId": "U+53D6",
     "character": "取",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+53D6-ex-1",
@@ -3812,6 +3889,7 @@
   {
     "kanjiId": "U+9152",
     "character": "酒",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+9152-ex-1",
@@ -3863,6 +3941,7 @@
   {
     "kanjiId": "U+53D7",
     "character": "受",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+53D7-ex-1",
@@ -3912,6 +3991,7 @@
   {
     "kanjiId": "U+5DDE",
     "character": "州",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5DDE-ex-1",
@@ -3963,6 +4043,7 @@
   {
     "kanjiId": "U+62FE",
     "character": "拾",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+62FE-ex-1",
@@ -4010,6 +4091,7 @@
   {
     "kanjiId": "U+7D42",
     "character": "終",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7D42-ex-1",
@@ -4059,6 +4141,7 @@
   {
     "kanjiId": "U+7FD2",
     "character": "習",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7FD2-ex-1",
@@ -4108,6 +4191,7 @@
   {
     "kanjiId": "U+96C6",
     "character": "集",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+96C6-ex-1",
@@ -4157,6 +4241,7 @@
   {
     "kanjiId": "U+4F4F",
     "character": "住",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+4F4F-ex-1",
@@ -4206,6 +4291,7 @@
   {
     "kanjiId": "U+91CD",
     "character": "重",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+91CD-ex-1",
@@ -4255,6 +4341,7 @@
   {
     "kanjiId": "U+5BBF",
     "character": "宿",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+5BBF-ex-1",
@@ -4304,6 +4391,7 @@
   {
     "kanjiId": "U+6240",
     "character": "所",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6240-ex-1",
@@ -4353,6 +4441,7 @@
   {
     "kanjiId": "U+6691",
     "character": "暑",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6691-ex-1",
@@ -4402,6 +4491,7 @@
   {
     "kanjiId": "U+52A9",
     "character": "助",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+52A9-ex-1",
@@ -4451,6 +4541,7 @@
   {
     "kanjiId": "U+662D",
     "character": "昭",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+662D-ex-1",
@@ -4502,6 +4593,7 @@
   {
     "kanjiId": "U+6D88",
     "character": "消",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+6D88-ex-1",
@@ -4550,6 +4642,7 @@
   {
     "kanjiId": "U+5546",
     "character": "商",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+5546-ex-1",
@@ -4600,6 +4693,7 @@
   {
     "kanjiId": "U+7AE0",
     "character": "章",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7AE0-ex-1",
@@ -4651,6 +4745,7 @@
   {
     "kanjiId": "U+52DD",
     "character": "勝",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+52DD-ex-1",
@@ -4699,6 +4794,7 @@
   {
     "kanjiId": "U+4E57",
     "character": "乗",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+4E57-ex-1",
@@ -4748,6 +4844,7 @@
   {
     "kanjiId": "U+690D",
     "character": "植",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+690D-ex-1",
@@ -4796,6 +4893,7 @@
   {
     "kanjiId": "U+7533",
     "character": "申",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+7533-ex-1",
@@ -4845,6 +4943,7 @@
   {
     "kanjiId": "U+8EAB",
     "character": "身",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+8EAB-ex-1",
@@ -4895,6 +4994,7 @@
   {
     "kanjiId": "U+795E",
     "character": "神",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+795E-ex-1",
@@ -4944,6 +5044,7 @@
   {
     "kanjiId": "U+771F",
     "character": "真",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+771F-ex-1",
@@ -4995,6 +5096,7 @@
   {
     "kanjiId": "U+6DF1",
     "character": "深",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+6DF1-ex-1",
@@ -5043,6 +5145,7 @@
   {
     "kanjiId": "U+9032",
     "character": "進",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+9032-ex-1",
@@ -5091,6 +5194,7 @@
   {
     "kanjiId": "U+4E16",
     "character": "世",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+4E16-ex-1",
@@ -5142,6 +5246,7 @@
   {
     "kanjiId": "U+6574",
     "character": "整",
+    "strokeCount": 16,
     "examples": [
       {
         "id": "U+6574-ex-1",
@@ -5191,6 +5296,7 @@
   {
     "kanjiId": "U+6614",
     "character": "昔",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6614-ex-1",
@@ -5238,6 +5344,7 @@
   {
     "kanjiId": "U+5168",
     "character": "全",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5168-ex-1",
@@ -5287,6 +5394,7 @@
   {
     "kanjiId": "U+76F8",
     "character": "相",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+76F8-ex-1",
@@ -5338,6 +5446,7 @@
   {
     "kanjiId": "U+9001",
     "character": "送",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+9001-ex-1",
@@ -5387,6 +5496,7 @@
   {
     "kanjiId": "U+60F3",
     "character": "想",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+60F3-ex-1",
@@ -5438,6 +5548,7 @@
   {
     "kanjiId": "U+606F",
     "character": "息",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+606F-ex-1",
@@ -5486,6 +5597,7 @@
   {
     "kanjiId": "U+901F",
     "character": "速",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+901F-ex-1",
@@ -5535,6 +5647,7 @@
   {
     "kanjiId": "U+65CF",
     "character": "族",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+65CF-ex-1",
@@ -5586,6 +5699,7 @@
   {
     "kanjiId": "U+4ED6",
     "character": "他",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+4ED6-ex-1",
@@ -5635,6 +5749,7 @@
   {
     "kanjiId": "U+6253",
     "character": "打",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+6253-ex-1",
@@ -5683,6 +5798,7 @@
   {
     "kanjiId": "U+5BFE",
     "character": "対",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+5BFE-ex-1",
@@ -5733,6 +5849,7 @@
   {
     "kanjiId": "U+5F85",
     "character": "待",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+5F85-ex-1",
@@ -5782,6 +5899,7 @@
   {
     "kanjiId": "U+4EE3",
     "character": "代",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+4EE3-ex-1",
@@ -5832,6 +5950,7 @@
   {
     "kanjiId": "U+7B2C",
     "character": "第",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7B2C-ex-1",
@@ -5883,6 +6002,7 @@
   {
     "kanjiId": "U+984C",
     "character": "題",
+    "strokeCount": 18,
     "examples": [
       {
         "id": "U+984C-ex-1",
@@ -5934,6 +6054,7 @@
   {
     "kanjiId": "U+70AD",
     "character": "炭",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+70AD-ex-1",
@@ -5983,6 +6104,7 @@
   {
     "kanjiId": "U+77ED",
     "character": "短",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+77ED-ex-1",
@@ -6032,6 +6154,7 @@
   {
     "kanjiId": "U+8AC7",
     "character": "談",
+    "strokeCount": 15,
     "examples": [
       {
         "id": "U+8AC7-ex-1",
@@ -6083,6 +6206,7 @@
   {
     "kanjiId": "U+7740",
     "character": "着",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+7740-ex-1",
@@ -6131,6 +6255,7 @@
   {
     "kanjiId": "U+6CE8",
     "character": "注",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6CE8-ex-1",
@@ -6181,6 +6306,7 @@
   {
     "kanjiId": "U+67F1",
     "character": "柱",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+67F1-ex-1",
@@ -6229,6 +6355,7 @@
   {
     "kanjiId": "U+4E01",
     "character": "丁",
+    "strokeCount": 2,
     "examples": [
       {
         "id": "U+4E01-ex-1",
@@ -6280,6 +6407,7 @@
   {
     "kanjiId": "U+5E33",
     "character": "帳",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+5E33-ex-1",
@@ -6331,6 +6459,7 @@
   {
     "kanjiId": "U+8ABF",
     "character": "調",
+    "strokeCount": 15,
     "examples": [
       {
         "id": "U+8ABF-ex-1",
@@ -6380,6 +6509,7 @@
   {
     "kanjiId": "U+8FFD",
     "character": "追",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+8FFD-ex-1",
@@ -6428,6 +6558,7 @@
   {
     "kanjiId": "U+5B9A",
     "character": "定",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5B9A-ex-1",
@@ -6477,6 +6608,7 @@
   {
     "kanjiId": "U+5EAD",
     "character": "庭",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+5EAD-ex-1",
@@ -6525,6 +6657,7 @@
   {
     "kanjiId": "U+7B1B",
     "character": "笛",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+7B1B-ex-1",
@@ -6574,6 +6707,7 @@
   {
     "kanjiId": "U+9244",
     "character": "鉄",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+9244-ex-1",
@@ -6625,6 +6759,7 @@
   {
     "kanjiId": "U+8EE2",
     "character": "転",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+8EE2-ex-1",
@@ -6674,6 +6809,7 @@
   {
     "kanjiId": "U+90FD",
     "character": "都",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+90FD-ex-1",
@@ -6724,6 +6860,7 @@
   {
     "kanjiId": "U+5EA6",
     "character": "度",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+5EA6-ex-1",
@@ -6775,6 +6912,7 @@
   {
     "kanjiId": "U+6295",
     "character": "投",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+6295-ex-1",
@@ -6823,6 +6961,7 @@
   {
     "kanjiId": "U+8C46",
     "character": "豆",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+8C46-ex-1",
@@ -6873,6 +7012,7 @@
   {
     "kanjiId": "U+5CF6",
     "character": "島",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+5CF6-ex-1",
@@ -6922,6 +7062,7 @@
   {
     "kanjiId": "U+6E6F",
     "character": "湯",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+6E6F-ex-1",
@@ -6970,6 +7111,7 @@
   {
     "kanjiId": "U+767B",
     "character": "登",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+767B-ex-1",
@@ -7019,6 +7161,7 @@
   {
     "kanjiId": "U+7B49",
     "character": "等",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+7B49-ex-1",
@@ -7069,6 +7212,7 @@
   {
     "kanjiId": "U+52D5",
     "character": "動",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+52D5-ex-1",
@@ -7118,6 +7262,7 @@
   {
     "kanjiId": "U+7AE5",
     "character": "童",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+7AE5-ex-1",
@@ -7169,6 +7314,7 @@
   {
     "kanjiId": "U+8FB2",
     "character": "農",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+8FB2-ex-1",
@@ -7220,6 +7366,7 @@
   {
     "kanjiId": "U+6CE2",
     "character": "波",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6CE2-ex-1",
@@ -7269,6 +7416,7 @@
   {
     "kanjiId": "U+914D",
     "character": "配",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+914D-ex-1",
@@ -7317,6 +7465,7 @@
   {
     "kanjiId": "U+500D",
     "character": "倍",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+500D-ex-1",
@@ -7368,6 +7517,7 @@
   {
     "kanjiId": "U+7BB1",
     "character": "箱",
+    "strokeCount": 15,
     "examples": [
       {
         "id": "U+7BB1-ex-1",
@@ -7417,6 +7567,7 @@
   {
     "kanjiId": "U+7551",
     "character": "畑",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+7551-ex-1",
@@ -7464,6 +7615,7 @@
   {
     "kanjiId": "U+767A",
     "character": "発",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+767A-ex-1",
@@ -7515,6 +7667,7 @@
   {
     "kanjiId": "U+53CD",
     "character": "反",
+    "strokeCount": 4,
     "examples": [
       {
         "id": "U+53CD-ex-1",
@@ -7564,6 +7717,7 @@
   {
     "kanjiId": "U+5742",
     "character": "坂",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+5742-ex-1",
@@ -7612,6 +7766,7 @@
   {
     "kanjiId": "U+677F",
     "character": "板",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+677F-ex-1",
@@ -7660,6 +7815,7 @@
   {
     "kanjiId": "U+76AE",
     "character": "皮",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+76AE-ex-1",
@@ -7708,6 +7864,7 @@
   {
     "kanjiId": "U+60B2",
     "character": "悲",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+60B2-ex-1",
@@ -7756,6 +7913,7 @@
   {
     "kanjiId": "U+7F8E",
     "character": "美",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+7F8E-ex-1",
@@ -7804,6 +7962,7 @@
   {
     "kanjiId": "U+9F3B",
     "character": "鼻",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+9F3B-ex-1",
@@ -7852,6 +8011,7 @@
   {
     "kanjiId": "U+7B46",
     "character": "筆",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+7B46-ex-1",
@@ -7901,6 +8061,7 @@
   {
     "kanjiId": "U+6C37",
     "character": "氷",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+6C37-ex-1",
@@ -7949,6 +8110,7 @@
   {
     "kanjiId": "U+8868",
     "character": "表",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+8868-ex-1",
@@ -7998,6 +8160,7 @@
   {
     "kanjiId": "U+79D2",
     "character": "秒",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+79D2-ex-1",
@@ -8049,6 +8212,7 @@
   {
     "kanjiId": "U+75C5",
     "character": "病",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+75C5-ex-1",
@@ -8099,6 +8263,7 @@
   {
     "kanjiId": "U+54C1",
     "character": "品",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+54C1-ex-1",
@@ -8149,6 +8314,7 @@
   {
     "kanjiId": "U+8CA0",
     "character": "負",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+8CA0-ex-1",
@@ -8198,6 +8364,7 @@
   {
     "kanjiId": "U+90E8",
     "character": "部",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+90E8-ex-1",
@@ -8249,6 +8416,7 @@
   {
     "kanjiId": "U+670D",
     "character": "服",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+670D-ex-1",
@@ -8300,6 +8468,7 @@
   {
     "kanjiId": "U+798F",
     "character": "福",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+798F-ex-1",
@@ -8351,6 +8520,7 @@
   {
     "kanjiId": "U+7269",
     "character": "物",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+7269-ex-1",
@@ -8401,6 +8571,7 @@
   {
     "kanjiId": "U+5E73",
     "character": "平",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+5E73-ex-1",
@@ -8450,6 +8621,7 @@
   {
     "kanjiId": "U+8FD4",
     "character": "返",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+8FD4-ex-1",
@@ -8498,6 +8670,7 @@
   {
     "kanjiId": "U+52C9",
     "character": "勉",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+52C9-ex-1",
@@ -8549,6 +8722,7 @@
   {
     "kanjiId": "U+653E",
     "character": "放",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+653E-ex-1",
@@ -8597,6 +8771,7 @@
   {
     "kanjiId": "U+5473",
     "character": "味",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+5473-ex-1",
@@ -8645,6 +8820,7 @@
   {
     "kanjiId": "U+547D",
     "character": "命",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+547D-ex-1",
@@ -8693,6 +8869,7 @@
   {
     "kanjiId": "U+9762",
     "character": "面",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+9762-ex-1",
@@ -8744,6 +8921,7 @@
   {
     "kanjiId": "U+554F",
     "character": "問",
+    "strokeCount": 11,
     "examples": [
       {
         "id": "U+554F-ex-1",
@@ -8794,6 +8972,7 @@
   {
     "kanjiId": "U+5F79",
     "character": "役",
+    "strokeCount": 7,
     "examples": [
       {
         "id": "U+5F79-ex-1",
@@ -8845,6 +9024,7 @@
   {
     "kanjiId": "U+85AC",
     "character": "薬",
+    "strokeCount": 16,
     "examples": [
       {
         "id": "U+85AC-ex-1",
@@ -8894,6 +9074,7 @@
   {
     "kanjiId": "U+7531",
     "character": "由",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+7531-ex-1",
@@ -8945,6 +9126,7 @@
   {
     "kanjiId": "U+6CB9",
     "character": "油",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+6CB9-ex-1",
@@ -8993,6 +9175,7 @@
   {
     "kanjiId": "U+6709",
     "character": "有",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+6709-ex-1",
@@ -9044,6 +9227,7 @@
   {
     "kanjiId": "U+904A",
     "character": "遊",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+904A-ex-1",
@@ -9093,6 +9277,7 @@
   {
     "kanjiId": "U+4E88",
     "character": "予",
+    "strokeCount": 4,
     "examples": [
       {
         "id": "U+4E88-ex-1",
@@ -9144,6 +9329,7 @@
   {
     "kanjiId": "U+7F8A",
     "character": "羊",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+7F8A-ex-1",
@@ -9192,6 +9378,7 @@
   {
     "kanjiId": "U+6D0B",
     "character": "洋",
+    "strokeCount": 9,
     "examples": [
       {
         "id": "U+6D0B-ex-1",
@@ -9243,6 +9430,7 @@
   {
     "kanjiId": "U+8449",
     "character": "葉",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+8449-ex-1",
@@ -9292,6 +9480,7 @@
   {
     "kanjiId": "U+967D",
     "character": "陽",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+967D-ex-1",
@@ -9343,6 +9532,7 @@
   {
     "kanjiId": "U+69D8",
     "character": "様",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+69D8-ex-1",
@@ -9393,6 +9583,7 @@
   {
     "kanjiId": "U+843D",
     "character": "落",
+    "strokeCount": 12,
     "examples": [
       {
         "id": "U+843D-ex-1",
@@ -9441,6 +9632,7 @@
   {
     "kanjiId": "U+6D41",
     "character": "流",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+6D41-ex-1",
@@ -9489,6 +9681,7 @@
   {
     "kanjiId": "U+65C5",
     "character": "旅",
+    "strokeCount": 10,
     "examples": [
       {
         "id": "U+65C5-ex-1",
@@ -9538,6 +9731,7 @@
   {
     "kanjiId": "U+4E21",
     "character": "両",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+4E21-ex-1",
@@ -9589,6 +9783,7 @@
   {
     "kanjiId": "U+7DD1",
     "character": "緑",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+7DD1-ex-1",
@@ -9638,6 +9833,7 @@
   {
     "kanjiId": "U+793C",
     "character": "礼",
+    "strokeCount": 5,
     "examples": [
       {
         "id": "U+793C-ex-1",
@@ -9689,6 +9885,7 @@
   {
     "kanjiId": "U+5217",
     "character": "列",
+    "strokeCount": 6,
     "examples": [
       {
         "id": "U+5217-ex-1",
@@ -9740,6 +9937,7 @@
   {
     "kanjiId": "U+7DF4",
     "character": "練",
+    "strokeCount": 14,
     "examples": [
       {
         "id": "U+7DF4-ex-1",
@@ -9790,6 +9988,7 @@
   {
     "kanjiId": "U+8DEF",
     "character": "路",
+    "strokeCount": 13,
     "examples": [
       {
         "id": "U+8DEF-ex-1",
@@ -9841,6 +10040,7 @@
   {
     "kanjiId": "U+548C",
     "character": "和",
+    "strokeCount": 8,
     "examples": [
       {
         "id": "U+548C-ex-1",
