@@ -3,6 +3,12 @@
  * Canvas上の手書き文字を認識して正解判定を行う
  */
 
+import {
+	analyzeStrokes,
+	shouldRejectByStrokeAnalysis,
+	STROKE_REJECTION_CONFIDENCE
+} from './strokeAnalyzer';
+
 // 認識結果の型
 export interface RecognitionResult {
 	character: string;
@@ -398,9 +404,20 @@ export function recognizeKanji(
 		expectedStrokeCount?: number;
 		threshold?: number;
 		size?: number;
+		userStrokes?: number[][][];
+		referenceMedians?: [number, number][][];
+		canvasSize?: number;
 	} = {}
 ): RecognitionResult {
-	const { userStrokeCount, expectedStrokeCount, threshold = 0.35, size = 64 } = options;
+	const {
+		userStrokeCount,
+		expectedStrokeCount,
+		threshold = 0.35,
+		size = 64,
+		userStrokes,
+		referenceMedians,
+		canvasSize = 240
+	} = options;
 
 	// 空白チェック（前処理の前に行う）
 	const rawDensity = calculateDensity(userImage);
@@ -440,6 +457,20 @@ export function recognizeKanji(
 		};
 	}
 
+	// ストローク解析ゲート: 個別ストロークの存在・位置・方向を検証（DOM不要）
+	let strokeAnalysisScore: number | null = null;
+	if (userStrokes && referenceMedians && referenceMedians.length > 0) {
+		const strokeResult = analyzeStrokes(userStrokes, referenceMedians, canvasSize);
+		if (shouldRejectByStrokeAnalysis(strokeResult)) {
+			return {
+				character: targetCharacter,
+				confidence: STROKE_REJECTION_CONFIDENCE,
+				isCorrect: false
+			};
+		}
+		strokeAnalysisScore = strokeResult.overallScore;
+	}
+
 	const referenceImage = generateReferenceImage(targetCharacter, size);
 
 	// 相対カバレッジゲート: ユーザーのインク面積が参照の2.5倍以上なら弾く
@@ -464,8 +495,14 @@ export function recognizeKanji(
 			? Math.min(userDensity, refDensity) / Math.max(userDensity, refDensity)
 			: 0;
 
-	// IoU主体の重み付け（pixelIoU重視 — スクリブルに最も効く）
-	const confidence = pixelIoU * 0.5 + structIoU * 0.3 + densityRatio * 0.2;
+	// ピクセルベーススコア
+	const pixelScore = pixelIoU * 0.5 + structIoU * 0.3 + densityRatio * 0.2;
+
+	// ストロークデータ有の場合はブレンド（stroke*0.5 + pixel*0.5）
+	const confidence =
+		strokeAnalysisScore != null
+			? strokeAnalysisScore * 0.5 + pixelScore * 0.5
+			: pixelScore;
 
 	return {
 		character: targetCharacter,

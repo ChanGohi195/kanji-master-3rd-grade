@@ -8,6 +8,8 @@
 	import SpeakButton from '$lib/components/SpeakButton.svelte';
 	import WritingCanvas from '$lib/components/WritingCanvas.svelte';
 	import { recognizeKanji } from '$lib/services/kanjiRecognizer';
+	import { fetchCharacterData, isStrokeDataSupported } from '$lib/services/hanziData';
+	import type { HanziWriterCharData } from '$lib/services/hanziData';
 
 	// アクティブ時間追跡（10秒以上操作がなければカウント停止）
 	const INACTIVE_THRESHOLD = 10000;
@@ -87,6 +89,7 @@
 	let kakiMode: KakiMode = $state('stroke');
 	let canvasRef: WritingCanvas | undefined = $state(undefined);
 	let isRecognizing = $state(false);
+	let currentCharData: HanziWriterCharData | null = $state(null);
 
 	// 共通
 	let showResult = $state(false);
@@ -162,7 +165,15 @@
 		mistakeCount = 0;
 		quizStarted = false;
 		isRecognizing = false;
+		currentCharData = null;
 		canvasRef?.clear();
+
+		// ストロークデータを先行取得（手書き認識のレイテンシ回避）
+		if (isStrokeDataSupported(currentQuestion.kanji.character)) {
+			fetchCharacterData(currentQuestion.kanji.character).then(data => {
+				currentCharData = data;
+			});
+		}
 
 		if (questionType === 'yomi') {
 			generateChoices();
@@ -252,7 +263,9 @@
 		const imageData = canvasRef.getImageForRecognition(64);
 		const result = recognizeKanji(imageData, currentQuestion.kanji.character, {
 			userStrokeCount: canvasRef.getStrokeCount(),
-			expectedStrokeCount: currentQuestion.kanji.strokeCount
+			expectedStrokeCount: currentQuestion.kanji.strokeCount,
+			userStrokes: canvasRef.getStrokes(),
+			referenceMedians: currentCharData?.medians
 		});
 
 		isRecognizing = false;

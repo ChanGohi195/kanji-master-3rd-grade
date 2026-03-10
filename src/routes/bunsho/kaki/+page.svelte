@@ -9,6 +9,8 @@
 	import SpeakButton from '$lib/components/SpeakButton.svelte';
 	import WritingCanvas from '$lib/components/WritingCanvas.svelte';
 	import { recognizeKanji } from '$lib/services/kanjiRecognizer';
+	import { fetchCharacterData, isStrokeDataSupported } from '$lib/services/hanziData';
+	import type { HanziWriterCharData } from '$lib/services/hanziData';
 
 	// アクティブ時間追跡（10秒以上操作がなければカウント停止）
 	const INACTIVE_THRESHOLD = 10000;
@@ -85,6 +87,7 @@
 	let showAnswer = $state(false);
 	let isRecognizing = $state(false);
 	let recognitionConfidence = $state(0);
+	let currentCharData: HanziWriterCharData | null = $state(null);
 
 	let questionList: { kanji: KanjiExample; example: Example }[] = $state([]);
 	let targetKanjiChar: string | null = $state(null);
@@ -146,8 +149,16 @@
 		hintUsed = false;
 		helpLevel = 0;
 		showAnswer = false;
+		currentCharData = null;
 		// キャンバスをクリア
 		canvasRef?.clear();
+
+		// ストロークデータを先行取得
+		if (isStrokeDataSupported(currentExample.kanji.character)) {
+			fetchCharacterData(currentExample.kanji.character).then(data => {
+				currentCharData = data;
+			});
+		}
 	}
 
 	function generateChoices() {
@@ -301,7 +312,9 @@
 		const imageData = canvasRef.getImageForRecognition(64);
 		const result = recognizeKanji(imageData, currentExample.kanji.character, {
 			userStrokeCount: canvasRef.getStrokeCount(),
-			expectedStrokeCount: currentExample.kanji.strokeCount
+			expectedStrokeCount: currentExample.kanji.strokeCount,
+			userStrokes: canvasRef.getStrokes(),
+			referenceMedians: currentCharData?.medians
 		});
 
 		isRecognizing = false;

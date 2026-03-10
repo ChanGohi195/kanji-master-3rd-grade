@@ -757,3 +757,56 @@ describe('カバレッジ比率ゲート', () => {
 		expect(calculateCoverage(empty)).toBe(0);
 	});
 });
+
+// =============================================================
+// ストローク解析ゲート統合テスト
+// =============================================================
+describe('ストローク解析ゲート', () => {
+	// 十のmediansデータ
+	const CROSS_MEDIANS: [number, number][][] = [
+		[[51, 505], [277, 485], [522, 468], [770, 452], [955, 442]],
+		[[500, 811], [502, 593], [505, 344], [510, 73], [513, -33]]
+	];
+
+	it('ストローク解析で弾かれた場合confidence=0.2を返す', () => {
+		const size = 32;
+		// 空に近い画像（空白ゲートは通す程度のインク）
+		const img = createBlankImage(size);
+		// 少しだけインクを追加（密度0.01以上）
+		for (let i = 0; i < size; i++) {
+			img[i * size + Math.floor(size / 2)] = 0.5;
+		}
+
+		// ユーザーが斜め線1本だけ描いた場合 → 2画中1画以上が未マッチ（50% > 40%）
+		const userStrokes: number[][][] = [
+			[[0, 0, 0.5], [120, 120, 0.8], [240, 240, 0.5]]
+		];
+
+		const result = recognizeKanji(img, '十', {
+			userStrokeCount: 1,
+			expectedStrokeCount: 2,
+			size,
+			userStrokes,
+			referenceMedians: CROSS_MEDIANS,
+			canvasSize: 240
+		});
+
+		// ストローク数ゲートは expectedStrokeCount < 3 なのでスキップ
+		// ストローク解析ゲートで弾かれる（2画中1画未マッチ = 50% > 40%）
+		expect(result.confidence).toBe(0.2);
+		expect(result.isCorrect).toBe(false);
+	});
+
+	it('referenceMedians未提供時はPhase 1フォールバック（ストローク解析スキップ）', () => {
+		const size = 32;
+		const img = createFilledImage(size, 0.8);
+		const result = recognizeKanji(img, '十', {
+			userStrokeCount: 2,
+			expectedStrokeCount: 2,
+			size
+			// userStrokes, referenceMedians 未提供
+		});
+		// ストローク解析ゲートをスキップ → 絶対カバレッジゲートで弾かれる
+		expect(result.confidence).toBe(0.15);
+	});
+});
