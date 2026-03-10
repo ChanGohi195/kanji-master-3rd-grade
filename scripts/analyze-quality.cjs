@@ -49,12 +49,57 @@ const dakuonMap = {
   'は':'ば','ひ':'び','ふ':'ぶ','へ':'べ','ほ':'ぼ'
 };
 
+const handakuonMap = {
+  'は':'ぱ','ひ':'ぴ','ふ':'ぷ','へ':'ぺ','ほ':'ぽ'
+};
+
+/**
+ * 音韻変化バリアントを生成（連濁・半濁音化・促音便）
+ * 既知の読みから、熟語中で変化しうる形をすべて列挙する
+ */
+function phonologicalVariants(reading) {
+  const variants = new Set([reading]);
+  // 連濁: 語頭が清音→濁音 (か→が, さ→ざ, た→だ, は→ば)
+  if (dakuonMap[reading[0]]) {
+    variants.add(dakuonMap[reading[0]] + reading.slice(1));
+  }
+  // 半濁音化: は行→ぱ行
+  if (handakuonMap[reading[0]]) {
+    variants.add(handakuonMap[reading[0]] + reading.slice(1));
+  }
+  // 促音便: 末尾の つ/ち/く → っ (e.g. はつ→はっ, てつ→てっ, やく→やっ)
+  const lastChar = reading[reading.length - 1];
+  if ('つちく'.includes(lastChar) && reading.length > 1) {
+    variants.add(reading.slice(0, -1) + 'っ');
+  }
+  // 促音便 + 半濁音化の複合 (e.g. はつ→はっ + は→ぱ → ぱっ は不要、語頭変化+末尾変化)
+  // 語頭半濁音化 + 促音便
+  if (handakuonMap[reading[0]] && 'つちく'.includes(lastChar) && reading.length > 1) {
+    variants.add(handakuonMap[reading[0]] + reading.slice(1, -1) + 'っ');
+  }
+  // 語頭連濁 + 促音便
+  if (dakuonMap[reading[0]] && 'つちく'.includes(lastChar) && reading.length > 1) {
+    variants.add(dakuonMap[reading[0]] + reading.slice(1, -1) + 'っ');
+  }
+  return [...variants];
+}
+
 function readingVariants(reading) {
   const noDot = reading.replace(/\./g, '');
   const hira = katakanaToHiragana(noDot);
   const variants = new Set([noDot, hira]);
   if (dakuonMap[hira[0]]) variants.add(dakuonMap[hira[0]] + hira.slice(1));
   if (dakuonMap[noDot[0]]) variants.add(dakuonMap[noDot[0]] + noDot.slice(1));
+  // 半濁音化バリアント
+  if (handakuonMap[hira[0]]) variants.add(handakuonMap[hira[0]] + hira.slice(1));
+  // 促音便バリアント (活用語尾の変化: かえる→かえって等)
+  // reading に dot がある場合、語幹+促音便活用も生成
+  if (reading.includes('.')) {
+    const stem = katakanaToHiragana(reading.split('.')[0]);
+    variants.add(stem);
+    // 促音便活用: stem + って/った (e.g. かえ→かえっ)
+    variants.add(stem + 'っ');
+  }
   return [...variants];
 }
 
@@ -105,8 +150,9 @@ examples.forEach(kanji => {
 
     // Pattern 1: sentenceHiragana未変換（漢字・カタカナが残存）
     if (hiragana) {
-      // 許可: ひらがな, 句読点・記号, スペース, 数字, ー（長音）
-      const remaining = hiragana.replace(/[\u3040-\u309F\u3000-\u303F\s　。、！？「」（）・ー～…\d]/g, '');
+      // 許可: ひらがな, カタカナ, 句読点・記号, スペース, 数字, ー（長音）
+      // カタカナ語（テレビ、メダル等）は小3ならカタカナで読めるため許可
+      const remaining = hiragana.replace(/[\u3040-\u309F\u30A0-\u30FF\u3000-\u303F\s　。、！？「」（）・ー～…\d]/g, '');
       if (remaining.length > 0) {
         addIssue(1, 'P0', 'sentenceHiragana未変換', char, ex.id, {
           sentence, hiragana, nonHiragana: remaining
@@ -196,13 +242,16 @@ examples.forEach(kanji => {
     // === P2: 中程度 ===
 
     // Pattern 7: reading/type誤り
+    // 活用形（語幹一致）も考慮: くる.しく は くる.しい の活用 → kun
     if (ex.type === 'on' || ex.type === 'kun') {
+      const readingStem = reading.includes('.') ? katakanaToHiragana(reading.split('.')[0]) : '';
       const onMatch = info.on.some(r =>
         readingHira === r || readingHira.startsWith(r)
       );
+      const kunStems = (info.kunRaw || []).filter(r => r.includes('.')).map(r => r.split('.')[0]);
       const kunMatch = info.kun.some(r =>
         readingHira === r || readingHira.startsWith(r)
-      );
+      ) || (readingStem && kunStems.some(s => s === readingStem));
       if (ex.type === 'on' && !onMatch && kunMatch) {
         addIssue(7, 'P2', 'reading/type誤り', char, ex.id, {
           sentence, reading, type: ex.type, suggestion: 'kun'
@@ -288,7 +337,9 @@ examples.forEach(kanji => {
           if (kInfo) {
             const allR = [...kInfo.on, ...kInfo.kun];
             const rHira = katakanaToHiragana(rReading);
-            const matched = allR.some(r =>
+            // 音韻変化を考慮したマッチング（連濁・半濁音化・促音便）
+            const allVariants = allR.flatMap(r => phonologicalVariants(r));
+            const matched = allVariants.some(r =>
               r === rHira || rHira.startsWith(r) || r.startsWith(rHira)
             );
             if (!matched) {
@@ -305,7 +356,10 @@ examples.forEach(kanji => {
     // Pattern 12: 読み不一致
     if (hiragana && reading) {
       const variants = readingVariants(reading);
-      if (!variants.some(v => hiragana.includes(v))) {
+      // 音韻変化バリアントも追加（連濁・半濁音化・促音便）
+      const phonoVariants = variants.flatMap(v => phonologicalVariants(v));
+      const allVariants = [...new Set([...variants, ...phonoVariants])];
+      if (!allVariants.some(v => hiragana.includes(v))) {
         addIssue(12, 'P3', '読み不一致', char, ex.id, {
           sentence, reading, hiragana
         });
