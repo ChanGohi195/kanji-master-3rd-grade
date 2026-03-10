@@ -1,0 +1,1444 @@
+{
+  "meta": {
+    "grade": 3,
+    "totalKanji": 200,
+    "totalExamples": 1000,
+    "timestamp": "2026-03-10T07:06:46.858Z"
+  },
+  "summary": {
+    "P0": 22,
+    "P1": 19,
+    "P2": 3,
+    "P3": 72
+  },
+  "issues": [
+    {
+      "patternId": 4,
+      "priority": "P1",
+      "pattern": "readingが熟語全体",
+      "kanji": "悪",
+      "exId": "U+60AA-ex-3",
+      "sentence": "悪口を いっては いけない。",
+      "reading": "わるくち",
+      "knownReadings": [
+        "あく",
+        "お",
+        "わるい"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "屋",
+      "exId": "U+5C4B-ex-5",
+      "sentence": "部屋の そうじを する。",
+      "ruby": "部[へ]屋[や]の そうじを する。",
+      "rubyBase": "部",
+      "rubyReading": "へ",
+      "knownReadings": [
+        "ぶ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "階",
+      "exId": "U+968E-ex-2",
+      "sentence": "三階に へやが ある。",
+      "ruby": "三[さん]階[がい]に へやが ある。",
+      "rubyBase": "階",
+      "rubyReading": "がい",
+      "knownReadings": [
+        "かい"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "橋",
+      "exId": "U+6A4B-ex-4",
+      "sentence": "石橋を あるく。",
+      "ruby": "石[いし]橋[ばし]を あるく。",
+      "rubyBase": "橋",
+      "rubyReading": "ばし",
+      "knownReadings": [
+        "きょう",
+        "はし"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "橋",
+      "exId": "U+6A4B-ex-5",
+      "sentence": "鉄橋を でんしゃが わたる。",
+      "ruby": "鉄[てっ]橋[きょう]を でんしゃが わたる。",
+      "rubyBase": "鉄",
+      "rubyReading": "てっ",
+      "knownReadings": [
+        "てつ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "局",
+      "exId": "U+5C40-ex-2",
+      "sentence": "薬局で くすりを もらう。",
+      "ruby": "薬[やっ]局[きょく]で くすりを もらう。",
+      "rubyBase": "薬",
+      "rubyReading": "やっ",
+      "knownReadings": [
+        "やく",
+        "くすり"
+      ]
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "局",
+      "exId": "U+5C40-ex-3",
+      "sentence": "テレビ局を けんがくする。",
+      "hiragana": "テレビきょくを けんがくする。",
+      "nonHiragana": "テレビ"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "銀",
+      "exId": "U+9280-ex-3",
+      "sentence": "銀メダルを もらった。",
+      "hiragana": "ぎんメダルを もらった。",
+      "nonHiragana": "メダル"
+    },
+    {
+      "patternId": 7,
+      "priority": "P2",
+      "pattern": "reading/type誤り",
+      "kanji": "苦",
+      "exId": "U+82E6-ex-4",
+      "sentence": "はしるのが 苦しく なる。",
+      "reading": "くる.しく",
+      "type": "kun",
+      "suggestion": "on"
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "苦",
+      "exId": "U+82E6-ex-5",
+      "sentence": "苦手を かんがえる。",
+      "reading": "ク",
+      "hiragana": "にがてを かんがえる。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "係",
+      "exId": "U+4FC2-ex-1",
+      "sentence": "掃除係に なる。",
+      "ruby": "掃[そう]除[じ]係[がかり]に なる。",
+      "rubyBase": "係",
+      "rubyReading": "がかり",
+      "knownReadings": [
+        "けい",
+        "かかる",
+        "かかり"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "係",
+      "exId": "U+4FC2-ex-3",
+      "sentence": "給食係を する。",
+      "ruby": "給[きゅう]食[しょく]係[がかり]を する。",
+      "rubyBase": "係",
+      "rubyReading": "がかり",
+      "knownReadings": [
+        "けい",
+        "かかる",
+        "かかり"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "係",
+      "exId": "U+4FC2-ex-5",
+      "sentence": "受付係に きく。",
+      "ruby": "受[うけ]付[つけ]係[がかり]に きく。",
+      "rubyBase": "係",
+      "rubyReading": "がかり",
+      "knownReadings": [
+        "けい",
+        "かかる",
+        "かかり"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "軽",
+      "exId": "U+8EFD-ex-4",
+      "sentence": "手軽に できる。",
+      "ruby": "手[て]軽[がる]に できる。",
+      "rubyBase": "軽",
+      "rubyReading": "がる",
+      "knownReadings": [
+        "けい",
+        "かるい"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "軽",
+      "exId": "U+8EFD-ex-5",
+      "sentence": "気軽に さんかする。",
+      "ruby": "気[き]軽[がる]に さんかする。",
+      "rubyBase": "軽",
+      "rubyReading": "がる",
+      "knownReadings": [
+        "けい",
+        "かるい"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "血",
+      "exId": "U+8840-ex-5",
+      "sentence": "鼻血が でた。",
+      "ruby": "鼻[はな]血[ぢ]が でた。",
+      "rubyBase": "血",
+      "rubyReading": "ぢ",
+      "knownReadings": [
+        "けつ",
+        "ち"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "決",
+      "exId": "U+6C7A-ex-3",
+      "sentence": "決定を まつ。",
+      "ruby": "決[けっ]定[てい]を まつ。",
+      "rubyBase": "決",
+      "rubyReading": "けっ",
+      "knownReadings": [
+        "けつ",
+        "きめる",
+        "きまる"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "決",
+      "exId": "U+6C7A-ex-3",
+      "sentence": "決定を まつ。",
+      "reading": "ケツ",
+      "hiragana": "けっていを まつ。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "決",
+      "exId": "U+6C7A-ex-4",
+      "sentence": "決心を する。",
+      "ruby": "決[けっ]心[しん]を する。",
+      "rubyBase": "決",
+      "rubyReading": "けっ",
+      "knownReadings": [
+        "けつ",
+        "きめる",
+        "きまる"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "決",
+      "exId": "U+6C7A-ex-4",
+      "sentence": "決心を する。",
+      "reading": "ケツ",
+      "hiragana": "けっしんを する。"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "研",
+      "exId": "U+7814-ex-1",
+      "sentence": "研究を する。",
+      "duplicateWith": "究"
+    },
+    {
+      "patternId": 10,
+      "priority": "P3",
+      "pattern": "targetWord破綻語",
+      "kanji": "向",
+      "exId": "U+5411-ex-5",
+      "sentence": "向こうに やまが みえる。",
+      "targetWord": "向こう",
+      "hiraganaInTW": "こう"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "皿",
+      "exId": "U+7686-ex-3",
+      "sentence": "大皿に サラダを もる。",
+      "ruby": "大[おお]皿[ざら]に サラダを もる。",
+      "rubyBase": "皿",
+      "rubyReading": "ざら",
+      "knownReadings": [
+        "べい",
+        "さら"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "皿",
+      "exId": "U+7686-ex-4",
+      "sentence": "小皿に おかしを のせる。",
+      "ruby": "小[こ]皿[ざら]に おかしを のせる。",
+      "rubyBase": "皿",
+      "rubyReading": "ざら",
+      "knownReadings": [
+        "べい",
+        "さら"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "仕",
+      "exId": "U+4ED5-ex-2",
+      "sentence": "おとうさんは 仕事に いく。",
+      "ruby": "おとうさんは 仕[し]事[ごと]に いく。",
+      "rubyBase": "事",
+      "rubyReading": "ごと",
+      "knownReadings": [
+        "じ",
+        "ず",
+        "こと"
+      ]
+    },
+    {
+      "patternId": 7,
+      "priority": "P2",
+      "pattern": "reading/type誤り",
+      "kanji": "死",
+      "exId": "U+6B7B-ex-4",
+      "sentence": "生き死にの もんだいだ。",
+      "reading": "し.に",
+      "type": "kun",
+      "suggestion": "on"
+    },
+    {
+      "patternId": 7,
+      "priority": "P2",
+      "pattern": "reading/type誤り",
+      "kanji": "死",
+      "exId": "U+6B7B-ex-5",
+      "sentence": "むしが 死んで しまった。",
+      "reading": "し.んで",
+      "type": "kun",
+      "suggestion": "on"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "歯",
+      "exId": "U+6B6F-ex-4",
+      "sentence": "歯ブラシを かう。",
+      "hiragana": "はブラシを かう。",
+      "nonHiragana": "ブラシ"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "事",
+      "exId": "U+4E8B-ex-2",
+      "sentence": "仕事を がんばる。",
+      "ruby": "仕[し]事[ごと]を がんばる。",
+      "rubyBase": "事",
+      "rubyReading": "ごと",
+      "knownReadings": [
+        "じ",
+        "ず",
+        "こと"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "事",
+      "exId": "U+4E8B-ex-2",
+      "sentence": "仕事を がんばる。",
+      "reading": "ジ",
+      "hiragana": "しごとを がんばる。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "持",
+      "exId": "U+6301-ex-3",
+      "sentence": "気持ちを つたえる。",
+      "ruby": "気[き]持[もち]ちを つたえる。",
+      "rubyBase": "持",
+      "rubyReading": "もち",
+      "knownReadings": [
+        "じ",
+        "もつ"
+      ]
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "式",
+      "exId": "U+5F0F-ex-1",
+      "sentence": "卒業式に でる。",
+      "duplicateWith": "業"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "実",
+      "exId": "U+5B9F-ex-3",
+      "sentence": "実験を する。",
+      "ruby": "実[じっ]験[けん]を する。",
+      "rubyBase": "実",
+      "rubyReading": "じっ",
+      "knownReadings": [
+        "じつ",
+        "み",
+        "みのる"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "実",
+      "exId": "U+5B9F-ex-3",
+      "sentence": "実験を する。",
+      "reading": "ジツ",
+      "hiragana": "じっけんを する。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "実",
+      "exId": "U+5B9F-ex-4",
+      "sentence": "実際に やって みる。",
+      "ruby": "実[じっ]際[さい]に やって みる。",
+      "rubyBase": "実",
+      "rubyReading": "じっ",
+      "knownReadings": [
+        "じつ",
+        "み",
+        "みのる"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "実",
+      "exId": "U+5B9F-ex-4",
+      "sentence": "実際に やって みる。",
+      "reading": "ジツ",
+      "hiragana": "じっさいに やって みる。"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "写",
+      "exId": "U+5199-ex-4",
+      "sentence": "こくばんの じを ノートに 写す。",
+      "hiragana": "こくばんの じを ノートに うつす。",
+      "nonHiragana": "ノト"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "者",
+      "exId": "U+8005-ex-1",
+      "sentence": "医者に みて もらう。",
+      "duplicateWith": "医"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "守",
+      "exId": "U+5B88-ex-2",
+      "sentence": "ルールを 守って あそぶ。",
+      "hiragana": "ルールを まもって あそぶ。",
+      "nonHiragana": "ルル"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "受",
+      "exId": "U+53D7-ex-5",
+      "sentence": "ボールを 受け取る。",
+      "hiragana": "ボールを うけとる。",
+      "nonHiragana": "ボル"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "州",
+      "exId": "U+5DDE-ex-3",
+      "sentence": "ヨーロッパ州の くにを しらべる。",
+      "hiragana": "ヨーロッパしゅうの くにを しらべる。",
+      "nonHiragana": "ヨロッパ"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "州",
+      "exId": "U+5DDE-ex-4",
+      "sentence": "アメリカには おおくの 州が ある。",
+      "hiragana": "アメリカには おおくの しゅうが ある。",
+      "nonHiragana": "アメリカ"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "所",
+      "exId": "U+6240-ex-3",
+      "sentence": "住所を かく。",
+      "duplicateWith": "住"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "所",
+      "exId": "U+6240-ex-4",
+      "sentence": "近所の こうえんへ いく。",
+      "ruby": "近[きん]所[じょ]の こうえんへ いく。",
+      "rubyBase": "所",
+      "rubyReading": "じょ",
+      "knownReadings": [
+        "しょ",
+        "ところ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "所",
+      "exId": "U+6240-ex-5",
+      "sentence": "台所で りょうりする。",
+      "ruby": "台[だい]所[どころ]で りょうりする。",
+      "rubyBase": "所",
+      "rubyReading": "どころ",
+      "knownReadings": [
+        "しょ",
+        "ところ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "勝",
+      "exId": "U+52DD-ex-3",
+      "sentence": "勝負に まける。",
+      "ruby": "勝[しょう]負[ぶ]に まける。",
+      "rubyBase": "負",
+      "rubyReading": "ぶ",
+      "knownReadings": [
+        "ふ",
+        "まける",
+        "おう"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "申",
+      "exId": "U+7533-ex-4",
+      "sentence": "申し込みを する。",
+      "ruby": "申[もうし]し込[こみ]みを する。",
+      "rubyBase": "申",
+      "rubyReading": "もうし",
+      "knownReadings": [
+        "しん",
+        "もうす"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "申",
+      "exId": "U+7533-ex-5",
+      "sentence": "せんせいに 申し出る。",
+      "ruby": "せんせいに 申[もうし]し出[でる]る。",
+      "rubyBase": "申",
+      "rubyReading": "もうし",
+      "knownReadings": [
+        "しん",
+        "もうす"
+      ]
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "全",
+      "exId": "U+5168-ex-3",
+      "sentence": "全員が あつまる。",
+      "duplicateWith": "員"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "全",
+      "exId": "U+5168-ex-4",
+      "sentence": "安全に きを つける。",
+      "duplicateWith": "安"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "打",
+      "exId": "U+6253-ex-1",
+      "sentence": "ボールを 打つ。",
+      "hiragana": "ボールを うつ。",
+      "nonHiragana": "ボル"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "打",
+      "exId": "U+6253-ex-5",
+      "sentence": "ホームランを 打つ。",
+      "hiragana": "ホームランを うつ。",
+      "nonHiragana": "ホムラン"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "待",
+      "exId": "U+5F85-ex-2",
+      "sentence": "バスを 待って いる。",
+      "hiragana": "バスを まって いる。",
+      "nonHiragana": "バス"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "待",
+      "exId": "U+5F85-ex-3",
+      "sentence": "期待して まつ。",
+      "duplicateWith": "期"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "待",
+      "exId": "U+5F85-ex-5",
+      "sentence": "待合室で 待つ。",
+      "ruby": "待[まち]合[あい]室[しつ]で 待つ。",
+      "rubyBase": "待",
+      "rubyReading": "まち",
+      "knownReadings": [
+        "たい",
+        "まつ"
+      ]
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "代",
+      "exId": "U+4EE3-ex-1",
+      "sentence": "おかねの 代わりに カードを つかう。",
+      "hiragana": "おかねの かわりに カードを つかう。",
+      "nonHiragana": "カド"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "談",
+      "exId": "U+8AC7-ex-1",
+      "sentence": "相談に のる。",
+      "duplicateWith": "相"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "注",
+      "exId": "U+6CE8-ex-1",
+      "sentence": "コップに みずを 注ぐ。",
+      "hiragana": "コップに みずを そそぐ。",
+      "nonHiragana": "コップ"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "柱",
+      "exId": "U+67F1-ex-3",
+      "sentence": "電柱に ポスターが はってある。",
+      "hiragana": "でんちゅうに ポスターが はってある。",
+      "nonHiragana": "ポスタ"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "柱",
+      "exId": "U+67F1-ex-5",
+      "sentence": "かぞくの 大黒柱だ。",
+      "ruby": "かぞくの 大[だい]黒[こく]柱[ばしら]だ。",
+      "rubyBase": "柱",
+      "rubyReading": "ばしら",
+      "knownReadings": [
+        "ちゅう",
+        "はしら"
+      ]
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "調",
+      "exId": "U+8ABF-ex-5",
+      "sentence": "ピアノを 調律する。",
+      "hiragana": "ピアノを ちょうりつする。",
+      "nonHiragana": "ピアノ"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "追",
+      "exId": "U+8FFD-ex-2",
+      "sentence": "ボールを 追いかける。",
+      "hiragana": "ボールを おいかける。",
+      "nonHiragana": "ボル"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "定",
+      "exId": "U+5B9A-ex-4",
+      "sentence": "かいぎの ひにちが 決定した。",
+      "ruby": "かいぎの ひにちが 決[けっ]定[てい]した。",
+      "rubyBase": "決",
+      "rubyReading": "けっ",
+      "knownReadings": [
+        "けつ",
+        "きめる",
+        "きまる"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "笛",
+      "exId": "U+7B1B-ex-2",
+      "sentence": "縦笛を れんしゅうする。",
+      "ruby": "縦[たて]笛[ぶえ]を れんしゅうする。",
+      "rubyBase": "笛",
+      "rubyReading": "ぶえ",
+      "knownReadings": [
+        "てき",
+        "ふえ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "笛",
+      "exId": "U+7B1B-ex-3",
+      "sentence": "草笛を つくる。",
+      "ruby": "草[くさ]笛[ぶえ]を つくる。",
+      "rubyBase": "笛",
+      "rubyReading": "ぶえ",
+      "knownReadings": [
+        "てき",
+        "ふえ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "笛",
+      "exId": "U+7B1B-ex-4",
+      "sentence": "横笛の おとが きこえる。",
+      "ruby": "横[よこ]笛[ぶえ]の おとが きこえる。",
+      "rubyBase": "笛",
+      "rubyReading": "ぶえ",
+      "knownReadings": [
+        "てき",
+        "ふえ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "鉄",
+      "exId": "U+9244-ex-4",
+      "sentence": "鉄橋を わたる。",
+      "ruby": "鉄[てっ]橋[きょう]を わたる。",
+      "rubyBase": "鉄",
+      "rubyReading": "てっ",
+      "knownReadings": [
+        "てつ"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "鉄",
+      "exId": "U+9244-ex-4",
+      "sentence": "鉄橋を わたる。",
+      "reading": "テツ",
+      "hiragana": "てっきょうを わたる。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "等",
+      "exId": "U+7B49-ex-2",
+      "sentence": "平等に わける。",
+      "ruby": "平[びょう]等[どう]に わける。",
+      "rubyBase": "等",
+      "rubyReading": "どう",
+      "knownReadings": [
+        "とう",
+        "ひとしい"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "波",
+      "exId": "U+6CE2-ex-3",
+      "sentence": "電波が とどく。",
+      "ruby": "電[でん]波[ぱ]が とどく。",
+      "rubyBase": "波",
+      "rubyReading": "ぱ",
+      "knownReadings": [
+        "は",
+        "なみ"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "波",
+      "exId": "U+6CE2-ex-3",
+      "sentence": "電波が とどく。",
+      "reading": "ハ",
+      "hiragana": "でんぱが とどく。"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "配",
+      "exId": "U+914D-ex-1",
+      "sentence": "プリントを 配る。",
+      "hiragana": "プリントを くばる。",
+      "nonHiragana": "プリント"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "配",
+      "exId": "U+914D-ex-3",
+      "sentence": "心配しないで ください。",
+      "ruby": "心[しん]配[ぱい]しないで ください。",
+      "rubyBase": "配",
+      "rubyReading": "ぱい",
+      "knownReadings": [
+        "はい",
+        "くばる"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "配",
+      "exId": "U+914D-ex-3",
+      "sentence": "心配しないで ください。",
+      "reading": "ハイ",
+      "hiragana": "しんぱいしないで ください。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "箱",
+      "exId": "U+7BB1-ex-2",
+      "sentence": "筆箱を あける。",
+      "ruby": "筆[ふで]箱[ばこ]を あける。",
+      "rubyBase": "箱",
+      "rubyReading": "ばこ",
+      "knownReadings": [
+        "そう",
+        "はこ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "箱",
+      "exId": "U+7BB1-ex-5",
+      "sentence": "本箱に ほんを いれる。",
+      "ruby": "本[ほん]箱[ばこ]に ほんを いれる。",
+      "rubyBase": "箱",
+      "rubyReading": "ばこ",
+      "knownReadings": [
+        "そう",
+        "はこ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "畑",
+      "exId": "U+7551-ex-4",
+      "sentence": "畑仕事を てつだう。",
+      "ruby": "畑[はたけ]仕[し]事[ごと]を てつだう。",
+      "rubyBase": "事",
+      "rubyReading": "ごと",
+      "knownReadings": [
+        "じ",
+        "ず",
+        "こと"
+      ]
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "畑",
+      "exId": "U+7551-ex-5",
+      "sentence": "畑から トマトを とる。",
+      "hiragana": "はたけから トマトを とる。",
+      "nonHiragana": "トマト"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "発",
+      "exId": "U+767A-ex-1",
+      "sentence": "出発の じかんだ。",
+      "ruby": "出[しゅっ]発[ぱつ]の じかんだ。",
+      "rubyBase": "発",
+      "rubyReading": "ぱつ",
+      "knownReadings": [
+        "はつ",
+        "ほつ"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "発",
+      "exId": "U+767A-ex-1",
+      "sentence": "出発の じかんだ。",
+      "reading": "ハツ",
+      "hiragana": "しゅっぱつの じかんだ。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "発",
+      "exId": "U+767A-ex-3",
+      "sentence": "発表会に でる。",
+      "ruby": "発[はっ]表[ぴょう]会[かい]に でる。",
+      "rubyBase": "発",
+      "rubyReading": "はっ",
+      "knownReadings": [
+        "はつ",
+        "ほつ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "発",
+      "exId": "U+767A-ex-3",
+      "sentence": "発表会に でる。",
+      "ruby": "発[はっ]表[ぴょう]会[かい]に でる。",
+      "rubyBase": "表",
+      "rubyReading": "ぴょう",
+      "knownReadings": [
+        "ひょう",
+        "おもて",
+        "あらわす"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "発",
+      "exId": "U+767A-ex-3",
+      "sentence": "発表会に でる。",
+      "reading": "ハツ",
+      "hiragana": "はっぴょうかいに でる。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "発",
+      "exId": "U+767A-ex-4",
+      "sentence": "発見した ことを はなす。",
+      "ruby": "発[はっ]見[けん]した ことを はなす。",
+      "rubyBase": "発",
+      "rubyReading": "はっ",
+      "knownReadings": [
+        "はつ",
+        "ほつ"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "発",
+      "exId": "U+767A-ex-4",
+      "sentence": "発見した ことを はなす。",
+      "reading": "ハツ",
+      "hiragana": "はっけんした ことを はなす。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "発",
+      "exId": "U+767A-ex-5",
+      "sentence": "でんしゃが 発車する。",
+      "ruby": "でんしゃが 発[はっ]車[しゃ]する。",
+      "rubyBase": "発",
+      "rubyReading": "はっ",
+      "knownReadings": [
+        "はつ",
+        "ほつ"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "発",
+      "exId": "U+767A-ex-5",
+      "sentence": "でんしゃが 発車する。",
+      "reading": "ハツ",
+      "hiragana": "でんしゃが はっしゃする。"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "反",
+      "exId": "U+53CD-ex-2",
+      "sentence": "反対の いけんを いう。",
+      "duplicateWith": "対"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "板",
+      "exId": "U+677F-ex-4",
+      "sentence": "鉄板で にくを やく。",
+      "ruby": "鉄[てっ]板[ぱん]で にくを やく。",
+      "rubyBase": "鉄",
+      "rubyReading": "てっ",
+      "knownReadings": [
+        "てつ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "板",
+      "exId": "U+677F-ex-4",
+      "sentence": "鉄板で にくを やく。",
+      "ruby": "鉄[てっ]板[ぱん]で にくを やく。",
+      "rubyBase": "板",
+      "rubyReading": "ぱん",
+      "knownReadings": [
+        "はん",
+        "ばん",
+        "いた"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "板",
+      "exId": "U+677F-ex-4",
+      "sentence": "鉄板で にくを やく。",
+      "reading": "バン",
+      "hiragana": "てっぱんで にくを やく。"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "皮",
+      "exId": "U+76AE-ex-5",
+      "sentence": "バナナの 皮で すべる。",
+      "hiragana": "バナナの かわで すべる。",
+      "nonHiragana": "バナナ"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "美",
+      "exId": "U+7F8E-ex-2",
+      "sentence": "美術館に いく。",
+      "duplicateWith": "館"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "筆",
+      "exId": "U+7B46-ex-2",
+      "sentence": "筆箱を もってくる。",
+      "ruby": "筆[ふで]箱[ばこ]を もってくる。",
+      "rubyBase": "箱",
+      "rubyReading": "ばこ",
+      "knownReadings": [
+        "そう",
+        "はこ"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "筆",
+      "exId": "U+7B46-ex-3",
+      "sentence": "鉛筆で かく。",
+      "ruby": "鉛[えん]筆[ぴつ]で かく。",
+      "rubyBase": "筆",
+      "rubyReading": "ぴつ",
+      "knownReadings": [
+        "ひつ",
+        "ふで"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "筆",
+      "exId": "U+7B46-ex-3",
+      "sentence": "鉛筆で かく。",
+      "reading": "ヒツ",
+      "hiragana": "えんぴつで かく。"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "病",
+      "exId": "U+75C5-ex-3",
+      "sentence": "病院に いく。",
+      "duplicateWith": "院"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "負",
+      "exId": "U+8CA0-ex-3",
+      "sentence": "勝負に かつ。",
+      "ruby": "勝[しょう]負[ぶ]に かつ。",
+      "rubyBase": "負",
+      "rubyReading": "ぶ",
+      "knownReadings": [
+        "ふ",
+        "まける",
+        "おう"
+      ]
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "物",
+      "exId": "U+7269-ex-3",
+      "sentence": "動物園に いく。",
+      "duplicateWith": "動"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "物",
+      "exId": "U+7269-ex-5",
+      "sentence": "荷物を はこぶ。",
+      "duplicateWith": "荷"
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "返",
+      "exId": "U+8FD4-ex-4",
+      "sentence": "おつりが 返ってきた。",
+      "reading": "かえ.る",
+      "hiragana": "おつりが かえってきた。"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "味",
+      "exId": "U+5473-ex-2",
+      "sentence": "スープの 味を みる。",
+      "hiragana": "スープの あじを みる。",
+      "nonHiragana": "スプ"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "問",
+      "exId": "U+554F-ex-3",
+      "sentence": "問題を とく。",
+      "duplicateWith": "題"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "薬",
+      "exId": "U+85AC-ex-3",
+      "sentence": "薬局に いく。",
+      "ruby": "薬[やっ]局[きょく]に いく。",
+      "rubyBase": "薬",
+      "rubyReading": "やっ",
+      "knownReadings": [
+        "やく",
+        "くすり"
+      ]
+    },
+    {
+      "patternId": 12,
+      "priority": "P3",
+      "pattern": "読み不一致",
+      "kanji": "薬",
+      "exId": "U+85AC-ex-3",
+      "sentence": "薬局に いく。",
+      "reading": "ヤク",
+      "hiragana": "やっきょくに いく。"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "薬",
+      "exId": "U+85AC-ex-4",
+      "sentence": "目薬を さす。",
+      "ruby": "目[め]薬[ぐすり]を さす。",
+      "rubyBase": "薬",
+      "rubyReading": "ぐすり",
+      "knownReadings": [
+        "やく",
+        "くすり"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "薬",
+      "exId": "U+85AC-ex-5",
+      "sentence": "薬箱を あける。",
+      "ruby": "薬[くすり]箱[ばこ]を あける。",
+      "rubyBase": "箱",
+      "rubyReading": "ばこ",
+      "knownReadings": [
+        "そう",
+        "はこ"
+      ]
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "油",
+      "exId": "U+6CB9-ex-3",
+      "sentence": "石油ストーブを つかう。",
+      "hiragana": "せきゆストーブを つかう。",
+      "nonHiragana": "ストブ"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "予",
+      "exId": "U+4E88-ex-1",
+      "sentence": "予定を たてる。",
+      "duplicateWith": "定"
+    },
+    {
+      "patternId": 1,
+      "priority": "P0",
+      "pattern": "sentenceHiragana未変換",
+      "kanji": "羊",
+      "exId": "U+7F8A-ex-3",
+      "sentence": "羊毛の セーターを きる。",
+      "hiragana": "ようもうの セーターを きる。",
+      "nonHiragana": "セタ"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "葉",
+      "exId": "U+8449-ex-4",
+      "sentence": "言葉を おぼえる。",
+      "ruby": "言[こと]葉[ば]を おぼえる。",
+      "rubyBase": "葉",
+      "rubyReading": "ば",
+      "knownReadings": [
+        "よう",
+        "は"
+      ]
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "葉",
+      "exId": "U+8449-ex-5",
+      "sentence": "若葉が でてきた。",
+      "ruby": "若[わか]葉[ば]が でてきた。",
+      "rubyBase": "葉",
+      "rubyReading": "ば",
+      "knownReadings": [
+        "よう",
+        "は"
+      ]
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "旅",
+      "exId": "U+65C5-ex-3",
+      "sentence": "旅館に とまる。",
+      "duplicateWith": "館"
+    },
+    {
+      "patternId": 11,
+      "priority": "P3",
+      "pattern": "ルビ読み誤り",
+      "kanji": "列",
+      "exId": "U+5217-ex-3",
+      "sentence": "列車に のる。",
+      "ruby": "列[れっ]車[しゃ]に のる。",
+      "rubyBase": "列",
+      "rubyReading": "れっ",
+      "knownReadings": [
+        "れつ"
+      ]
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "路",
+      "exId": "U+8DEF-ex-5",
+      "sentence": "進路を きめる。",
+      "duplicateWith": "進"
+    },
+    {
+      "patternId": 3,
+      "priority": "P1",
+      "pattern": "例文重複",
+      "kanji": "和",
+      "exId": "U+548C-ex-2",
+      "sentence": "平和な せかいを ねがう。",
+      "duplicateWith": "平"
+    }
+  ]
+}

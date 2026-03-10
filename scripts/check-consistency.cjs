@@ -43,8 +43,11 @@ data.forEach((kanji) => {
                     'た':'だ','ち':'ぢ','つ':'づ','て':'で','と':'ど',
                     'は':'ば','ひ':'び','ふ':'ぶ','へ':'べ','ほ':'ぼ'};
 
-    const variants = [reading];
-    if (dakuon[reading[0]]) variants.push(dakuon[reading[0]] + reading.slice(1));
+    // ドット記法を除去してから照合（ひ.く → ひく）
+    const readingNoDot = reading.replace(/\./g, '');
+
+    const variants = [readingNoDot];
+    if (dakuon[readingNoDot[0]]) variants.push(dakuon[readingNoDot[0]] + readingNoDot.slice(1));
 
     const found = variants.some(v => hiragana.includes(v));
     if (!found) {
